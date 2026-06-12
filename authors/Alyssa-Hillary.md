@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism, communication]
 created: 2026-05-09
 updated: 2026-06-10
 zh-hans: [[wiki/authors\Alyssa-Hillary]]
+needs-review: true
 ---
 
 # Alyssa Hillary
@@ -31,6 +32,7 @@ zh-hans: [[wiki/authors\Alyssa-Hillary]]
 ## 本wiki已引用著作
 
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神經多樣性導論：一份帶註釋的閱讀清單（共同資深作者，與 Mirela Zaneva、Mahmoud Elsherif 共同領導）
+- [[GreenEtAl2020|Green et al. (2020)]] — 帶着精神健康診斷進行教學與研究：學術健全主義的實踐與視角
 - [[RosqvistEtAl2020]] — 第 6 章：跨文化溝通框架應用於跨神經類型溝通
 
 ## Related
