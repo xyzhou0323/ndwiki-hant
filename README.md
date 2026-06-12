@@ -2,7 +2,7 @@
 
 本倉庫是[神經多樣性 Wiki](https://github.com/xyzhou0323/ndwiki-cn) 的繁體中文（zh-hant）版本，由 OpenCC 自動轉換 + 人工審校維護。採用 ISO 15924 腳本代碼 `zh-hant`，涵蓋臺灣、香港、澳門等所有繁體使用者，不預設地區。
 
-**線上閱讀**：[neuroxyz.cn/wiki/zh-hant](https://neuroxyz.cn/wiki/zh-hant/)（部署版本）
+**線上閱讀**：尚未部署，敬請期待。
 
 ## 快速開始
 
