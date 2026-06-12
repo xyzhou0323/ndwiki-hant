@@ -27,7 +27,7 @@
 
 ## 協作
 
-歡迎繁體中文使用者參與審校和貢獻！詳細流程見 [COLLABORATING.md](COLLABORATING.md)。
+歡迎繁體中文使用者參與審校和共建！詳細流程見 [COLLABORATING.md](COLLABORATING.md)。
 
 ### 簡要流程
 
