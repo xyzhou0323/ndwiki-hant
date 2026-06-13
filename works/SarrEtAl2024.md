@@ -9,6 +9,7 @@ created: 2026-05-17
 updated: 2026-05-17
 citation_apa: "Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. British Journal of Psychology, 116(1), 1–33. https://doi.org/10.1111/bjop.12731"
 zh-hans: [[wiki/works\SarrEtAl2024]]
+needs-review: true
 ---
 
 # Sarr et al. (2024) — 鑑別診斷Delphi研究

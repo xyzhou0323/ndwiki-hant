@@ -13,6 +13,7 @@ authors:
   - Hanna-Bertilsdotter-Rosqvist
   - Monique-Botha
 zh-hans: [[wiki/works\StennerEtAl2025]]
+needs-review: true
 ---
 
 # Stenner et al. (2025) — 以 Q 方法學追問神經多樣性運動

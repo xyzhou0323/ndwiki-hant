@@ -9,6 +9,7 @@ sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-verticall
 created: 2026-05-21
 updated: 2026-05-21
 zh-hans: [[wiki/works\PearsonEtAl2026]]
+needs-review: true
 ---
 
 # Pearson et al. (2026) - 就像把矮個子叫做"垂直挑戰者"：英國神經殊異成人的語言與術語偏好

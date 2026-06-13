@@ -10,6 +10,7 @@ citation_apa: "Botha, M. (2025). Critical realism, community psychology, and the
 authors:
   - Monique-Botha
 zh-hans: [[wiki/works\Botha2025]]
+needs-review: true
 ---
 
 # Botha (2025) — 批判實在論、社區心理學與孤獨譜系

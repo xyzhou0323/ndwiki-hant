@@ -9,6 +9,7 @@ created: 2026-05-14
 updated: 2026-05-14
 citation_apa: "Casten, L. G., Thomas, T. R., Doobay, A. F., Foley-Nicpon, M., Kramer, S., Nickl-Jockschat, T., Abel, T., Assouline, S., & Michaelson, J. J. (2023). The combination of autism and exceptional cognitive ability is associated with suicidal ideation. Neurobiology of Learning and Memory, 197, 107698. https://doi.org/10.1016/j.nlm.2022.107698"
 zh-hans: [[wiki/works\CastenEtAl2023]]
+needs-review: true
 ---
 
 # Casten et al. (2023) — 孤獨譜系、高認知能力與自殺意念

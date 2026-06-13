@@ -9,6 +9,7 @@ created: 2026-05-14
 updated: 2026-05-14
 citation_apa: "Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). \"Having all of your internal resources exhausted beyond measure and being left with no clean-up crew\": Defining autistic burnout. Autism in Adulthood, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079"
 zh-hans: [[wiki/works\Raymaker2020]]
+needs-review: true
 ---
 
 # Raymaker et al. (2020) — 孤獨譜系倦怠的學術定義

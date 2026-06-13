@@ -9,6 +9,7 @@ created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. https://doi.org/10.1177/13623613221129123"
 zh-hans: [[wiki/works\Milton2022]]
+needs-review: true
 ---
 
 # Milton et al. (2022) — 雙向同理心問題：十年回顧

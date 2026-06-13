@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism, foundational]
 created: 2026-05-07
 updated: 2026-05-07
 zh-hans: [[wiki/authors\Steven-Kapp]]
+needs-review: true
 ---
 
 # Steven K. Kapp

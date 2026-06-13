@@ -5,6 +5,7 @@ aliases: [Laura Tisoncik]
 tags: [person, activist, neurodiversity]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Laura-Tisoncik]]
+needs-review: true
 ---
 
 # Laura Tisoncik

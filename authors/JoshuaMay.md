@@ -6,6 +6,7 @@ tags: [author, philosopher, neuroethics]
 created: 2026-05-08
 updated: 2026-05-08
 zh-hans: [[wiki/authors\Joshua-May]]
+needs-review: true
 ---
 
 # Joshua May

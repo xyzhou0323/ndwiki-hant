@@ -8,6 +8,7 @@ sources: ["2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incong
 created: 2026-06-06
 updated: 2026-06-06
 zh-hans: [[wiki/works\ReaEtAl2024]]
+needs-review: true
 ---
 
 # Rea et al. (2024) - 性別多樣性與孤獨譜系交叉：更新範圍綜述

@@ -7,6 +7,7 @@ created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Gourdon-Kanhukamwe, A., Kalandadze, T., Yeung, S. K., Azevedo, F., Iley, B., Phan, J. M., Ramji, A. V., Shaw, J. J., Zaneva, M., Dokovova, M., Hartmann, H., Kapp, S. K., Warrington, K. L., FORRT, & Elsherif, M. M. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. The Cognitive Psychology Bulletin, 1(8), 23–27. https://doi.org/10.53841/bpscog.2023.1.8.23"
 zh-hans: [[wiki/works\GourdonKanhukamweEtAl2023]]
+needs-review: true
 ---
 
 # Gourdon-Kanhukamwe et al. (2023) — 拓寬對神經多樣性的理解

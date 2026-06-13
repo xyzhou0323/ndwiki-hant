@@ -6,6 +6,7 @@ tags: [test, autism, repetitive-behavior, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
 zh-hans: [[wiki/06-测试\RBQ-2A]]
+needs-review: true
 ---
 
 # RBQ-2A 成人重複行爲

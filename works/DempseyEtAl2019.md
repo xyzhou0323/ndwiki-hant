@@ -9,6 +9,7 @@ created: 2026-05-14
 updated: 2026-05-14
 citation_apa: "Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smith, I. M. (2019). Morality in autism spectrum disorder: A systematic review. Development and Psychopathology, 1–17. https://doi.org/10.1017/S0954579419001160"
 zh-hans: [[wiki/works\DempseyEtAl2019]]
+needs-review: true
 ---
 
 # Dempsey et al. (2019) — 孤獨譜系中的道德判斷

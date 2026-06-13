@@ -8,6 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. Perspectives on Psychological Science, 16(6), 1360–1372. https://doi.org/10.1177/1745691620959833"
 zh-hans: [[wiki/works\Chapman2021]]
+needs-review: true
 ---
 
 # Chapman (2021) — 神經多樣性與心智功能的社會生態學

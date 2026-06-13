@@ -7,6 +7,7 @@ created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Natri, H. M., Abubakare, O., Asasumasu, K., Basargekar, A., Beaud, F., Botha, M., Bottema-Beutel, K., Brea, M. R., Brown, L. X. Z., Burr, D. A., Cobbaert, L., Dabbs, C., Denome, D., Des Roches Rosa, S., Doherty, M., Edwards, B., Edwards, C., Liszk, S. E., Elise, F., Fletcher-Watson, S., Flower, R. L., Fuller, S., Gassner, D., Giwa Onaiwu, M., Good, J., Grant, A., Haddix, V. L., Heraty, S., Hundt, A., Kapp, S. K., Keates, N., Kulshan, T., Lampi, A. J., Latimer, O., Leadbitter, K., Litton Tidd, J., Manalili, M., Martin, M., Millichamp, A., Morton, H., Nair, V., Pavlopoulou, G., Pearson, A., Pellicano, L., Porter, H., Poulsen, R., Robertson, Z. S., Rodriguez, K., Roux, A., Russell, M., Ryan, J., Sasson, N., Smith Grier, H., Somerville, M., Sorensen, C., Stockwell, K. M., Szymanski, T., Thompson-Hodgetts, S., van Driel, M., VanUitert, V., Waldock, K., Walker, N., Watts, C., Williams, Z., Woods, R., Yu, B., Zadow, M., Zimmerman, J., & Zisk, A. H. (2023). Anti-ableist language is fully compatible with high-quality autism research: Response to Singer et al. (2023). Autism Research, 16(4), 673–676. https://doi.org/10.1002/aur.2928"
 zh-hans: [[wiki/works\NatriEtAl2023]]
+needs-review: true
 ---
 
 # Natri et al. (2023) — 反健全主義語言與高質量孤獨譜系研究完全兼容

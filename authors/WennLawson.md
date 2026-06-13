@@ -6,6 +6,7 @@ tags: [person, researcher, autism, monotropism]
 created: 2026-05-20
 updated: 2026-05-20
 zh-hans: [[wiki/authors\Wenn-Lawson]]
+needs-review: true
 ---
 
 # Wenn Lawson

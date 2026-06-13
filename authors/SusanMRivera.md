@@ -5,6 +5,7 @@ aliases: [Susan M Rivera, Susan M. Rivera, Susan-Rivera]
 tags: [person, researcher, autism, neurodiversity]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Susan-M-Rivera]]
+needs-review: true
 ---
 
 # Susan M. Rivera

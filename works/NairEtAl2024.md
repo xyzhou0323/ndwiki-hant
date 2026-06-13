@@ -8,6 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? Autism, 30(2), 544–551. https://doi.org/10.1177/13623613241280835"
 zh-hans: [[wiki/works\NairEtAl2024]]
+needs-review: true
 ---
 
 # Nair et al. (2024) — 神經多樣性是一個全球北方白人的範式嗎？

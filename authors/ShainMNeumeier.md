@@ -5,6 +5,7 @@ aliases: [Shain Neumeier]
 tags: [person, author, activist]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Shain-M-Neumeier]]
+needs-review: true
 ---
 
 # Shain M. Neumeier

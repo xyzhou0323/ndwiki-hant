@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism, historical, foundational]
 created: 2026-05-07
 updated: 2026-05-07
 zh-hans: [[wiki/authors\Jim-Sinclair]]
+needs-review: true
 ---
 
 # Jim Sinclair

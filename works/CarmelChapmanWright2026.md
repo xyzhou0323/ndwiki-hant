@@ -9,6 +9,7 @@ created: 2026-05-12
 updated: 2026-05-12
 citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. International Journal of Disability, Development and Education, 73(4), 621-634. https://doi.org/10.1080/1034912X.2025.2456288"
 zh-hans: [[wiki/works\CarmelChapmanWright2026]]
+needs-review: true
 ---
 
 # Carmel, Chapman & Wright (2026) — 殘障正義：日常生活中的包容挑戰

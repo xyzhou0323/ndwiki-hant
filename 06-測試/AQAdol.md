@@ -17,6 +17,7 @@ sources:
 created: 2026-05-20
 updated: 2026-05-20
 zh-hans: [[wiki/06-测试\AQ-Adol]]
+needs-review: true
 ---
 
 # AQ-Adol

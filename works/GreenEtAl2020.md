@@ -8,6 +8,7 @@ created: 2026-06-12
 updated: 2026-06-12
 citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. Rhetoric of Health & Medicine, 3(2), Article 1."
 zh-hans: [[wiki/works\GreenEtAl2020]]
+needs-review: true
 ---
 
 # Green et al. (2020) — 帶着精神健康診斷進行教學與研究：學術健全主義的實踐與視角

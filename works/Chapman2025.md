@@ -7,6 +7,7 @@ sources: [blog-posts/Yes, it really is possible for everyone to be neurodivergen
 created: 2026-05-10
 updated: 2026-05-10
 zh-hans: [[wiki/works\Chapman2025]]
+needs-review: true
 ---
 
 # Chapman (2025) — 是的，每個人都可以是神經殊異者

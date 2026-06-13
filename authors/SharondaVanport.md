@@ -5,6 +5,7 @@ aliases: [Sharon daVanport, Sharon-daVanport]
 tags: [person, activist, neurodiversity, feminism]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Sharon-daVanport]]
+needs-review: true
 ---
 
 # Sharon daVanport

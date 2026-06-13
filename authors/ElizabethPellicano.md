@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism]
 created: 2026-05-09
 updated: 2026-05-09
 zh-hans: [[wiki/authors\Elizabeth-Pellicano]]
+needs-review: true
 ---
 
 # Elizabeth Pellicano

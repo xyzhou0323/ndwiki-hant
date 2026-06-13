@@ -6,6 +6,7 @@ tags: [author, adhd, neurodiversity]
 created: 2026-05-09
 updated: 2026-05-09
 zh-hans: [[wiki/authors\Edmund-Sonuga-Barke]]
+needs-review: true
 ---
 
 # Edmund Sonuga-Barke
