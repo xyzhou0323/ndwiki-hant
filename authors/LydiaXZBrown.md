@@ -1,5 +1,6 @@
 ---
 title: Lydia X. Z. Brown
+description: 孤獨譜系自倡導者、殘障權利律師、活動家，與 Shain M. Neumeier 共同領導反對 Judge Rotenberg Center 電擊「治療」的廢除運動
 aliases: [Lydia XZ Brown, Lydia X. Z. Brown, Lydia-Brown]
 tags: [person, activist, neurodiversity, disability-rights]
 created: 2026-05-08

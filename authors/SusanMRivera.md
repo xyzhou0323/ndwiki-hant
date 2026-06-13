@@ -1,5 +1,6 @@
 ---
 title: Susan M. Rivera
+description: 發展認知神經科學研究者，Patrick Dwyer 的學術導師與合作者，2025 年與 Gillespie-Lynch 共同擔任關鍵混合方法研究的資深作者
 aliases: [Susan M Rivera, Susan M. Rivera, Susan-Rivera]
 tags: [person, researcher, autism, neurodiversity]
 created: 2026-05-08
