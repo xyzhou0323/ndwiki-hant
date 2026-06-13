@@ -1,7 +1,7 @@
 ---
 title: RBQ-2A
 description: 成人重複行爲——評估成年人重複感覺運動和堅持同一性特徵的自填工具
-aliases: [RBQ-2A 成人重複行爲, 成人重複行爲]
+aliases: [RBQ-2A, RBQ-2A 成人重複行爲, 成人重複行爲]
 tags: [test, autism, repetitive-behavior, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09

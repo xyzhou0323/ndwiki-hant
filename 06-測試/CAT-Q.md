@@ -1,7 +1,7 @@
 ---
 title: CAT-Q
 description: 掩飾孤獨譜系特徵問卷（CAT-Q）——25題自填量表，評估補償、僞裝、融入三種掩飾策略，由 Hull et al. (2019) 開發，對識別女性和性別多元個體的孤獨譜系很重要
-aliases: [CAT-Q 掩飾孤獨譜系特徵問卷, 掩飾問卷, Camouflaging Autistic Traits Questionnaire]
+aliases: [CAT-Q, 掩飾孤獨譜系特徵問卷, 掩飾問卷, Camouflaging Autistic Traits Questionnaire]
 tags: [test, autism, camouflaging, neurodiversity]
 sources: [Hull et al. 2019, Hull et al. 2020, Baker et al. 2024]
 created: 2026-05-08

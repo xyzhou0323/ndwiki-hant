@@ -1,7 +1,7 @@
 ---
 title: ITQ
 description: 國際創傷問卷——基於 ICD-11 模型評估 PTSD 與 CPTSD 的臨牀自填工具，經廣泛驗證具有良好的信效度與跨文化適用性
-aliases: [ITQ 國際創傷問卷, 國際創傷問卷, International Trauma Questionnaire]
+aliases: [ITQ, ITQ 國際創傷問卷, 國際創傷問卷, International Trauma Questionnaire]
 tags: [test, trauma, PTSD, CPTSD, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-11

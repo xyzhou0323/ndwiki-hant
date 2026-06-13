@@ -5,7 +5,7 @@ aliases:
   - AQ-Adolescent
   - 孤獨譜系商數青少年版
   - AQ青少年版
-  - AQ-青少年
+  - AQ-青少年版
 tags:
   - test
   - autism

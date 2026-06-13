@@ -1,7 +1,7 @@
 ---
 title: ND-16type
 description: 神經多樣性態度類型測試——基於 Dwyer (2022) 互動主義和 Srinivasan (2025) Neurodiversity 2.0 框架探索個體對殘障、支持與正義的態度
-aliases: [ND-16type 神經多樣性態度類型測試, 神經多樣性態度類型, ND16]
+aliases: [ND-16type, 神經多樣性態度類型測試, 神經多樣性態度類型, ND16]
 tags: [test, neurodiversity, attitudes, fun]
 sources: [Dwyer 2022, Srinivasan 2025]
 created: 2026-05-08

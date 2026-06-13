@@ -1,7 +1,7 @@
 ---
 title: MAIA-Y
 description: 少年版多維內感覺評估——評估7-17歲兒童青少年內感覺覺察、調節和信任水平
-aliases: [MAIA-Y 少年版內感覺評估, 少年內感覺評估, MAIA Youth]
+aliases: [MAIA-Y, 少年版內感覺評估, 少年內感覺評估, MAIA Youth]
 tags: [test, interoception, children, autism, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09

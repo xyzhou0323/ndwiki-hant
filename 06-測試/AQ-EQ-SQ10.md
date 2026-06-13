@@ -1,7 +1,7 @@
 ---
 title: AQ-EQ-SQ10
 description: 聯合量表——整合 AQ10 孤獨譜系商數、EQ10 同理心商數和 SQ10 系統化商數，快速評估大腦類型
-aliases: [Q30聯合量表, AQ-EQ-SQ, SQ10-EQ10-AQ10, Q30]
+aliases: [Q30, 簡版聯合量表, AQ-EQ-SQ, SQ10-EQ10-AQ10, Q30聯合量表, AQ10-EQ10-SQ10]
 tags: [test, autism, empathy, systemizing, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
