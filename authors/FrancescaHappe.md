@@ -40,6 +40,6 @@ zh-hans: [[wiki/authors\Francesca-Happe]]
 - [[UtaFrith]] — 長期合作者
 - [[孤獨譜系障礙]] — 核心研究對象
 - [[述情障礙]] — Happé 參與的 Bird & Cook 研究挑戰了孤獨譜系→同理心困難的直接因果關係
-- [[CAT-Q]] — Hull 等在 Happé 指導下開發
+- [[CATQ]] — Hull 等在 Happé 指導下開發
 - [[SueFletcherWatson]] — 合著合作者
 - [[SarrEtAl2024|Sarr et al. (2024)]] — 合著者，共制Delphi法鑑別診斷共識

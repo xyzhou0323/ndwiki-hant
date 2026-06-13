@@ -22,7 +22,7 @@ zh-hans: [[wiki/06-测试\AQ-Child]]
 
 # AQ-Child
 
-**兒童版孤獨譜系商數**（Autism Spectrum Quotient Children's Version，AQ-Child）是由 Auyeung 等人於2008年開發的 50 題**教育者報告**量表，用於評估 4-11 歲兒童的[[孤獨譜系障礙]]相關特徵。AQ-Child 改編自 [[AQ|成人版 AQ]]（Baron-Cohen et al., 2001）和 [[AQ-Adol|青少年版 AQ]]（Baron-Cohen et al., 2006），題目改寫爲教育者報告格式並適配兒童語境。
+**兒童版孤獨譜系商數**（Autism Spectrum Quotient Children's Version，AQ-Child）是由 Auyeung 等人於2008年開發的 50 題**教育者報告**量表，用於評估 4-11 歲兒童的[[孤獨譜系障礙]]相關特徵。AQ-Child 改編自 [[AQ|成人版 AQ]]（Baron-Cohen et al., 2001）和 [[AQAdol|青少年版 AQ]]（Baron-Cohen et al., 2006），題目改寫爲教育者報告格式並適配兒童語境。
 
 > **本站測試**：[AQ-Child 孤獨譜系商數兒童版](https://neuroxyz.cn/tests/aq-c.html)
 >
@@ -119,7 +119,7 @@ AQ-Child 具有良好的心理測量學特性（Auyeung et al., 2008）：
 3. **教育者報告的主觀性**：AQ-Child 爲教育者報告量表，結果可能受教育者自身認知偏差、觀察能力和回答風格的影響。
 4. **細節關注維度的限制**：該維度在孤獨譜系和社區樣本之間的分佈重疊較大，解讀時需謹慎。
 5. **常模時效性**：當前常模基於 2008 年的樣本數據，隨着孤獨譜系概念的擴展和診斷標準的變化，常模可能需要更新。
-6. **年齡範圍限制**：僅適用於 4-11 歲兒童；12-15 歲應使用 [[AQ-Adol|AQ-Adolescent]]，16 歲及以上可使用 [[AQ|成人版 AQ]]。
+6. **年齡範圍限制**：僅適用於 4-11 歲兒童；12-15 歲應使用 [[AQAdol|AQ-Adolescent]]，16 歲及以上可使用 [[AQ|成人版 AQ]]。
 
 ## 與其他 AQ 版本的比較
 
@@ -128,13 +128,13 @@ AQ-Child 與另兩個 AQ 版本共享相同的五維度結構和 50 題設計，
 | 版本                   | 年齡      | 填寫方式  | 開發                        |
 | -------------------- | ------- | ----- | ------------------------- |
 | **AQ-Child**         | 4-11 歲  | 教育者報告 | Auyeung et al. (2008)     |
-| [[AQ-Adol\|AQ-Adol]] | 12-15 歲 | 教育者報告 | Baron-Cohen et al. (2006) |
+| [[AQAdol\|AQ-Adol]] | 12-15 歲 | 教育者報告 | Baron-Cohen et al. (2006) |
 | [[AQ\|AQ]]           | 16 歲及以上 | 自填    | Baron-Cohen et al. (2001) |
 
 ## Related
 
 - [[孤獨譜系障礙]] — AQ-Child 評估的核心特徵
 - [[AQ]] — AQ-Child 改編自的成人版自填問卷
-- [[AQ-Adol]] — 青少年版教育者報告問卷（12-15 歲），與 AQ-Child 結構一致
-- [[AQ-EQ-SQ10]] — 簡版聯合量表（AQ10 / EQ10 / SQ10）
+- [[AQAdol]] — 青少年版教育者報告問卷（12-15 歲），與 AQ-Child 結構一致
+- [[AQEQSQ10]] — 簡版聯合量表（AQ10 / EQ10 / SQ10）
 - [[相關測試]] — NeuroXYZ 量表工具索引

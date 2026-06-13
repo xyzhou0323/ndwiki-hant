@@ -60,7 +60,7 @@ O'Nions, Elizabeth, et al. "Extreme demand avoidance in children with autism spe
 
 ## 與 EDA-QA 的關係
 
-[[EDA-QA]]（26題）是適用於成人的完整版，EDA-8 是適用於兒童青少年的簡短篩查版。兩者評估同一核心特徵（PDA），但在年齡適用範圍和題目數量上有所不同。
+[[EDAQA]]（26題）是適用於成人的完整版，EDA-8 是適用於兒童青少年的簡短篩查版。兩者評估同一核心特徵（PDA），但在年齡適用範圍和題目數量上有所不同。
 
 ## 教育意義
 
@@ -68,7 +68,7 @@ O'Nions, Elizabeth, et al. "Extreme demand avoidance in children with autism spe
 
 ## Related
 
-- [[EDA-QA]] — 成人版要求迴避問卷
+- [[EDAQA]] — 成人版要求迴避問卷
 - [[PDA|廣泛性要求迴避]] — 廣泛性要求迴避概念頁
 - [[孤獨譜系障礙]] — PDA 主要被描述於孤獨譜系羣體
 - [[神經多樣性範式]] — 低要求、協作式教育方法的理論基礎
