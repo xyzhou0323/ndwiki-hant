@@ -215,7 +215,7 @@ grep -roh "\[\[.*?\]\]" --include="*.md" . | sort | uniq -c | sort -rn
 
 如果你要新增繁體原創頁面（非從簡體轉換）：
 
-1. 遵循 [CONTRIBUTING.md](https://github.com/xyzhou0323/ndwiki-cn/blob/main/CONTRIBUTING.md) 的頁面規範
+1. 遵循 [COLLABORATING.md](https://github.com/xyzhou0323/ndwiki-cn/blob/main/COLLABORATING.md) 的頁面規範
 2. Frontmatter 無需 `zh-hans` 欄位（該頁面沒有簡體對應版本）
 3. 添加到主倉庫的[[術語對照表]]中
 4. 提交時在 commit message 中註明「繁體原創」
