@@ -129,8 +129,8 @@ AQ-Child 與另兩個 AQ 版本共享相同的五維度結構和 50 題設計，
 | 版本                   | 年齡      | 填寫方式  | 開發                        |
 | -------------------- | ------- | ----- | ------------------------- |
 | **AQ-Child**         | 4-11 歲  | 教育者報告 | Auyeung et al. (2008)     |
-| [[AQ-Adol\|AQ-Adol]] | 12-15 歲 | 教育者報告 | Baron-Cohen et al. (2006) |
-| [[AQ\|AQ]]           | 16 歲及以上 | 自填    | Baron-Cohen et al. (2001) |
+| [[AQ-Adol|AQ-Adol]] | 12-15 歲 | 教育者報告 | Baron-Cohen et al. (2006) |
+| [[AQ|AQ]]           | 16 歲及以上 | 自填    | Baron-Cohen et al. (2001) |
 
 ## Related
 
