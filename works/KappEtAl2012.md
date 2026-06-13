@@ -15,7 +15,7 @@ zh-hans: [[wiki/works\KappEtAl2012]]
 
 引用：Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. *Developmental Psychology, 49*(1), 59–71. https://doi.org/10.1037/a0028353
 
-**作者**：[[Steven-Kapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均來自 UCLA）
+**作者**：[[StevenKapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均來自 UCLA）
 **發表**：2012 年 4 月 30 日在線首發，*Developmental Psychology* 2013 年第 49 卷第 1 期
 **類型**：定量實證研究（在線調查）
 **樣本**：N = 657（孤獨譜系者、親友、無關聯者）
@@ -120,7 +120,7 @@ zh-hans: [[wiki/works\KappEtAl2012]]
 
 ## Related
 
-- [[Steven-Kapp]] — 第一作者與通訊作者
+- [[StevenKapp]] — 第一作者與通訊作者
 - [[Kapp2020|Kapp (2020)]] — Kapp 後續主編的運動史文集
 - [[Milton2012|Milton (2012)]] — 同期發表在 *Disability & Society* 的 DEP 概念
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 後續的庫恩範式轉型論證

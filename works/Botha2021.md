@@ -16,7 +16,7 @@ zh-hans: [[wiki/works\Botha2021]]
 引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542
 
 
-**作者**：[[Monique-Botha]]，英國斯特靈大學心理學系
+**作者**：[[MoniqueBotha]]，英國斯特靈大學心理學系
 **發表**：2021年9月28日，*Frontiers in Psychology* 12:727542
 **DOI**：[10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
 **中文版**：雙語對照 PDF

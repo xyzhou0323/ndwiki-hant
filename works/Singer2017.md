@@ -15,7 +15,7 @@ zh-hans: [[wiki/works\Singer2017]]
 引用：Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published.
 
 
-**作者**：[[Judy-Singer]]（澳大利亞社會學者）
+**作者**：[[JudySinger]]（澳大利亞社會學者）
 **發表**：2017 年（自出版），基於 1997-98 年 Honours 論文
 **類型**：自傳式學術論述——擴展的本科論文
 **中譯**：中文-英文雙語 PDF（Kimi + DeepSeek 翻譯）
@@ -69,7 +69,7 @@ Singer 在書中有專門一節討論"誰真正創造了這個詞？"（So, who 
 
 ## Related
 
-- [[Judy-Singer]] — 作者
+- [[JudySinger]] — 作者
 - [[BothaEtAl2024|Botha et al. (2024)]] — 對本書核心主張的學術修正
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 對 Singer 奠基性排斥的批判
 - [[神經多樣性運動]] — 1990年代至今的運動史（含 Botha 修正）

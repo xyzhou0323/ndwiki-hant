@@ -15,7 +15,7 @@ zh-hans: [[wiki/works\ChapmanBotha2023]]
 
 引用：Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. *Developmental Medicine & Child Neurology, 65*(3), 310–317. https://doi.org/10.1111/dmcn.15384
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、[[Monique-Botha|Monique Botha]]（University of Stirling）
+**作者**：[[RobertChapman|Robert Chapman]]（Sheffield Hallam University）、[[MoniqueBotha|Monique Botha]]（University of Stirling）
 
 **發表**：*Developmental Medicine & Child Neurology* (2023), 65(3):310–317（受邀綜述，在線發表於 2022 年）
 
@@ -68,7 +68,7 @@ zh-hans: [[wiki/works\ChapmanBotha2023]]
 | 術語 | 定義 |
 |------|------|
 | **神經多樣性（neurodiversity）** | 人類神經認知功能的自然變異，是生物多樣性的一個方面 |
-| **神經多樣性範式** | 由 [[Nick-Walker|Walker (2012)]] 系統化的理解人類心智變異、能力與殘障的新框架 |
+| **神經多樣性範式** | 由 [[NickWalker|Walker (2012)]] 系統化的理解人類心智變異、能力與殘障的新框架 |
 | **病理學範式** | 主導範式——以相對受限的認知功能規範爲標準，將偏離視爲障礙、疾病或功能障礙 |
 | **神經殊異（neurodivergent）** | 偏離社會規範性期望的神經認知功能 |
 | **神經典型（neurotypical）** | 符合社會規範性期望的神經認知功能 |
@@ -83,8 +83,8 @@ zh-hans: [[wiki/works\ChapmanBotha2023]]
 
 ## Related
 
-- [[Robert-Chapman]] — 第一作者
-- [[Monique-Botha]] — 第二作者
+- [[RobertChapman]] — 第一作者
+- [[MoniqueBotha]] — 第二作者
 - [[神經多樣性範式]] — 本文試圖應用於臨牀的核心範式
 - [[病理學範式]] — 臨牀替代對象
 - [[去病理化]] — 核心實踐意涵

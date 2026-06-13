@@ -15,7 +15,7 @@ zh-hans: [[wiki/works\ChapmanFletcherWatson2025]]
 引用：Chapman, R., & Fletcher-Watson, S. (2025). Neurodiversity: A very short introduction. Oxford University Press.
 
 
-**作者**：[[Robert-Chapman]] 和 [[Sue-Fletcher-Watson]]
+**作者**：[[RobertChapman]] 和 [[SueFletcherWatson]]
 **系列**：Oxford Very Short Introduction（第 773 卷）
 **年份**：2025
 **版本**：DeepSeek 機翻中英雙語版
@@ -246,8 +246,8 @@ Chapman 與 Fletcher-Watson 的概念貢獻之一，是用 **"常態範式"（no
 
 ## Related
 
-- [[Robert-Chapman]] — 合著者，神經多樣性馬克思主義理論家
-- [[Sue-Fletcher-Watson]] — 合著者，發展性障礙心理學家
+- [[RobertChapman]] — 合著者，神經多樣性馬克思主義理論家
+- [[SueFletcherWatson]] — 合著者，發展性障礙心理學家
 - [[神經多樣性範式]] — 本書的核心理論框架
 - [[神經多樣性]] — 生物學事實 vs 範式 vs 運動的三層區分
 - [[病理學範式]] — 本書提出以"常態範式"替代

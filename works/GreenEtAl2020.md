@@ -14,7 +14,7 @@ zh-hans: [[wiki/works\GreenEtAl2020]]
 
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
-**作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
+**作者**：Ann E. Green、[[AlyssaHillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
 **年份**：2020
 **來源**：Rhetoric of Health & Medicine
 **學科**：修辭學、殘障研究、健康傳播
@@ -51,7 +51,7 @@ zh-hans: [[wiki/works\GreenEtAl2020]]
 
 ### 合理調整的侷限
 
-對話強烈呼應 [[Margaret-Price|Price (2011)]] 對"access vs accommodation"的區分：
+對話強烈呼應 [[MargaretPrice|Price (2011)]] 對"access vs accommodation"的區分：
 
 - **Alyssa** 的批判最爲尖銳："Access 是我可以出現並擁有我需要的東西，無需做大量額外工作——那些健全人不需要做的工作。"
 - **Jay** 在反覆被要求"個案處理"後徹底放棄正式調整流程——"證明殘障的持續勞動"本身就構成了障礙
@@ -73,7 +73,7 @@ zh-hans: [[wiki/works\GreenEtAl2020]]
 
 ## Related
 
-- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
+- [[AlyssaHillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主題 7 精選文獻：將本文納入神經多樣性入門閱讀清單
 - [[神經多樣性與民主研究]] — 參與式方法論與多聲部研究的交叉
 - [[去病理化]] — 對話中對 DSM 診斷框架的批判與此交叉

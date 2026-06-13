@@ -16,7 +16,7 @@ zh-hans: [[wiki/works\Dwyer2025]]
 引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029
 
 
-**作者**：[[Patrick-Dwyer|Patrick Dwyer]] (UC Davis / La Trobe), Ava N Gurba*, [[Steven-Kapp|Steven K Kapp]]*, Elizabeth Kilgallon*, Lynnette H Hersh, David S Chang, Susan M Rivera†, Kristen Gillespie-Lynch†（*共同第二作者，†共同資深作者）
+**作者**：[[PatrickDwyer|Patrick Dwyer]] (UC Davis / La Trobe), Ava N Gurba*, [[StevenKapp|Steven K Kapp]]*, Elizabeth Kilgallon*, Lynnette H Hersh, David S Chang, Susan M Rivera†, Kristen Gillespie-Lynch†（*共同第二作者，†共同資深作者）
 **期刊**：*Autism*，第 29 卷，第 9 期，第 2297–2314 頁
 **特刊**：The Social Model in Autism Research（孤獨譜系研究中的社會模式）
 **DOI**：[10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
@@ -169,7 +169,7 @@ NDM 支持與以下立場相關：
 
 ## Related
 
-- [[Patrick-Dwyer|Patrick Dwyer]] — 第一作者
+- [[PatrickDwyer|Patrick Dwyer]] — 第一作者
 - [[Dwyer2022|Dwyer (2022)]] — 本文的理論前身，提出了被本文實證檢驗的互動主義框架
 - [[殘障的社會模式]] — 本文的核心考察對象：強 SM vs 弱 SM 在社羣中的實際分佈
 - [[殘障模型]] — 本文的五維度干預態度量表爲殘障模型討論提供了實證基礎
@@ -180,5 +180,5 @@ NDM 支持與以下立場相關：
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 本文引用的神經多樣性多重內涵的理論來源
 - [[Hughes2021|Hughes (2021)]] — 本文直接回應了 Hughes 對強 SM 的批評
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 常態範式/神經多樣性範式的概念框架
-- [[Steven-Kapp]] — 共同第二作者
+- [[StevenKapp]] — 共同第二作者
 - [[雙向同理心問題]] — 適應技能教學與互動夥伴共同進行的理論依據

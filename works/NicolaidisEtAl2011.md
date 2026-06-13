@@ -17,7 +17,7 @@ zh-hans: [[wiki/works\NicolaidisEtAl2011]]
 
 引用：Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, E., Boisclair, C., Robertson, S., & Baggs, A. (2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons from an academic–community partnership with autistic self-advocates. *Progress in Community Health Partnerships*, *5*(2), 143–150. https://doi.org/10.1353/cpr.2011.0022
 
-**作者**：[[Christina-Nicolaidis|Christina Nicolaidis]]（OHSU）、[[Dora-Raymaker]]（ASAN/AASPIRE）、Katherine McDonald（Portland State）、Sebastian Dern、Elesia Ashkenazy、Cody Boisclair、Scott Robertson、Amanda Baggs
+**作者**：[[ChristinaNicolaidis|Christina Nicolaidis]]（OHSU）、[[DoraRaymaker]]（ASAN/AASPIRE）、Katherine McDonald（Portland State）、Sebastian Dern、Elesia Ashkenazy、Cody Boisclair、Scott Robertson、Amanda Baggs
 **發表**：2011 年，*Progress in Community Health Partnerships* 第 5 卷第 2 期
 **DOI**：[10.1353/cpr.2011.0022](https://doi.org/10.1353/cpr.2011.0022)
 
@@ -113,7 +113,7 @@ AASPIRE 的基礎架構：
 - [[神經多樣性與民主研究]] — "Nothing About Us Without Us"的民主研究原則
 - [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤獨譜系倦怠的 CBPR 學術定義
 - [[LloydEvans2023|Lloyd-Evans (2023)]] — PAR 通用工具包：八階段與 A-Z 車輪
-- [[Dora-Raymaker]] — AASPIRE 社羣聯合主任，本文聯合第一作者
-- [[Christina-Nicolaidis]] — AASPIRE 學術聯合主任，本文聯合第一作者
+- [[DoraRaymaker]] — AASPIRE 社羣聯合主任，本文聯合第一作者
+- [[ChristinaNicolaidis]] — AASPIRE 學術聯合主任，本文聯合第一作者
 - [[Botha2025|Botha (2025)]] — 批判實在論作爲參與式研究的科學哲學基礎
 - [[病理學範式]] — 本文所挑戰的"關於我們、沒有我們"的傳統研究模式

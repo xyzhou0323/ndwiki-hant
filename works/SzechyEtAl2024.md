@@ -18,7 +18,7 @@ zh-hans: [[wiki/works\SzechyEtAl2024]]
 
 **完整引用**：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and Employment Challenges: The Double Empathy Problem and Perceptions of an Autistic Employee in the Workplace. *Autism in Adulthood*, 6(2), 205–217.
 
-**作者**：[[Kathryn-Szechy|Kathryn A. Szechy]]（溫莎大學社會工作學院）、Pamela D. Turk（密歇根州衛生與公衆服務部）、Lisa A. O'Donnell（韋恩州立大學社會工作學院）
+**作者**：[[KathrynSzechy|Kathryn A. Szechy]]（溫莎大學社會工作學院）、Pamela D. Turk（密歇根州衛生與公衆服務部）、Lisa A. O'Donnell（韋恩州立大學社會工作學院）
 
 ## 核心貢獻
 
@@ -106,6 +106,6 @@ zh-hans: [[wiki/works\SzechyEtAl2024]]
 - [[雙向同理心問題]] — DEP 概念
 - [[Milton2012|Milton (2012)]] — DEP 原初論文
 - [[Milton2022|Milton (2022)]] — DEP 十年回顧
-- [[Kathryn-Szechy]] — 第一作者
+- [[KathrynSzechy]] — 第一作者
 - [[孤獨譜系障礙]] — 核心研究對象
 - [[神經多樣性範式]]

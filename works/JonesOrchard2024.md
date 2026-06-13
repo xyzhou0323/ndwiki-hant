@@ -105,5 +105,5 @@ Jones 和 Orchard 借用 Mitchell 和 Snyder 的"健全民族主義"（ablenatio
 - [[神經多樣性與交叉性]] — 交叉性分析的另一種路徑
 - [[庸俗版神經多樣性]] — 神經多樣性被收編的相關批判
 - [[神經多樣性與學習障礙]] — 論文揭露的神經多樣性原初排斥
-- [[Robert-Chapman]] — 被 Jones 和 Orchard 批評其中某些論證
-- [[Sue-Fletcher-Watson]] — VSI 合著者
+- [[RobertChapman]] — 被 Jones 和 Orchard 批評其中某些論證
+- [[SueFletcherWatson]] — VSI 合著者

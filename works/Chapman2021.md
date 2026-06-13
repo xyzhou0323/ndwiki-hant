@@ -14,7 +14,7 @@ zh-hans: [[wiki/works\Chapman2021]]
 
 引用：Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. *Perspectives on Psychological Science, 16*(6), 1360–1372. https://doi.org/10.1177/1745691620959833
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Durham University）
+**作者**：[[RobertChapman|Robert Chapman]]（Durham University）
 
 **發表**：*Perspectives on Psychological Science* (2021), 16(6):1360–1372
 
@@ -109,7 +109,7 @@ Chapman 承認生態模型的兩項限制：
 
 ## Related
 
-- [[Robert-Chapman]] — 作者頁
+- [[RobertChapman]] — 作者頁
 - [[神經多樣性與殘障]] — 生態模型是互動主義路徑的理論基礎
 - [[神經多樣性範式]] — 生態模型爲該範式提供科學理論支撐
 - [[殘障的社會模式]] — 生態模型兼容於社會-關係模型
@@ -118,5 +118,5 @@ Chapman 承認生態模型的兩項限制：
 - [[Dwyer2022|Dwyer (2022)]] — 基於生態模型提出互動主義路徑
 - [[Chapman2023|Chapman (2023)]] — 將生態模型的邏輯延伸至政治經濟學分析
 - [[神經殊異馬克思主義]] — 馬克思主義框架：生態模型作爲其科學前提
-- [[Judy-Singer|Judy Singer]] — 原始論證來源（Blume 1998; Singer 2020）
-- [[Nick-Walker]] — 神經多樣性範式術語框架
+- [[JudySinger|Judy Singer]] — 原始論證來源（Blume 1998; Singer 2020）
+- [[NickWalker]] — 神經多樣性範式術語框架

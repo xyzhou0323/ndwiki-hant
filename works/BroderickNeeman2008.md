@@ -15,7 +15,7 @@ zh-hans: [[wiki/works\BroderickNeeman2008]]
 
 引用：Broderick, A. A., & Ne'eman, A. (2008). Autism as metaphor: Narrative and counter-narrative. *International Journal of Inclusive Education, 12*(5–6), 459–476. https://doi.org/10.1080/13603110802377490
 
-**作者**：[[Alicia-Broderick|Alicia A. Broderick]]（哥倫比亞大學教師學院）× [[Ari-Ne'eman|Ari Ne'eman]]（ASAN 創始主席）
+**作者**：[[AliciaBroderick|Alicia A. Broderick]]（哥倫比亞大學教師學院）× [[AriNe'eman|Ari Ne'eman]]（ASAN 創始主席）
 **發表**：2008，*International Journal of Inclusive Education*，第 12 卷第 5-6 期
 **類型**：批判話語分析
 **DOI**：10.1080/13603110802377490
@@ -120,8 +120,8 @@ Ari Ne'eman 提出雙軌策略：
 
 ## Related
 
-- [[Alicia-Broderick]] — 第一作者
-- [[Ari-Ne'eman]] — 第二作者，ASAN 創始主席
+- [[AliciaBroderick]] — 第一作者
+- [[AriNe'eman]] — 第二作者，ASAN 創始主席
 - [[神經多樣性運動]] — 本文是對運動早期話語鬥爭的核心記錄
 - [[神經規範性]] — 本文分析的"疾病隱喻"是神經規範性的主要再生產機制
 - [[去病理化]] — 本文的隱喻分析是去病理化批判的理論資源

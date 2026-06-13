@@ -93,6 +93,6 @@ zh-hans: [[wiki/works\CarmelChapmanWright2026]]
 - [[殘障的社會模式]] — 本文核心理論工具
 - [[殘障模型]] — 醫學模式與社會模式的對比在本文中通過具體生活片段被生動呈現
 - [[融合教育]] — 本文的規劃性排除與第三方發言爲融合教育提供了日常實踐層面的質性證據
-- [[Julie-Mary-Carmel]] — 第一作者與照護者
-- [[Sian-Chapman]] — 合作作者
-- [[Peter-Wright]] — 合作作者
+- [[JulieMaryCarmel]] — 第一作者與照護者
+- [[SianChapman]] — 合作作者
+- [[PeterWright]] — 合作作者
