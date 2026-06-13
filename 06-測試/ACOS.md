@@ -1,11 +1,11 @@
 ---
 title: ACOS
 description: ADHD 臨牀結果量表——評估 ADHD 核心症狀、共現心理健康困難和日常功能挑戰，適用於長期追蹤
-aliases: [ACOS ADHD臨牀結果量表, ADHD臨牀結果量表, ADHD Clinical Outcome Scale]
+aliases: [ACOS, ACOS ADHD臨牀結果量表, ADHD臨牀結果量表, ADHD Clinical Outcome Scale]
 tags: [test, ADHD, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\ACOS]]
+zh-hans: [[wiki/06-测试/ACOS]]
 needs-review: true
 ---
 
@@ -98,7 +98,7 @@ ACOS 具有良好的心理測量特性（Adamis 等, 2024）：
 
 ## 相關測試
 
-- [[RAADSR]] 和 [[CATI]] 評估孤獨譜系特徵，ADHD 與孤獨譜系存在高度共現
+- [[RAADS-R]] 和 [[CATI]] 評估孤獨譜系特徵，ADHD 與孤獨譜系存在高度共現
 
 ## Related
 
@@ -106,4 +106,4 @@ ACOS 具有良好的心理測量特性（Adamis 等, 2024）：
 - [[神經殊異]] — ADHD 作爲神經殊異的一種形式
 - [[神經多樣性範式]] — 理解 ADHD 的理論框架
 - [[孤獨譜系障礙]] — 與 ADHD 高度共現的神經發育類型
-- [[RAADSR]] 和 [[CATI]] — 評估孤獨譜系特徵的測試
+- [[RAADS-R]] 和 [[CATI]] — 評估孤獨譜系特徵的測試

@@ -7,7 +7,7 @@ authors: [Rachel K. Schuck, Daina M. Tagavi, Kaitlynn M. P. Baiden, Patrick Dwye
 source: sources/2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/works\SchuckEtAl2022]]
+zh-hans: [[wiki/works/SchuckEtAl2022]]
 needs-review: true
 ---
 
@@ -65,7 +65,7 @@ NDBIs 的五個核心特徵與 ND 原則一致性：
 
 ## 論文的特殊價值
 
-1. **孤獨譜系者領導的調和努力**：三位孤獨譜系作者參與，其中包括 [[PatrickDwyer|Patrick Dwyer]]——神經多樣性方法羣框架的奠基人
+1. **孤獨譜系者領導的調和努力**：三位孤獨譜系作者參與，其中包括 [[Patrick-Dwyer|Patrick Dwyer]]——神經多樣性方法羣框架的奠基人
 2. **超越"ABA vs ND"的僵局**：拒絕非此即彼，尋找具體的技術-價值對接點
 3. **作者披露**：坦承三位作者有行爲分析師（BCBA）資質，兩位在 ABA 機構工作——這種透明度在 ND 討論中罕見
 4. **歷史透明度**：對行爲干預歷史中的虐待（電擊、耳光）不迴避，但也不因此否定所有當代干預
@@ -82,7 +82,7 @@ NDBIs 的五個核心特徵與 ND 原則一致性：
 
 - [[ND範式與補充替代療法]] — 平行結構：ND 範式如何排除有害干預 vs 如何篩選主流乾預
 - [[Dwyer2022|Dwyer (2022)]] — 互動主義/生態模型：無意正常化 vs 刻意正常化的關鍵區分
-- [[PatrickDwyer|Patrick Dwyer]] — 核心孤獨譜系合作者
+- [[Patrick-Dwyer|Patrick Dwyer]] — 核心孤獨譜系合作者
 - [[神經多樣性範式]] — NDBIs 試圖對齊的理論框架
 - [[去病理化]] — 干預目標的分水嶺：生活質量 vs 症狀減少
 - [[神經多樣性運動]] — 運動歷史的系統性回顧（論文第三部分）

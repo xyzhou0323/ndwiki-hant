@@ -5,7 +5,7 @@ aliases: [8Sen 感官知覺特殊性, 感官知覺特殊性測試, 8SEN]
 tags: [test, sensory, autism, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-14
-zh-hans: [[wiki/06-测试\8Sen]]
+zh-hans: [[wiki/06-测试/8Sen]]
 needs-review: true
 ---
 
@@ -89,14 +89,14 @@ needs-review: true
 
 ## 與其他測試的關聯
 
-- [[RAADSR]] 和 [[CATI]] 均包含感官維度，但 8Sen 覆蓋更全面
-- [[MAIA2]] 專注於內感覺，可視爲 8Sen 中內感覺維度的深入評估
+- [[RAADS-R]] 和 [[CATI]] 均包含感官維度，但 8Sen 覆蓋更全面
+- [[MAIA-2]] 專注於內感覺，可視爲 8Sen 中內感覺維度的深入評估
 
 ## Related
 
 - [[神經多樣性範式]] — 理解感官差異爲個體差異而非缺陷
 - [[神經典型]] — 同樣存在感官尋求行爲的參照羣體
-- [[MAIA2]] — 專門評估內感覺
-- [[RAADSR]] 和 [[CATI]] — 均包含感官維度
+- [[MAIA-2]] — 專門評估內感覺
+- [[RAADS-R]] 和 [[CATI]] — 均包含感官維度
 - [[孤獨譜系障礙]] — 感官差異在孤獨譜系中普遍存在
 - [[雙向同理心問題]] — 感官差異導致的雙向理解斷裂

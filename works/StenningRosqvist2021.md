@@ -8,7 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. https://doi.org/10.1080/09687599.2021.1919503"
 doi: 10.1080/09687599.2021.1919503
-zh-hans: [[wiki/works\StenningRosqvist2021]]
+zh-hans: [[wiki/works/StenningRosqvist2021]]
 needs-review: true
 ---
 
@@ -20,13 +20,13 @@ needs-review: true
 
 ## 定位
 
-發表於 _Disability & Society_ 的"Current Issue"（當前議題）文章，是 [[RosqvistEtAl2020]] 編輯卷的後續理論闡述。兩位作者——[[AnnaStenning]] 和 [[HannaBertilsdotterRosqvist]]——在該編輯卷出版後，進一步澄清"神經多樣性研究"（neurodiversity studies）作爲批判範式的理論基礎和方法論方向。開放獲取（CC BY-NC-ND 4.0），截至 2021 年已有 29,000+ 瀏覽量、72+ 引用。
+發表於 _Disability & Society_ 的"Current Issue"（當前議題）文章，是 [[RosqvistEtAl2020]] 編輯卷的後續理論闡述。兩位作者——[[Anna-Stenning]] 和 [[Hanna-Bertilsdotter-Rosqvist]]——在該編輯卷出版後，進一步澄清"神經多樣性研究"（neurodiversity studies）作爲批判範式的理論基礎和方法論方向。開放獲取（CC BY-NC-ND 4.0），截至 2021 年已有 29,000+ 瀏覽量、72+ 引用。
 
 ## 核心主張
 
 ### 神經發育分類作爲"移動目標"
 
-借用 [[RobertChapman|Chapman (2020)]] 的表述，神經發育分類和神經殊異的集體概念是**"移動目標"（moving target）**——它回應文化和社會需求，同時也回應人類之間潛在的無限神經差異。因此，不應假設神經多樣性必然對應於現有臨牀類別（以孤獨譜系爲核心範例），而應爲其他尚未被定義的差異形式留出空間。
+借用 [[Robert-Chapman|Chapman (2020)]] 的表述，神經發育分類和神經殊異的集體概念是**"移動目標"（moving target）**——它回應文化和社會需求，同時也回應人類之間潛在的無限神經差異。因此，不應假設神經多樣性必然對應於現有臨牀類別（以孤獨譜系爲核心範例），而應爲其他尚未被定義的差異形式留出空間。
 
 ### 對神經多樣性的三種理解取向
 
@@ -81,10 +81,10 @@ needs-review: true
 
 文章引用的主要人物和著作：
 
-- **[[JimSinclair|Sinclair (1992)]]**："Bridging the Gaps"——"神經殊異者遇到的問題"vs"我們就是問題"
-- **[[RobertChapman|Chapman (2020)]]**：神經發育分類作爲"移動目標"
-- **[[JudySinger|Singer (2017)]]**：神經多樣性的誕生，第一波女性主義類比
-- **[[HarveyBlume|Blume (1998)]]**：_The Atlantic_ 文章首次將術語引入出版物
+- **[[Jim-Sinclair|Sinclair (1992)]]**："Bridging the Gaps"——"神經殊異者遇到的問題"vs"我們就是問題"
+- **[[Robert-Chapman|Chapman (2020)]]**：神經發育分類作爲"移動目標"
+- **[[Judy-Singer|Singer (2017)]]**：神經多樣性的誕生，第一波女性主義類比
+- **[[Harvey-Blume|Blume (1998)]]**：_The Atlantic_ 文章首次將術語引入出版物
 - **Ian Hacking (2007)**："Kinds of People: Moving Targets"——"科學發現引擎"
 - **E.O. Wilson (1985)**：生物多樣性危機
 - **Woods, Milton, Arnold & Graby (2018)**："Redefining Critical Autism Studies"
@@ -94,10 +94,10 @@ needs-review: true
 
 - [[RosqvistEtAl2020]] — 本文的理論基礎（編輯卷），第 16 章已初步提出 ND Studies 框架
 - [[神經多樣性研究]] — 本文所闡述的批判範式概念頁
-- [[AnnaStenning]]、[[HannaBertilsdotterRosqvist]] — 作者
-- [[RobertChapman]] — "移動目標"概念、編輯卷第 4/14 章
-- [[JimSinclair]] — 第三取向的精神來源
-- [[JudySinger]]、[[HarveyBlume]] — 第一/二取向的代表人物
+- [[Anna-Stenning]]、[[Hanna-Bertilsdotter-Rosqvist]] — 作者
+- [[Robert-Chapman]] — "移動目標"概念、編輯卷第 4/14 章
+- [[Jim-Sinclair]] — 第三取向的精神來源
+- [[Judy-Singer]]、[[Harvey-Blume]] — 第一/二取向的代表人物
 - [[神經多樣性]] — 本文批判了其與生物多樣性的類比
 - [[神經規範性]] — 本文重新框架醫學模型的核心批判對象
 - [[神經多樣性與資本主義]] — 第二取向（新自由主義收編）的系統分析

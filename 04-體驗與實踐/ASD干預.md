@@ -1,12 +1,12 @@
 ---
 title: ASD干預
 description: 全面介紹ASD的三類干預——行爲教育、藥物、補充替代療法——正統醫療模型的循證推薦，以及神經多樣性視角的倫理評價
-aliases: [干預, ASD干預, ND干預, 神經多樣性干預, 神經多樣性干預倫理]
+aliases: [intervention, ASD干預, ND干預, 神經多樣性干預, 神經多樣性干預倫理]
 tags: [concept, neurodiversity, autism, intervention, applied, ethics]
 sources: [2026-05-18/兒童與青少年孤獨症譜系障礙的行爲和教育干預.md, 2026-05-18/兒童與青少年孤獨症譜系障礙的藥物干預.md, 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf, 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf, 2026-05-18/兒童與青少年孤獨症譜系障礙的補充和整合醫學治療.md]
 created: 2026-05-18
 updated: 2026-06-10
-zh-hans: [[wiki/04-体验与实践\ASD干预]]
+zh-hans: [[wiki/04-体验与实践/ASD干预]]
 needs-review: true
 ---
 

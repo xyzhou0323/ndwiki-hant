@@ -8,7 +8,7 @@ doi: 10.3389/fpsyg.2021.727542
 created: 2026-05-07
 updated: 2026-05-08
 citation_apa: "Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542"
-zh-hans: [[wiki/works\Botha2021]]
+zh-hans: [[wiki/works/Botha2021]]
 needs-review: true
 ---
 
@@ -17,7 +17,7 @@ needs-review: true
 引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542
 
 
-**作者**：[[MoniqueBotha]]，英國斯特靈大學心理學系
+**作者**：[[Monique-Botha]]，英國斯特靈大學心理學系
 **發表**：2021年9月28日，*Frontiers in Psychology* 12:727542
 **DOI**：[10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
 **中文版**：雙語對照 PDF
@@ -79,6 +79,6 @@ Botha 的要求比參與式研究更進一步：
 
 - [[神經多樣性與民主研究]] — "Nothing About Us Without Us"的方法論原則
 - [[BothaEtAl2024|Botha et al. (2024)]] — Botha 後來參與的集體起源學術修正
-- [[病理學範式]] — 本文批判的醫學化研究範式
+- [[常態範式]] — 本文批判的醫學化研究範式
 - [[去病理化]] — 拒絕將神經殊異默認病理化的多立場分析
 - [[雙向同理心問題]] — 顛覆孤獨譜系"社交缺陷"理論的關鍵概念

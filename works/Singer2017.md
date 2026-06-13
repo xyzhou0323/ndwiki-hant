@@ -7,7 +7,7 @@ sources: [2026-05-07/NeuroDiversity The Birth of an Idea (Judy Singer) (z-librar
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published."
-zh-hans: [[wiki/works\Singer2017]]
+zh-hans: [[wiki/works/Singer2017]]
 needs-review: true
 ---
 
@@ -16,7 +16,7 @@ needs-review: true
 引用：Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published.
 
 
-**作者**：[[JudySinger]]（澳大利亞社會學者）
+**作者**：[[Judy-Singer]]（澳大利亞社會學者）
 **發表**：2017 年（自出版），基於 1997-98 年 Honours 論文
 **類型**：自傳式學術論述——擴展的本科論文
 **中譯**：中文-英文雙語 PDF（Kimi + DeepSeek 翻譯）
@@ -25,7 +25,7 @@ needs-review: true
 
 *NeuroDiversity: The Birth of an Idea*（2017）是 Judy Singer 對其 1998 年 Honours 論文 *Odd People In: The Birth of Community amongst people on the Autistic Spectrum* 的自出版擴寫。該書旨在確立 Singer 作爲"神經多樣性"（neurodiversity）一詞的創造者的歷史地位。
 
-Singer 在書中詳述了她1990年代參與孤獨譜系在線社區的歷程，以及她通過殘障研究（Disability Studies）的理論框架——尤其是社會模式——來理解自身家庭經歷（母親、自己和女兒均處於孤獨譜系特徵光譜上）的學術努力。
+Singer 在書中詳述了她1990年代參與孤獨譜系在線社區的歷程，以及她通過殘障研究（Disability Studies）的理論框架——尤其是社會模型——來理解自身家庭經歷（母親、自己和女兒均處於孤獨譜系特徵光譜上）的學術努力。
 
 ## 核心主張
 
@@ -33,7 +33,7 @@ Singer 在書中詳述了她1990年代參與孤獨譜系在線社區的歷程，
 
 Singer 1998 年發表的書籍章節 *Why Can't You Be Normal for Once in Your Life?* 中寫道：
 
-> 對我而言，"孤獨譜系"的意義在於它呼喚並預期一種神經多樣性的政治（a politics of Neurological Diversity），或"神經多樣性"（Neurodiversity）。"神經不同者"代表了階級/性別/種族這些熟悉的政治範疇之外的新增維度，並將增強殘障社會模式的洞見。
+> 對我而言，"孤獨譜系"的意義在於它呼喚並預期一種神經多樣性的政治（a politics of Neurological Diversity），或"神經多樣性"（Neurodiversity）。"神經不同者"代表了階級/性別/種族這些熟悉的政治範疇之外的新增維度，並將增強殘障社會模型的洞見。
 
 ### 與 Harvey Blume 的關係
 
@@ -66,14 +66,14 @@ Singer 在書中有專門一節討論"誰真正創造了這個詞？"（So, who 
 2. **Jones & Orchard（2024）** 揭示了 Singer 原文中對學習障礙者的**奠基性排斥**——將"搖晃、情感封閉、智力受損的兒童"排除在外的做法
 3. Singer 僅關注高功能/阿斯伯格羣體，這一定位並非偶然，而是其理論的構成性特徵
 
-儘管如此，Singer 的工作仍然是神經多樣性學術化的最早嘗試之一——她將殘障社會模式系統性地應用於正在浮現的孤獨譜系自倡導運動，這是有價值的理論貢獻。
+儘管如此，Singer 的工作仍然是神經多樣性學術化的最早嘗試之一——她將殘障社會模型系統性地應用於正在浮現的孤獨譜系自倡導運動，這是有價值的理論貢獻。
 
 ## Related
 
-- [[JudySinger]] — 作者
+- [[Judy-Singer]] — 作者
 - [[BothaEtAl2024|Botha et al. (2024)]] — 對本書核心主張的學術修正
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 對 Singer 奠基性排斥的批判
 - [[神經多樣性運動]] — 1990年代至今的運動史（含 Botha 修正）
 - [[神經多樣性]] — 概念的完整定義與區分
-- [[殘障的社會模式]] — Singer 理論框架的核心來源
+- [[殘障的社會模型]] — Singer 理論框架的核心來源
 - [[Silberman2015|Silberman (2015)]] — Silberman 將 Singer 推上術語創造者地位的作品

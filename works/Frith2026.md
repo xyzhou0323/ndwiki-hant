@@ -6,7 +6,7 @@ tags: [work, autism, critique]
 sources: [articles/Uta Frith why I no longer think autism is a spectrum.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/works\Frith2026]]
+zh-hans: [[wiki/works/Frith2026]]
 needs-review: true
 ---
 

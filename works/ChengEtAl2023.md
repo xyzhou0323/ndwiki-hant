@@ -7,7 +7,7 @@ sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf, 2026-06-10/full.m
 created: 2026-05-09
 updated: 2026-06-10
 citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(3), 573–577. https://doi.org/10.1177/13623613231159165"
-zh-hans: [[wiki/works\ChengEtAl2023]]
+zh-hans: [[wiki/works/ChengEtAl2023]]
 needs-review: true
 ---
 
@@ -15,7 +15,7 @@ needs-review: true
 
 引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. https://doi.org/10.1177/13623613231159165
 
-**作者**：[[YulinCheng|Yulin Cheng]]（香港大學，孤獨譜系自倡導者）、[[BethlehemTekola]]（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）、Anand Balasubramanian、[[LauraCrane|Laura Crane]]（UCL 孤獨譜系研究與教育中心）、[[KathyLeadbitter]]（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）
+**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大學，孤獨譜系自倡導者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤獨譜系研究與教育中心）、[[Kathy-Leadbitter]]（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）
 **年份**：2023
 **期刊**：*Autism*, Vol. 27, No. 03, pp. 573–577
 **DOI**：10.1177/13623613231159165
@@ -91,7 +91,7 @@ ND 運動與知識生產去殖民化運動共享四項基本目標：
 - Giwa Onaiwu (2020) — ND 運動的白人特權問題
 - Botha & Gillespie-Lynch (2022) — 交叉性視角下的孤獨譜系身份發展
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 去歷史化與神經中心主義
-- [[YulinCheng]] — 第一作者，孤獨譜系自倡導者
-- [[BethlehemTekola]] — 共同作者，KCL 全球心理健康中心
-- [[LauraCrane]] — 共同作者，UCL CRAE
-- [[KathyLeadbitter]] — 共同作者，曼徹斯特大學
+- [[Yulin-Cheng]] — 第一作者，孤獨譜系自倡導者
+- [[Bethlehem-Tekola]] — 共同作者，KCL 全球心理健康中心
+- [[Laura-Crane]] — 共同作者，UCL CRAE
+- [[Kathy-Leadbitter]] — 共同作者，曼徹斯特大學

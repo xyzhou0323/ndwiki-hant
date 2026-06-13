@@ -5,7 +5,7 @@ aliases: [GADC 天才/阿斯伯格對照表, 天才/阿斯伯格對照表, Gifte
 tags: [test, autism, giftedness, education, children, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\GADC]]
+zh-hans: [[wiki/06-测试/GADC]]
 needs-review: true
 ---
 

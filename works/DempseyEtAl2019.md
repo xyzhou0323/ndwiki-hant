@@ -8,7 +8,7 @@ doi: 10.1017/S0954579419001160
 created: 2026-05-14
 updated: 2026-05-14
 citation_apa: "Dempsey, E. E., Moore, C., Johnson, S. A., Stewart, S. H., & Smith, I. M. (2019). Morality in autism spectrum disorder: A systematic review. Development and Psychopathology, 1–17. https://doi.org/10.1017/S0954579419001160"
-zh-hans: [[wiki/works\DempseyEtAl2019]]
+zh-hans: [[wiki/works/DempseyEtAl2019]]
 needs-review: true
 ---
 
@@ -70,7 +70,7 @@ Dempsey 等引用 Davidson (2008) 和 Jaarsma & Welin (2012) 的"孤獨譜系作
 - **挑戰缺陷模型**：將對結果的依賴重新定義爲補償性啓發式策略，而非"推理缺陷"
 - **去自然化規範**：質疑"意圖優先於結果"爲何被設爲道德成熟的默認標準——在某些情境（如過失駕駛）中，關注結果而非意圖是完全適當的
 - **述情障礙區分**：[[述情障礙]]是關鍵混淆——延續了 ND 範式中"不應將共現特徵歸於孤獨譜系本身"的分析邏輯
-- **拒絕層級化**：反對 Margoni & Surian (2016) 將孤獨譜系道德判斷定性爲"較不成熟"的結論——這是[[病理學範式]]在道德研究中的表現
+- **拒絕層級化**：反對 Margoni & Surian (2016) 將孤獨譜系道德判斷定性爲"較不成熟"的結論——這是[[常態範式]]在道德研究中的表現
 
 ## 侷限
 
@@ -84,6 +84,6 @@ Dempsey 等引用 Davidson (2008) 和 Jaarsma & Welin (2012) 的"孤獨譜系作
 - [[述情障礙]] — 約 50% 孤獨譜系成人共現；多個研究發現述情障礙（非 ASD）驅動道德判斷中的情緒差異
 - [[孤獨譜系障礙]] — 該綜述的研究對象
 - [[神經多樣性範式]] — 對"道德缺陷"敘事的批判框架
-- [[病理學範式]] — 將差異道德判斷視爲"不成熟"的傳統框架
+- [[常態範式]] — 將差異道德判斷視爲"不成熟"的傳統框架
 - [[HappeFrith2020|Happé & Frith (2020)]] — Bird & Cook 關鍵發現：述情障礙（非 ASD）驅動情緒識別差異——與本綜述在道德領域中的述情障礙混淆平行
 - [[Dwyer2022|Dwyer (2022)]] — 互動主義中間道路：孤獨譜系道德判斷差異是替代性認知策略而非缺陷

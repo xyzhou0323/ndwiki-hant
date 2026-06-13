@@ -5,7 +5,7 @@ aliases: [RIS 雷根斯堡失眠量表, 雷根斯堡失眠量表, Regensburg Ins
 tags: [test, sleep, insomnia, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\RIS]]
+zh-hans: [[wiki/06-测试/RIS]]
 needs-review: true
 ---
 

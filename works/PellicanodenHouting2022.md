@@ -8,7 +8,7 @@ doi: 10.1111/jcpp.13534
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534"
-zh-hans: [[wiki/works\PellicanodenHouting2022]]
+zh-hans: [[wiki/works/PellicanodenHouting2022]]
 needs-review: true
 ---
 
@@ -17,7 +17,7 @@ needs-review: true
 引用：Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534
 
 
-**作者**：[[ElizabethPellicano|Elizabeth Pellicano]]（麥考瑞大學教育學院 / 孤獨譜系生活合作研究中心）和 [[JacquilinedenHouting|Jacquiline den Houting]]（同上）
+**作者**：[[Elizabeth-Pellicano|Elizabeth Pellicano]]（麥考瑞大學教育學院 / 孤獨譜系生活合作研究中心）和 [[Jacquiline-den-Houting|Jacquiline den Houting]]（同上）
 **發表**：*Journal of Child Psychology and Psychiatry* (2022), 63(4): 381–396
 **類型**：年度研究綜述（Annual Research Review），英中雙語版
 
@@ -93,8 +93,8 @@ needs-review: true
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相關政治分析
 - [[Milton2022|Milton (2022)]] — 本文以雙重共情問題爲核心理論支撐
 - [[去病理化]] — 本文"多樣性非缺陷"框架的直接應用
-- [[殘障的社會模式]] — 本文"情境很重要"論證的理論背景
+- [[殘障的社會模型]] — 本文"情境很重要"論證的理論背景
 - [[孤獨譜系障礙]] — 本文討論的核心對象
-- [[ElizabethPellicano|Elizabeth Pellicano]]
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]]
 - [[denHouting2019|den Houting (2019)]] — 本文方法論立場的早期版本：內部人視角與三大誤解澄清
-- [[JacquilinedenHouting|Jacquiline den Houting]]
+- [[Jacquiline-den-Houting|Jacquiline den Houting]]

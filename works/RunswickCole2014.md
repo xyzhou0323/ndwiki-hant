@@ -7,7 +7,7 @@ sources: [2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pd
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. Disability & Society, 29(7), 1117–1129. https://doi.org/10.1080/09687599.2014.910107"
-zh-hans: [[wiki/works\RunswickCole2014]]
+zh-hans: [[wiki/works/RunswickCole2014]]
 needs-review: true
 ---
 
@@ -15,7 +15,7 @@ needs-review: true
 
 引用：Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. *Disability & Society, 29*(7), 1117–1129. https://doi.org/10.1080/09687599.2014.910107
 
-**作者**：[[KatherineRunswickCole]]（Manchester Metropolitan University）
+**作者**：[[Katherine-Runswick-Cole]]（Manchester Metropolitan University）
 
 **發表**：*Disability & Society* (2014), 29(7):1117–1129
 
@@ -64,7 +64,7 @@ Runswick-Cole 系統分析了"神經多樣性政治"（politics of neurodiversit
 ### 3. 羣體的 homogenization
 
 - "神經多元"和"神經典型"的二元構建必然導致**各自羣體內部的 homogenization**
-- 殘障研究已批評社會模式 homogenize 殘障者經驗——而神經多樣性政治依賴的是同樣的二元邏輯
+- 殘障研究已批評社會模型 homogenize 殘障者經驗——而神經多樣性政治依賴的是同樣的二元邏輯
 - 存在嚴重風險：神經多樣性政治將**無法關注**其他形式的邊緣化——包括異性戀/性別主義、種族主義、貧困和帝國主義，以及它們之間的**交叉**
 
 ## 替代路徑：從身份政治到"身份的政治"
@@ -95,4 +95,4 @@ Runswick-Cole 借用 Ruffolo (2009) 的區分：
 - [[神經多樣性的去殖民化]] — ND 政治在全球層面的進一步追問
 - [[NairEtAl2024|Nair et al. (2024)]] — ND 作爲全球北方白人範式的去殖民化批判
 - [[庸俗版神經多樣性]] — 神經多樣性話語被商品化和收編的具體形式
-- [[KatherineRunswickCole]] — 本文作者
+- [[Katherine-Runswick-Cole]] — 本文作者

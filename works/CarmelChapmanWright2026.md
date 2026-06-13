@@ -8,7 +8,7 @@ doi: 10.1080/1034912X.2025.2456288
 created: 2026-05-12
 updated: 2026-05-12
 citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. International Journal of Disability, Development and Education, 73(4), 621-634. https://doi.org/10.1080/1034912X.2025.2456288"
-zh-hans: [[wiki/works\CarmelChapmanWright2026]]
+zh-hans: [[wiki/works/CarmelChapmanWright2026]]
 needs-review: true
 ---
 
@@ -25,7 +25,7 @@ needs-review: true
 
 ## 方法
 
-採用**回顧性自傳式民族誌**（retrospective autoethnography），以第一作者（Julie-Mary Carmel）作爲照護者的視角，通過 8 個生活片段（vignettes）呈現 Taylor——一名 3 至 6 歲使用輪椅的兒童——在日常生活中面臨的包容與排斥。研究以[[批判殘障理論]]（CDT）和社會模式爲分析框架。
+採用**回顧性自傳式民族誌**（retrospective autoethnography），以第一作者（Julie-Mary Carmel）作爲照護者的視角，通過 8 個生活片段（vignettes）呈現 Taylor——一名 3 至 6 歲使用輪椅的兒童——在日常生活中面臨的包容與排斥。研究以[[批判殘障理論]]（CDT）和社會模型爲分析框架。
 
 ## 核心概念
 
@@ -91,9 +91,9 @@ needs-review: true
 ## Related
 
 - [[批判殘障理論]] — 本文的分析框架
-- [[殘障的社會模式]] — 本文核心理論工具
-- [[殘障模型]] — 醫學模式與社會模式的對比在本文中通過具體生活片段被生動呈現
+- [[殘障的社會模型]] — 本文核心理論工具
+- [[殘障模型]] — 醫學模式與社會模型的對比在本文中通過具體生活片段被生動呈現
 - [[融合教育]] — 本文的規劃性排除與第三方發言爲融合教育提供了日常實踐層面的質性證據
-- [[JulieMaryCarmel]] — 第一作者與照護者
-- [[SianChapman]] — 合作作者
-- [[PeterWright]] — 合作作者
+- [[Julie-Mary-Carmel]] — 第一作者與照護者
+- [[Sian-Chapman]] — 合作作者
+- [[Peter-Wright]] — 合作作者

@@ -8,7 +8,7 @@ doi: 10.1007/s11125-020-09500-2
 created: 2026-05-12
 updated: 2026-05-12
 citation_apa: "Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. Prospects, 49, 135-152. https://doi.org/10.1007/s11125-020-09500-2"
-zh-hans: [[wiki/works\KefallinouSymeonidouMeijer2020]]
+zh-hans: [[wiki/works/KefallinouSymeonidouMeijer2020]]
 needs-review: true
 ---
 
@@ -63,7 +63,7 @@ needs-review: true
 
 ## Related
 
-- [[殘障模型]] — 融合教育運動在人權模型和社會模式中有直接理論根基
-- [[殘障的社會模式]] — 融合教育的理論前提：障礙在社會結構而非個體
+- [[殘障模型]] — 融合教育運動在人權模型和社會模型中有直接理論根基
+- [[殘障的社會模型]] — 融合教育的理論前提：障礙在社會結構而非個體
 - [[神經多樣性範式]] — 融合教育在神經多樣性框架下的重新定向
 - [[Dwyer2022|Dwyer (2022)]] — 生態/互動主義模型：干預選擇取決於生活質量，禁止以正常化爲目標

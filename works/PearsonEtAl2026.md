@@ -8,7 +8,7 @@ authors: [Amy Pearson, Aimee Grant, Jennifer Leigh, Stephen J Macdonald, Kathryn
 sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/works\PearsonEtAl2026]]
+zh-hans: [[wiki/works/PearsonEtAl2026]]
 needs-review: true
 ---
 

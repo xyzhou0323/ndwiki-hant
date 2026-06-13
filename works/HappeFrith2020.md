@@ -7,7 +7,7 @@ sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Happe, F., & Frith, U. (2020). Annual Research Review: Looking back to look forward: Changes in the concept of autism, and implications for future research. Journal of Child Psychology and Psychiatry, 61(3), 218-232."
-zh-hans: [[wiki/works\HappeFrith2020]]
+zh-hans: [[wiki/works/HappeFrith2020]]
 needs-review: true
 ---
 
@@ -87,9 +87,9 @@ Kanner 1943 年描述的"嬰幼兒孤獨症"長期以來僅在兒童精神病學
 ## Related
 
 - [[孤獨譜系障礙]] — 本文追溯了這一概念的完整演変
-- [[FrancescaHappe]] — 第一作者
-- [[UtaFrith]] — 第二作者，ToM 缺陷假說提出者
+- [[Francesca-Happe]] — 第一作者
+- [[Uta-Frith]] — 第二作者，ToM 缺陷假說提出者
 - [[述情障礙]] — 共現述情障礙（非孤獨譜系本身）驅動情緒識別困難的發現
-- [[CATQ]] — 女性孤獨譜系的僞裝/補償測量工具
+- [[CAT-Q]] — 女性孤獨譜系的僞裝/補償測量工具
 - [[神經多樣性範式]] — 第七項變遷直接關聯
 - [[去病理化]] — 從"發育障礙"到"神經殊異性"的範式轉型

@@ -7,7 +7,7 @@ sources: [2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md]
 created: 2026-06-12
 updated: 2026-06-12
 citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. Rhetoric of Health & Medicine, 3(2), Article 1."
-zh-hans: [[wiki/works\GreenEtAl2020]]
+zh-hans: [[wiki/works/GreenEtAl2020]]
 needs-review: true
 ---
 
@@ -15,7 +15,7 @@ needs-review: true
 
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
-**作者**：Ann E. Green、[[AlyssaHillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
+**作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
 **年份**：2020
 **來源**：Rhetoric of Health & Medicine
 **學科**：修辭學、殘障研究、健康傳播
@@ -28,7 +28,7 @@ needs-review: true
 
 ### 診斷之路的掙扎
 
-多位作者描述了獲取正確診斷的曲折過程——在危機時刻才得以獲得診斷和治療，而非在早期預防階段。Leah 指出："獲得診斷比大多數人意識到的要困難得多，尤其是在醫療服務如此緊縮、精神疾病敘事仍容易被忽視的情況下。" 這呼應了[[病理學範式]]中診斷作爲"社會建構的不可變真理"（Molloy 2015）的批判。
+多位作者描述了獲取正確診斷的曲折過程——在危機時刻才得以獲得診斷和治療，而非在早期預防階段。Leah 指出："獲得診斷比大多數人意識到的要困難得多，尤其是在醫療服務如此緊縮、精神疾病敘事仍容易被忽視的情況下。" 這呼應了[[常態範式]]中診斷作爲"社會建構的不可變真理"（Molloy 2015）的批判。
 
 ### 披露的複雜抉擇
 
@@ -74,7 +74,7 @@ needs-review: true
 
 ## Related
 
-- [[AlyssaHillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
+- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主題 7 精選文獻：將本文納入神經多樣性入門閱讀清單
 - [[神經多樣性與民主研究]] — 參與式方法論與多聲部研究的交叉
 - [[去病理化]] — 對話中對 DSM 診斷框架的批判與此交叉

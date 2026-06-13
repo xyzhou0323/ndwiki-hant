@@ -6,7 +6,7 @@ tags: [work, neurodiversity, critique]
 sources: [blog-posts/Yes, it really is possible for everyone to be neurodivergent.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/works\Chapman2025]]
+zh-hans: [[wiki/works/Chapman2025]]
 needs-review: true
 ---
 
@@ -14,7 +14,7 @@ needs-review: true
 
 引用：Chapman, R. (2025, April 4). Yes, it really is possible for everyone to be neurodivergent. *Neurodiversity and Capitalism*. https://substack.com/@neurodiversityandcapitalism/p-160531383
 
-**作者**：[[RobertChapman|Robert Chapman]]
+**作者**：[[Robert-Chapman|Robert Chapman]]
 **發表**：*Neurodiversity and Capitalism* (Substack), 2025-04-04
 **類型**：博客文章
 
@@ -50,7 +50,7 @@ Chapman 指出，這種論調的真正驅動力並非對概念精確性的學術
 ## Related
 
 - [[神經多樣性批判與回應]] — 批評四直接引用本文
-- [[RobertChapman]] — 作者頁
+- [[Robert-Chapman]] — 作者頁
 - [[神經殊異]] — 本文論證的核心概念
 - [[神經多樣性範式]] — 本文所基於的理論框架
 - [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 第5章對自我認同問題的擴展討論

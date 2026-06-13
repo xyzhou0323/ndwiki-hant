@@ -7,7 +7,7 @@ sources: [2026-05-09/Class Politics and Blue-Collar Neurodivergence.md]
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. https://substack.com/@neurodiversityandcapitalism/p-196997868"
-zh-hans: [[wiki/works\Chapman2026b]]
+zh-hans: [[wiki/works/Chapman2026b]]
 needs-review: true
 ---
 
@@ -15,7 +15,7 @@ needs-review: true
 
 引用：Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. https://substack.com/@neurodiversityandcapitalism/p-196997868
 
-**作者**：[[RobertChapman]]（"Neurodiversity and Capitalism" Substack）
+**作者**：[[Robert-Chapman]]（"Neurodiversity and Capitalism" Substack）
 **發佈**：2026-05-09
 **原文**：[Class Politics and Blue-Collar Neurodivergence](https://substack.com/@neurodiversityandcapitalism/p-196997868)
 
@@ -86,4 +86,4 @@ Chapman 以自身經歷（鋸木廠、園藝）說明：某些體力勞動**在�
 - [[神經殊異馬克思主義]] — Chapman 的馬克思主義框架
 - [[神經規範性]] — 核心批判概念
 - [[新自由主義與精神健康]] — 精英捕獲的宏觀背景
-- [[RobertChapman]] — 作者
+- [[Robert-Chapman]] — 作者

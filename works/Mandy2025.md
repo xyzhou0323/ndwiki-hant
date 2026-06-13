@@ -8,7 +8,7 @@ doi: 10.5281/zenodo.17989621
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. https://doi.org/10.5281/zenodo.17989621"
-zh-hans: [[wiki/works\Mandy2025]]
+zh-hans: [[wiki/works/Mandy2025]]
 needs-review: true
 ---
 
@@ -79,7 +79,7 @@ Mandy 的核心命題：
 
 > 自20世紀90年代以來，環境中的若干重要特徵發生了變化，而這些變化對具有神經生物學基礎的高孤獨譜系特徵個體來說尤爲不利，從而**降低了孤獨譜系特徵與臨牀相關水平的殘障、疏離與痛苦相聯繫的閾值**。
 
-這一觀點直接呼應 [[RobertChapman]] 在 [[Chapman2023]] 中的論述：
+這一觀點直接呼應 [[Robert-Chapman]] 在 [[Chapman2023]] 中的論述：
 > "孤獨譜系診斷範圍不斷被拓寬，因爲越來越高比例的人口無法滿足新經濟體制所要求的社交、溝通與感覺加工能力。"
 
 ### 新自由主義的崛起
@@ -152,4 +152,4 @@ Mandy 的"超社交性時代"論證未直接討論階級維度。[[Chapman2026b|
 - [[神經多樣性與資本主義]] — 相關理論整合
 - [[神經殊異馬克思主義]] — Chapman 的歷史唯物主義框架
 - [[神經多樣性教育]] — SEL 與肯定式教育的張力
-- [[RobertChapman]] — Mandy 直接引用的理論來源，環境致殘效應的平行論證
+- [[Robert-Chapman]] — Mandy 直接引用的理論來源，環境致殘效應的平行論證

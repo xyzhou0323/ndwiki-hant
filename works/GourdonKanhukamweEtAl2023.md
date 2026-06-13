@@ -6,7 +6,7 @@ tags: [work, neurodiversity, participatory-research, open-scholarship, FORRT]
 created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Gourdon-Kanhukamwe, A., Kalandadze, T., Yeung, S. K., Azevedo, F., Iley, B., Phan, J. M., Ramji, A. V., Shaw, J. J., Zaneva, M., Dokovova, M., Hartmann, H., Kapp, S. K., Warrington, K. L., FORRT, & Elsherif, M. M. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. The Cognitive Psychology Bulletin, 1(8), 23–27. https://doi.org/10.53841/bpscog.2023.1.8.23"
-zh-hans: [[wiki/works\GourdonKanhukamweEtAl2023]]
+zh-hans: [[wiki/works/GourdonKanhukamweEtAl2023]]
 needs-review: true
 ---
 
@@ -14,7 +14,7 @@ needs-review: true
 
 引用：Gourdon-Kanhukamwe, A., et al. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. *The Cognitive Psychology Bulletin, 1*(8), 23–27. https://doi.org/10.53841/bpscog.2023.1.8.23
 
-**作者**：[[AmelieGourdonKanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[MirelaZaneva]]、Marie Dokovova、Helena Hartmann、[[StevenKapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[MahmoudMElsherif]]（通訊作者）
+**作者**：[[Amelie-Gourdon-Kanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[Mirela-Zaneva]]、Marie Dokovova、Helena Hartmann、[[Steven-Kapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[Mahmoud-M-Elsherif]]（通訊作者）
 **年份**：2023
 **期刊**：*The Cognitive Psychology Bulletin*（英國心理學會），Vol. 1, No. 08
 **DOI**：10.53841/bpscog.2023.1.8.23
@@ -40,10 +40,10 @@ needs-review: true
 
 ## Related
 
-- [[AmelieGourdonKanhukamwe]] — 第一作者
+- [[Amelie-Gourdon-Kanhukamwe]] — 第一作者
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 收錄本文爲精選文獻的閱讀清單（主題 9）
-- [[MirelaZaneva]] — 聯名作者
-- [[StevenKapp|Steven K. Kapp]] — 聯名作者
-- [[MahmoudMElsherif]] — 通訊作者，FORRT 神經多樣性團隊領導者
+- [[Mirela-Zaneva]] — 聯名作者
+- [[Steven-Kapp|Steven K. Kapp]] — 聯名作者
+- [[Mahmoud-M-Elsherif]] — 通訊作者，FORRT 神經多樣性團隊領導者
 - [[神經多樣性與民主研究]] — 參與式研究框架
 - [[神經多樣性範式]] — 理論根基

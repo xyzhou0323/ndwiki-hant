@@ -8,7 +8,7 @@ doi: 10.1177/13623613241237871
 created: 2026-05-07
 updated: 2026-05-08
 citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871"
-zh-hans: [[wiki/works\BothaEtAl2024]]
+zh-hans: [[wiki/works/BothaEtAl2024]]
 needs-review: true
 ---
 
@@ -17,7 +17,7 @@ needs-review: true
 引用：Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871
 
 
-**作者**（按字母順序）：Monique Botha, [[RobertChapman]], Morénike Giwa Onaiwu, [[StevenKapp]], Abs Stannard Ashley, [[NickWalker]]
+**作者**（按字母順序）：Monique Botha, [[Robert-Chapman]], Morénike Giwa Onaiwu, [[Steven-Kapp]], Abs Stannard Ashley, [[Nick-Walker]]
 **發表**：2024年，*Autism* 期刊（SAGE）
 **原文**：https://journals.sagepub.com/doi/full/10.1177/13623613241237871
 **中文科普**：["神經多樣性"的誕生：一段被遺忘的社羣歷史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ，基於 Botha et al. 2024 撰寫的科普文章）
@@ -48,8 +48,8 @@ needs-review: true
 
 **Harvey Blume——第一個在出版物中使用術語的記者**：
 
-- 1997年：[[HarveyBlume|Blume]] 發表關於"neurological diversity"的文章
-- 1998年：[[HarveyBlume|Blume]] 發表關於"neurodiversity"的文章（*The Atlantic*）
+- 1997年：[[Harvey-Blume|Blume]] 發表關於"neurological diversity"的文章
+- 1998年：[[Harvey-Blume|Blume]] 發表關於"neurodiversity"的文章（*The Atlantic*）
 - 關鍵：**Blume 將這些概念歸功於在線孤獨譜系社羣**（如"研究神經典型者的研究所"ISNT），而非 Singer
 - 在 Singer 敘事中，Blume 被說成是從 Singer 那裏聽到這個詞的——但這一說法從未被 Blume 本人證實
 
@@ -63,7 +63,7 @@ needs-review: true
 ## 更早的運動起源
 
 - **1992年**：國際孤獨譜系網絡（Autism Network International, ANI）成立
-- **[[JimSinclair]]**（酷兒雙性人活動家）：1993年撰寫具有奠基意義的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述爲"神經多樣性運動的試金石"
+- **[[Jim-Sinclair]]**（酷兒雙性人活動家）：1993年撰寫具有奠基意義的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述爲"神經多樣性運動的試金石"
 - **Ed Roberts、Judy Heumann、Anita Cameron**（孤獨譜系者）等人的跨殘障倡導工作爲神經多樣性理論奠定了基礎
 - **Kassiane Asasuasu**：2000年創造"[[神經殊異|neurodivergent]]"和"neurodivergence"兩個術語
 
@@ -79,12 +79,12 @@ needs-review: true
 - [[神經多樣性範式]] — 這一集體運動所發展的核心範式
 - [[神經殊異]] — Kassiane Asasuasu 創造的術語
 - [[Sinclair1993|Sinclair (1993)]] — Jim Sinclair 的奠基宣言
-- [[JimSinclair]] — 運動奠基人
-- [[HarveyBlume]] — 首位在印刷中使用術語的記者
+- [[Jim-Sinclair]] — 運動奠基人
+- [[Harvey-Blume]] — 首位在印刷中使用術語的記者
 - [[Singer2017|Singer (2017)]] — Singer 在本書修正後自費出版的個人敘事，聲稱自己是術語創造者
-- [[JudySinger]] — 被修正敘事中的當事人，最早學術使用者之一
+- [[Judy-Singer]] — 被修正敘事中的當事人，最早學術使用者之一
 - [[Silberman2015|Silberman (2015)]] — 傳播 Singer 敘事的作品
-- [[StevenKapp]] — 合著者之一，Kapp (2020) 主編
-- [[NickWalker]] — 合著者之一，Walker (2021) 作者
-- [[RobertChapman]] — 合著者之一
+- [[Steven-Kapp]] — 合著者之一，Kapp (2020) 主編
+- [[Nick-Walker]] — 合著者之一，Walker (2021) 作者
+- [[Robert-Chapman]] — 合著者之一
 - [[Chapman2023|Chapman (2023)]] — Chapman 對資本主義與神經規範性的系統分析

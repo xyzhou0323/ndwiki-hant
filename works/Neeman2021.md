@@ -8,7 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote 'passing'. AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569"
 doi: 10.1001/amajethics.2021.569
-zh-hans: [[wiki/works\Neeman2021]]
+zh-hans: [[wiki/works/Neeman2021]]
 needs-review: true
 ---
 
@@ -16,7 +16,7 @@ needs-review: true
 
 引用：Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote "passing". AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569
 
-**作者**：[[AriNe'eman|Ari Ne'eman]]（哈佛大學健康政策博士候選人）
+**作者**：[[Ari-Ne'eman|Ari Ne'eman]]（哈佛大學健康政策博士候選人）
 **發表**：*AMA Journal of Ethics* (2021), 23(7), E569-E575
 **類型**：倫理學分析
 
@@ -132,9 +132,9 @@ Manuel Casanova 等批評者暗示神經多樣性反對一切干預——"有頭
 - [[掩飾與僞裝]] — 本文系統論證了扮裝（passing）/掩飾的內化傷害
 - [[去病理化]] — 本文的"神經多樣性透鏡"框架是對去病理化的實踐操作化
 - [[孤獨譜系倦怠]] — 扮裝是倦怠的主要觸發因素之一
-- [[CATQ]] — 本文從倫理角度批判了以消除診斷特質爲目標的結果測量，互補於 [[ArnoldEtAl2026|Arnold et al. (2026)]] 從方法論角度的批判
+- [[CAT-Q]] — 本文從倫理角度批判了以消除診斷特質爲目標的結果測量，互補於 [[ArnoldEtAl2026|Arnold et al. (2026)]] 從方法論角度的批判
 - [[ArnoldEtAl2026|Arnold et al. (2026)]] — 掩飾概念化與方法論問題的系統綜述，與本文形成倫理-方法論互補
 - [[Dwyer2022|Dwyer (2022)]] — 互動主義/生態模型：區分"無意正常化"與"刻意正常化"，與本文的正常化批判一致
 - [[Dwyer2025|Dwyer et al. (2025)]] — 504 人實證確認：正常化爲明確紅線
 - [[神經多樣性與殘障]] — 本文的"以特質爲導向"框架是 ND-殘障關係的實踐解決方案
-- [[AriNe'eman]] — 作者頁
+- [[Ari-Ne'eman]] — 作者頁

@@ -8,7 +8,7 @@ doi: 10.1136/medhum-2023-012808
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. https://doi.org/10.1136/medhum-2023-012808"
-zh-hans: [[wiki/works\JonesOrchard2024]]
+zh-hans: [[wiki/works/JonesOrchard2024]]
 needs-review: true
 ---
 
@@ -106,5 +106,5 @@ Jones 和 Orchard 借用 Mitchell 和 Snyder 的"健全民族主義"（ablenatio
 - [[神經多樣性與交叉性]] — 交叉性分析的另一種路徑
 - [[庸俗版神經多樣性]] — 神經多樣性被收編的相關批判
 - [[神經多樣性與學習障礙]] — 論文揭露的神經多樣性原初排斥
-- [[RobertChapman]] — 被 Jones 和 Orchard 批評其中某些論證
-- [[SueFletcherWatson]] — VSI 合著者
+- [[Robert-Chapman]] — 被 Jones 和 Orchard 批評其中某些論證
+- [[Sue-Fletcher-Watson]] — VSI 合著者

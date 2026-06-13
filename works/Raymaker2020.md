@@ -8,7 +8,7 @@ doi: 10.1089/aut.2019.0079
 created: 2026-05-14
 updated: 2026-05-14
 citation_apa: "Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). \"Having all of your internal resources exhausted beyond measure and being left with no clean-up crew\": Defining autistic burnout. Autism in Adulthood, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079"
-zh-hans: [[wiki/works\Raymaker2020]]
+zh-hans: [[wiki/works/Raymaker2020]]
 needs-review: true
 ---
 
@@ -16,7 +16,7 @@ needs-review: true
 
 引用：Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. *Autism in Adulthood*, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079
 
-**作者**：[[DoraRaymaker|Dora M. Raymaker]]、Alan R. Teo、Nicole A. Steckler、Brandy Lentz、Mirah Scharer、Austin Delos Santos、[[StevenKapp|Steven K. Kapp]]、Morrigan Hunter、Andee Joyce、Christina Nicolaidis
+**作者**：[[Dora-Raymaker|Dora M. Raymaker]]、Alan R. Teo、Nicole A. Steckler、Brandy Lentz、Mirah Scharer、Austin Delos Santos、[[Steven-Kapp|Steven K. Kapp]]、Morrigan Hunter、Andee Joyce、Christina Nicolaidis
 **期刊**：*Autism in Adulthood*，第 2 卷，第 2 期，第 132–143 頁
 **DOI**：[10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
 **發表**：2020 年 6 月 10 日在線發表
@@ -115,12 +115,12 @@ needs-review: true
 
 ## Related
 
-- [[DoraRaymaker]] — 第一作者，CBPR 方法論專家
-- [[StevenKapp]] — 合著者
+- [[Dora-Raymaker]] — 第一作者，CBPR 方法論專家
+- [[Steven-Kapp]] — 合著者
 - [[孤獨譜系倦怠]] — Wiki 概念頁面
 - [[掩飾與僞裝]] — 倦怠的核心觸發因素
 - [[雙向同理心問題]] — 神經典型環境持續壓力源的理論基礎
 - [[Dwyer2022|Dwyer (2022)]] — 將孤獨譜系倦怠列爲社羣自我理論化的關鍵成果
 - [[單一聚焦]] — 同爲社羣原創理論概念
-- [[殘障的社會模式]] — 環境改造而非個體正常化的理論依據
+- [[殘障的社會模型]] — 環境改造而非個體正常化的理論依據
 - [[MantzalasEtAl2024|Mantzalas et al. (2024)]] — ABM 的首次公開發表心理測量驗證，AASPIRE 同一研究脈絡的量化延伸

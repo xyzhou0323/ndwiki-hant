@@ -7,7 +7,7 @@ authors: [Patrick Dwyer, Erica Mineo, Kristin Mifsud, Chris Lindholm, Ava Gurba,
 source: sources/2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/works\DwyerEtAl2023]]
+zh-hans: [[wiki/works/DwyerEtAl2023]]
 needs-review: true
 ---
 
@@ -67,8 +67,8 @@ needs-review: true
 
 - [[融合教育]] — 從人權框架到課堂實施的系統分析，Dwyer et al. 提供了高校制度層面的操作路徑
 - [[神經多樣性教育]] — ND 範式在教育領域的整體應用
-- [[PatrickDwyer|Patrick Dwyer]] — 第一作者
+- [[Patrick-Dwyer|Patrick Dwyer]] — 第一作者
 - [[Dwyer2022|Dwyer (2022)]] — 互動主義/生態模型的理論基礎
 - [[Dwyer2025|Dwyer et al. (2025)]] — 社羣態度實證研究
 - [[神經多樣性運動]] — "Nothing About Us Without Us"原則的學術實踐
-- [[殘障的社會模式]] — 建議中"環境障礙而非個體缺陷"的邏輯基礎
+- [[殘障的社會模型]] — 建議中"環境障礙而非個體缺陷"的邏輯基礎

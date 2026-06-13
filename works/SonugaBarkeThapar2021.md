@@ -7,7 +7,7 @@ sources: [2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_s
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561."
-zh-hans: [[wiki/works\SonugaBarkeThapar2021]]
+zh-hans: [[wiki/works/SonugaBarkeThapar2021]]
 needs-review: true
 ---
 
@@ -92,7 +92,7 @@ needs-review: true
 ## Related
 
 - [[神經多樣性]] — ND 作爲生物學事實
-- [[神經多樣性範式]] — ND 範式 vs 病理學範式
+- [[神經多樣性範式]] — ND 範式 vs 常態範式
 - [[ADHD]] — 論文討論的核心病症之一
 - [[孤獨譜系障礙]] — 論文討論的核心病症之一
 - [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — HAP 框架對比：ND 運動拒絕的恰恰是"障礙由功能障礙定義"的前提

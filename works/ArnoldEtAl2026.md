@@ -8,7 +8,7 @@ doi: 10.1177/13623613261420085
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflaging and autism: Conceptualisation and methodological issues. Autism, 30(5), 1131–1146. https://doi.org/10.1177/13623613261420085"
-zh-hans: [[wiki/works\ArnoldEtAl2026]]
+zh-hans: [[wiki/works/ArnoldEtAl2026]]
 needs-review: true
 ---
 
@@ -100,7 +100,7 @@ CAT-Q 僞裝維度的關鍵發現：
 ## 與本 Wiki 的相關性
 
 - [[掩飾與僞裝]] — 本綜述爲掩飾概念的核心批判文獻
-- [[CATQ]] — CAT-Q 的效度爭議和數據彙集
+- [[CAT-Q]] — CAT-Q 的效度爭議和數據彙集
 - [[雙向同理心問題]] — 孤獨譜系-神經典型社交不匹配的視角
 - [[Mandy2025|Mandy (2025)]] — 超社會性加劇掩飾壓力的宏觀社會背景
 - [[去病理化]] — 反對"補償"術語隱含的殘疾主義立場
