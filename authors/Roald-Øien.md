@@ -1,13 +1,12 @@
 ---
 title: Roald A. Øien
-description: UiT 挪威北極大學與耶魯大學醫學院兒童研究中心研究員，2018 年性別多樣性與孤獨譜系交叉首篇系統範圍綜述第一作者
+description: Roald A. Øien 是 UiT 挪威北極大學與耶魯大學醫學院兒童研究中心研究員，2018 年性別多樣性與孤獨譜系交叉首篇系統範圍綜述的第一作者，爲該交叉領域奠定了文獻基礎
 aliases: [Roald Øien, Øien]
 tags: [author, autism, neurodiversity]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
 created: 2026-06-06
 updated: 2026-06-06
-zh-hans: [[wiki/authors/Roald-Øien]]
-needs-review: true
+zh-hans: [[wiki/authors\Roald-Øien]]
 ---
 
 # Roald A. Øien

@@ -8,8 +8,7 @@ doi: 10.4102/hts.v74i1.4738
 created: 2026-05-12
 updated: 2026-05-12
 citation_apa: "Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. HTS Teologiese Studies/Theological Studies, 74(1), a4738. https://doi.org/10.4102/hts.v74i1.4738"
-zh-hans: [[wiki/works/RetiefLetsosa2018]]
-needs-review: true
+zh-hans: [[wiki/works\RetiefLetsosa2018]]
 ---
 
 # Retief & Letsosa (2018) — 殘障模型概述
@@ -75,7 +74,7 @@ needs-review: true
 
 ## 與神經多樣性的關聯
 
-Retief & Letsosa 的論文本身不討論神經多樣性——它發表於 2018 年，來自南非實踐神學領域。但其系統分類爲[[殘障模型]]提供了重要的補充框架：慈善、經濟、人權、文化和極限模型補充了當前 wiki 主要基於 Chapman & Fletcher-Watson (2025) 和 Dwyer (2022) 的模型分類。
+Retief & Letsosa 的論文本身不討論神經多樣性——它發表於 2018 年，來自南非實踐神學領域。但其系統分類爲[[殘障模型]]提供了重要的補充框架：慈善、經濟、人權、文化和極限模型補充了當前 wiki 主要基於 Chapman & Fletcher-Watson (2026) 和 Dwyer (2022) 的模型分類。
 
 ## Related
 

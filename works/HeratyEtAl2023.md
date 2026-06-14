@@ -8,8 +8,7 @@ created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Heraty, S., Lautarescu, A., Belton, D., Boyle, A., Cirrincione, P., Doherty, M., ... & Jones, E. J. H. (2023). Bridge-building between communities: Imagining the future of biomedical autism research. Cell, 186(18), 3747–3752. https://doi.org/10.1016/j.cell.2023.08.004"
 doi: 10.1016/j.cell.2023.08.004
-zh-hans: [[wiki/works/HeratyEtAl2023]]
-needs-review: true
+zh-hans: [[wiki/works\HeratyEtAl2023]]
 ---
 
 # Heraty et al. (2023) — 社羣之間的橋樑建設：想象生物醫學孤獨譜系研究的未來

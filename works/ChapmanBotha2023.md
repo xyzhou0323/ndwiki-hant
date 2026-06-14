@@ -8,8 +8,7 @@ doi: 10.1111/dmcn.15384
 created: 2026-05-11
 updated: 2026-05-11
 citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. Developmental Medicine & Child Neurology, 65(3), 310–317. https://doi.org/10.1111/dmcn.15384"
-zh-hans: [[wiki/works/ChapmanBotha2023]]
-needs-review: true
+zh-hans: [[wiki/works\ChapmanBotha2023]]
 ---
 
 # Chapman & Botha (2023) — 神經殊異知情治療

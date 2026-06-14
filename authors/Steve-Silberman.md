@@ -1,13 +1,12 @@
 ---
 title: Steve Silberman
-description: Wired 雜誌調查記者，《NeuroTribes》(2015) 作者——將孤獨譜系歷史和神經多樣性概念引入主流的著作，影響了公衆話語
+description: Steve Silberman 是 Wired 雜誌調查記者與作家，2015 年出版 NeuroTribes——將孤獨譜系歷史和神經多樣性概念引入主流公衆話語的里程碑式著作
 aliases: [Steve Silberman, Silberman]
 tags: [author, neurodiversity, autism, historical]
 sources: [2026-05-07/《神經部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
 created: 2026-05-07
 updated: 2026-05-07
-zh-hans: [[wiki/authors/Steve-Silberman]]
-needs-review: true
+zh-hans: [[wiki/authors\Steve-Silberman]]
 ---
 
 # Steve Silberman

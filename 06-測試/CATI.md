@@ -1,13 +1,12 @@
 ---
 title: CATI
-description: 全面孤獨譜系特徵量表（CATI）——English 等人開發的42題神經多樣性肯定式自填問卷，覆蓋社交、溝通、掩飾、自我調節、認知靈活性、感官敏感性六大維度，適用於16歲及以上，採用性別特異性常模
+description: 全面孤獨譜系特徵量表（CATI, Comprehensive Autistic Trait Inventory）是 English 等人開發的42題神經多樣性肯定式自填問卷，覆蓋社交、溝通、掩飾、自我調節、認知靈活性與感官敏感性六大維度，適用於16歲及以上個體，採用性別特異性常模
 aliases: [CATI, 全面孤獨譜系特徵, 全面孤獨譜系特徵量表, Comprehensive Autistic Trait Inventory]
 tags: [test, autism, neurodiversity]
 sources: [English et al. 2021, English et al. 2024]
 created: 2026-05-08
 updated: 2026-05-11
-zh-hans: [[wiki/06-测试/CATI]]
-needs-review: true
+zh-hans: [[wiki/06-测试\CATI]]
 ---
 
 # CATI 全面孤獨譜系特徵量表

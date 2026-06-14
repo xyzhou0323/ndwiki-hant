@@ -1,6 +1,6 @@
 ---
 title: Stenning & Bertilsdotter Rosqvist (2021) - 神經多樣性研究：繪製新批判範式的可能性
-description: 在 Rosqvist et al. (2020) 編輯卷基礎上進一步闡述神經多樣性研究作爲批判範式的理論框架，提出對神經多樣性的三種理解取向並倡導超越它們，批判生物多樣性類比，呼籲去殖民化研究方法論
+description: 在 Rosqvist et al. (2020) 編輯卷基礎上進一步闡述神經多樣性研究作爲批判範式的理論框架——提出對神經多樣性的三種理解取向並倡導超越它們，批判生物多樣性類比，呼籲去殖民化研究方法論
 aliases: [StenningRosqvist2021, Neurodiversity studies: mapping out possibilities of a new critical paradigm]
 tags: [work, neurodiversity, foundational, critique, methodology]
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
@@ -8,8 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. https://doi.org/10.1080/09687599.2021.1919503"
 doi: 10.1080/09687599.2021.1919503
-zh-hans: [[wiki/works/StenningRosqvist2021]]
-needs-review: true
+zh-hans: [[wiki/works\StenningRosqvist2021]]
 ---
 
 # Stenning & Bertilsdotter Rosqvist (2021) — 神經多樣性研究：繪製新批判範式的可能性

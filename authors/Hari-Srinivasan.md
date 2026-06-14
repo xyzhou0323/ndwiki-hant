@@ -1,12 +1,11 @@
 ---
 title: Hari Srinivasan
-description: 孤獨譜系自倡導者，範德堡大學神經科學博士生，2025 年提出"神經多樣性 2.0"跨學科整合框架
+description: Hari Srinivasan 是孤獨譜系自倡導者與範德堡大學神經科學博士生，2025 年提出"神經多樣性 2.0"跨學科整合框架，拒絕社會 vs 醫學模型、自主 vs 依賴、優勢 vs 缺陷三組虛假二元
 aliases: [Hari Srinivasan]
 tags: [author, neurodiversity, autism, neuroscience]
 created: 2026-05-08
 updated: 2026-05-08
-zh-hans: [[wiki/authors/Hari-Srinivasan]]
-needs-review: true
+zh-hans: [[wiki/authors\Hari-Srinivasan]]
 ---
 
 # Hari Srinivasan

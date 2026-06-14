@@ -1,13 +1,12 @@
 ---
 title: Jacquiline den Houting
-description: 孤獨譜系研究者、神經多樣性倡導者，以"內部人視角"推動孤獨譜系科學的範式轉型
+description: Jacquiline den Houting 是麥考瑞大學教育學院孤獨譜系研究者與自倡導者，以"內部人視角"推動孤獨譜系科學範式轉型，與 Elizabeth Pellicano 合作發表了該領域引用率最高的論文之一
 aliases: [Jacqui den Houting, 傑奎琳·登·胡廷]
 tags: [author, neurodiversity, autism]
 created: 2026-05-09
 sources: [2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf]
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Jacquiline-den-Houting]]
-needs-review: true
+zh-hans: [[wiki/authors\Jacquiline-den-Houting]]
 ---
 
 # Jacquiline den Houting

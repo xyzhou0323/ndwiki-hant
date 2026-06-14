@@ -8,8 +8,7 @@ doi: 10.1016/j.tics.2021.05.004
 created: 2026-05-14
 updated: 2026-05-14
 citation_apa: "Rozenkrantz, L., D'Mello, A. M., & Gabrieli, J. D. E. (2021). Enhanced rationality in autism spectrum disorder. Trends in Cognitive Sciences, 25(8), 685–696. https://doi.org/10.1016/j.tics.2021.05.004"
-zh-hans: [[wiki/works/RozenkrantzEtAl2021]]
-needs-review: true
+zh-hans: [[wiki/works\RozenkrantzEtAl2021]]
 ---
 
 # Rozenkrantz et al. (2021) — 孤獨譜系中的增強理性

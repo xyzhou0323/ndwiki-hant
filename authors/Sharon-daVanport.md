@@ -1,11 +1,10 @@
 ---
 title: Sharon daVanport
-description: 孤獨譜系活動家，2010 年創立孤獨譜系女性與非二元性別網絡（AWN），將交叉性女權主義引入神經多樣性運動
+description: Sharon daVanport 是孤獨譜系活動家，2010 年創立孤獨譜系女性與非二元性別網絡（AWN），將交叉性女權主義引入神經多樣性運動，將性別化暴力作爲孤獨譜系自倡導的核心議題
 aliases: [Sharon daVanport, Sharon-daVanport]
 tags: [person, activist, neurodiversity, feminism]
 created: 2026-05-08
-zh-hans: [[wiki/authors/Sharon-daVanport]]
-needs-review: true
+zh-hans: [[wiki/authors\Sharon-daVanport]]
 ---
 
 # Sharon daVanport

@@ -8,8 +8,7 @@ doi: 10.1177/1362361318820762
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. https://doi.org/10.1177/1362361318820762"
-zh-hans: [[wiki/works/denHouting2019]]
-needs-review: true
+zh-hans: [[wiki/works\denHouting2019]]
 ---
 
 # den Houting (2019) — 神經多樣性：內部人視角

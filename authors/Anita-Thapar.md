@@ -1,12 +1,11 @@
 ---
 title: Anita Thapar
-description: 卡迪夫大學兒童與青少年精神病學教授，ADHD Foundation 董事會成員，ADHD 與神經發育障礙遺傳流行病學權威——主張神經多樣性概念與臨牀實踐並行整合
+description: Anita Thapar 是卡迪夫大學兒童與青少年精神病學教授，ADHD 與神經發育障礙遺傳流行病學權威，ADHD Foundation 董事會成員，主張神經多樣性視角與傳統臨牀實踐並行整合
 aliases: [Anita Thapar, Thapar]
 tags: [author, adhd, neurodiversity]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Anita-Thapar]]
-needs-review: true
+zh-hans: [[wiki/authors\Anita-Thapar]]
 ---
 
 # Anita Thapar

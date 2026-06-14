@@ -1,13 +1,12 @@
 ---
 title: Monique Botha
-description: 孤獨譜系學者，University of Stirling 心理學系研究員，以少數壓力模型應用於孤獨譜系羣體和神經多樣性知情治療研究而聞名
+description: Monique Botha 是 University of Stirling 心理學系研究員，孤獨譜系學者，以將少數壓力模型應用於孤獨譜系羣體和與 Robert Chapman 合作提出神經殊異知情治療概念框架而聞名
 aliases: [莫妮克·博塔, Botha]
 tags: [author, neurodiversity, autism, clinical]
 sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf, 2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf, 2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf, 2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
 created: 2026-05-11
 updated: 2026-05-21
-zh-hans: [[wiki/authors/Monique-Botha]]
-needs-review: true
+zh-hans: [[wiki/authors\Monique-Botha]]
 ---
 
 # Monique Botha

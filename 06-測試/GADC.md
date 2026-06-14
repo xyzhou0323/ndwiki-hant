@@ -1,12 +1,11 @@
 ---
 title: GADC
-description: 天才/阿斯伯格對照表——基於 Amend 等研究，幫助教育者評估學齡期孩子天賦和阿斯伯格特徵的對照工具
+description: 天才/阿斯伯格對照表（GADC, Gifted/Asperger's Disorder Checklist）基於 Amend 等研究，幫助教育者系統評估學齡期兒童的天賦特徵與阿斯伯格特徵，爲鑑別二者提供對照框架
 aliases: [GADC, 天才/阿斯伯格對照表, Gifted/Asperger's Disorder Checklist]
 tags: [test, autism, giftedness, education, children, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试/GADC]]
-needs-review: true
+zh-hans: [[wiki/06-测试\GADC]]
 ---
 
 # GADC 天才/阿斯伯格對照表

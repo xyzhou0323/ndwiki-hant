@@ -16,8 +16,7 @@ doi: 10.1111/cdep.12466
 created: 2026-05-14
 updated: 2026-05-14
 citation_apa: Yi, L., Wang, Q., Song, C., & Han, Z. R. (2022). Hypo- or hyperarousal? The mechanisms underlying social information processing in autism. Child Development Perspectives, 16, 215–222. https://doi.org/10.1111/cdep.12466
-zh-hans: [[wiki/works/YiEtAl2022]]
-needs-review: true
+zh-hans: [[wiki/works\YiEtAl2022]]
 ---
 
 # Yi et al. (2022) — 喚起不足還是喚起過度？

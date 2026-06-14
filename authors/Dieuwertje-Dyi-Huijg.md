@@ -1,12 +1,11 @@
 ---
 title: Dieuwertje Dyi Huijg
-description: 曼徹斯特大學社會學博士，提出以"批判神經多樣性方法"重新概念化能動性（agency），揭示主流社會學能動性理論的神經規範性預設
+description: Dieuwertje Dyi Huijg 是曼徹斯特大學社會學博士，主張以批判神經多樣性方法重新概念化能動性（agency），揭示主流社會學能動性理論中的神經規範性預設
 aliases: [Dieuwertje Dyi Huijg, Dyi Huijg]
 tags: [author, neurodiversity, sociology, critique]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Dieuwertje-Dyi-Huijg]]
-needs-review: true
+zh-hans: [[wiki/authors\Dieuwertje-Dyi-Huijg]]
 ---
 
 # Dieuwertje Dyi Huijg

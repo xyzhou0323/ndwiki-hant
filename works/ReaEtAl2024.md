@@ -1,14 +1,13 @@
 ---
 title: "Rea et al. (2024) - 性別多樣性與孤獨譜系交叉：更新範圍綜述"
-description: 2018-2024年性別多樣性與孤獨譜系交叉研究的更新範圍綜述，覆蓋99項實證研究，揭示方法論進展與不足
+description: 2018至2024年性別多樣性與孤獨譜系交叉研究的更新範圍綜述——覆蓋99項實證研究，揭示方法論進展與不足
 aliases: [ReaEtAl2024]
 tags: [work, autism, neurodiversity, methodology, applied]
 citation_apa: "Rea, H. M., Øien, R. A., Webb, S. J., Bansal, S., Strang, J. F., & Nordahl-Hansen, A. (2024). Gender diversity, gender dysphoria/incongruence, and the intersection with autism spectrum disorders: An updated scoping review. *Journal of Autism and Developmental Disorders*. https://doi.org/10.1007/s10803-024-06650-6"
 sources: ["2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md"]
 created: 2026-06-06
 updated: 2026-06-06
-zh-hans: [[wiki/works/ReaEtAl2024]]
-needs-review: true
+zh-hans: [[wiki/works\ReaEtAl2024]]
 ---
 
 # Rea et al. (2024) - 性別多樣性與孤獨譜系交叉：更新範圍綜述

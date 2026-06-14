@@ -1,6 +1,6 @@
 ---
 title: Botha et al. (2024) - 神經多樣性的集體起源
-description: 一項遲來的修正——神經多樣性概念和理論由孤獨譜系社羣集體發展，而非歸功於任何單一作者
+description: 一項遲來的學術修正——通過檔案研究證實神經多樣性概念和理論由孤獨譜系社羣集體發展，而非歸功於任何單一作者
 aliases: [Botha et al. 2024, 神經多樣性的誕生, The neurodiversity concept was developed collectively]
 tags: [work, neurodiversity, historical]
 sources: [2026-05-07/Botha-et-al-2024-神經多樣性集體起源.md, 2026-05-07/神經多樣性的誕生-社羣歷史.md]
@@ -8,8 +8,7 @@ doi: 10.1177/13623613241237871
 created: 2026-05-07
 updated: 2026-05-08
 citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871"
-zh-hans: [[wiki/works/BothaEtAl2024]]
-needs-review: true
+zh-hans: [[wiki/works\BothaEtAl2024]]
 ---
 
 # Botha et al. (2024) — 神經多樣性的集體起源

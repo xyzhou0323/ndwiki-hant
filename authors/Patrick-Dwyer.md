@@ -1,12 +1,11 @@
 ---
 title: Patrick Dwyer
-description: 孤獨譜系學者，神經多樣性方法羣（neurodiversity approaches）理論框架的提出者，互動主義/生態殘障觀的系統論證者，AIAS-G 干預態度量表共同開發者
+description: Patrick Dwyer 是加州大學戴維斯分校至拉籌伯大學的孤獨譜系學者，神經多樣性方法羣（neurodiversity approaches）理論框架的奠基人，以互動主義/生態殘障觀和 AIAS-G 干預態度量表的系統實證研究著稱
 aliases: [Patrick Dwyer, Dwyer, 帕特里克·德懷爾]
 tags: [author, neurodiversity, autism, disability]
 created: 2026-05-08
 updated: 2026-05-08
-zh-hans: [[wiki/authors/Patrick-Dwyer]]
-needs-review: true
+zh-hans: [[wiki/authors\Patrick-Dwyer]]
 ---
 
 # Patrick Dwyer

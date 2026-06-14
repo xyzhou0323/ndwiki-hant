@@ -1,13 +1,12 @@
 ---
 title: AQ
-description: 孤獨譜系商數（AQ）——Baron-Cohen 等人於2001年開發的50題成人及16歲以上孤獨譜系特徵自填篩查工具，涵蓋五個子維度
+description: 孤獨譜系商數（AQ, Autism Spectrum Quotient）是 Baron-Cohen 等人於2001年開發的50題自填篩查工具，用於評估成人及16歲以上個體的孤獨譜系特徵，涵蓋五個子維度
 aliases: [AQ, Autism Spectrum Quotient, 孤獨譜系商數, 孤獨譜系商數問卷, AQ量表]
 tags: [test, autism, neurodiversity]
 sources: [Baron-Cohen et al. 2001, Ruzich et al. 2015, Jacobson & Truax 1991, Baker et al. 2024]
 created: 2026-05-11
 updated: 2026-05-14
-zh-hans: [[wiki/06-测试/AQ]]
-needs-review: true
+zh-hans: [[wiki/06-测试\AQ]]
 ---
 
 # AQ

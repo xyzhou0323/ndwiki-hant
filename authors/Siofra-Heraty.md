@@ -1,13 +1,12 @@
 ---
 title: Síofra Heraty
-description: Birkbeck, University of London 心理科學系博士後研究員，AIMS-2-TRIALS 戰略倫理負責人，神經殊異早期職業研究者——領導孤獨譜系生物醫學研究與神經多樣性範式之間的橋樑建設
+description: Síofra Heraty 是 Birkbeck, University of London 博士後研究員，AIMS-2-TRIALS 戰略倫理負責人，神經殊異早期職業研究者，領導橋接孤獨譜系生物醫學研究與神經多樣性範式的橋樑建設
 aliases: [Síofra Heraty, Siofra Heraty, Heraty]
 tags: [author, neurodiversity, autism, methodology, ethics]
 sources: [2026-06-10/HeratyEtAl2023.md]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Siofra-Heraty]]
-needs-review: true
+zh-hans: [[wiki/authors\Siofra-Heraty]]
 ---
 
 # Síofra Heraty

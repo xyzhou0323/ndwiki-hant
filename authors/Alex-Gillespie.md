@@ -1,13 +1,12 @@
 ---
 title: Alex Gillespie
-description: LSE 心理與行爲科學系教授，交互主體性理論的權威闡述者——其分析框架使神經殊異交互主體性的實證識別成爲可能
+description: Alex Gillespie 是倫敦政治經濟學院（LSE）心理與行爲科學系教授，交互主體性理論的權威闡述者，其"協調"與"交互主體性"的區分爲不以神經典型規範爲標準研究孤獨譜系社交互動提供了分析框架
 aliases: [Gillespie, 亞歷克斯·吉萊斯皮]
 tags: [author, psychology, social-interaction, theory]
 sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/authors/Alex-Gillespie]]
-needs-review: true
+zh-hans: [[wiki/authors\Alex-Gillespie]]
 ---
 
 # Alex Gillespie

@@ -244,6 +244,16 @@ grep -roh "\[\[.*?\]\]" --include="*.md" . | sort | uniq -c | sort -rn
 
 署名行放在頁面正文末尾、wikilinks 之前。此欄位非強制——署名與否由貢獻者自行決定。
 
+## 開源與自行部署
+
+本 Wiki 及其全部內容以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW) 協議發布。你可以：
+
+- **自行部署**：fork 本倉庫，用 Obsidian、Hugo、Quartz 或任何 Markdown 相容工具發布你自己的版本
+- **修改內容**：修改、翻譯、改編任何頁面，衍生作品須以相同協議（CC BY-NC-SA）發布
+- **非商業使用**：用於教學、研究、個人學習、機構內部知識庫等場景
+
+要求：**註明原始來源**（連結回本倉庫或 [neuroxyz.cn/wiki-hant](https://neuroxyz.cn/wiki-hant/)），**禁止商用**。
+
 ## FAQ
 
 ### Q: 我發現 OpenCC 轉換錯誤，該如何回報？

@@ -1,13 +1,12 @@
 ---
 title: Francis Galton
-description: 優生學創始人、心理測量學和行爲遺傳學先驅，常態範式的奠基人
+description: Francis Galton（弗朗西斯·高爾頓）是 19 世紀優生學創始人、心理測量學和行爲遺傳學先驅，被 Robert Chapman 定位爲常態範式的真正奠基人——其對遺傳優越性的癡迷爲現代"正常"概念奠定了科學外衣
 aliases: [弗朗西斯·高爾頓, Galton, 高爾頓]
 tags: [author, neurodiversity, historical]
 sources: [2026-05-07/正常帝國-Empire of Normality (Robert Chapman).epub]
 created: 2026-05-07
 updated: 2026-05-07
-zh-hans: [[wiki/authors/Francis-Galton]]
-needs-review: true
+zh-hans: [[wiki/authors\Francis-Galton]]
 ---
 
 # Francis Galton

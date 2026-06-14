@@ -1,13 +1,12 @@
 ---
 title: Laura Crane
-description: 英國孤獨譜系教育研究者，UCL 教育學院孤獨譜系研究與教育中心（CRAE）教授，致力於參與式孤獨譜系研究與神經多樣性肯定實踐
+description: Laura Crane 是倫敦大學學院（UCL）教育學院 CRAE 教授，致力於參與式孤獨譜系研究與神經多樣性肯定實踐，以推動全球神經多樣性研究合作中的非西方中心性著稱
 aliases: [Laura Crane, Crane]
 tags: [author, autism, neurodiversity, education]
 sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Laura-Crane]]
-needs-review: true
+zh-hans: [[wiki/authors\Laura-Crane]]
 ---
 
 # Laura Crane

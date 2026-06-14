@@ -1,13 +1,12 @@
 ---
 title: Judy Singer
-description: 澳大利亞社會學者，1998年首次在學術語境中使用"神經多樣性"一詞——因 Botha 等（2024）的檔案發現，其"術語創造者"地位已被學術修正爲"最早學術使用者之一"
+description: Judy Singer 是澳大利亞社會學者，1998 年首次在學術語境中使用"神經多樣性"一詞，因 Botha 等（2024）的檔案發現其"術語創造者"地位已被學術修正爲"最早學術使用者之一"
 aliases: [Judy Singer, Singer]
 tags: [author, neurodiversity, autism, historical]
 sources: [2026-05-07/NeuroDiversity The Birth of an Idea (Judy Singer) (z-library.sk, 1lib.sk, z-lib.sk).pdf, 2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
 created: 2026-05-07
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Judy-Singer]]
-needs-review: true
+zh-hans: [[wiki/authors\Judy-Singer]]
 ---
 
 # Judy Singer

@@ -1,13 +1,12 @@
 ---
 title: Sarah Arnaud
-description: 加拿大哲學學者，研究神經多樣性、精神科哲學與殘障理論，與 Quinn Hiroshi Gibson 合作闡述了 ND 運動的"實體抽象原則"（HAP）框架
+description: Sarah Arnaud 是加拿大 Edouard Montpetit College 哲學系學者，研究神經多樣性、精神科哲學與殘障理論，與 Quinn Hiroshi Gibson 合作發展了"實體抽象原則"（HAP）框架以精確形式化"去病理化"的哲學含義
 aliases: [Sarah Arnaud, Arnaud]
 tags: [author, neurodiversity, autism, methodology]
 sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Sarah-Arnaud]]
-needs-review: true
+zh-hans: [[wiki/authors\Sarah-Arnaud]]
 ---
 
 # Sarah Arnaud

@@ -1,13 +1,12 @@
 ---
 title: RAADS-R
-description: Ritvo 孤獨譜系量表修訂版——區分16歲前與當前孤獨譜系特徵的自填工具，基於 Ritvo et al. (2011) 開發，採用 NovoPsych (2025) 更新閾值
+description: Ritvo 孤獨譜系量表修訂版（RAADS-R, Ritvo Autism Asperger Diagnostic Scale–Revised）是一份80題自填工具，由 Ritvo et al. (2011) 開發，區分16歲前與當前的孤獨譜系特徵，採用 NovoPsych (2025) 更新的臨牀閾值
 aliases: [RAADS-R, Ritvo孤獨譜系量表, 成人孤獨譜系評估, Ritvo孤獨譜系評估, Ritvo Autism Asperger Diagnostic Scale–Revised]
 tags: [test, autism, neurodiversity]
 sources: [Ritvo et al. 2011, NovoPsych 2025, Hegarty et al. 2025]
 created: 2026-05-08
 updated: 2026-05-11
-zh-hans: [[wiki/06-测试/RAADS-R]]
-needs-review: true
+zh-hans: [[wiki/06-测试\RAADS-R]]
 ---
 
 # RAADS-R 孤獨譜系量表

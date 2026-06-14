@@ -1,13 +1,12 @@
 ---
 title: CAT-Q
-description: 掩飾孤獨譜系特徵問卷（CAT-Q）——25題自填量表，評估補償、僞裝、融入三種掩飾策略，由 Hull et al. (2019) 開發，對識別女性和性別多元個體的孤獨譜系很重要
+description: 掩飾孤獨譜系特徵問卷（CAT-Q, Camouflaging Autistic Traits Questionnaire）是一份25題自填量表，由 Hull et al. (2019) 開發，用於評估補償、僞裝和融入三種掩飾策略，對識別女性和性別多元個體的孤獨譜系特徵尤爲重要
 aliases: [CAT-Q, 掩飾孤獨譜系特徵問卷, 掩飾問卷, Camouflaging Autistic Traits Questionnaire]
 tags: [test, autism, camouflaging, neurodiversity]
 sources: [Hull et al. 2019, Hull et al. 2020, Baker et al. 2024]
 created: 2026-05-08
 updated: 2026-05-11
-zh-hans: [[wiki/06-测试/CAT-Q]]
-needs-review: true
+zh-hans: [[wiki/06-测试\CAT-Q]]
 ---
 
 # CAT-Q
@@ -51,7 +50,7 @@ needs-review: true
 
 ### 三個維度
 
-- **補償**（Compensation）：通過主動學習社交技巧、模仿肢體語言和麪部表情、從影視書籍中汲取社交腳本等方式，彌補社交困難
+- **補償**（Compensation）：通過主動學習社交技巧、模仿肢體語言和面部表情、從影視書籍中汲取社交腳本等方式，彌補社交困難
 - **僞裝**（Masking）：有意識地隱藏孤獨譜系特徵，塑造"正常"的社交角色，例如調整面部表情與肢體動作以顯得自信/放鬆、強迫自己進行眼神接觸
 - **融入**（Assimilation）：無意識地試圖融入社交場合，例如刻意表演、迴避或強迫與他人互動
 

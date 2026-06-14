@@ -1,13 +1,12 @@
 ---
 title: Nick Walker
-description: 神經多樣性範式理論家，"neuroqueer"概念創造者，2014年術語定義的作者——其術語體系成爲神經多樣性範式的基礎概念骨架
+description: Nick Walker 是神經多樣性範式的核心理論家，"neuroqueer"概念的創造者，其 2014 年術語定義——神經多樣性、神經多樣性範式、神經殊異、神經典型——成爲整個神經多樣性話語體系的基礎概念骨架
 aliases: [Nick Walker, Walker]
 tags: [author, neurodiversity, autism, foundational]
 sources: [2026-05-07/神經酷兒-Neuroqueer Heresies (Nick Walker).epub, 2026-05-07/Walker-2014-神經多樣性基本術語與定義.md]
 created: 2026-05-07
 updated: 2026-05-07
-zh-hans: [[wiki/authors/Nick-Walker]]
-needs-review: true
+zh-hans: [[wiki/authors\Nick-Walker]]
 ---
 
 # Nick Walker

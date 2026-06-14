@@ -1,13 +1,12 @@
 ---
 title: Yulin Cheng
-description: 孤獨譜系自倡導者與研究者，香港大學博士候選人，以內部人視角研究孤獨譜系福祉，Cheng et al. (2023) 第一作者
+description: Yulin Cheng（鄭裕林）是香港大學博士候選人與孤獨譜系自倡導者，Cheng et al.（2023）第一作者，以內部人視角研究孤獨譜系福祉並揭示神經多樣性運動在東亞威權政治與新自由主義語境中的文化障礙
 aliases: [Yulin Cheng, Cheng, 鄭裕林]
 tags: [author, autism, neurodiversity, intersectionality]
 sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Yulin-Cheng]]
-needs-review: true
+zh-hans: [[wiki/authors\Yulin-Cheng]]
 ---
 
 # Yulin Cheng

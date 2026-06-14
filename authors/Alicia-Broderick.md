@@ -1,12 +1,11 @@
 ---
 title: Alicia A. Broderick
-description: 哥倫比亞大學教師學院教育學者，孤獨症話語的文化批判研究者，與 Ari Ne'eman 合作完成孤獨症隱喻分析的奠基性研究
+description: Alicia A. Broderick 是哥倫比亞大學教師學院融合教育學者，以孤獨症話語的文化批判研究著稱，與 Ari Ne'eman 合作完成了爲孤獨症隱喻分析奠基的系統性話語分析（2008）
 aliases: [Alicia Broderick, Alicia A. Broderick, Broderick, 艾麗西婭·布羅德里克]
 tags: [author, neurodiversity, autism, discourse]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/authors/Alicia-Broderick]]
-needs-review: true
+zh-hans: [[wiki/authors\Alicia-Broderick]]
 ---
 
 # Alicia A. Broderick

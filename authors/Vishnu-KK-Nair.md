@@ -1,13 +1,12 @@
 ---
 title: Vishnu KK Nair
-description: 神經殊異學者、言語語言治療師、批判殘障研究學者，ND 去殖民化批判的核心闡述者
+description: Vishnu KK Nair 是英國雷丁大學神經殊異學者、言語語言治療師與批判殘障研究學者，Nair et al.（2024）神經多樣性去殖民化批判的第一作者——系統揭示神經多樣性學術作爲"全球北方白人的範式"的結構性侷限
 aliases: [Nair, VKK Nair, Vishnu Nair]
 tags: [author, neurodiversity, critique, intersectionality, decolonial]
 sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Vishnu-KK-Nair]]
-needs-review: true
+zh-hans: [[wiki/authors\Vishnu-KK-Nair]]
 ---
 
 # Vishnu KK Nair

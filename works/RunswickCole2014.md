@@ -7,8 +7,7 @@ sources: [2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pd
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. Disability & Society, 29(7), 1117–1129. https://doi.org/10.1080/09687599.2014.910107"
-zh-hans: [[wiki/works/RunswickCole2014]]
-needs-review: true
+zh-hans: [[wiki/works\RunswickCole2014]]
 ---
 
 # Runswick-Cole (2014) — "我們"與"他們"：neoliberal 時代神經多樣性政治的限度與可能

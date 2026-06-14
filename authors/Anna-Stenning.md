@@ -1,13 +1,12 @@
 ---
 title: Anna Stenning
-description: 利茲大學 Wellcome Trust 研究員，神經多樣性研究（Neurodiversity Studies）新領域的聯合奠基人，孤獨譜系生命書寫與神經殊異道德學者
+description: Anna Stenning 是利茲大學 Wellcome Trust 研究員，首部《神經多樣性研究》（Neurodiversity Studies）編輯卷的聯合主編，以孤獨譜系生命書寫分析揭示神經殊異道德敏感性而聞名
 aliases: [Anna Stenning]
 tags: [author, neurodiversity, autism, literature, ethics]
 created: 2026-05-09
 updated: 2026-05-09
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
-zh-hans: [[wiki/authors/Anna-Stenning]]
-needs-review: true
+zh-hans: [[wiki/authors\Anna-Stenning]]
 ---
 
 # Anna Stenning

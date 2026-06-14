@@ -1,12 +1,11 @@
 ---
 title: Jacqueline Hanlon
-description: Botha et al. (2023) 共同作者——孤獨譜系研究中身份在前與人稱在前語言的辯論
+description: Jacqueline Hanlon 是 Botha et al.（2023）共同作者，參與孤獨譜系研究中身份在前與人稱在前語言使用的辯論，爲該領域術語選擇提供實證依據
 aliases: [Hanlon]
 tags: [author, neurodiversity, autism, language]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Jacqueline-Hanlon]]
-needs-review: true
+zh-hans: [[wiki/authors\Jacqueline-Hanlon]]
 ---
 
 # Jacqueline Hanlon

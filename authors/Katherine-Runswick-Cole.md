@@ -1,13 +1,12 @@
 ---
 title: Katherine Runswick-Cole
-description: 英國殘障研究學者，Manchester Metropolitan University教授，神經多樣性政治與身份政治在 neoliberal 語境下的侷限性批判
+description: Katherine Runswick-Cole 是曼徹斯特都市大學殘障研究教授，以批判神經多樣性運動在新自由主義條件下的身份政治侷限而聞名——揭示"我們 vs 他們"框架如何限制運動的解放潛力
 aliases: [Runswick-Cole, Katherine Runswick Cole]
 tags: [author, neurodiversity, critique, political, capitalism, disability]
 sources: [2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Katherine-Runswick-Cole]]
-needs-review: true
+zh-hans: [[wiki/authors\Katherine-Runswick-Cole]]
 ---
 
 # Katherine Runswick-Cole

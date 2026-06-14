@@ -1,12 +1,11 @@
 ---
 title: Alyssa Hillary
-description: 羅德島大學跨學科神經科學博士生，孤獨譜系者，以跨文化溝通類比框架分析跨神經類型溝通的先驅
+description: Alyssa Hillary 是羅德島大學跨學科神經科學博士生，孤獨譜系者，將跨文化溝通的類比框架應用於跨神經類型溝通分析，提出"神經文化性"（neuro-cultural）概念以承認不同神經類型的溝通文化
 aliases: [Alyssa Hillary]
 tags: [author, neurodiversity, autism, communication]
 created: 2026-05-09
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Alyssa-Hillary]]
-needs-review: true
+zh-hans: [[wiki/authors\Alyssa-Hillary]]
 ---
 
 # Alyssa Hillary

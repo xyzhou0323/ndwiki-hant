@@ -1,13 +1,12 @@
 ---
 title: Hanna Bertilsdotter Rosqvist
-description: 瑞典 Södertörn 大學社會學副教授，神經多樣性研究（Neurodiversity Studies）新領域的聯合奠基人，感官研究和孤獨譜系身份政治學者
+description: Hanna Bertilsdotter Rosqvist 是瑞典 Södertörn 大學社會學副教授，首部《神經多樣性研究》編輯卷的聯合主編，以孤獨譜系感官研究、身份政治與 ND Studies 方法論建構著稱
 aliases: [Hanna Bertilsdotter Rosqvist, Bertilsdotter Rosqvist]
 tags: [author, neurodiversity, autism, sociology, methodology]
 created: 2026-05-09
 updated: 2026-05-09
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
-zh-hans: [[wiki/authors/Hanna-Bertilsdotter-Rosqvist]]
-needs-review: true
+zh-hans: [[wiki/authors\Hanna-Bertilsdotter-Rosqvist]]
 ---
 
 # Hanna Bertilsdotter Rosqvist

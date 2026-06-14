@@ -1,13 +1,12 @@
 ---
 title: Quinn Hiroshi Gibson
-description: 美國哲學學者，Clemson 大學哲學與宗教學系助理教授，研究成癮哲學、精神科哲學與神經多樣性
+description: Quinn Hiroshi Gibson 是 Clemson University 哲學與宗教學系助理教授，研究成癮哲學、精神科哲學與神經多樣性，與 Sarah Arnaud 合作將 Peirce 的"實體抽象"概念適用於神經多樣性運動分析
 aliases: [Quinn Hiroshi Gibson, Quinn Gibson, Gibson]
 tags: [author, neurodiversity, methodology]
 sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Quinn-Hiroshi-Gibson]]
-needs-review: true
+zh-hans: [[wiki/authors\Quinn-Hiroshi-Gibson]]
 ---
 
 # Quinn Hiroshi Gibson

@@ -1,13 +1,12 @@
 ---
 title: Li Yi
-description: 北京大學心理學系研究者，孤獨譜系社會信息加工喚起機制綜述第一作者——主張喚起不足與喚起過度共存而非互斥
+description: Li Yi（易莉）是北京大學心理學系研究者，孤獨譜系社會信息加工喚起機制綜述第一作者，主張喚起不足與喚起過度共存而非互斥，因個體、情境和發展階段而異
 aliases: [Li Yi, Yi]
 tags: [author, autism, neurodiversity, review]
 sources: [2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors/Li-Yi]]
-needs-review: true
+zh-hans: [[wiki/authors\Li-Yi]]
 ---
 
 # Li Yi

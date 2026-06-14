@@ -7,8 +7,7 @@ sources: [2026-05-07/NeuroDiversity The Birth of an Idea (Judy Singer) (z-librar
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published."
-zh-hans: [[wiki/works/Singer2017]]
-needs-review: true
+zh-hans: [[wiki/works\Singer2017]]
 ---
 
 # Singer (2017) — 神經多樣性的誕生

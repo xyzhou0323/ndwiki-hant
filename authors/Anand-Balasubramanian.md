@@ -1,12 +1,11 @@
 ---
 title: Anand Balasubramanian
-description: 神經多樣性與全球研究合作研究者，Cheng et al. (2023) 共同作者
+description: Anand Balasubramanian 是神經多樣性與全球研究合作研究者，Cheng et al.（2023）共同作者，參與推動神經多樣性運動非西方中心性的跨國合作研究
 aliases: [Balasubramanian]
 tags: [author, neurodiversity, autism]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Anand-Balasubramanian]]
-needs-review: true
+zh-hans: [[wiki/authors\Anand-Balasubramanian]]
 ---
 
 # Anand Balasubramanian

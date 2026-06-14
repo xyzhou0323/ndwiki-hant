@@ -1,13 +1,12 @@
 ---
 title: Liron Rozenkrantz
-description: MIT 腦與認知科學系研究者，孤獨譜系增強理性（enhanced rationality）系統綜述第一作者——孤獨譜系者比神經典型者更少受七類認知偏誤影響
+description: Liron Rozenkrantz 是 MIT 腦與認知科學系研究者，孤獨譜系增強理性系統綜述的第一作者——發現孤獨譜系者比神經典型者更少受七類認知偏誤影響，將增強理性定位爲認知優勢
 aliases: [Liron Rozenkrantz, Rozenkrantz]
 tags: [author, autism, neurodiversity, review]
 sources: [2026-05-14/Enhanced rationality in autism spectrum disorder.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors/Liron-Rozenkrantz]]
-needs-review: true
+zh-hans: [[wiki/authors\Liron-Rozenkrantz]]
 ---
 
 # Liron Rozenkrantz

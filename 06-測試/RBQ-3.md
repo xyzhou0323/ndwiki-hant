@@ -1,13 +1,12 @@
 ---
 title: RBQ-3
-description: 重複行爲第三版——評估15月齡以上全年齡段個體重複行爲模式的自填和他評工具，由 Jones et al. (2024) 開發
+description: 重複行爲問卷第三版（RBQ-3, Repetitive Behaviour Questionnaire 3）由 Jones et al. (2024) 開發，適用於15月齡以上全年齡段個體，可自評或他評，用於評估重複行爲模式
 aliases: [RBQ-3, RBQ-3 重複行爲問卷, 重複行爲, Repetitive Behaviour Questionnaire 3]
 tags: [test, autism, repetitive-behavior, neurodiversity]
 sources: [Jones et al. 2024]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试/RBQ-3]]
-needs-review: true
+zh-hans: [[wiki/06-测试\RBQ-3]]
 ---
 
 # RBQ-3 重複行爲

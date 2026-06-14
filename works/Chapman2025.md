@@ -6,8 +6,7 @@ tags: [work, neurodiversity, critique]
 sources: [blog-posts/Yes, it really is possible for everyone to be neurodivergent.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/works/Chapman2025]]
-needs-review: true
+zh-hans: [[wiki/works\Chapman2025]]
 ---
 
 # Chapman (2025) — 是的，每個人都可以是神經殊異者
@@ -53,4 +52,4 @@ Chapman 指出，這種論調的真正驅動力並非對概念精確性的學術
 - [[Robert-Chapman]] — 作者頁
 - [[神經殊異]] — 本文論證的核心概念
 - [[神經多樣性範式]] — 本文所基於的理論框架
-- [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 第5章對自我認同問題的擴展討論
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — 第5章對自我認同問題的擴展討論

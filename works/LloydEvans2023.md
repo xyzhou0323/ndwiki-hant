@@ -8,8 +8,7 @@ source: sources/2026-05-21/PAR-Toolkit-v10.pdf
 citation_apa: "Lloyd-Evans, S., Oenga, E., & the Whitley Researchers Core Group. (2023). *Participatory action research: A toolkit*. University of Reading."
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/works/LloydEvans2023]]
-needs-review: true
+zh-hans: [[wiki/works\LloydEvans2023]]
 ---
 
 # Lloyd-Evans (2023) - 參與式行動研究工具包

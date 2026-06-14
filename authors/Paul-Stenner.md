@@ -1,13 +1,12 @@
 ---
 title: Paul Stenner
-description: The Open University 心理學教授，Q 方法學權威——將 Stephenson 的 Q 方法創新性應用於神經多樣性研究，首次以集體反思程序系統識別神經多樣性運動內部的觀點多樣性
+description: Paul Stenner 是 The Open University 心理學教授與 Q 方法學權威，將 Stephenson 的 Q 方法創新性應用於神經多樣性研究，首次以集體反思程序系統識別神經多樣性運動內部的觀點多樣性
 aliases: [Stenner, 保羅·斯坦納]
 tags: [author, neurodiversity, methodology, psychology]
 sources: [2026-05-21/stenner-et-al-2025-using-q-methodology-a-group-of-neurodivergent-neurodiversity-researchers-ask-what-is-the.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/authors/Paul-Stenner]]
-needs-review: true
+zh-hans: [[wiki/authors\Paul-Stenner]]
 ---
 
 # Paul Stenner

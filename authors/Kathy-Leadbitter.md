@@ -1,12 +1,11 @@
 ---
 title: Kathy Leadbitter
-description: 曼徹斯特大學心理學與心理健康系研究員，孤獨譜系干預與神經多樣性肯定式實踐的推動者——PACT 試驗覈心成員，專注於父母介導干預、參與式研究與全球健康
+description: Kathy Leadbitter 是曼徹斯特大學心理學與心理健康系研究員，PACT 試驗覈心成員，超過 18 年孤獨譜系研究經驗，以推動神經多樣性肯定式實踐與全球健康領域的參與式研究著稱
 aliases: [Leadbitter]
 tags: [author, neurodiversity, autism, intervention, participatory-research]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Kathy-Leadbitter]]
-needs-review: true
+zh-hans: [[wiki/authors\Kathy-Leadbitter]]
 ---
 
 # Kathy Leadbitter

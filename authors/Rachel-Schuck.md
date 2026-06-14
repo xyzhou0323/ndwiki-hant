@@ -1,13 +1,12 @@
 ---
 title: Rachel K. Schuck
-description: UC Santa Barbara 研究者，孤獨譜系干預與神經多樣性調和評論第一作者——論證NDBI可彌合早期干預與ND運動之間的鴻溝
+description: Rachel K. Schuck 是 UC Santa Barbara 教育研究者，與 Patrick Dwyer 等合作論證自然發展行爲干預（NDBI）可彌合早期干預與神經多樣性運動之間的鴻溝，爲該調和提出 8 條改善建議
 aliases: [Rachel Schuck, Rachel K. Schuck, Schuck]
 tags: [author, autism, neurodiversity, intervention, applied]
 sources: [2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors/Rachel-Schuck]]
-needs-review: true
+zh-hans: [[wiki/authors\Rachel-Schuck]]
 ---
 
 # Rachel K. Schuck

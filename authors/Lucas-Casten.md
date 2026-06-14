@@ -1,13 +1,12 @@
 ---
 title: Lucas Casten
-description: University of Iowa 遺傳學研究者，首項孤獨譜系高認知能力與自殺意念關聯的大規模遺傳學-表型聯合研究第一作者
+description: Lucas G. Casten 是 University of Iowa 遺傳學研究者，首項大規模遺傳學-表型聯合研究發現高認知能力在孤獨譜系中從保護因素逆轉爲自殺意念風險因素（2e 兒童 OR=5.9）的第一作者
 aliases: [Lucas G. Casten, Lucas Casten, Casten]
 tags: [author, autism, neurodiversity, mental-health]
 sources: [2026-05-14/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors/Lucas-Casten]]
-needs-review: true
+zh-hans: [[wiki/authors\Lucas-Casten]]
 ---
 
 # Lucas Casten

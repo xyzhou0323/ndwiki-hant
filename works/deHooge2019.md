@@ -7,8 +7,7 @@ citation_apa: "de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and 
 sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/works/deHooge2019]]
-needs-review: true
+zh-hans: [[wiki/works\deHooge2019]]
 ---
 
 # de Hooge (2019)—二元男孩：孤獨譜系、阿斯至上主義與後/人文主義規範性

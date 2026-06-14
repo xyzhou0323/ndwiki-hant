@@ -7,8 +7,7 @@ doi: 10.1016/j.reia.2025.202652
 created: 2026-05-08
 updated: 2026-05-08
 citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652"
-zh-hans: [[wiki/works/Srinivasan2025]]
-needs-review: true
+zh-hans: [[wiki/works\Srinivasan2025]]
 ---
 
 # Srinivasan (2025) — 神經多樣性 2.0
@@ -79,7 +78,7 @@ Srinivasan 的核心政策主張：
 ## 與既有神經多樣性框架的關係
 
 - **[[Dwyer2022|Dwyer (2022)]]** 的互動主義/生態模型爲 ND 2.0 提供了核心理論基礎——Srinivasan 的框架可視爲將互動主義邏輯推進到所有社會系統
-- **[[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]]** 的"肯定複雜性"和"將神經規範性政治化"兩條原則在 ND 2.0 中得到跨學科擴展
+- **[[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]]** 的"肯定複雜性"和"將神經規範性政治化"兩條原則在 ND 2.0 中得到跨學科擴展
 - **[[JonesOrchard2024|Jones & Orchard (2024)]]** 對神經中心主義的批判與 ND 2.0 對"神經"前綴的反思一致
 - **[[庸俗版神經多樣性]]** 中批判的企業收編是 ND 2.0 試圖通過主動系統設計來抵抗的趨勢
 - **[[殘障模型]]** 中的生物心理社會模型和 ICF 被 ND 2.0 明確整合爲醫學-社會橋樑
@@ -92,7 +91,7 @@ Srinivasan 是孤獨譜系自倡導者和神經科學研究者——同時處於
 
 - [[Hari-Srinivasan]] — 作者
 - [[Dwyer2022|Dwyer (2022)]] — 互動主義/生態模型的理論基礎
-- [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — ND 2.0 擴展的核心原則
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — ND 2.0 擴展的核心原則
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 神經中心主義批判與 ND 2.0 共享的反思方向
 - [[庸俗版神經多樣性]] — ND 2.0 試圖抵抗的企業收編
 - [[殘障模型]] — 生物心理社會模型與 ICF 被整合爲橋樑

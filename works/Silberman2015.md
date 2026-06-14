@@ -1,14 +1,13 @@
 ---
 title: Silberman (2015) - 神經部落
-description: Steve Silberman (2015) 的著作——孤獨譜系與神經多樣性的全面歷史，從18世紀前診斷時代到21世紀神經多樣性運動，塑造了公衆對神經多樣性的理解
+description: 一部從18世紀前診斷時代到21世紀神經多樣性運動的孤獨譜系與神經多樣性全面歷史——塑造了公衆對神經多樣性的理解，獲2015年Samuel Johnson非虛構獎
 aliases: [NeuroTribes-神經部落, NeuroTribes, 神經部落, NeuroTribes: The Legacy of Autism and the Future of Neurodiversity]
 tags: [work, neurodiversity, autism, historical, foundational]
 sources: [2026-05-07/《神經部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Silberman, S. (2015). NeuroTribes: The legacy of autism and the future of neurodiversity. Avery/Penguin Random House."
-zh-hans: [[wiki/works/Silberman2015]]
-needs-review: true
+zh-hans: [[wiki/works\Silberman2015]]
 ---
 
 # Silberman (2015) — 神經部落
@@ -98,7 +97,7 @@ Temple Grandin 1989年在 Chapel Hill 的公開演講——作爲最早公開自
 - [[Steve-Silberman]] — 作者
 - [[神經多樣性運動]] — 該書詳細敘述了從 Kanner 時代到神經多樣性運動的歷史，但其中的"概念起源"部分已被 Botha 等（2024）修正
 - [[BothaEtAl2024|Botha et al. (2024)]] — 對書中"Judy Singer 創造術語"敘事的學術修正
-- [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — Chapman & Fletcher-Watson 的更系統化學術介紹（2025）
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — Chapman & Fletcher-Watson 的更系統化學術介紹（2025）
 - [[Chapman2023|Chapman (2023)]] — Chapman 對常態的系統性批判
 - [[雙向同理心問題]] — Milton 2012 的概念，在 NeuroTribes 出版時尚未被充分整合
 - [[神經多樣性與資本主義]] — Silberman 樂觀的技術賦權敘事 vs 結構性批判

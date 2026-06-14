@@ -1,12 +1,11 @@
 ---
 title: Ari Ne'eman
-description: 孤獨譜系自倡導者，ASAN 聯合創始人與創始主席，神經多樣性運動政治領導者與 DSM-5 遊說者
+description: Ari Ne'eman 是孤獨譜系自倡導者與政治領導者，ASAN（Autistic Self Advocacy Network）聯合創始人與創始主席，以 DSM-5 遊說和孤獨症政策倡導深刻塑造了神經多樣性運動的政治方向
 aliases: [Ari Ne'eman, Ari Neeman, Ne'eman, 阿里·內曼]
 tags: [author, neurodiversity, autism, activist, foundational]
 created: 2026-05-08
 updated: 2026-05-10
-zh-hans: [[wiki/authors/Ari-Ne'eman]]
-needs-review: true
+zh-hans: [[wiki/authors\Ari-Ne'eman]]
 ---
 
 # Ari Ne'eman

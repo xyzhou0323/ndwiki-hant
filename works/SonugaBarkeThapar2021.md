@@ -7,8 +7,7 @@ sources: [2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_s
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561."
-zh-hans: [[wiki/works/SonugaBarkeThapar2021]]
-needs-review: true
+zh-hans: [[wiki/works\SonugaBarkeThapar2021]]
 ---
 
 # Sonuga-Barke & Thapar (2021) — 神經多樣性概念對臨牀醫生和科學家是否有幫助？

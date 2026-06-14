@@ -1,12 +1,11 @@
 ---
 title: EDA-QA
-description: 成人極端要求迴避——評估成年孤獨譜系個體 PDA 特徵的自填工具
+description: 成人極端要求迴避（EDA-QA, Extreme Demand Avoidance Questionnaire – Adult）是一份自填工具，用於評估成年孤獨譜系個體的 PDA（極端/廣泛性要求迴避）特徵
 aliases: [EDA-QA, 成人要求迴避, 成人PDA, Extreme Demand Avoidance Questionnaire Adult]
 tags: [test, autism, PDA, demand-avoidance, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-14
-zh-hans: [[wiki/06-测试/EDA-QA]]
-needs-review: true
+zh-hans: [[wiki/06-测试\EDA-QA]]
 ---
 
 # EDA-QA 成人要求迴避

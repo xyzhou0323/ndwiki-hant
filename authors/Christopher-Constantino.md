@@ -1,12 +1,11 @@
 ---
 title: Christopher Constantino
-description: 言語-語言病理學家（CCC-SLP），將神經多樣性範式系統應用於口吃治療的先驅，Constantino (2018) 作者
+description: Christopher Constantino 是言語-語言病理學家（CCC-SLP），將神經多樣性範式系統應用於口吃治療的先驅，主張治療目標應以主觀福祉（言語輕鬆度）而非正常化（流利度）爲核心
 aliases: [Christopher-Constantino, Christopher D. Constantino, Constantino]
 tags: [author, neurodiversity, stuttering]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Christopher-Constantino]]
-needs-review: true
+zh-hans: [[wiki/authors\Christopher-Constantino]]
 ---
 
 # Christopher Constantino

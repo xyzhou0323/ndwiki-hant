@@ -1,12 +1,11 @@
 ---
 title: Alan Jurgens
-description: 伍倫貢大學哲學博士生，將生成主義（enactivism）與社會模型路徑整合應用於孤獨譜系與神經多樣性研究
+description: Alan Jurgens 是澳大利亞伍倫貢大學哲學博士生，將生成主義（enactivism）與社會模型路徑整合應用於孤獨譜系研究，批判傳統認知主義將孤獨譜系差異框架化爲"心智閱讀缺陷"的神經規範性預設
 aliases: [Alan Jurgens]
 tags: [author, neurodiversity, autism, philosophy, enactivism]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Alan-Jurgens]]
-needs-review: true
+zh-hans: [[wiki/authors\Alan-Jurgens]]
 ---
 
 # Alan Jurgens

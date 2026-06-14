@@ -1,24 +1,15 @@
 ---
 title: AQ-Child
-description: 兒童版孤獨譜系商數（AQ-Child）——Auyeung 等人於2008年開發的50題教育者報告量表，評估4-11歲兒童的孤獨譜系特徵，改編自成人版和青少年版AQ，包含五個子維度
-aliases:
-  - AQ-Child
-  - 孤獨譜系商數兒童版
-  - AQ兒童版
-  - AQ-兒童
-  - Autism Spectrum Quotient Children's Version
-tags:
-  - test
-  - autism
-  - neurodiversity
+description: 兒童版孤獨譜系商數（AQ-Child, Autism Spectrum Quotient Children's Version）是 Auyeung 等人於2008年開發的50題教育者報告量表，用於評估4-11歲兒童的孤獨譜系特徵，改編自成人版和青少年版AQ，涵蓋五個子維度
+aliases: [AQ-Child, 孤獨譜系商數兒童版, AQ兒童版, AQ-兒童, Autism Spectrum Quotient Children's Version]
+tags: [test, autism, neurodiversity]
 sources:
   - Auyeung et al. 2008
   - Baker et al. 2025
   - Jacobson & Truax 1991
 created: 2026-05-20
 updated: 2026-05-20
-zh-hans: [[wiki/06-测试/AQ-Child]]
-needs-review: true
+zh-hans: [[wiki/06-测试\AQ-Child]]
 ---
 
 # AQ-Child
@@ -126,11 +117,11 @@ AQ-Child 具有良好的心理測量學特性（Auyeung et al., 2008）：
 
 AQ-Child 與另兩個 AQ 版本共享相同的五維度結構和 50 題設計，但適用對象和填寫方式不同：
 
-| 版本                   | 年齡      | 填寫方式  | 開發                        |
-| -------------------- | ------- | ----- | ------------------------- |
-| **AQ-Child**         | 4-11 歲  | 教育者報告 | Auyeung et al. (2008)     |
-| [[AQ-Adol|AQ-Adol]] | 12-15 歲 | 教育者報告 | Baron-Cohen et al. (2006) |
-| [[AQ|AQ]]           | 16 歲及以上 | 自填    | Baron-Cohen et al. (2001) |
+| 版本                  | 年齡      | 填寫方式  | 開發                        |
+| ------------------- | ------- | ----- | ------------------------- |
+| **AQ-Child**        | 4-11 歲  | 教育者報告 | Auyeung et al. (2008)     |
+| [[AQ-Adol\|AQ-Adol]] | 12-15 歲 | 教育者報告 | Baron-Cohen et al. (2006) |
+| [[AQ\|AQ]]          | 16 歲及以上 | 自填    | Baron-Cohen et al. (2001) |
 
 ## Related
 

@@ -1,14 +1,13 @@
 ---
 title: Zaneva et al. (2024) - 神經多樣性導論：一份帶註釋的閱讀清單
-description: 由神經多元化研究者團隊協作開發的帶註釋閱讀清單，涵蓋神經多樣性的歷史與當代理解的 9 個主題，面向希望理解關鍵概念並推動更嚴謹、去污名化、可及且包容的科研實踐的研究者與教育者
+description: 由神經多元化研究者團隊協作開發的帶註釋閱讀清單——涵蓋神經多樣性的歷史與當代理解的 9 個主題，面向希望理解關鍵概念並推動更嚴謹、去污名化、可及且包容的科研實踐的研究者與教育者
 aliases: [Introduction to Neurodiversity: An Annotated Reading List, ZanevaEtAl2024]
 tags: [work, neurodiversity, foundational]
 sources: [2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md]
 created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. https://doi.org/10.31234/osf.io/ugkxp"
-zh-hans: [[wiki/works/ZanevaEtAl2024]]
-needs-review: true
+zh-hans: [[wiki/works\ZanevaEtAl2024]]
 ---
 
 # Zaneva et al. (2024) — 神經多樣性導論：一份帶註釋的閱讀清單

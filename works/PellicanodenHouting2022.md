@@ -8,8 +8,7 @@ doi: 10.1111/jcpp.13534
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534"
-zh-hans: [[wiki/works/PellicanodenHouting2022]]
-needs-review: true
+zh-hans: [[wiki/works\PellicanodenHouting2022]]
 ---
 
 # Pellicano & den Houting (2022) — 從"常規科學"轉向孤獨譜系科學中的神經多樣性

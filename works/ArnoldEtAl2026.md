@@ -8,8 +8,7 @@ doi: 10.1177/13623613261420085
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflaging and autism: Conceptualisation and methodological issues. Autism, 30(5), 1131–1146. https://doi.org/10.1177/13623613261420085"
-zh-hans: [[wiki/works/ArnoldEtAl2026]]
-needs-review: true
+zh-hans: [[wiki/works\ArnoldEtAl2026]]
 ---
 
 # Arnold et al. (2026) — 掩飾的概念化與方法論問題

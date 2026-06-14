@@ -1,11 +1,10 @@
 ---
 title: Shain M. Neumeier
-description: 孤獨譜系倡導者、作家，2018 年首次提出「庸俗版神經多樣性」（neurodiversity-lite）術語——對表面採納神經多樣性語言而不深入其核心原則的批判
+description: Shain M. Neumeier 是孤獨譜系倡導者與作家，2018 年首次提出"庸俗版神經多樣性"（neurodiversity-lite）術語——對錶面採納神經多樣性語言而不深入其核心原則的批判，該概念後由 Robert Chapman 系統發展
 aliases: [Shain Neumeier]
 tags: [person, author, activist]
 created: 2026-05-08
-zh-hans: [[wiki/authors/Shain-M-Neumeier]]
-needs-review: true
+zh-hans: [[wiki/authors\Shain-M-Neumeier]]
 ---
 
 # Shain M. Neumeier

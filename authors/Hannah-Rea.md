@@ -1,13 +1,12 @@
 ---
 title: Hannah M. Rea
-description: University of Washington 精神病學與行爲科學系研究員，2024 年性別多樣性與孤獨譜系交叉範圍綜述第一作者
+description: Hannah M. Rea 是華盛頓大學精神病學與行爲科學系研究員，2024 年性別多樣性與孤獨譜系交叉更新範圍綜述的第一作者，覆蓋 2018-2024 年 99 項實證研究
 aliases: [Hannah Rea, Rea]
 tags: [author, autism, neurodiversity]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
 created: 2026-06-06
 updated: 2026-06-06
-zh-hans: [[wiki/authors/Hannah-Rea]]
-needs-review: true
+zh-hans: [[wiki/authors\Hannah-Rea]]
 ---
 
 # Hannah M. Rea

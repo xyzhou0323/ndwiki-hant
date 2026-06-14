@@ -7,8 +7,7 @@ authors: [Rachel K. Schuck, Daina M. Tagavi, Kaitlynn M. P. Baiden, Patrick Dwye
 source: sources/2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/works/SchuckEtAl2022]]
-needs-review: true
+zh-hans: [[wiki/works\SchuckEtAl2022]]
 ---
 
 # Schuck et al. (2022) - 神經多樣性與孤獨譜系干預

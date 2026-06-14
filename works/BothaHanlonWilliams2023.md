@@ -6,8 +6,7 @@ tags: [work, neurodiversity, autism, language, stigma, identity]
 created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. Journal of Autism and Developmental Disorders, 53(2), 870–878. https://doi.org/10.1007/s10803-020-04858-w"
-zh-hans: [[wiki/works/BothaHanlonWilliams2023]]
-needs-review: true
+zh-hans: [[wiki/works\BothaHanlonWilliams2023]]
 ---
 
 # Botha et al. (2023) — 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用

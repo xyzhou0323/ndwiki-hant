@@ -1,12 +1,11 @@
 ---
 title: Mahmoud M. Elsherif
-description: 伯明翰大學與萊斯特大學研究員，FORRT 神經多樣性團隊領導者，Zaneva et al. (2024) 共同資深作者
+description: Mahmoud M. Elsherif 是伯明翰大學與萊斯特大學研究員，FORRT 神經多樣性團隊領導者，Zaneva et al.（2024）神經多樣性導論注讀清單的共同資深作者，聚焦閱讀障礙與口吃的加工機制
 aliases: [Mahmoud-M-Elsherif, Mahmoud Elsherif, Elsherif]
 tags: [author, neurodiversity]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors/Mahmoud-M-Elsherif]]
-needs-review: true
+zh-hans: [[wiki/authors\Mahmoud-M-Elsherif]]
 ---
 
 # Mahmoud M. Elsherif

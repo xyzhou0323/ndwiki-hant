@@ -8,8 +8,7 @@ doi: 10.1177/13623613241273029
 created: 2026-05-08
 updated: 2026-05-08
 citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029"
-zh-hans: [[wiki/works/Dwyer2025]]
-needs-review: true
+zh-hans: [[wiki/works\Dwyer2025]]
 ---
 
 # Dwyer et al. (2025) — 社區對神經多樣性、殘障模式與孤獨譜系干預的看法
@@ -180,6 +179,6 @@ NDM 支持與以下立場相關：
 - [[神經殊異#與神經少數的關係|神經少數]] — 孤獨譜系家長羣體的數據支持少數羣體自主權
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 本文引用的神經多樣性多重內涵的理論來源
 - [[Hughes2021|Hughes (2021)]] — 本文直接回應了 Hughes 對強 SM 的批評
-- [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]] — 常態範式/神經多樣性範式的概念框架
+- [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — 常態範式/神經多樣性範式的概念框架
 - [[Steven-Kapp]] — 共同第二作者
 - [[雙向同理心問題]] — 適應技能教學與互動夥伴共同進行的理論依據

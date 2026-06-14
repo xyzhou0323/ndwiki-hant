@@ -1,12 +1,11 @@
 ---
 title: Nick Chown
-description: 獨立孤獨譜系研究者，書籍索引師，神經多樣性研究（Neurodiversity Studies）新領域的聯合奠基人，Wittgenstein 語言遊戲方法應用於孤獨譜系病理化分析
+description: Nick Chown 是獨立孤獨譜系研究者與書籍索引師，首部《神經多樣性研究》編輯卷的聯合主編，將 Wittgenstein 語言遊戲概念應用於分析孤獨譜系如何通過神經典型語言實踐被建構爲病理
 aliases: [Nick Chown]
 tags: [author, neurodiversity, autism, philosophy, methodology]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors/Nick-Chown]]
-needs-review: true
+zh-hans: [[wiki/authors\Nick-Chown]]
 ---
 
 # Nick Chown

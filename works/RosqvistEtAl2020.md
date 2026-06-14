@@ -1,6 +1,6 @@
 ---
 title: Rosqvist et al. (2020) - 神經多樣性研究：一種新的批判範式
-description: 首部提出"神經多樣性研究"作爲新學術領域的編輯卷，彙集社會學、批判心理學、批判醫學人文、殘障研究和批判孤獨譜系研究，16 章跨 6 大主題
+description: 首部提出"神經多樣性研究"作爲新學術領域的編輯卷——彙集社會學、批判心理學、批判醫學人文、殘障研究和批判孤獨譜系研究，16 章跨 6 大主題
 aliases: [Neurodiversity Studies: A New Critical Paradigm, RosqvistEtAl2020, RosqvistEtAl2020-神經多樣性研究]
 tags: [work, neurodiversity, foundational, critique, methodology]
 sources: [2026-05-09/0051276.pdf]
@@ -9,8 +9,7 @@ updated: 2026-05-09
 citation_apa: "Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge."
 doi: 
 isbn: 978-0-367-33831-2
-zh-hans: [[wiki/works/RosqvistEtAl2020]]
-needs-review: true
+zh-hans: [[wiki/works\RosqvistEtAl2020]]
 ---
 
 # Rosqvist et al. (2020) — 神經多樣性研究：一種新的批判範式

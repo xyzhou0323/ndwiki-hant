@@ -1,6 +1,6 @@
 ---
 title: Pearson et al. (2026) - 就像把矮個子叫做"垂直挑戰者"：英國神經殊異成人的語言與術語偏好
-description: 首項跨神經發育類型的術語偏好混合方法研究（n=902），發現IFL在多數類別中顯著更受歡迎和較少冒犯（Tourette和口吃除外），兩主題分析：外部標籤的不充分與污名化、社羣內部的體驗與主體性
+description: 首項跨神經發育類型的術語偏好混合方法研究（n=902）——發現身份優先語言在多數類別中顯著更受歡迎和較少冒犯（Tourette與口吃除外），揭示外部標籤的不充分與污名化、社羣內部的體驗與主體性兩大主題
 aliases: [Pearson et al. 2026, Pearson2026]
 tags: [work, neurodiversity, autism, critique]
 citation_apa: "Pearson, A., Grant, A., Leigh, J., Macdonald, S. J., Williams, K., Williams, G., Spaeth, E., Rose, K., Memmott, A., & Botha, M. (2026). 'It's like calling short people vertically challenged': Language and terminology preferences among neurodivergent adults in the United Kingdom. Neurodiversity, 4, 1–16. https://doi.org/10.1177/27546330261428235"
@@ -8,8 +8,7 @@ authors: [Amy Pearson, Aimee Grant, Jennifer Leigh, Stephen J Macdonald, Kathryn
 sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/works/PearsonEtAl2026]]
-needs-review: true
+zh-hans: [[wiki/works\PearsonEtAl2026]]
 ---
 
 # Pearson et al. (2026) - 就像把矮個子叫做"垂直挑戰者"：英國神經殊異成人的語言與術語偏好

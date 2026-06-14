@@ -1,13 +1,12 @@
 ---
 title: Debbie Spain
-description: King's College London 研究者，專注於孤獨譜系成人心理健康與鑑別診斷
+description: Debbie Spain 是倫敦國王學院 IoPPN 研究者，專注於孤獨譜系成人心理健康與鑑別診斷，參與首項共制 Delphi 法孤獨譜系、依戀障礙與 CPTSD 鑑別診斷共識研究
 aliases: [Debbie Spain, Spain]
 tags: [author, autism, neurodiversity, mental-health]
 sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
 created: 2026-05-17
 updated: 2026-05-17
-zh-hans: [[wiki/authors/Debbie-Spain]]
-needs-review: true
+zh-hans: [[wiki/authors\Debbie-Spain]]
 ---
 
 # Debbie Spain
