@@ -7,6 +7,7 @@ created: 2026-05-09
 updated: 2026-05-09
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
 zh-hans: [[wiki/authors\Hanna-Bertilsdotter-Rosqvist]]
+needs-review: true
 ---
 
 # Hanna Bertilsdotter Rosqvist

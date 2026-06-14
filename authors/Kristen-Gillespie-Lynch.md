@@ -5,6 +5,7 @@ aliases: [Kristen Gillespie-Lynch, Kristen Lynch]
 tags: [person, researcher, autism, neurodiversity]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Kristen-Gillespie-Lynch]]
+needs-review: true
 ---
 
 # Kristen Gillespie-Lynch

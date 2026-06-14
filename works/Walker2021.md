@@ -8,6 +8,7 @@ created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press."
 zh-hans: [[wiki/works\Walker2021]]
+needs-review: true
 ---
 
 # Walker (2021) — 神經酷兒異端

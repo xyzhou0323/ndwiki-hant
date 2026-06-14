@@ -8,6 +8,7 @@ created: 2026-05-07
 updated: 2026-05-09
 citation_apa: "Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press."
 zh-hans: [[wiki/works\Chapman2023]]
+needs-review: true
 ---
 
 # Chapman (2023) — 正常帝國

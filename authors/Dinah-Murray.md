@@ -5,6 +5,7 @@ aliases: [Dinah Murray]
 tags: [person, researcher, autism, monotropism]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Dinah-Murray]]
+needs-review: true
 ---
 
 # Dinah Murray

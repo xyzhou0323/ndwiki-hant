@@ -9,6 +9,7 @@ updated: 2026-05-10
 citation_apa: "Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. Developmental Psychology, 49(1), 59–71. https://doi.org/10.1037/a0028353"
 doi: 10.1037/a0028353
 zh-hans: [[wiki/works\KappEtAl2012]]
+needs-review: true
 ---
 
 # Kapp et al. (2012) — 缺陷、差異，還是兩者兼具？孤獨譜系與神經多樣性

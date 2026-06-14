@@ -6,6 +6,7 @@ tags: [test, ADHD, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
 zh-hans: [[wiki/06-测试\ACOS]]
+needs-review: true
 ---
 
 # ACOS ADHD 臨牀結果量表

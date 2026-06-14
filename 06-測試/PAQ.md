@@ -7,6 +7,7 @@ sources: [Preece et al. 2018]
 created: 2026-05-08
 updated: 2026-05-09
 zh-hans: [[wiki/06-测试\PAQ]]
+needs-review: true
 ---
 
 # PAQ 珀斯述情障礙問卷

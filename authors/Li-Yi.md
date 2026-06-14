@@ -7,6 +7,7 @@ sources: [2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousa
 created: 2026-05-18
 updated: 2026-05-18
 zh-hans: [[wiki/authors\Li-Yi]]
+needs-review: true
 ---
 
 # Li Yi

@@ -8,6 +8,7 @@ sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of
 created: 2026-05-12
 updated: 2026-05-12
 zh-hans: [[wiki/works\Barnes2016]]
+needs-review: true
 ---
 
 # Barnes (2016) — 少數身體：一種殘障理論

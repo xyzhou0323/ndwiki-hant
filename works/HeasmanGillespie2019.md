@@ -11,6 +11,7 @@ authors:
   - Brett-Heasman
   - Alex-Gillespie
 zh-hans: [[wiki/works\HeasmanGillespie2019]]
+needs-review: true
 ---
 
 # Heasman & Gillespie (2019) — 神經殊異交互主體性

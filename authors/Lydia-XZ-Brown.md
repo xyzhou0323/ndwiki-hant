@@ -5,6 +5,7 @@ aliases: [Lydia XZ Brown, Lydia X. Z. Brown, Lydia-Brown]
 tags: [person, activist, neurodiversity, disability-rights]
 created: 2026-05-08
 zh-hans: [[wiki/authors\Lydia-XZ-Brown]]
+needs-review: true
 ---
 
 # Lydia X. Z. Brown

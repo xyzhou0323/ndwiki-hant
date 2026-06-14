@@ -9,6 +9,7 @@ updated: 2026-05-09
 citation_apa: "Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote 'passing'. AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569"
 doi: 10.1001/amajethics.2021.569
 zh-hans: [[wiki/works\Neeman2021]]
+needs-review: true
 ---
 
 # Ne'eman (2021) — 當殘障由行爲定義時，結果測量不應鼓勵"扮裝"

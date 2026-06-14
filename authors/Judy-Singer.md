@@ -7,6 +7,7 @@ sources: [2026-05-07/NeuroDiversity The Birth of an Idea (Judy Singer) (z-librar
 created: 2026-05-07
 updated: 2026-05-09
 zh-hans: [[wiki/authors\Judy-Singer]]
+needs-review: true
 ---
 
 # Judy Singer

@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism, language, linguistics]
 created: 2026-06-10
 updated: 2026-06-10
 zh-hans: [[wiki/authors\Gemma-Williams]]
+needs-review: true
 ---
 
 # Gemma Louise Williams

@@ -7,6 +7,7 @@ sources: [Ritvo et al. 2011, NovoPsych 2025, Hegarty et al. 2025]
 created: 2026-05-08
 updated: 2026-05-11
 zh-hans: [[wiki/06-测试\RAADS-R]]
+needs-review: true
 ---
 
 # RAADS-R 孤獨譜系量表

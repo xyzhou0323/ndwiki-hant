@@ -9,6 +9,7 @@ created: 2026-05-15
 updated: 2026-05-15
 citation_apa: "Mantzalas, J., Richdale, A. L., Li, X., & Dissanayake, C. (2024). Measuring and validating autistic burnout. Autism Research, 17(7), 1417–1449. https://doi.org/10.1002/aur.3129"
 zh-hans: [[wiki/works\MantzalasEtAl2024]]
+needs-review: true
 ---
 
 # Mantzalas et al. (2024) — 測量與驗證孤獨譜系倦怠

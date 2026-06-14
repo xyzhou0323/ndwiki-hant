@@ -7,6 +7,7 @@ sources: [2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf,
 created: 2026-05-18
 updated: 2026-05-18
 zh-hans: [[wiki/04-体验与实践\ND范式与补充替代疗法]]
+needs-review: true
 ---
 
 # ND範式與有害補充替代療法的避免

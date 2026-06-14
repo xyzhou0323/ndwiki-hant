@@ -7,6 +7,7 @@ sources: [2026-05-21/stenner-et-al-2025-using-q-methodology-a-group-of-neurodive
 created: 2026-05-21
 updated: 2026-05-21
 zh-hans: [[wiki/authors\Paul-Stenner]]
+needs-review: true
 ---
 
 # Paul Stenner

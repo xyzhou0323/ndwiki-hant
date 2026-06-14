@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism, language]
 created: 2026-06-10
 updated: 2026-06-10
 zh-hans: [[wiki/authors\Jacqueline-Hanlon]]
+needs-review: true
 ---
 
 # Jacqueline Hanlon

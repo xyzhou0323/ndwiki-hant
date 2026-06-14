@@ -8,6 +8,7 @@ created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. https://doi.org/10.31234/osf.io/ugkxp"
 zh-hans: [[wiki/works\ZanevaEtAl2024]]
+needs-review: true
 ---
 
 # Zaneva et al. (2024) — 神經多樣性導論：一份帶註釋的閱讀清單

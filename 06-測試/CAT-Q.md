@@ -7,6 +7,7 @@ sources: [Hull et al. 2019, Hull et al. 2020, Baker et al. 2024]
 created: 2026-05-08
 updated: 2026-05-11
 zh-hans: [[wiki/06-测试\CAT-Q]]
+needs-review: true
 ---
 
 # CAT-Q

@@ -7,6 +7,7 @@ sources: [2026-05-07/正常帝國-Empire of Normality (Robert Chapman).epub]
 created: 2026-05-07
 updated: 2026-05-07
 zh-hans: [[wiki/authors\Francis-Galton]]
+needs-review: true
 ---
 
 # Francis Galton

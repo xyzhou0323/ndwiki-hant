@@ -10,6 +10,7 @@ citation_apa: "Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (20
 doi: 
 isbn: 978-0-367-33831-2
 zh-hans: [[wiki/works\RosqvistEtAl2020]]
+needs-review: true
 ---
 
 # Rosqvist et al. (2020) — 神經多樣性研究：一種新的批判範式

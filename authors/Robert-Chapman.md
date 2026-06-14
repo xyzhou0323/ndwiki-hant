@@ -7,6 +7,7 @@ sources: [books/正常帝國-Empire of Normality (Robert Chapman).epub, books/�
 created: 2026-05-07
 updated: 2026-05-11
 zh-hans: [[wiki/authors\Robert-Chapman]]
+needs-review: true
 ---
 
 # Robert Chapman

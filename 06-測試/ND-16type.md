@@ -7,6 +7,7 @@ sources: [Dwyer 2022, Srinivasan 2025]
 created: 2026-05-08
 updated: 2026-05-09
 zh-hans: [[wiki/06-测试\ND-16type]]
+needs-review: true
 ---
 
 # ND-16type 神經多樣性態度類型測試

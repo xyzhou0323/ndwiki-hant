@@ -7,6 +7,7 @@ sources: [2026-05-14/What-is-PDA-booklet-website-v2.1.pdf]
 created: 2026-05-14
 updated: 2026-05-14
 zh-hans: [[wiki/05-诊断与现象\PDA]]
+needs-review: true
 ---
 
 # 廣泛性要求迴避

@@ -9,6 +9,7 @@ created: 2026-05-12
 updated: 2026-05-12
 citation_apa: "Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. HTS Teologiese Studies/Theological Studies, 74(1), a4738. https://doi.org/10.4102/hts.v74i1.4738"
 zh-hans: [[wiki/works\RetiefLetsosa2018]]
+needs-review: true
 ---
 
 # Retief & Letsosa (2018) — 殘障模型概述

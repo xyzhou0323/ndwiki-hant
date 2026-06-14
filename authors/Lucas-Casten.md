@@ -7,6 +7,7 @@ sources: [2026-05-14/The combination of autism and exceptional cognitive ability
 created: 2026-05-18
 updated: 2026-05-18
 zh-hans: [[wiki/authors\Lucas-Casten]]
+needs-review: true
 ---
 
 # Lucas Casten

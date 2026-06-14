@@ -7,6 +7,7 @@ sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-verticall
 created: 2026-05-21
 updated: 2026-05-21
 zh-hans: [[wiki/authors\Amy-Pearson]]
+needs-review: true
 ---
 
 # Amy Pearson

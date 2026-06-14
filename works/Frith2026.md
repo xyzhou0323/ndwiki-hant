@@ -7,6 +7,7 @@ sources: [articles/Uta Frith why I no longer think autism is a spectrum.md]
 created: 2026-05-10
 updated: 2026-05-10
 zh-hans: [[wiki/works\Frith2026]]
+needs-review: true
 ---
 
 # Frith (2026) — 爲什麼我不再認爲孤獨譜系是一個譜系

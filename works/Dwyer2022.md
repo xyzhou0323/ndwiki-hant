@@ -9,6 +9,7 @@ created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 zh-hans: [[wiki/works\Dwyer2022]]
+needs-review: true
 ---
 
 # Dwyer (2022) — 神經多樣性方法羣

@@ -6,6 +6,7 @@ tags: [author, neurodiversity, autism, activist, foundational]
 created: 2026-05-08
 updated: 2026-05-10
 zh-hans: [[wiki/authors\Ari-Ne'eman]]
+needs-review: true
 ---
 
 # Ari Ne'eman

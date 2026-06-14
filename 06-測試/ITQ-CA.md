@@ -6,6 +6,7 @@ tags: [test, trauma, PTSD, CPTSD, children, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
 zh-hans: [[wiki/06-测试\ITQ-CA]]
+needs-review: true
 ---
 
 # ITQ-CA 創傷問卷兒童青少年版

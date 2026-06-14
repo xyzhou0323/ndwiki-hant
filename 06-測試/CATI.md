@@ -7,6 +7,7 @@ sources: [English et al. 2021, English et al. 2024]
 created: 2026-05-08
 updated: 2026-05-11
 zh-hans: [[wiki/06-测试\CATI]]
+needs-review: true
 ---
 
 # CATI 全面孤獨譜系特徵量表

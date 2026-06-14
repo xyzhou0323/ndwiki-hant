@@ -8,6 +8,7 @@ created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published."
 zh-hans: [[wiki/works\Singer2017]]
+needs-review: true
 ---
 
 # Singer (2017) — 神經多樣性的誕生

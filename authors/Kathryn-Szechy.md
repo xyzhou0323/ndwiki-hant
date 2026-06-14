@@ -7,6 +7,7 @@ sources: [2026-05-09/aut.2023.0046.pdf]
 created: 2026-05-09
 updated: 2026-05-09
 zh-hans: [[wiki/authors\Kathryn-Szechy]]
+needs-review: true
 ---
 
 # Kathryn A. Szechy
