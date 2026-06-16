@@ -12,7 +12,7 @@ needs-review: true
 
 # Laura Tisoncik
 
-孤獨譜系活動家，神經多樣性運動早期的創造性抗爭者。1998 年聯合創建諷刺網站"神經典型研究所"（Institute for the Study of the Neurologically Typical, ISNT），以臨牀工作者和研究者慣用的病理學語言描述"神經典型障礙"——將醫學凝視反向投向那些被視爲"正常"的人。
+孤獨譜系活動家，神經多樣性運動早期的創造性抗爭者。1998 年聯合創建諷刺網站"[神經典型研究所]([Institute for the Study of the Neurologically Typical](http://web.archive.org/web/20101225092135/http://isnt.autistics.org/index.html))"（Institute for the Study of the Neurologically Typical, ISNT），以臨牀工作者和研究者慣用的病理學語言描述"神經典型障礙"——將醫學凝視反向投向那些被視爲"正常"的人。
 
 ## ISNT：顛倒凝視的創造性抗爭
 
@@ -24,7 +24,7 @@ ISNT 成爲 1990 年代孤獨譜系在線社羣中廣爲流傳的文化符號，
 
 ## 在神經多樣性運動史中的位置
 
-Tisoncik 代表了神經多樣性運動早期的一個關鍵特徵：**在制度化倡導（如 ANI、ASAN）之外，以文化諷喻和話語顛覆爲手段的抗爭形式**。ISNT 的存在提醒後來的研究者：神經多樣性運動從來不是單一的——它包含了從政治宣言（[[Jim-Sinclair]] 的 [[Sinclair1993|Don't Mourn for Us]]）到學術理論（[[Robert-Chapman]] 的批判神經多樣性）再到文化諷喻（ISNT）的多元實踐譜系。
+Tisoncik 代表了神經多樣性運動早期的一個關鍵特徵：**在制度化倡導（如 ANI、[ASAN](https://autisticadvocacy.org/)）之外，以文化諷喻和話語顛覆爲手段的抗爭形式**。ISNT 的存在提醒後來的研究者：神經多樣性運動從來不是單一的——它包含了從政治宣言（[[Jim-Sinclair]] 的 [[Sinclair1993|Don't Mourn for Us]]）到學術理論（[[Robert-Chapman]] 的批判神經多樣性）再到文化諷喻（ISNT）的多元實踐譜系。
 
 ## Related
 - [[Harvey-Blume]] — 1998 年文章中報道了 ISNT，將其作爲概念社羣起源的證據

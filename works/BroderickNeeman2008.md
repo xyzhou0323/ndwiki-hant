@@ -70,7 +70,7 @@ needs-review: true
 **反敘事：孤獨症作爲神經多樣性**
 - 將接受種族、宗教等差異的範式擴展至神經學領域
 - 孤獨症被定位於社會/文化/政治話語中，而非純粹的醫學和疾病語言
-- 代表性組織：ASAN、ANI、AUTCOM、Autism Acceptance Project、Aspies for Freedom
+- 代表性組織：[ASAN](https://autisticadvocacy.org/)、ANI、AUTCOM、Autism Acceptance Project、Aspies for Freedom
 
 ### 隱喻的政治經濟學
 
@@ -108,7 +108,7 @@ Ari Ne'eman 提出雙軌策略：
 
 1. **Foucault 框架的系統運用**：將孤獨症話語鬥爭概念化爲 Foucault 意義上的"真理地位的戰鬥"
 2. **隱喻的政治經濟學分析**：揭示隱喻並非中立的修辭選擇，而是權力/知識生產的一環
-3. **ASAN 創始人與學者的合作**：Broderick（非孤獨譜系學者-盟友）與 Ne'eman（孤獨譜系自倡導者-ASAN 主席）的跨神經類型合作
+3. **[ASAN](https://autisticadvocacy.org/) 創始人與學者的合作**：Broderick（非孤獨譜系學者-盟友）與 Ne'eman（孤獨譜系自我倡權者-ASAN 主席）的跨神經類型合作
 4. **身份優先語言的政治**：論文主動使用"autistic person"而非"person with autism"，並在註釋中闡述了語言學政治理由
 5. **運動史檔案價值**：記錄了 2008 年前後的運動狀態——包括早期的 Aspergia 神話、ANI 的全譜系方法轉向等歷史細節
 

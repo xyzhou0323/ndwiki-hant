@@ -21,6 +21,6 @@ needs-review: true
 
 ## Related
 
-- [[Dora-Raymaker]] — AASPIRE 團隊核心成員，ABM 開發者
+- [[Dora-Raymaker]] — [AASPIRE](https://aaspire.org/) 團隊核心成員，ABM 開發者
 - [[Raymaker2020|Raymaker et al. (2020)]] — ABM 的質性開發基礎
 - [[孤獨譜系倦怠]] — 核心研究主題

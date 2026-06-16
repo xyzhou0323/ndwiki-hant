@@ -25,16 +25,16 @@ needs-review: true
 
 ## 研究團隊
 
-十位作者中九位自我認同爲孤獨譜系者——本文是"Nothing About Us Without Us"原則在學術研究中的典範實踐。研究採用 CBPR 方法，孤獨譜系社羣成員參與研究的**全過程**：從研究設計、數據收集、編碼分析到論文撰寫。
+十位作者中九位自我認同爲孤獨譜系者——本文是"Nothing About Us Without Us"原則在學術研究中的典範實踐。研究採用 [[參與式行動研究|CBPR]] 方法，孤獨譜系社羣成員參與研究的**全過程**：從研究設計、數據收集、編碼分析到論文撰寫。
 
 ## 核心貢獻
 
-本文是**首篇對"孤獨譜系倦怠"（Autistic Burnout）進行學術定義的論文**。此前，該概念在孤獨譜系社羣中長期被討論和描述（博客、論壇、社交媒體），但從未進入學術文獻。Raymaker 等填補了這一空白，將社羣知識正式學術化。
+本文是**首篇對"[[孤獨譜系倦怠]]"（Autistic Burnout）進行學術定義的論文**。此前，該概念在孤獨譜系社羣中長期被討論和描述（博客、論壇、社交媒體），但從未進入學術文獻。[[Dora-Raymaker|Raymaker]] 等填補了這一空白，將社羣知識正式學術化。
 
 ## 方法論：紮根理論的 CBPR
 
 - 採用建構主義紮根理論（Charmaz 2006），對 19 位孤獨譜系成人的深度訪談進行三階段編碼
-- CBPR 社羣夥伴來自 Academic Autism Spectrum Partnership in Research and Education（AASPIRE）
+- [[參與式行動研究|CBPR]] 社羣夥伴來自 Academic Autism Spectrum Partnership in Research and Education（[AASPIRE](https://aaspire.org/)）
 - 編碼過程包含孤獨譜系與非孤獨譜系研究者的協作，以彌合跨神經類型視角差異
 - 數據收集工具和訪談問題由社羣夥伴共同設計
 

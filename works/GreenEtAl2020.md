@@ -52,7 +52,7 @@ needs-review: true
 
 ### 合理調整的侷限
 
-對話強烈呼應 [[MargaretPrice|Price (2011)]] 對"access vs accommodation"的區分：
+對話強烈呼應Price (2011) 對"access vs accommodation"的區分：
 
 - **Alyssa** 的批判最爲尖銳："Access 是我可以出現並擁有我需要的東西，無需做大量額外工作——那些健全人不需要做的工作。"
 - **Jay** 在反覆被要求"個案處理"後徹底放棄正式調整流程——"證明殘障的持續勞動"本身就構成了障礙
