@@ -6,7 +6,7 @@ tags: [concept, neurodiversity, autism, intervention, applied, ethics]
 sources: [2026-05-18/兒童與青少年孤獨症譜系障礙的行爲和教育干預.md, 2026-05-18/兒童與青少年孤獨症譜系障礙的藥物干預.md, 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf, 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf, 2026-05-18/兒童與青少年孤獨症譜系障礙的補充和整合醫學治療.md]
 created: 2026-05-18
 updated: 2026-06-10
-zh-hans: [[wiki/04-体验与实践\ASD干预]]
+zh-hans: [[wiki/04-实践应用\ASD干预]]
 needs-review: true
 ---
 
