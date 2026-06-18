@@ -12,13 +12,13 @@ needs-review: true
 
 # Sharon daVanport
 
-孤獨譜系活動家。2010 年創立**孤獨譜系女性與非二元性別網絡**（Autistic Women & Nonbinary Network, [AWN]([Autistic Women & Nonbinary Network (AWN)](https://awnnetwork.org/))），同時聯合創辦孤獨譜系有色人種網絡。
+孤獨譜系活動家。2010 年創立**孤獨譜系女性與非二元性別網絡**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同時聯合創辦孤獨譜系有色人種網絡。
 
 ## 核心貢獻
 
 ### AWN：將交叉性女權主義引入神經多樣性運動
 
-[AWN]([Autistic Women & Nonbinary Network (AWN)](https://awnnetwork.org/)) 是神經多樣性運動中首個以**交叉性女權主義**爲組織原則的機構。其核心創新在於將性別化暴力（gender-based violence）作爲孤獨譜系自倡導的核心議題——這一視角揭示了孤獨譜系社羣中長期被忽視的性別維度和種族維度。
+[AWN](https://awnnetwork.org/) 是神經多樣性運動中首個以**交叉性女權主義**爲組織原則的機構。其核心創新在於將性別化暴力（gender-based violence）作爲孤獨譜系自倡導的核心議題——這一視角揭示了孤獨譜系社羣中長期被忽視的性別維度和種族維度。
 
 在 [[Kapp2020|Kapp (2020)]] 的神經多樣性運動口述史中，daVanport 的貢獻被定位爲運動內部多樣性發展的重要節點：AWN 的成立標誌着運動從早期以白人男性孤獨譜系者爲主導的框架，向更廣泛地容納交叉性身份認同的轉變。
 

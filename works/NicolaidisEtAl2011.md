@@ -57,7 +57,7 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 - 無需實時處理聽覺語言
 - 允許更長的回應時間
 
-[AASPIRE]([Academic Autism Spectrum Partnership in Research and Education – Academic Autism Spectrum Partnership in Research and Education](https://aaspire.org/)) 引用 Blume (1997) 的話："**互聯網對孤獨譜系者的影響，有朝一日可能在規模上堪比手語在聾人中的傳播。**"
+[AASPIRE](https://aaspire.org/) 引用 Blume (1997) 的話："**互聯網對孤獨譜系者的影響，有朝一日可能在規模上堪比手語在聾人中的傳播。**"
 
 具體策略：
 - **以文字網絡聊天**（text-based Internet chat）爲會議媒介——而非電話或面對面

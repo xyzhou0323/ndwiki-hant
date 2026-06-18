@@ -12,7 +12,7 @@ needs-review: true
 
 # Laura Tisoncik
 
-孤獨譜系活動家，神經多樣性運動早期的創造性抗爭者。1998 年聯合創建諷刺網站"[神經典型研究所]([Institute for the Study of the Neurologically Typical](http://web.archive.org/web/20101225092135/http://isnt.autistics.org/index.html))"（Institute for the Study of the Neurologically Typical, ISNT），以臨牀工作者和研究者慣用的病理學語言描述"神經典型障礙"——將醫學凝視反向投向那些被視爲"正常"的人。
+孤獨譜系活動家，神經多樣性運動早期的創造性抗爭者。1998 年聯合創建諷刺網站"[神經典型研究所](http://web.archive.org/web/20101225092135/http://isnt.autistics.org/index.html)"（Institute for the Study of the Neurologically Typical, ISNT），以臨牀工作者和研究者慣用的病理學語言描述"神經典型障礙"——將醫學凝視反向投向那些被視爲"正常"的人。
 
 ## ISNT：顛倒凝視的創造性抗爭
 
