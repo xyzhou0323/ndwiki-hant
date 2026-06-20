@@ -1,9 +1,25 @@
 ---
 title: ASD干預
 description: ASD干預（Intervention）全面梳理ASD的三類干預措施——行爲教育、藥物與補充替代療法——同時呈現正統醫療模型的循證推薦與神經多樣性範式的倫理評價框架
-aliases: [Intervention, ASD干預, ND干預, 神經多樣性干預, 神經多樣性干預倫理]
-tags: [concept, neurodiversity, autism, intervention, applied, ethics]
-sources: [2026-05-18/兒童與青少年孤獨症譜系障礙的行爲和教育干預.md, 2026-05-18/兒童與青少年孤獨症譜系障礙的藥物干預.md, 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf, 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf, 2026-05-18/兒童與青少年孤獨症譜系障礙的補充和整合醫學治療.md]
+aliases:
+  - Intervention
+  - 干預
+  - ND干預
+  - 神經多樣性干預
+  - 神經多樣性干預倫理
+tags:
+  - concept
+  - neurodiversity
+  - autism
+  - intervention
+  - applied
+  - ethics
+sources:
+  - 2026-05-18/兒童與青少年孤獨症譜系障礙的行爲和教育干預.md
+  - 2026-05-18/兒童與青少年孤獨症譜系障礙的藥物干預.md
+  - 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
+  - 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf
+  - 2026-05-18/兒童與青少年孤獨症譜系障礙的補充和整合醫學治療.md
 created: 2026-05-18
 updated: 2026-06-10
 zh-hans: [[wiki/04-实践应用/ASD干预]]
@@ -165,7 +181,7 @@ UpToDate 和 NICE 通過循證醫學標準排除未經證實的 CAM：RCT 陰性
 [[Neeman2021|Ne'eman (2021)]] 從臨牀倫理學角度提出：
 
 - **內在有害行爲**（自傷）：可作爲干預目標
-- **僅因是孤獨譜系特徵而被針對的行爲**（缺乏眼神接觸、自我刺激）：**不應成爲干預目標**
+- **僅因是孤獨譜系特徵而被針對的行爲**（缺乏眼神接觸、調節行爲（“自我刺激”））：**不應成爲干預目標**
 
 舉證責任反轉：因爲扮裝要求會施加傷害，臨牀工作者應默認避免要求扮裝——例外僅在爲防止傷害所必需且爲最輕負擔路徑時。
 
@@ -193,7 +209,7 @@ UpToDate 和 NICE 通過循證醫學標準排除未經證實的 CAM：RCT 陰性
 | 褪黑素（睡眠）       | 臨牀實踐支持        | **可接受**——改善生活質量                | **交匯**   |
 | 鰲合療法/MMS      | 循證反對          | **絕對反對**——ND 拒絕治癒敘事自動排除        | **交匯**   |
 | 輔助溝通          | NICE 明確不推薦    | **反對**——剝奪孤獨譜系者真實聲音            | **交匯**   |
-| 強制眼神接觸/壓制自我刺激 | 傳統 ABA 中使用    | **絕對反對**——內在傷害標準的典型違反          | **根本分歧** |
+| 強制眼神接觸/壓制調節行爲 | 傳統 ABA 中使用    | **反對**——內在傷害標準的典型違反            | **根本分歧** |
 
 ### NDBI：彌合分歧的現實路徑
 
