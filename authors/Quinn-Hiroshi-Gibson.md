@@ -6,7 +6,7 @@ tags: [author, neurodiversity, methodology]
 sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Quinn-Hiroshi-Gibson]]
+zh-hans: [[wiki/authors/Quinn-Hiroshi-Gibson]]
 needs-review: true
 ---
 

@@ -6,7 +6,7 @@ tags: [test, neurodiversity, attitudes, fun]
 sources: [Dwyer 2022, Srinivasan 2025]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\ND-16type]]
+zh-hans: [[wiki/06-测试/ND-16type]]
 needs-review: true
 ---
 

@@ -5,7 +5,7 @@ aliases: [Alan Jurgens]
 tags: [author, neurodiversity, autism, philosophy, enactivism]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Alan-Jurgens]]
+zh-hans: [[wiki/authors/Alan-Jurgens]]
 needs-review: true
 ---
 

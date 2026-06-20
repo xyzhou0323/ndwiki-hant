@@ -7,7 +7,7 @@ sources: [2026-05-07/Walker-2014-神經多樣性基本術語與定義.md]
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/"
-zh-hans: [[wiki/works\Walker2014]]
+zh-hans: [[wiki/works/Walker2014]]
 needs-review: true
 ---
 

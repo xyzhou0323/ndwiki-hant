@@ -9,7 +9,7 @@ updated: 2026-05-09
 citation_apa: "Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge."
 doi: 
 isbn: 978-0-367-33831-2
-zh-hans: [[wiki/works\RosqvistEtAl2020]]
+zh-hans: [[wiki/works/RosqvistEtAl2020]]
 needs-review: true
 ---
 

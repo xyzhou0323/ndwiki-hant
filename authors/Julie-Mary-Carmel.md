@@ -6,7 +6,7 @@ tags: [author, disability, lived-experience]
 sources: [2026-05-12/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf]
 created: 2026-05-12
 updated: 2026-05-12
-zh-hans: [[wiki/authors\Julie-Mary-Carmel]]
+zh-hans: [[wiki/authors/Julie-Mary-Carmel]]
 needs-review: true
 ---
 

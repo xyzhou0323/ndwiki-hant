@@ -8,7 +8,7 @@ doi: 10.1111/jcpp.13534
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534"
-zh-hans: [[wiki/works\PellicanodenHouting2022]]
+zh-hans: [[wiki/works/PellicanodenHouting2022]]
 needs-review: true
 ---
 
@@ -67,7 +67,7 @@ needs-review: true
 
 ### 孤獨譜系者應主導對話
 
-- 以 [[Milton2022|Milton (2012) 的雙重共情問題]] 爲理論支撐：
+- 以 [[Milton2022|Milton (2012) 的雙向同理心問題]] 爲理論支撐：
   - 非孤獨譜系者也難以理解孤獨譜系者的面部表情、行爲和心理狀態
   - 非孤獨譜系者基於第一印象就不願與孤獨譜系者互動
   - 孤獨譜系者之間溝通更有效、建立更強融洽關係
@@ -91,7 +91,7 @@ needs-review: true
 - [[神經多樣性範式]] — 本文論證的核心目標範式
 - [[Dwyer2022|Dwyer (2022)]] — 同期發表的神經多樣性方法羣框架，本文爲其補充了範式轉型的宏觀論證
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相關政治分析
-- [[Milton2022|Milton (2022)]] — 本文以雙重共情問題爲核心理論支撐
+- [[Milton2022|Milton (2022)]] — 本文以雙向同理心問題爲核心理論支撐
 - [[去病理化]] — 本文"多樣性非缺陷"框架的直接應用
 - [[殘障的社會模型]] — 本文"情境很重要"論證的理論背景
 - [[孤獨譜系障礙]] — 本文討論的核心對象

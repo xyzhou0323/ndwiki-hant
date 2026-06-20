@@ -5,7 +5,7 @@ aliases: [Inês Hipólito, Ines Hipolito]
 tags: [author, neurodiversity, autism, philosophy, cognitive-science]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Ines-Hipolito]]
+zh-hans: [[wiki/authors/Ines-Hipolito]]
 needs-review: true
 ---
 

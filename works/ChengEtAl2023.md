@@ -7,7 +7,7 @@ sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf, 2026-06-10/full.m
 created: 2026-05-09
 updated: 2026-06-10
 citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(3), 573–577. https://doi.org/10.1177/13623613231159165"
-zh-hans: [[wiki/works\ChengEtAl2023]]
+zh-hans: [[wiki/works/ChengEtAl2023]]
 needs-review: true
 ---
 

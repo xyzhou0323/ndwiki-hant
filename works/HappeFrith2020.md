@@ -7,7 +7,7 @@ sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Happe, F., & Frith, U. (2020). Annual Research Review: Looking back to look forward: Changes in the concept of autism, and implications for future research. Journal of Child Psychology and Psychiatry, 61(3), 218-232."
-zh-hans: [[wiki/works\HappeFrith2020]]
+zh-hans: [[wiki/works/HappeFrith2020]]
 needs-review: true
 ---
 

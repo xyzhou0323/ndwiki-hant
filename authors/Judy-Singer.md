@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, historical]
 sources: [2026-05-07/NeuroDiversity The Birth of an Idea (Judy Singer) (z-library.sk, 1lib.sk, z-lib.sk).pdf, 2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
 created: 2026-05-07
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Judy-Singer]]
+zh-hans: [[wiki/authors/Judy-Singer]]
 needs-review: true
 ---
 

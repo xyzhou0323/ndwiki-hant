@@ -6,7 +6,7 @@ tags: [test, autism, repetitive-behavior, neurodiversity]
 sources: [Jones et al. 2024]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\RBQ-3]]
+zh-hans: [[wiki/06-测试/RBQ-3]]
 needs-review: true
 ---
 

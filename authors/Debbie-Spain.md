@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, mental-health]
 sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
 created: 2026-05-17
 updated: 2026-05-17
-zh-hans: [[wiki/authors\Debbie-Spain]]
+zh-hans: [[wiki/authors/Debbie-Spain]]
 needs-review: true
 ---
 

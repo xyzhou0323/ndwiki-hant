@@ -5,7 +5,7 @@ aliases: [Nick Chown]
 tags: [author, neurodiversity, autism, philosophy, methodology]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Nick-Chown]]
+zh-hans: [[wiki/authors/Nick-Chown]]
 needs-review: true
 ---
 

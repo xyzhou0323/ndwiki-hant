@@ -6,7 +6,7 @@ tags: [author, neurodiversity, methodology, psychology]
 sources: [2026-05-21/stenner-et-al-2025-using-q-methodology-a-group-of-neurodivergent-neurodiversity-researchers-ask-what-is-the.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/authors\Paul-Stenner]]
+zh-hans: [[wiki/authors/Paul-Stenner]]
 needs-review: true
 ---
 

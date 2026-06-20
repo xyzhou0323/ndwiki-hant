@@ -7,7 +7,7 @@ doi: 10.1016/j.reia.2025.202652
 created: 2026-05-08
 updated: 2026-05-08
 citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652"
-zh-hans: [[wiki/works\Srinivasan2025]]
+zh-hans: [[wiki/works/Srinivasan2025]]
 needs-review: true
 ---
 

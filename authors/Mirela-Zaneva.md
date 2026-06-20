@@ -5,7 +5,7 @@ aliases: [Mirela-Zaneva, Zaneva]
 tags: [author, neurodiversity]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors\Mirela-Zaneva]]
+zh-hans: [[wiki/authors/Mirela-Zaneva]]
 needs-review: true
 ---
 

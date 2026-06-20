@@ -7,7 +7,7 @@ citation_apa: "de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and 
 sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/works\deHooge2019]]
+zh-hans: [[wiki/works/deHooge2019]]
 needs-review: true
 ---
 
@@ -17,9 +17,9 @@ needs-review: true
 
 ## 核心論點
 
-本文是[[阿斯至上主義]]（Aspie Supremacy）的首篇系統性學術分析。de Hooge 採用情境知識（situated knowledges）認識論，論證阿斯至上主義由兩個相互交織的面向構成：**反孤獨譜系的健全主義**（anti-autistic ableism）和**阿斯主體的優越性建構**——後者以白人氣質（whiteness）、男性氣質（masculinity）和經濟價值（economic worthiness）爲定義標準。
+本文是[[阿斯至上主義]]（Aspie Supremacy）的首篇系統性學術分析。de Hooge 採用情境知識（situated knowledges）認識論，論證阿斯至上主義由兩個相互交織的面向構成：**反孤獨譜系的健全中心主義**（anti-autistic ableism）和**阿斯主體的優越性建構**——後者以白人氣質（whiteness）、男性氣質（masculinity）和經濟價值（economic worthiness）爲定義標準。
 
-核心論點：阿斯至上主義與反孤獨譜系健全主義並非對立，而是**同一枚硬幣的兩面**。這一意識形態不僅隱藏在 Hans Asperger 的納粹合作行爲背後，更持續影響當今的孤獨譜系話語。
+核心論點：阿斯至上主義與反孤獨譜系健全中心主義並非對立，而是**同一枚硬幣的兩面**。這一意識形態不僅隱藏在 Hans Asperger 的納粹合作行爲背後，更持續影響當今的孤獨譜系話語。
 
 ## 方法論
 

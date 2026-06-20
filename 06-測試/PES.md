@@ -6,7 +6,7 @@ tags: [test, empathy, autism, neurodiversity]
 sources: [Brett et al. 2023]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\PES]]
+zh-hans: [[wiki/06-测试/PES]]
 needs-review: true
 ---
 

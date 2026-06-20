@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, historical]
 sources: [2026-05-07/《神經部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
 created: 2026-05-07
 updated: 2026-05-07
-zh-hans: [[wiki/authors\Steve-Silberman]]
+zh-hans: [[wiki/authors/Steve-Silberman]]
 needs-review: true
 ---
 

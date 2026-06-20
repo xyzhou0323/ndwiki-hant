@@ -10,7 +10,7 @@ citation_apa: "Heasman, B., & Gillespie, A. (2019). Neurodivergent intersubjecti
 authors:
   - Brett-Heasman
   - Alex-Gillespie
-zh-hans: [[wiki/works\HeasmanGillespie2019]]
+zh-hans: [[wiki/works/HeasmanGillespie2019]]
 needs-review: true
 ---
 

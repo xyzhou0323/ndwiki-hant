@@ -6,7 +6,7 @@ tags: [test, autism, neurodiversity]
 sources: [Baron-Cohen et al. 2001, Ruzich et al. 2015, Jacobson & Truax 1991, Baker et al. 2024]
 created: 2026-05-11
 updated: 2026-05-14
-zh-hans: [[wiki/06-测试\AQ]]
+zh-hans: [[wiki/06-测试/AQ]]
 needs-review: true
 ---
 

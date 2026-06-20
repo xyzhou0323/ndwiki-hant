@@ -8,7 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote 'passing'. AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569"
 doi: 10.1001/amajethics.2021.569
-zh-hans: [[wiki/works\Neeman2021]]
+zh-hans: [[wiki/works/Neeman2021]]
 needs-review: true
 ---
 
@@ -57,13 +57,13 @@ needs-review: true
 
 當一個行爲具有**內在傷害性**（如自傷）時，尋求解決它是適當的。但許多被幹預瞄準的孤獨譜系特質並不符合內在傷害的高標準：
 
-| 常被幹預瞄準的特質 | 內在傷害？ |
-|------------------|-----------|
-| 缺乏眼神接觸 | 無——除社會污名外通常無問題 |
-| 異常韻律 | 無 |
-| 手部拍打、搖晃等自我刺激行爲 | 無——通常用於愉悅或情緒自我調節 |
-| 畫特殊興趣對象、排列物品 | 無 |
-| 反覆觀看同一媒體 | 無 |
+| 常被幹預瞄準的特質      | 內在傷害？ |
+| -------------- | ---------------- |
+| 缺乏眼神接觸         | 無——除社會污名外通常無問題 |
+| 異常韻律           | 無 |
+| 手部拍打、搖晃等自我調節行爲 | 無——通常用於愉悅或情緒自我調節 |
+| 畫特殊興趣對象、排列物品   | 無 |
+| 反覆觀看同一媒體       | 無 |
 
 ### "反映潛在困難"論證及其侷限
 

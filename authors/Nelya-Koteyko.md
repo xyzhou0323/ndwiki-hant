@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, communication, methodology]
 sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
 created: 2026-06-16
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Nelya-Koteyko]]
+zh-hans: [[wiki/authors/Nelya-Koteyko]]
 needs-review: true
 ---
 

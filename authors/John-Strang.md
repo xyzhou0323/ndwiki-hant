@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, applied]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
 created: 2026-06-06
 updated: 2026-06-06
-zh-hans: [[wiki/authors\John-Strang]]
+zh-hans: [[wiki/authors/John-Strang]]
 needs-review: true
 ---
 

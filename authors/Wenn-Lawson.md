@@ -5,7 +5,7 @@ aliases: [Wenn B. Lawson, Wenn Lawson, Lawson]
 tags: [person, researcher, autism, monotropism]
 created: 2026-05-20
 updated: 2026-05-20
-zh-hans: [[wiki/authors\Wenn-Lawson]]
+zh-hans: [[wiki/authors/Wenn-Lawson]]
 needs-review: true
 ---
 

@@ -5,7 +5,7 @@ aliases: [ITQ-CA, 國際創傷問卷兒童版, 兒童創傷問卷, International
 tags: [test, trauma, PTSD, CPTSD, children, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\ITQ-CA]]
+zh-hans: [[wiki/06-测试/ITQ-CA]]
 needs-review: true
 ---
 

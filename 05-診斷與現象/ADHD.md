@@ -6,7 +6,7 @@ tags: [concept, adhd, neurodiversity, foundational]
 sources: [2026-05-09/ADHD診斷標準原文（DSM5TR ICD11）.pdf, 2026-05-18/兒童和青少年注意缺陷多動障礙的流行病學與發病機制.md, 2026-05-18/兒童和青少年注意缺陷多動障礙的臨牀特徵和診斷.md, 2026-05-18/成人注意缺陷多動障礙的流行病學、臨牀特徵、評估和診斷.md]
 created: 2026-05-09
 updated: 2026-05-18
-zh-hans: [[wiki/05-诊断与现象\ADHD]]
+zh-hans: [[wiki/05-诊断与现象/ADHD]]
 needs-review: true
 ---
 

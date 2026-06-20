@@ -8,7 +8,7 @@ doi: 10.1080/09687599.2012.710008
 created: 2026-05-07
 updated: 2026-05-09
 citation_apa: "Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. https://doi.org/10.1080/09687599.2012.710008"
-zh-hans: [[wiki/works\Milton2012]]
+zh-hans: [[wiki/works/Milton2012]]
 needs-review: true
 ---
 

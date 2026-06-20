@@ -6,7 +6,7 @@ tags: [work, neurodiversity, ADHD, translational-science, paradigm, participator
 created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. Journal of Child Psychology and Psychiatry, 64(10), 1405–1408. https://doi.org/10.1111/jcpp.13886"
-zh-hans: [[wiki/works\SonugaBarke2023]]
+zh-hans: [[wiki/works/SonugaBarke2023]]
 needs-review: true
 ---
 

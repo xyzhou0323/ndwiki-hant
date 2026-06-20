@@ -5,7 +5,7 @@ aliases: [Anita Thapar, Thapar]
 tags: [author, adhd, neurodiversity]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Anita-Thapar]]
+zh-hans: [[wiki/authors/Anita-Thapar]]
 needs-review: true
 ---
 

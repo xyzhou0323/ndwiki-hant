@@ -6,7 +6,7 @@ tags: [author, neurodiversity, foundational, political]
 sources: [books/正常帝國-Empire of Normality (Robert Chapman).epub, books/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)機翻DeepSeek.epub, 2026-05-09/josp.12456.pdf, 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
 created: 2026-05-07
 updated: 2026-05-11
-zh-hans: [[wiki/authors\Robert-Chapman]]
+zh-hans: [[wiki/authors/Robert-Chapman]]
 needs-review: true
 ---
 

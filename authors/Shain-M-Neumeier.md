@@ -6,7 +6,7 @@ tags: [person, author, activist, neurodiversity]
 sources: [2026-05-07/Neurodiversity lite is still evolving.md]
 created: 2026-05-08
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Shain-M-Neumeier]]
+zh-hans: [[wiki/authors/Shain-M-Neumeier]]
 needs-review: true
 ---
 

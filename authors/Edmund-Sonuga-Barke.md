@@ -5,7 +5,7 @@ aliases: [Edmund Sonuga-Barke, Sonuga-Barke]
 tags: [author, adhd, neurodiversity]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Edmund-Sonuga-Barke]]
+zh-hans: [[wiki/authors/Edmund-Sonuga-Barke]]
 needs-review: true
 ---
 

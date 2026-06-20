@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, historical]
 sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf, 2026-05-07/神經多樣性的誕生-社羣歷史.md]
 created: 2026-05-08
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Harvey-Blume]]
+zh-hans: [[wiki/authors/Harvey-Blume]]
 needs-review: true
 ---
 

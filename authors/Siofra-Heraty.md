@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, methodology, ethics]
 sources: [2026-06-10/HeratyEtAl2023.md]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors\Siofra-Heraty]]
+zh-hans: [[wiki/authors/Siofra-Heraty]]
 needs-review: true
 ---
 
@@ -44,4 +44,4 @@ Síofra Heraty 是 Birkbeck, University of London 心理科學系腦與認知發
 - [[神經多樣性範式]] — ND 肯定式生物醫學研究的理論框架
 - [[參與式行動研究]] — 貫穿其工作的方法論核心
 - [[ASD干預]] — 生物醫學干預的倫理與範式討論
-- [[NatriEtAl2023]] — 反健全主義語言與高質量生物醫學研究的兼容性
+- [[NatriEtAl2023]] — 反健全中心主義語言與高質量生物醫學研究的兼容性

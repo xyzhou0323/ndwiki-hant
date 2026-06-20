@@ -5,7 +5,7 @@ aliases: [Bethlehem Tekola Gebru, Tekola]
 tags: [author, neurodiversity, autism, global-mental-health, Ethiopia]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors\Bethlehem-Tekola]]
+zh-hans: [[wiki/authors/Bethlehem-Tekola]]
 needs-review: true
 ---
 

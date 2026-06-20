@@ -6,7 +6,7 @@ tags: [test, interoception, autism, neurodiversity]
 sources: [Mehling et al. 2018]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\MAIA-2]]
+zh-hans: [[wiki/06-测试/MAIA-2]]
 needs-review: true
 ---
 

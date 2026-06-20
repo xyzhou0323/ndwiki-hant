@@ -4,7 +4,7 @@ description: Susan M. Rivera 是發展認知神經科學研究者，Patrick Dwye
 aliases: [Susan M Rivera, Susan M. Rivera, Susan-Rivera]
 tags: [person, researcher, autism, neurodiversity]
 created: 2026-05-08
-zh-hans: [[wiki/authors\Susan-M-Rivera]]
+zh-hans: [[wiki/authors/Susan-M-Rivera]]
 needs-review: true
 ---
 

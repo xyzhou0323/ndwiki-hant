@@ -7,7 +7,7 @@ sources: [2026-05-09/Class Politics and Blue-Collar Neurodivergence.md]
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. https://substack.com/@neurodiversityandcapitalism/p-196997868"
-zh-hans: [[wiki/works\Chapman2026b]]
+zh-hans: [[wiki/works/Chapman2026b]]
 needs-review: true
 ---
 

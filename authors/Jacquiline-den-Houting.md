@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism]
 created: 2026-05-09
 sources: [2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf]
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Jacquiline-den-Houting]]
+zh-hans: [[wiki/authors/Jacquiline-den-Houting]]
 needs-review: true
 ---
 

@@ -5,7 +5,7 @@ aliases: [EDA-QA, 成人要求迴避, 成人PDA, Extreme Demand Avoidance Questi
 tags: [test, autism, PDA, demand-avoidance, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-14
-zh-hans: [[wiki/06-测试\EDA-QA]]
+zh-hans: [[wiki/06-测试/EDA-QA]]
 needs-review: true
 ---
 

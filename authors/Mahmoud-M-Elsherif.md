@@ -5,7 +5,7 @@ aliases: [Mahmoud-M-Elsherif, Mahmoud Elsherif, Elsherif]
 tags: [author, neurodiversity]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors\Mahmoud-M-Elsherif]]
+zh-hans: [[wiki/authors/Mahmoud-M-Elsherif]]
 needs-review: true
 ---
 
@@ -18,7 +18,7 @@ needs-review: true
 - 神經多樣性（閱讀障礙、口吃）
 - 開放與可重複科學
 - 參與式研究
-- 反健全主義
+- 反健全中心主義
 
 ## 本wiki已引用著作
 

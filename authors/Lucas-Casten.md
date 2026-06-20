@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, mental-health]
 sources: [2026-05-14/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors\Lucas-Casten]]
+zh-hans: [[wiki/authors/Lucas-Casten]]
 needs-review: true
 ---
 

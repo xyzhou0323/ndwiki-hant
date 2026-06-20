@@ -6,7 +6,7 @@ tags: [person, activist, neurodiversity, feminism]
 sources: [2026-05-09/Kapp2020.md]
 created: 2026-05-08
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Sharon-daVanport]]
+zh-hans: [[wiki/authors/Sharon-daVanport]]
 needs-review: true
 ---
 

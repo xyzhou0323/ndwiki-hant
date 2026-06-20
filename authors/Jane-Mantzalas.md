@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, mental-health, applied]
 sources: [2026-05-14/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors\Jane-Mantzalas]]
+zh-hans: [[wiki/authors/Jane-Mantzalas]]
 needs-review: true
 ---
 

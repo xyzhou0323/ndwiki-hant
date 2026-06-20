@@ -16,7 +16,7 @@ doi: 10.1111/cdep.12466
 created: 2026-05-14
 updated: 2026-05-14
 citation_apa: Yi, L., Wang, Q., Song, C., & Han, Z. R. (2022). Hypo- or hyperarousal? The mechanisms underlying social information processing in autism. Child Development Perspectives, 16, 215–222. https://doi.org/10.1111/cdep.12466
-zh-hans: [[wiki/works\YiEtAl2022]]
+zh-hans: [[wiki/works/YiEtAl2022]]
 needs-review: true
 ---
 
@@ -93,7 +93,7 @@ needs-review: true
 ## Related
 
 - [[孤獨譜系障礙]] — 該綜述的研究對象
-- [[PDA]] — 喚起過度假說對需求迴避的直接解釋力：迴避由焦慮和喚起過度驅動
+- [[PDA]] — 喚起過度假說對要求迴避的直接解釋力：迴避由焦慮和喚起過度驅動
 - [[雙向同理心問題]] — 論文引用的替代性理解框架
 - [[Milton2012|Milton (2012)]] — 本文引用的 DEP 原始論文
 - 感覺加工 — 感覺過度/低反應性與喚起的交互

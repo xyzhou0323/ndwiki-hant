@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, review]
 sources: [2026-05-14/Enhanced rationality in autism spectrum disorder.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors\Liron-Rozenkrantz]]
+zh-hans: [[wiki/authors/Liron-Rozenkrantz]]
 needs-review: true
 ---
 

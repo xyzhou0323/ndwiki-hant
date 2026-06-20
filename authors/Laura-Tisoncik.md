@@ -6,7 +6,7 @@ tags: [person, activist, neurodiversity]
 sources: [2026-05-07/神經多樣性的誕生-社羣歷史.md]
 created: 2026-05-08
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Laura-Tisoncik]]
+zh-hans: [[wiki/authors/Laura-Tisoncik]]
 needs-review: true
 ---
 

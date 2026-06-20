@@ -5,7 +5,7 @@ aliases: [Amelie Gourdon-Kanhukamwe, Gourdon-Kanhukamwe]
 tags: [author, neurodiversity, open-scholarship, ADHD, psychology]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors\Amelie-Gourdon-Kanhukamwe]]
+zh-hans: [[wiki/authors/Amelie-Gourdon-Kanhukamwe]]
 needs-review: true
 ---
 

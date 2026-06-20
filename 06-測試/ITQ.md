@@ -5,7 +5,7 @@ aliases: [ITQ, ITQ 國際創傷問卷, 國際創傷問卷, International Trauma 
 tags: [test, trauma, PTSD, CPTSD, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-11
-zh-hans: [[wiki/06-测试\ITQ]]
+zh-hans: [[wiki/06-测试/ITQ]]
 needs-review: true
 ---
 

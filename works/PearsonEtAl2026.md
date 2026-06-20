@@ -8,7 +8,7 @@ authors: [Amy Pearson, Aimee Grant, Jennifer Leigh, Stephen J Macdonald, Kathryn
 sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/works\PearsonEtAl2026]]
+zh-hans: [[wiki/works/PearsonEtAl2026]]
 needs-review: true
 ---
 
@@ -46,7 +46,7 @@ needs-review: true
 - **ADHD**："other"評分最高，反映缺乏共識；"ADHDer"與"person with ADHD"並列第二。總體冒犯性評分均偏低（<3）
 - **閱讀/計算/書寫/運用障礙**：IFL 形式均排名最高；非特異性 PFL（如"person with a specific learning disorder"）評分最低、最具冒犯性
 - **非說話者/AAC 用戶**："AAC user"（M=5.59）最受歡迎，"mute"（M=2.65）接近最低且被視爲最具冒犯性
-- **PDA**："other"最高；"person with demand avoidance"最低；參與者強調需求迴避是焦慮驅動，非有意選擇
+- **PDA**："other"最高；"person with demand avoidance"最低；參與者強調要求迴避是焦慮驅動，非有意選擇
 
 ## 質性結果：兩主題
 
@@ -54,7 +54,7 @@ needs-review: true
 
 **現有標籤不充分**：現有術語"模糊""笨拙"，不能真實描述生活體驗。對 ADHD 和 PDA 更突出——術語被認爲最小化體驗、暗示故意性。
 
-**病理化、健全主義與污名化**："disorder"一詞被壓倒性地反對，暗示"偏離想象中正常"或"不可企及的完美"。參與者希望明確表示自己並非"殘次品"。即使對自身神經殊異造成顯著困難的人（如因運用障礙頻繁受傷），也不喜歡"disorder"語言。
+**病理化、健全中心主義與污名化**："disorder"一詞被壓倒性地反對，暗示"偏離想象中正常"或"不可企及的完美"。參與者希望明確表示自己並非"殘次品"。即使對自身神經殊異造成顯著困難的人（如因運用障礙頻繁受傷），也不喜歡"disorder"語言。
 
 ### 主題 2：我們如何談論自己（How we talk about us）
 
@@ -62,9 +62,9 @@ needs-review: true
 
 **主張與尊重主體性**：術語偏好因使用者和語境而異——內羣體成員可接受的術語，外羣體成員使用可能是冒犯性的。參與者反對由非神經殊異者"糾正"其語言（如被要求使用 PFL）。好的態度比"正確"用詞更重要："好人知道造成冒犯後會改變用詞，混蛋可以微笑着使用'恰當'語言同時散佈偏見"。
 
-**IFL vs PFL 辯論**：IFL 支持者視神經殊異爲"不可分割的身份組成部分"；PFL 支持者認爲 IFL 將其簡化爲標籤。IFL 支持者被指控內化健全主義，PFL 支持者被邊緣化於社羣之外——學術辯論的意外後果。
+**IFL vs PFL 辯論**：IFL 支持者視神經殊異爲"不可分割的身份組成部分"；PFL 支持者認爲 IFL 將其簡化爲標籤。IFL 支持者被指控內化健全中心主義，PFL 支持者被邊緣化於社羣之外——學術辯論的意外後果。
 
-**感受殘障**：孤獨譜系和 ADHD 參與者普遍認同"殘障"標籤；閱讀/計算/書寫/運用障礙羣體存在更多變異——部分人因障礙未造成顯著劣勢而不認同殘障身份，但這並非必然反映內化健全主義。
+**感受殘障**：孤獨譜系和 ADHD 參與者普遍認同"殘障"標籤；閱讀/計算/書寫/運用障礙羣體存在更多變異——部分人因障礙未造成顯著劣勢而不認同殘障身份，但這並非必然反映內化健全中心主義。
 
 ## 核心結論
 

@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, clinical]
 sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf, 2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf, 2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf, 2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
 created: 2026-05-11
 updated: 2026-05-21
-zh-hans: [[wiki/authors\Monique-Botha]]
+zh-hans: [[wiki/authors/Monique-Botha]]
 needs-review: true
 ---
 

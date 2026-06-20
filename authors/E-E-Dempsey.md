@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, systematic-review]
 sources: [2026-05-14/Morality in autism spectrum disorder A systematic review.pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors\E-E-Dempsey]]
+zh-hans: [[wiki/authors/E-E-Dempsey]]
 needs-review: true
 ---
 

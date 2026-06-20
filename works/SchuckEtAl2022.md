@@ -7,7 +7,7 @@ authors: [Rachel K. Schuck, Daina M. Tagavi, Kaitlynn M. P. Baiden, Patrick Dwye
 source: sources/2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/works\SchuckEtAl2022]]
+zh-hans: [[wiki/works/SchuckEtAl2022]]
 needs-review: true
 ---
 
@@ -51,7 +51,7 @@ NDBIs 的五個核心特徵與 ND 原則一致性：
 1. **重構干預目標** — 以主觀生活質量而非症狀減少爲結果指標
 2. **融合殘障肯定視角** — 將殘障身份與孤獨譜系文化納入干預敘述
 3. **審查干預目標的"社會效度"** — 自閉症社羣參與評估"哪些技能值得教"
-4. **尊重孤獨譜系的存在方式** — 不以消除自我刺激（stimming）和強制眼神接觸爲目標
+4. **尊重孤獨譜系的存在方式** — 不以消除自我調節行爲（stimming）和強制眼神接觸爲目標
 5. **個性化而非一刀切** — 基於個體需求而非診斷標籤
 6. **跨神經類型合作** — 倡導孤獨譜系者領導或合作領導干預開發
 7. **解決 ABA 領域的系統性問題** — 歷史創傷、利益衝突、缺乏不良事件報告
@@ -61,7 +61,7 @@ NDBIs 的五個核心特徵與 ND 原則一致性：
 
 論文繼承了 [[Dwyer2022|Dwyer (2022)]] 的關鍵區分：
 - **可以接受**：以提升生活質量和福祉爲目標的技能教學（如溝通、自我倡導、情緒調節）
-- **不可以接受**：以"看起來正常"爲目標的干預（如強制眼神接觸、壓制自我刺激）
+- **不可以接受**：以"看起來正常"爲目標的干預（如強制眼神接觸、壓制自我調節行爲）
 
 ## 論文的特殊價值
 

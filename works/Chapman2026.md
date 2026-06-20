@@ -7,7 +7,7 @@ sources: [2026-05-07/後自由主義時代神經多樣性政治.md]
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Chapman, R. (2026, April 21). Neurodiversity politics in a post-liberal era. Substack. https://substack.com/@neurodiversityandcapitalism/p-194900020"
-zh-hans: [[wiki/works\Chapman2026]]
+zh-hans: [[wiki/works/Chapman2026]]
 needs-review: true
 ---
 

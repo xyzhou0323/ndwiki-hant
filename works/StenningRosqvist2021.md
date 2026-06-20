@@ -8,7 +8,7 @@ created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. https://doi.org/10.1080/09687599.2021.1919503"
 doi: 10.1080/09687599.2021.1919503
-zh-hans: [[wiki/works\StenningRosqvist2021]]
+zh-hans: [[wiki/works/StenningRosqvist2021]]
 needs-review: true
 ---
 

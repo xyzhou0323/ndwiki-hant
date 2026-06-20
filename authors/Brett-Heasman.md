@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, social-interaction]
 sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/authors\Brett-Heasman]]
+zh-hans: [[wiki/authors/Brett-Heasman]]
 needs-review: true
 ---
 

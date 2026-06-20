@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism]
 sources: [2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/authors\Amy-Pearson]]
+zh-hans: [[wiki/authors/Amy-Pearson]]
 needs-review: true
 ---
 
@@ -17,7 +17,7 @@ Amy Pearson 是 Durham University 心理學系神經多樣性與發展中心（C
 ## 研究方向
 
 - 神經殊異成人的語言與術語偏好——首項跨發育類型的混合方法研究
-- 反健全主義語言與詮釋學不正義
+- 反健全中心主義語言與詮釋學不正義
 - 孤獨譜系社羣的身份認同與去人化
 - 研究方法中的社羣參與
 
@@ -27,6 +27,6 @@ Amy Pearson 是 Durham University 心理學系神經多樣性與發展中心（C
 
 ## 參見
 
-- [[Monique-Botha]] — 合著者，共同提出批判實在論與反健全主義框架
+- [[Monique-Botha]] — 合著者，共同提出批判實在論與反健全中心主義框架
 - [[Robert-Chapman]] — 合著 Pearson & Rose (2023)，關注 ND 範式與政治經濟學
 - Kieran-Rose — 合著者，The Autistic Advocate 創始人

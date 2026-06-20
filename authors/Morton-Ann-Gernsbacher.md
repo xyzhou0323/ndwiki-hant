@@ -5,7 +5,7 @@ aliases: [Morton Ann Gernsbacher, Gernsbacher]
 tags: [author, autism, neurodiversity, methodology]
 created: 2026-06-16
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Morton-Ann-Gernsbacher]]
+zh-hans: [[wiki/authors/Morton-Ann-Gernsbacher]]
 needs-review: true
 ---
 

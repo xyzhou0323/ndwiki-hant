@@ -6,7 +6,7 @@ tags: [author, disability]
 sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md]
 created: 2026-05-12
 updated: 2026-05-12
-zh-hans: [[wiki/authors\Elizabeth-Barnes]]
+zh-hans: [[wiki/authors/Elizabeth-Barnes]]
 needs-review: true
 ---
 

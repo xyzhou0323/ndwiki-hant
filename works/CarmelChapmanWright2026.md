@@ -8,7 +8,7 @@ doi: 10.1080/1034912X.2025.2456288
 created: 2026-05-12
 updated: 2026-05-12
 citation_apa: "Carmel, J.-M., Chapman, S., & Wright, P. (2026). Disability justice: The challenges of inclusion in everyday life. International Journal of Disability, Development and Education, 73(4), 621-634. https://doi.org/10.1080/1034912X.2025.2456288"
-zh-hans: [[wiki/works\CarmelChapmanWright2026]]
+zh-hans: [[wiki/works/CarmelChapmanWright2026]]
 needs-review: true
 ---
 
@@ -48,10 +48,10 @@ needs-review: true
 
 ### 多樣性（Diversity）— 被注視與被納入
 
-| 片段 | 揭示的問題 |
-|------|-----------|
-| **負面**：陌生人未經許可拍攝 Taylor 的輪椅，稱之爲"可愛" | 殘障者喪失匿名性——成爲"公共財產，被注視、嘲笑和觸摸"（Pearson 2015）；能力主義將損傷視爲內在負面 |
-| **正面**：老師將 Taylor 的輪椅高度變化（最低 vs 最高——"Tippy wheels"）納入全班身高測量活動 | 殘障正義通過創造性包容在日常教室實踐中實現 |
+| 片段 | 揭示的問題                                                      |
+| ------------------------------------------------------------- | ---------------------------------------------------------- |
+| **負面**：陌生人未經許可拍攝 Taylor 的輪椅，稱之爲"可愛" | 殘障者喪失匿名性——成爲"公共財產，被注視、嘲笑和觸摸"（Pearson 2015）；健全中心主義將損傷視爲內在負面 |
+| **正面**：老師將 Taylor 的輪椅高度變化（最低 vs 最高——"Tippy wheels"）納入全班身高測量活動 | 殘障正義通過創造性包容在日常教室實踐中實現                                      |
 
 ### 包容（Inclusion）— 他者化與歸屬
 

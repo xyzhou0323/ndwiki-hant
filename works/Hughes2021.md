@@ -8,7 +8,7 @@ doi: 10.1111/bioe.12780
 created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. https://doi.org/10.1111/bioe.12780"
-zh-hans: [[wiki/works\Hughes2021]]
+zh-hans: [[wiki/works/Hughes2021]]
 needs-review: true
 ---
 

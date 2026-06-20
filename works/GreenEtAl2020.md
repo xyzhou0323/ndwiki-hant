@@ -1,17 +1,25 @@
 ---
-title: Green et al. (2020) - 帶着精神健康診斷進行教學與研究：學術健全主義的實踐與視角
-description: 九位有精神健康診斷的學者以對話形式探討診斷獲取、披露決策、症狀的利弊、合理調整的侷限，揭示學術健全主義如何滲透學術體系的日常運作
-aliases: [GreenEtAl2020, Green et al. (2020), Teaching and Researching with a Mental Health Diagnosis]
-tags: [work, neurodiversity, disability, methodology]
-sources: [2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md]
+title: Green et al. (2020) - 帶着精神健康診斷進行教學與研究：學術健全中心主義的實踐與視角
+description: 九位有精神健康診斷的學者以對話形式探討診斷獲取、披露決策、症狀的利弊、合理調整的侷限，揭示學術健全中心主義如何滲透學術體系的日常運作
+aliases:
+  - GreenEtAl2020
+  - Green et al. (2020)
+  - Teaching and Researching with a Mental Health Diagnosis
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - methodology
+sources:
+  - 2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md
 created: 2026-06-12
 updated: 2026-06-12
 citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. Rhetoric of Health & Medicine, 3(2), Article 1."
-zh-hans: [[wiki/works\GreenEtAl2020]]
+zh-hans: [[wiki/works/GreenEtAl2020]]
 needs-review: true
 ---
 
-# Green et al. (2020) — 帶着精神健康診斷進行教學與研究：學術健全主義的實踐與視角
+# Green et al. (2020) — 帶着精神健康診斷進行教學與研究：學術健全中心主義的實踐與視角
 
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
@@ -22,7 +30,7 @@ needs-review: true
 
 ## 定位
 
-本文以**多人對話**（dialogue）的非傳統學術體裁寫成，九位有精神健康診斷的學者共同探討如何在學術界中應對自身狀況與尋求合理調整。對話涵蓋孤獨譜系、雙相障礙、邊緣型人格障礙（BPD）、抑鬱與焦慮、強迫症（OCD）、創傷後應激障礙（PTSD）等診斷。作者羣體跨越學科（神經科學、計算科學、英語）、性別身份、性取向和學術職級（研究生至正教授），以第一人稱視角揭露學術健全主義（academic ableism）的結構性運作。
+本文以**多人對話**（dialogue）的非傳統學術體裁寫成，九位有精神健康診斷的學者共同探討如何在學術界中應對自身狀況與尋求合理調整。對話涵蓋孤獨譜系、雙相障礙、邊緣型人格障礙（BPD）、抑鬱與焦慮、強迫症（OCD）、創傷後應激障礙（PTSD）等診斷。作者羣體跨越學科（神經科學、計算科學、英語）、性別身份、性取向和學術職級（研究生至正教授），以第一人稱視角揭露學術健全中心主義（academic ableism）的結構性運作。
 
 ## 關鍵主題
 
@@ -64,11 +72,11 @@ needs-review: true
 
 ## 理論貢獻
 
-1. **方法論創新**：以多聲部對話（multivocal dialogue）作爲學術體裁——對話的間隙、沉默和斷裂本身成爲反對話語統合和學術健全主義的實踐。"將精神殘障納入學術話語，不是將其整齊地置於框架內，而是讓對話本身揭示我們尋求修辭性過程中的混亂。"
+1. **方法論創新**：以多聲部對話（multivocal dialogue）作爲學術體裁——對話的間隙、沉默和斷裂本身成爲反對話語統合和學術健全中心主義的實踐。"將精神殘障納入學術話語，不是將其整齊地置於框架內，而是讓對話本身揭示我們尋求修辭性過程中的混亂。"
 
-2. **學術健全主義的操作化**：將 Dolmage (2017) 和 Price (2011) 的理論框架落實到學者的日常經驗——診斷、披露、調整、教學、研究——展示了健全主義如何在每個環節運作。
+2. **學術健全中心主義的操作化**：將 Dolmage (2017) 和 Price (2011) 的理論框架落實到學者的日常經驗——診斷、披露、調整、教學、研究——展示了健全中心主義如何在每個環節運作。
 
-3. **交叉性視角**：作者羣體跨越性別（順性別、性別酷兒、非二元、跨性別）、性取向（無性戀、異性戀、雙性戀、同性戀）、職級（研究生到正教授）和學科——展示了學術健全主義與性別、種族、職業安全的交叉運作。
+3. **交叉性視角**：作者羣體跨越性別（順性別、性別酷兒、非二元、跨性別）、性取向（無性戀、異性戀、雙性戀、同性戀）、職級（研究生到正教授）和學科——展示了學術健全中心主義與性別、種族、職業安全的交叉運作。
 
 4. **集體脆弱性作爲抵抗**：Ann 明確指出"通過集體對話和集體行動，我們才能改變工作條件"——對抗新自由主義大學對個體化解決方案的誘惑。
 

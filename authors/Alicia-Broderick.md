@@ -5,7 +5,7 @@ aliases: [Alicia Broderick, Alicia A. Broderick, Broderick, 艾麗西婭·布羅
 tags: [author, neurodiversity, autism, discourse]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/authors\Alicia-Broderick]]
+zh-hans: [[wiki/authors/Alicia-Broderick]]
 needs-review: true
 ---
 

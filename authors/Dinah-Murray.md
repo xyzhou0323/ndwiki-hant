@@ -4,7 +4,7 @@ description: Dinah Murray 是孤獨譜系研究者，2005 年與 Mike Lesser 和
 aliases: [Dinah Murray]
 tags: [person, researcher, autism, monotropism]
 created: 2026-05-08
-zh-hans: [[wiki/authors\Dinah-Murray]]
+zh-hans: [[wiki/authors/Dinah-Murray]]
 needs-review: true
 ---
 

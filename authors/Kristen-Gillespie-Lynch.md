@@ -4,7 +4,7 @@ description: Kristen Gillespie-Lynch 是發展心理學研究者，Patrick Dwyer
 aliases: [Kristen Gillespie-Lynch, Kristen Lynch]
 tags: [person, researcher, autism, neurodiversity]
 created: 2026-05-08
-zh-hans: [[wiki/authors\Kristen-Gillespie-Lynch]]
+zh-hans: [[wiki/authors/Kristen-Gillespie-Lynch]]
 needs-review: true
 ---
 

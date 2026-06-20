@@ -5,7 +5,7 @@ aliases: [Mitzi Waltz]
 tags: [author, neurodiversity, autism, history, disability]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Mitzi-Waltz]]
+zh-hans: [[wiki/authors/Mitzi-Waltz]]
 needs-review: true
 ---
 

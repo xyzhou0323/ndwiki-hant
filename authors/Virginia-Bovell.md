@@ -5,7 +5,7 @@ aliases: [Virginia Bovell]
 tags: [author, neurodiversity, autism, ethics]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Virginia-Bovell]]
+zh-hans: [[wiki/authors/Virginia-Bovell]]
 needs-review: true
 ---
 

@@ -8,7 +8,7 @@ doi: 10.1177/13623613241237871
 created: 2026-05-07
 updated: 2026-05-08
 citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871"
-zh-hans: [[wiki/works\BothaEtAl2024]]
+zh-hans: [[wiki/works/BothaEtAl2024]]
 needs-review: true
 ---
 

@@ -5,7 +5,7 @@ aliases: [Q30, 簡版聯合量表, AQ-EQ-SQ, SQ10-EQ10-AQ10, Q30聯合量表, AQ
 tags: [test, autism, empathy, systemizing, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\AQ-EQ-SQ10]]
+zh-hans: [[wiki/06-测试/AQ-EQ-SQ10]]
 needs-review: true
 ---
 

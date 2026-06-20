@@ -9,7 +9,7 @@ updated: 2026-05-21
 citation_apa: "Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. Journal of Community Psychology, 53, e22764. https://doi.org/10.1002/jcop.22764"
 authors:
   - Monique-Botha
-zh-hans: [[wiki/works\Botha2025]]
+zh-hans: [[wiki/works/Botha2025]]
 needs-review: true
 ---
 

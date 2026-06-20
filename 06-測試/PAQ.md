@@ -6,7 +6,7 @@ tags: [test, alexithymia, autism, neurodiversity]
 sources: [Preece et al. 2018]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\PAQ]]
+zh-hans: [[wiki/06-测试/PAQ]]
 needs-review: true
 ---
 

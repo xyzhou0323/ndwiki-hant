@@ -5,7 +5,7 @@ aliases: [MAIA-Y, 少年版內感覺評估, 少年內感覺評估, MAIA Youth]
 tags: [test, interoception, children, autism, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-09
-zh-hans: [[wiki/06-测试\MAIA-Y]]
+zh-hans: [[wiki/06-测试/MAIA-Y]]
 needs-review: true
 ---
 

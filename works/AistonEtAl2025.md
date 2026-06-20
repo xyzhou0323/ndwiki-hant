@@ -7,7 +7,7 @@ citation_apa: "Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based 
 sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
 created: 2026-06-16
 updated: 2026-06-16
-zh-hans: [[wiki/works\AistonEtAl2025]]
+zh-hans: [[wiki/works/AistonEtAl2025]]
 needs-review: true
 ---
 

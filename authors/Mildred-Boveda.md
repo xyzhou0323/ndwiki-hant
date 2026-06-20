@@ -6,7 +6,7 @@ tags: [author, neurodiversity, critique, intersectionality, education, decolonia
 sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Mildred-Boveda]]
+zh-hans: [[wiki/authors/Mildred-Boveda]]
 needs-review: true
 ---
 

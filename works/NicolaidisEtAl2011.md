@@ -19,7 +19,7 @@ citation_apa: "Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, 
 authors:
   - Christina-Nicolaidis
   - Dora-Raymaker
-zh-hans: [[wiki/works\NicolaidisEtAl2011]]
+zh-hans: [[wiki/works/NicolaidisEtAl2011]]
 needs-review: true
 ---
 

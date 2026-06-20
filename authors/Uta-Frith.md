@@ -6,7 +6,7 @@ tags: [author, autism, foundational, historical]
 sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Uta-Frith]]
+zh-hans: [[wiki/authors/Uta-Frith]]
 needs-review: true
 ---
 

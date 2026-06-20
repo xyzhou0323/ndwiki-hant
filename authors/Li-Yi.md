@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, review]
 sources: [2026-05-14/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf]
 created: 2026-05-18
 updated: 2026-05-18
-zh-hans: [[wiki/authors\Li-Yi]]
+zh-hans: [[wiki/authors/Li-Yi]]
 needs-review: true
 ---
 
@@ -21,7 +21,7 @@ needs-review: true
 
 ## Related
 
-- [[PDA]] — 喚起過度假說對需求迴避的直接解釋力：迴避由焦慮和喚起過度驅動
+- [[PDA]] — 喚起過度假說對要求迴避的直接解釋力：迴避由焦慮和喚起過度驅動
 - [[雙向同理心問題]] — 論文引用的替代性理解框架
 - [[Milton2012|Milton (2012)]] — 論文引用的 DEP 原始論文
 - [[孤獨譜系障礙]] — 核心研究對象

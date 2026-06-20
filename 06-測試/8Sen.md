@@ -5,7 +5,7 @@ aliases: [8Sen, 8Sen 感官知覺特殊性, 感官知覺特殊性測試, 8SEN]
 tags: [test, sensory, autism, neurodiversity]
 created: 2026-05-08
 updated: 2026-05-14
-zh-hans: [[wiki/06-测试\8Sen]]
+zh-hans: [[wiki/06-测试/8Sen]]
 needs-review: true
 ---
 

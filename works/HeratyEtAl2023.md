@@ -8,7 +8,7 @@ created: 2026-06-10
 updated: 2026-06-10
 citation_apa: "Heraty, S., Lautarescu, A., Belton, D., Boyle, A., Cirrincione, P., Doherty, M., ... & Jones, E. J. H. (2023). Bridge-building between communities: Imagining the future of biomedical autism research. Cell, 186(18), 3747–3752. https://doi.org/10.1016/j.cell.2023.08.004"
 doi: 10.1016/j.cell.2023.08.004
-zh-hans: [[wiki/works\HeratyEtAl2023]]
+zh-hans: [[wiki/works/HeratyEtAl2023]]
 needs-review: true
 ---
 
@@ -83,5 +83,5 @@ DSM/ICD 的行爲定義導致了外部觀察導向的研究設計——將偏離
 - [[殘障模型]] — 社會關係模型被推薦爲 ND 肯定式生物醫學研究的適配框架
 - [[參與式行動研究]] — AASPIRE 原則和參與式方法貫穿全文
 - [[ChapmanCarel2022]] — 神經多樣性肯定式醫療的哲學基礎
-- [[NatriEtAl2023]] — 反健全主義語言與高質量孤獨譜系研究完全兼容
+- [[NatriEtAl2023]] — 反健全中心主義語言與高質量孤獨譜系研究完全兼容
 - [[掩飾與僞裝]] — 本文提及掩飾影響女性及邊緣羣體的診斷準確性

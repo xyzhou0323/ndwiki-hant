@@ -8,7 +8,7 @@ created: 2026-05-10
 updated: 2026-05-10
 citation_apa: "Broderick, A. A., & Ne'eman, A. (2008). Autism as metaphor: Narrative and counter-narrative. International Journal of Inclusive Education, 12(5–6), 459–476. https://doi.org/10.1080/13603110802377490"
 doi: 10.1080/13603110802377490
-zh-hans: [[wiki/works\BroderickNeeman2008]]
+zh-hans: [[wiki/works/BroderickNeeman2008]]
 needs-review: true
 ---
 

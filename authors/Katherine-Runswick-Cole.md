@@ -6,7 +6,7 @@ tags: [author, neurodiversity, critique, political, capitalism, disability]
 sources: [2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pdf]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Katherine-Runswick-Cole]]
+zh-hans: [[wiki/authors/Katherine-Runswick-Cole]]
 needs-review: true
 ---
 

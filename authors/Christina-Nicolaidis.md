@@ -6,7 +6,7 @@ tags: [author, neurodiversity, autism, methodology, health-services]
 sources: [2026-05-21/nihms359888.pdf]
 created: 2026-05-21
 updated: 2026-05-21
-zh-hans: [[wiki/authors\Christina-Nicolaidis]]
+zh-hans: [[wiki/authors/Christina-Nicolaidis]]
 needs-review: true
 ---
 

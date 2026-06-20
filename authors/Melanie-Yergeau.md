@@ -5,7 +5,7 @@ aliases: [Melanie Yergeau, Yergeau]
 tags: [author, autism, neurodiversity, rhetoric, neuroqueer]
 created: 2026-06-16
 updated: 2026-06-16
-zh-hans: [[wiki/authors\Melanie-Yergeau]]
+zh-hans: [[wiki/authors/Melanie-Yergeau]]
 needs-review: true
 ---
 

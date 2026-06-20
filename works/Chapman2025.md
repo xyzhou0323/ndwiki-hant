@@ -6,7 +6,7 @@ tags: [work, neurodiversity, critique]
 sources: [blog-posts/Yes, it really is possible for everyone to be neurodivergent.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/works\Chapman2025]]
+zh-hans: [[wiki/works/Chapman2025]]
 needs-review: true
 ---
 

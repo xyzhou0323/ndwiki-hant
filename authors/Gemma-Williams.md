@@ -5,7 +5,7 @@ aliases: [Gemma L. Williams, Gemma Williams, Williams]
 tags: [author, neurodiversity, autism, language, linguistics]
 created: 2026-06-10
 updated: 2026-06-10
-zh-hans: [[wiki/authors\Gemma-Williams]]
+zh-hans: [[wiki/authors/Gemma-Williams]]
 needs-review: true
 ---
 

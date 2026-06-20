@@ -6,7 +6,7 @@ tags: [author, autism, critique, intersectionality]
 sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]
 created: 2026-05-10
 updated: 2026-05-10
-zh-hans: [[wiki/authors\Anna-N-de-Hooge]]
+zh-hans: [[wiki/authors/Anna-N-de-Hooge]]
 needs-review: true
 ---
 

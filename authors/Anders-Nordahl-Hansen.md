@@ -6,7 +6,7 @@ tags: [author, autism, neurodiversity, methodology]
 sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
 created: 2026-06-06
 updated: 2026-06-06
-zh-hans: [[wiki/authors\Anders-Nordahl-Hansen]]
+zh-hans: [[wiki/authors/Anders-Nordahl-Hansen]]
 needs-review: true
 ---
 

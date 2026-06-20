@@ -7,7 +7,7 @@ sources: [books/正常帝國-Empire of Normality (Robert Chapman).epub]
 created: 2026-05-07
 updated: 2026-05-09
 citation_apa: "Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press."
-zh-hans: [[wiki/works\Chapman2023]]
+zh-hans: [[wiki/works/Chapman2023]]
 needs-review: true
 ---
 

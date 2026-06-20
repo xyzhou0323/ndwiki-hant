@@ -5,7 +5,7 @@ aliases: [Liz Pellicano, 伊麗莎白·佩利卡諾]
 tags: [author, neurodiversity, autism]
 created: 2026-05-09
 updated: 2026-05-09
-zh-hans: [[wiki/authors\Elizabeth-Pellicano]]
+zh-hans: [[wiki/authors/Elizabeth-Pellicano]]
 needs-review: true
 ---
 

@@ -7,7 +7,7 @@ sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic 
 created: 2026-05-09
 updated: 2026-05-09
 citation_apa: "Arnaud, S., & Gibson, Q. H. (2025). Neurodiversity, identity, and hypostatic abstraction. Philosophical Studies, 182, 1157-1178."
-zh-hans: [[wiki/works\ArnaudGibson2025]]
+zh-hans: [[wiki/works/ArnaudGibson2025]]
 needs-review: true
 ---
 

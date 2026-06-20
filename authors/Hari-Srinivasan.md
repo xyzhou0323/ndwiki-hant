@@ -5,7 +5,7 @@ aliases: [Hari Srinivasan]
 tags: [author, neurodiversity, autism, neuroscience]
 created: 2026-05-08
 updated: 2026-05-08
-zh-hans: [[wiki/authors\Hari-Srinivasan]]
+zh-hans: [[wiki/authors/Hari-Srinivasan]]
 needs-review: true
 ---
 

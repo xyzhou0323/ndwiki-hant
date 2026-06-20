@@ -7,7 +7,7 @@ citation_apa: "Rea, H. M., Øien, R. A., Webb, S. J., Bansal, S., Strang, J. F.,
 sources: ["2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md"]
 created: 2026-06-06
 updated: 2026-06-06
-zh-hans: [[wiki/works\ReaEtAl2024]]
+zh-hans: [[wiki/works/ReaEtAl2024]]
 needs-review: true
 ---
 

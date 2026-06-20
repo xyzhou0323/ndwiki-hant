@@ -8,7 +8,7 @@ doi: 10.1177/13623613241273029
 created: 2026-05-08
 updated: 2026-05-08
 citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029"
-zh-hans: [[wiki/works\Dwyer2025]]
+zh-hans: [[wiki/works/Dwyer2025]]
 needs-review: true
 ---
 
