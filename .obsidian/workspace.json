@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-實踐應用/AASPIRE.md",
+                "file": "02-批判分析/神經多樣性批判與回應.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AASPIRE"
+              "title": "神經多樣性批判與回應"
             }
           }
         ]
@@ -183,6 +183,15 @@
   },
   "active": "ac36fbb932bdb836",
   "lastOpenFiles": [
+    "02-批判分析/神經規範性.md",
+    "02-批判分析/去病理化.md",
+    "02-批判分析/殘障的哲學定義.md",
+    "02-批判分析/殘障的社會模型.md",
+    "02-批判分析/阿斯至上主義.md",
+    "01-基礎/神經殊異.md",
+    "01-基礎/神經多樣性運動.md",
+    "01-基礎/神經多樣性範式.md",
+    "04-實踐應用/AASPIRE.md",
     "authors/Damian-Milton.md.tmp.32348.f474e7a9d531",
     "authors/Damian-Milton.md.tmp.32348.59b6a0c0e98e",
     "authors/Damian-Milton.md.tmp.32348.8c991b03ee7d",
@@ -190,7 +199,6 @@
     "works/Mandy2025.md",
     "05-诊断与现象/孤独谱系障碍.md",
     "術語翻譯對照表.md",
-    "02-批判分析/阿斯至上主義.md",
     "README.md",
     "TEMPLATE.md",
     "COLLABORATING.md",
