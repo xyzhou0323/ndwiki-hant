@@ -1,19 +1,29 @@
 ---
 title: Uta Frith
-description: Uta Frith 是倫敦大學學院（UCL）認知神經科學研究所榮譽退休教授，英國皇家學會院士，Theory of Mind 缺陷假說的提出者，1991 年將 Asperger 1944 年論文譯爲英文從而將 Asperger 綜合徵引入國際學界
-aliases: [Uta Frith, Frith]
+description: Dame Uta Frith 是倫敦大學學院（UCL）認知神經科學研究所榮譽退休教授，英國皇家學會院士，Theory of Mind 缺陷假說的提出者，1991 年將 Asperger 1944 年論文譯爲英文從而將 Asperger 綜合徵引入國際學界
+aliases: [Uta Frith, Frith, Dame Uta Frith]
 tags: [author, autism, foundational, historical]
 sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-24
 zh-hans: [[wiki/authors/Uta-Frith]]
 needs-review: true
 ---
 
-# Uta Frith
+# Dame Uta Frith
 
-**身份**：University College London (UCL) 認知神經科學研究所榮譽退休教授，英國皇家學會院士（FRS）、英國科學院院士（FBA）、英國醫學科學院院士（FMedSci）
-**研究領域**：發展認知神經科學、孤獨譜系、閱讀障礙
+**身份**：發展認知神經科學先驅，Dame Commander of the Order of the British Empire（DBE）
+**機構**：倫敦大學學院（University College London），認知神經科學研究所（Institute of Cognitive Neuroscience）
+**職稱**：榮譽退休教授（Emeritus Professor of Cognitive Development）
+**學位**：PhD（精神病學研究所，1968），Vordiplom（薩爾大學，1964）
+**網站**：[frithmind.org](https://frithmind.org/)
+**主頁**：[profiles.ucl.ac.uk/9294-uta-frith](https://profiles.ucl.ac.uk/9294-uta-frith)
+
+## 學術定位
+
+Dame Uta Frith 是發展認知神經科學領域最具影響力的先驅之一，以對孤獨譜系和閱讀障礙的研究聞名。作爲英國皇家學會院士（FRS）、英國科學院院士（FBA）、英國醫學科學院院士（FMedSci），她的學術生涯從 1960 年代至今跨越了現代孤獨譜系研究的全部關鍵轉折點。
+
+雖爲榮譽退休教授，Frith 至今仍活躍於學術出版——近期著作和綜述聚焦於社會認知，並致力於改善科學傳播。她是"**慢科學**"（Slow Science）運動的倡導者，推動科學界的反思性實踐。
 
 ## 主要理論貢獻
 
@@ -29,14 +39,24 @@ needs-review: true
 
 - 與 Leslie 和 Morton 合作（Frith, Morton & Leslie, 1991），將發展認知神經科學的"大腦-認知-行爲"三層框架應用於孤獨譜系
 - 2004 年指導 Happé 等完成首項孤獨譜系 ToM 的 PET 神經影像研究
+- 對閱讀障礙（dyslexia）的認知機制研究同樣是其核心學術貢獻
+
+## 皇家學會多元化委員會與制度變革
+
+Frith 擔任**英國皇家學會多元化委員會主席**，開發了針對遴選委員會中無意識偏見的培訓材料，以及改善羣體決策質量的實用指南。這一工作將其認知科學專長應用於學術制度變革，推動科學界的結構性包容。
+
+## 慢科學運動
+
+Frith 是"**慢科學**"（Slow Science）的積極倡導者——在學術出版加速和指標驅動的時代，主張回歸以好奇心爲導向、允許深度思考的科學實踐節奏。她的個人網站 [frithmind.org](https://frithmind.org/) 也是這一理念的體現。
 
 ## 學科史地位
 
-作爲劍橋孤獨譜系研究中心的奠基人之一（與 Simon Baron-Cohen 等共同推動），Frith 從 1980 年代至今的學術生涯幾乎覆蓋了現代孤獨譜系研究的所有關鍵轉折點。[[HappeFrith2020|Happé & Frith (2020)]] 的回顧視角——從 DSM-III 時代到 ND 運動的興起——因 Frith 本人的參與式觀察而具有學科史價值。
+作爲劍橋孤獨譜系研究中心的奠基人之一（與 Simon Baron-Cohen 等共同推動），Frith 從 1980 年代至今的學術生涯幾乎覆蓋了現代孤獨譜系研究的所有關鍵轉折點。[[HappeFrith2020|Happé & Frith (2020)]] 的回顧視角——從 DSM-III 時代到 ND 運動的興起——因 Frith 本人的參與式觀察而具有學科史價值。2026 年，Frith 發表公開聲明，主張"孤獨譜系已崩潰"（[[Frith2026|Frith 2026]]），挑戰掩飾概念和感官便利措施的科學基礎。
 
 ## Related
 
 - [[HappeFrith2020|Happé & Frith (2020)]] — 與 Happé 合作的孤獨譜系概念七大變遷回顧
+- [[Frith2026|Frith (2026)]] — "譜系已崩潰"主張
 - [[Francesca-Happe]] — 主要學術合作者與繼承人
 - [[孤獨譜系障礙]] — 核心研究對象
 - [[雙向同理心問題]] — Milton (2012) 的理論在某種程度上是對 ToM 缺陷假說（單向缺陷框架）的回應

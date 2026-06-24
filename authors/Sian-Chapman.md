@@ -21,4 +21,4 @@ Sian Chapman 是 Murdoch University（Perth, Western Australia）的殘障與融
 ## Related
 
 - [[CarmelChapmanWright2026|Carmel, Chapman & Wright (2026)]] — 本 wiki 收錄的 Chapman 合著作品
-- 殘障正義 — Chapman 研究的核心概念
+- [[殘障正義|殘障正義]] — Chapman 研究的核心概念
