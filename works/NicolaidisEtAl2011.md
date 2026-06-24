@@ -41,13 +41,13 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 
 ## 核心經驗
 
-### 1. 誰是"社羣"？
+### 1. 誰是“社羣”？
 
 孤獨譜系自我倡權社羣遵循與 LGBTQ+ 和聾人社羣相同的**個體成員身份模式**（individual membership pattern）——社羣成員來自以非孤獨譜系者爲主的家庭。這意味着家庭成員是重要的利益相關者，但**其價值觀和優先事項可能與自我倡權社羣相沖突**。
 
-例證：2008 年 IACC 分析顯示，2,200 萬美元研究經費中，37% 用於病因與預防研究，僅 1% 用於"我可以在哪裏獲得服務？"。許多家長運營的組織將資源導向"治癒"和"預防"——這些方向被許多孤獨譜系自我倡權者視爲**非人化且有害**。
+例證：2008 年 IACC 分析顯示，2,200 萬美元研究經費中，37% 用於病因與預防研究，僅 1% 用於“我可以在哪裏獲得服務？”。許多家長運營的組織將資源導向“治癒”和“預防”——這些方向被許多孤獨譜系自我倡權者視爲**非人化且有害**。
 
-[AASPIRE](https://aaspire.org/) 的決定性立場：**聚焦於自我倡權社羣的優先事項**，歡迎認同這一使命的家庭成員作爲盟友參與。這與健康差異研究者與同性戀男性社羣合作時不會花時間辯論"同性戀是否道德"的邏輯相同——AASPIRE 不辯論"孤獨譜系是否應被預防/治癒"這類政治問題。
+[AASPIRE](https://aaspire.org/) 的決定性立場：**聚焦於自我倡權社羣的優先事項**，歡迎認同這一使命的家庭成員作爲盟友參與。這與健康差異研究者與同性戀男性社羣合作時不會花時間辯論“同性戀是否道德”的邏輯相同——AASPIRE 不辯論“孤獨譜系是否應被預防/治癒”這類政治問題。
 
 ### 2. 社羣不在地理本地怎麼辦？
 
@@ -115,13 +115,13 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 - 包容孤獨譜系者作爲平等夥伴需要**對基礎設施和實踐的重大關注**——而非只是態度上的"歡迎"
 - 這項工作**有潛力徹底轉變孤獨譜系研究領域**
 
-本文奠定了此後十年 [AASPIRE](https://aaspire.org/) 產出[[Raymaker2020|孤獨譜系倦怠]]等研究的方法論基礎。
+本文奠定了此後十年 [AASPIRE](https://aaspire.org/) 產出[[Raymaker2020|孤獨譜系耗竭]]等研究的方法論基礎。
 
 ## Related
 
 - [[參與式行動研究]] — PAR 方法論：本文是 PAR 在孤獨譜系研究中最早的系統實踐記錄
 - [[神經多樣性與民主研究]] — "Nothing About Us Without Us"的民主研究原則
-- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤獨譜系倦怠的 CBPR 學術定義
+- [[Raymaker2020|Raymaker et al. (2020)]] — AASPIRE 的重要成果：孤獨譜系耗竭的 CBPR 學術定義
 - [[LloydEvans2023|Lloyd-Evans (2023)]] — PAR 通用工具包：八階段與 A-Z 車輪
 - [[Dora-Raymaker]] — AASPIRE 社羣聯合主任，本文聯合第一作者
 - [[Christina-Nicolaidis]] — AASPIRE 學術聯合主任，本文聯合第一作者

@@ -1,6 +1,6 @@
 ---
 title: 頁面模板
-description: 這是一個頁面模板。這裏用一個完整句子描述頁面內容——含主語，供搜索結果和HTML meta使用
+description: 這裏是描述，用完整句子描述頁面內容——含主語，供搜索結果和HTML meta使用
 aliases:
   - 英文名
   - 其他別名
@@ -9,8 +9,7 @@ tags:
   - neurodiversity
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-zh-hans:
-  - - wiki/TEMPLATE
+zh-hans: [[wiki/TEMPLATE]]
 needs-review: true
 ---
 
@@ -21,14 +20,12 @@ needs-review: true
 ## 二級標題
 
 正文文字。鏈接到其他 Wiki 頁面用雙方括號：
-- [[神經多樣性]]：
-```
+
 - [[神經多樣性]]
 ```
+-  [[神經多樣性]]
+```
 - [[神經多樣性範式|ND 範式]]
-```
-- - [[神經多樣性範式|ND 範式]]
-```
 
 ## 引用來源
 

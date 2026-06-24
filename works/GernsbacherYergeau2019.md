@@ -3,9 +3,9 @@ title: Gernsbacher & Yergeau (2019) - 孤獨譜系者缺乏心理理論主張的
 description: Gernsbacher 與 Yergeau 系統性地檢驗並駁斥了"孤獨譜系者缺乏心理理論"這一心理學界流傳甚廣的斷言，揭示該主張在特異性、普遍性、可重複性、聚合效度和預測效度五個維度上均存在實證失敗，並明確指出了其社會危害
 aliases: [Gernsbacher & Yergeau 2019, GernsbacherYergeau2019, 心理理論批判]
 tags: [work, autism, neurodiversity, critique, methodology]
-sources: [2026-06-16/APA PsycNet 全文 HTML 页面 --- APA PsycNet FullTextHTML page.md]
-zh-hans: [[wiki/works/GernsbacherYergeau2019]]
+sources: [2026-06-16/APA PsycNet 全文 HTML 頁面 zh-hans: [[wiki/works/GernsbacherYergeau2019]]
 needs-review: true
+--- APA PsycNet FullTextHTML page.md]
 doi: 10.1037/arc0000067
 created: 2026-06-16
 updated: 2026-06-16
