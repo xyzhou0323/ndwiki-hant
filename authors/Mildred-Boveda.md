@@ -14,8 +14,7 @@ needs-review: true
 
 Mildred Boveda 是 Penn State University（美國賓夕法尼亞州立大學）的特殊教育學者，在殘障批判種族研究（DisCrit）、交叉性和教師教育領域有重要貢獻。
 
-## 核心貢獻
-
+## 相關研究
 ### ND 的去殖民化批判
 
 Boveda 與 [[Vishnu-KK-Nair|Nair]]、[[Warda-Farah|Farah]] 共同發表了 [[NairEtAl2024|Nair et al. (2024)]]，爲 ND 去殖民化批判提供了 DisCrit 理論框架。

@@ -14,7 +14,7 @@ needs-review: true
 
 孤獨譜系活動家。2010 年創立**孤獨譜系女性與非二元性別網絡**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同時聯合創辦孤獨譜系有色人種網絡。
 
-## 核心貢獻
+## 相關活動
 
 ### AWN：將交叉性女權主義引入神經多樣性運動
 

@@ -14,7 +14,7 @@ needs-review: true
 
 Roald A. Øien 是 UiT – The Arctic University of Norway（特羅姆瑟）和 Yale School of Medicine 兒童研究中心（紐黑文）的研究員。
 
-## 核心貢獻
+## 相關研究
 
 - **Øien et al. (2018)**：性別煩躁與孤獨譜系的系統性範圍綜述——識別 1946 年至 2018 年 4 月的 47 項研究，爲該交叉領域奠定了文獻基礎
 - 孤獨譜系評估與篩查的跨國研究

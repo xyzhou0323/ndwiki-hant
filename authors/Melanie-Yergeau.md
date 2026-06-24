@@ -13,7 +13,7 @@ needs-review: true
 
 Melanie Yergeau 是密歇根大學（University of Michigan）英語語言文學系副教授，孤獨譜系自倡導者。她的學術工作在修辭理論、殘障研究和孤獨譜系批判的交叉點上運作。
 
-## 核心貢獻
+## 相關研究
 
 ### Authoring Autism (2018)
 

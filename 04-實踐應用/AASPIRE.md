@@ -1,6 +1,6 @@
 ---
 title: AASPIRE
-description: AASPIRE（Academic Autism Spectrum Partnership in Research and Education）是一個成立於 2006 年的學術-孤獨譜系社羣合作組織，將社羣參與式研究（CBPR）方法系統應用於孤獨譜系研究，由孤獨譜系與非孤獨譜系研究者作爲平等夥伴共同運營
+description: AASPIRE（Academic Autism Spectrum Partnership in Research and Education）是一個成立於 2006 年的學術-孤獨譜系社羣合作組織，將社區參與式研究（CBPR）方法系統應用於孤獨譜系研究，由孤獨譜系與非孤獨譜系研究者作爲平等夥伴共同運營
 aliases:
   - Academic Autism Spectrum Partnership in Research and Education
   - 學術孤獨譜系研究與教育夥伴關係
@@ -21,13 +21,13 @@ needs-review: true
 
 # AASPIRE
 
-**AASPIRE**（Academic Autism Spectrum Partnership in Research and Education，學術孤獨譜系研究與教育夥伴關係）是一個學術-社羣合作研究組織，將[[參與式行動研究|社羣參與式研究]]（CBPR）方法系統應用於孤獨譜系研究領域。它由[[Christina-Nicolaidis]]（學術聯合主任）與[[Dora-Raymaker]]（社羣聯合主任）於 2006 年共同創立，總部位於波特蘭州立大學。網站：[https://aaspire.org/](https://aaspire.org/)
+**AASPIRE**（Academic Autism Spectrum Partnership in Research and Education，學術孤獨譜系研究與教育夥伴關係）是一個學術-社羣合作研究組織，將[[參與式行動研究|社區參與式研究]]（CBPR）方法系統應用於孤獨譜系研究領域。它由[[Christina-Nicolaidis]]（學術聯合主任）與[[Dora-Raymaker]]（社羣聯合主任）於 2006 年共同創立，總部位於波特蘭州立大學。網站：[https://aaspire.org/](https://aaspire.org/)
 
 AASPIRE 是孤獨譜系 CBPR 的標杆實踐——它將孤獨譜系社羣成員納入研究全過程，包括議程設定、方法選擇、數據收集與分析、成果傳播，而非僅將其作爲"研究對象"。這一實踐體現了[[神經多樣性與民主研究|"沒有我們的參與，不做關於我們的決定"]]（Nothing About Us Without Us）的核心原則。
 
 ## 背景
 
-儘管針對孤獨譜系的研究數量大幅增加，但如何改善[[孤獨譜系障礙|孤獨譜系]]成年人生活的研究關注卻很少。孤獨譜系成年人通常不被視爲孤獨譜系研究的資源或合作夥伴，儘管他們擁有豐富的信息、經驗、見解和技能。
+儘管針對孤獨譜系的研究數量大幅增加，但如何改善[[孤獨譜系障礙|孤獨譜系]]成年人生活的研究關注卻很少。孤獨譜系成年人通常不被視爲孤獨譜系研究的資源或合作伙伴，儘管他們擁有豐富的信息、經驗、見解和技能。
 
 AASPIRE 由學術人員和孤獨譜系人士共同發起——他們意識到需要共同努力，開發並實施真正造福於孤獨譜系社區的研究。通過使用 CBPR 方法，孤獨譜系與非孤獨譜系的科學家及社區成員在研究過程的每個階段都作爲**平等夥伴**共同工作。
 
@@ -60,7 +60,7 @@ AASPIRE 的基礎架構以權力分享爲核心：
 
 AASPIRE 總部位於波特蘭州立大學，其團隊成員包括來自全美各地以及澳大利亞和英國的學術及社區合作伙伴。AASPIRE 與孤獨譜系自我倡權網絡（Autistic Self-Advocacy Network, [ASAN](https://autisticadvocacy.org/)）和俄勒岡州孤獨譜系協會（Autism Society of Oregon）保持着長期的合作關係。
 
-學術合作伙伴來自多所學術機構，包括：俄勒岡健康與科學大學、加州大學舊金山分校、印第安納大學、雪城大學、皇家墨爾本理工大學、樸茨茅斯大學、範德堡大學、聖地亞哥州立大學、華盛頓大學、蒙大拿大學農村研究所和猶他大學。
+學術合作伙伴來自多所學術機構，包括：俄勒岡健康與科學大學、加州大學舊金山分校、印第安納大學、雪城大學、皇家墨爾本理工大學、朴茨茅斯大學、範德堡大學、聖地亞哥州立大學、華盛頓大學、蒙大拿大學農村研究所和猶他大學。
 
 ## 核心研究領域
 

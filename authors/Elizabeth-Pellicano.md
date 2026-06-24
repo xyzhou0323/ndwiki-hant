@@ -20,7 +20,7 @@ needs-review: true
 - 曾任倫敦大學學院（UCL）教育學院教授
 - 澳大利亞研究委員會（ARC）未來研究員（Future Fellowship, FT190100077）
 
-## 核心貢獻
+## 相關研究
 
 ### 範式轉型倡導
 

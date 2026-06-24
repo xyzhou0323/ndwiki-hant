@@ -13,7 +13,7 @@ needs-review: true
 
 英國獨立孤獨譜系研究者，以書籍索引爲職業，業餘從事孤獨譜系學術研究。
 
-## 核心貢獻
+## 相關研究
 
 - **神經多樣性研究**：與 [[Hanna-Bertilsdotter-Rosqvist]] 和 [[Anna-Stenning]] 共同主編 [[RosqvistEtAl2020]]（Routledge, 2020）——首部提出"神經多樣性研究"作爲新學術領域的編輯卷
 - **Wittgenstein 與孤獨譜系**：將 Wittgenstein 語言遊戲概念應用於分析孤獨譜系如何通過神經典型的語言實踐被建構爲病理——"智力"概念是語言遊戲對思維的"蠱惑"（bewitchment）

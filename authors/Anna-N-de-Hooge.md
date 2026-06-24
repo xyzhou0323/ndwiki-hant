@@ -12,13 +12,13 @@ needs-review: true
 
 # Anna N. de Hooge
 
-Anna N. de Hooge（1996 年生）是殘障研究領域的寫作者、媒體工作者與研究者。以[[deHooge2019|《Binary Boys》]]（2019）一文發表了對[[阿斯至上主義]]（Aspie Supremacy）的首篇系統性學術分析，發表於 _Disability Studies Quarterly_。
+Anna N. de Hooge（1996 年生）是殘障研究領域的寫作者、媒體工作者與研究者。以[[deHooge2019|《Binary Boys》]]（2019）一文發表了[[阿斯至上主義]]（Aspie Supremacy）的首篇系統性學術分析，發表於 _Disability Studies Quarterly_。
 
 > 她曾以爲自己是爲攀爬學術象牙塔而攀上長髮公主頭髮的故事中的女巫——但後來決定，不如一把火燒了這座塔。
 
 de Hooge 目前與 Asefeh Tayebani 合作開展一個**由孤獨譜系女性和非二元性別者主導、關於ta們自身**的項目。她的研究興趣集中於**神經酷兒**（neuroqueerness）和**阿斯至上主義**兩個概念。
 
-## 核心貢獻
+## 相關研究
 
 ### 阿斯至上主義的學術化
 

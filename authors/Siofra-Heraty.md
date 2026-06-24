@@ -14,7 +14,7 @@ needs-review: true
 
 Síofra Heraty 是 Birkbeck, University of London 心理科學系腦與認知發展中心（CBCD）的博士後研究助理，AIMS-2-TRIALS（全球最大的孤獨譜系研究聯盟之一）戰略倫理負責人。ORCID: [0009-0005-2891-4258](https://orcid.org/0009-0005-2891-4258)。
 
-## 核心貢獻
+## 相關研究
 
 - **橋接生物醫學與 ND 範式**：領導 [[HeratyEtAl2023|Heraty et al. (2023)]] _Cell_ 評論——AIMS-2-TRIALS 的孤獨譜系與非孤獨譜系科學家聯合提出神經多樣性肯定式生物醫學研究範式
 - **參與式研究方法論**：倡導將 [AASPIRE](https://aaspire.org/) [[參與式行動研究|參與式研究]]原則應用於生物醫學研究全流程——從溼實驗室到臨牀試驗

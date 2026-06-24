@@ -12,7 +12,7 @@ needs-review: true
 
 孤獨譜系自倡導者、殘障權利律師、活動家。與 Shain M. Neumeier 共同領導了反對 Judge Rotenberg Center（JRC）電擊"治療"的廢除運動（Kapp 2020 第14章）。
 
-## 核心貢獻
+## 相關活動
 
 ### JRC 廢除運動
 

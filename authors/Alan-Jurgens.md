@@ -25,7 +25,7 @@ Jurgens 的研究聚焦於**生成主義社會認知**（Enactive Social Cogniti
 
 2022 年，Jurgens 在美國哲學協會芝加哥會議中對 Maiese & Hanna (2019) *The Mind-Body Politic* 發表評論，評論文章"Master Narratives: Embodying Ideology"發表於 *Journal of the Philosophy of Emotion* (2024)。
 
-## 核心貢獻
+## 相關研究
 
 ### 生成主義與神經多樣性的整合
 
@@ -37,7 +37,7 @@ Jurgens 的研究聚焦於**生成主義社會認知**（Enactive Social Cogniti
 
 ### 殘障的關係模型
 
-在 *Frontiers in Psychology* 的後續發表中考慮，Jurgens 倡導一種**關係性殘障模型**（relational model of disability），同時採納神經多樣性範式路徑和 Chapman 的生態功能模型。這一工作延續並拓展了其博士論文中的研究方向。
+在 *Frontiers in Psychology* 的後續發表中，Jurgens 倡導一種**關係性殘障模型**（relational model of disability），同時採納神經多樣性範式路徑和 Chapman 的生態功能模型。這一工作延續並拓展了其博士論文中的研究方向。
 
 ### 社會機器人與孤獨譜系
 

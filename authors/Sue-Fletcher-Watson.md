@@ -45,7 +45,7 @@ Fletcher-Watson 主持 **LEANS**（Learning About Neurodiversity at School，學
 - **CoMorMent**：多學科精神健康共病研究
 - **Understanding Repetitive Behaviours**：重複行爲臨牀干預試驗
 
-## 核心貢獻
+## 相關研究
 
 - 與 Chapman 共同提出 [[神經多樣性範式]] 的兩條核心原則：**肯定複雜性**和**將神經規範性政治化**
 - 強調神經多樣性範式不僅是社會/政治運動，也有潛力改進科學研究和專業實踐——這一立場貫穿其教育干預（LEANS）和同伴支持（NEST）等實證研究項目

@@ -14,7 +14,7 @@ needs-review: true
 
 瑞典 Södertörn 大學社會學副教授、社會工作高級講師。曾任 _Scandinavian Journal of Disability Research_ 主編。
 
-## 核心貢獻
+## 相關研究
 
 - **神經多樣性研究**：與 [[Nick-Chown]] 和 [[Anna-Stenning]] 共同主編 [[RosqvistEtAl2020]]（Routledge, 2020）——首部提出"神經多樣性研究"作爲新學術領域的編輯卷
 - **感官研究**：與 Jackson-Perry 等合寫"感官陌生人"（Sensory Strangers）章節，提出以"cripistemology"（酷殘認識論）爲方法論框架探索孤獨譜系感官體驗

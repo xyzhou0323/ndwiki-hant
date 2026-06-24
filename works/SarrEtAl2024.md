@@ -22,7 +22,7 @@ needs-review: true
 **方法**：共制三輪 Delphi 法 | **樣本**：106 位國際專業人員（R1）→ 59（R2, 56%）→ 55（R3, 52%）
 **資金**：King's College London、Medical Research Council、NIHR Maudsley Biomedical Research Centre
 
-## 核心貢獻
+## 本文要點
 
 本文是**首項採用共制 Delphi 法系統建立四種狀況鑑別診斷共識的研究**。[[孤獨譜系障礙]]、依戀障礙（RAD/DSED）、CPTSD 和 EUPD 之間存在大量症狀重疊——情緒失調、認知與行爲僵化、感官處理差異、人際困難——使得臨牀鑑別診斷面臨重大挑戰。研究通過三輪 Delphi 流程，最終**275 條陳述達成共識**（≥80% 一致），另有部分陳述未達共識（如孤獨譜系與 EUPD 共現的陳述全部未通過）。
 

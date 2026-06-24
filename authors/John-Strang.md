@@ -14,7 +14,7 @@ needs-review: true
 
 John F. Strang 是 Children's National Hospital（華盛頓特區）性別與孤獨譜系項目（Gender and Autism Program）主任，性別多樣性與孤獨譜系交叉領域的核心臨牀研究者。
 
-## 核心貢獻
+## 相關研究
 
 - **Gender Self-Report**（2023）：在孤獨譜系和非孤獨譜系青少年及成人中校準的性別自我報告工具，捕捉連續的非二元與二元性別多樣性因素，解決了定量分析中單元格過小的問題
 - **Strang et al. (2018) 臨牀指南**：首部針對孤獨譜系性別多樣青少年的評估與護理 Delphi 共識指南（22 位專家）

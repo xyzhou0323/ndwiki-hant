@@ -1,6 +1,6 @@
 ---
 title: Steven Kapp
-description: Steven Kapp 是樸茨茅斯大學心理學院高級講師，發展心理學家，ASAN 前科學主任，Kapp 2020 主編——首部由運動內部 21 位關鍵領導者以第一人稱親述的神經多樣性運動全史，並實質性地影響了 DSM-5 孤獨譜系診斷標準的修訂
+description: Steven Kapp 是朴茨茅斯大學心理學院高級講師，發展心理學家，ASAN 前科學主任，Kapp 2020 主編——首部由運動內部 21 位關鍵領導者以第一人稱親述的神經多樣性運動全史，並實質性地影響了 DSM-5 孤獨譜系診斷標準的修訂
 aliases: [Steven Kapp, Steven K. Kapp, Kapp, 史蒂文·卡普]
 tags: [author, neurodiversity, autism, foundational]
 created: 2026-05-07
@@ -12,7 +12,7 @@ needs-review: true
 # Steven K. Kapp
 
 **身份**：發展心理學家 × 孤獨譜系與神經多樣性研究者
-**機構**：樸茨茅斯大學（University of Portsmouth），科學健康學部，心理、運動與健康科學學院（School of Psychology, Sport and Health Sciences）
+**機構**：朴茨茅斯大學（University of Portsmouth），科學健康學部，心理、運動與健康科學學院（School of Psychology, Sport and Health Sciences）
 **職稱**：高級講師（Senior Lecturer）
 **所屬中心**：整合健康與福祉中心（Centre for Integrated Health and Wellbeing）；互動、發展與多樣性中心（Centre for Interaction, Development and Diversity）
 **學位**：PhD（人類發展與教育心理學，UCLA，2016），MA（2013，UCLA），BSc（公共政策，南加州大學 USC）
@@ -27,13 +27,13 @@ Kapp 的研究方法多樣，涵蓋質性、量化、混合方法，從社區參
 
 ## 立場形成史
 
-2007 年，Kapp 通過 ASAN 聯合創始人 Scott Robertson 在 Facebook 上的介紹，了解到神經多樣性與殘障權利運動。在南加州充滿敵意的環境中（CARD、Lovaas Institute、Cure Autism Now、TACA 的僞科學宣傳），Kapp 選擇進入學術領域——"學習主流科學的思維和語言，以更好地批判它們。"
+2007 年，Kapp 通過 ASAN 聯合創始人 Scott Robertson 在 Facebook 上的介紹，瞭解到神經多樣性與殘障權利運動。在南加州充滿敵意的環境中（CARD、Lovaas Institute、Cure Autism Now、TACA 的僞科學宣傳），Kapp 選擇進入學術領域——"學習主流科學的思維和語言，以更好地批判它們。"
 
-## 核心貢獻
+## 相關研究
 
 ### Kapp 2020 編輯文集
 
-主編 [[Kapp2020|Kapp (2020)]]（Palgrave Macmillan，開放獲取）——首部由運動內部 21 位關鍵領導者以第一人稱親述的神經多樣性運動全史。Wellcome Trust 資助（項目 "Exploring Diagnosis: Autism and the Neurodiversity Movement"，PI: Ginny Russell），Kapp 在埃克塞特大學任博士後研究員期間（2016–2019）完成。
+主編 [[Kapp2020|Kapp (2020)]]（Palgrave Macmillan，開放獲取）——首部由運動內部 21 位關鍵領導者以第一人稱親述的神經多樣性運動全史。Wellcome Trust 資助（項目 "Exploring Diagnosis: Autism and the Neurodiversity Movement"，PI: Ginny Russell），Kap 在埃克塞特大學任博士後研究員期間（2016–2019）完成。
 
 ### Botha et al. 2024 修正
 

@@ -13,7 +13,7 @@ needs-review: true
 
 倫敦國王學院精神病學、心理學與神經科學研究所（IoPPN）發育精神病理學教授，*Journal of Child Psychology and Psychiatry*（JCPP）主編。
 
-## 核心貢獻
+## 相關研究
 
 ### ADHD 與神經發育障礙研究
 

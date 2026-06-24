@@ -18,7 +18,7 @@ Katherine Runswick-Cole 是 Manchester Metropolitan University（英國曼徹斯
 
 Runswick-Cole 位於英國批判殘障研究傳統之中，與 Dan Goodley 等學者密切合作。她的工作聚焦於神經多樣性運動在 neoliberal 社會政策語境下的政治侷限——特別是身份政治（identity politics）的"我們 vs 他們"框架如何最終限制了運動的解放潛力。
 
-## 核心貢獻
+## 相關研究
 
 ### 神經多樣性政治與新自由主義批判
 

@@ -16,7 +16,7 @@ needs-review: true
 **職稱**：實務教授（Professor in Practice），2022 年 8 月起任職
 **核心角色**：
 
-- **國家倖存者用戶網絡（National Survivor User Network, NSUN）** CEO——2020年上任以來將年收入與人員擴容三倍，使 NSUN 成爲精神健康領域的主導聲音
+- **國家倖存者用戶網絡（National Survivor User Network, NSUN）** CEO——2020年上任以來將年收入和人員擴容三倍，使 NSUN 成爲精神健康領域的主導聲音
 - **國際精神健康歐洲（Mental Health Europe）** 前主任
 - **國際心理與社會取向精神病學會（ISPS）UK** 主席
 - **National Voices** 理事
@@ -25,11 +25,11 @@ needs-review: true
 
 ## 學術與實務橋樑
 
-Hart 代表了醫療人文領域中罕見的"實務教授"角色——將志願部門一線的倡導經驗帶入學術體制內部。她自 2018 年起擔任 IMH 國際顧問委員會成員，參與了 IMH 的旗艦項目 **"Hearing the Voice"**（聆聽聲音）和 **"Understanding Voices"** 網站——全球最主要的聽聲信息資源平台——的協作開發。她與 IMH 研究者合作發表了多篇關於精神健康和精神病學的學術論文。
+Hart 代表了醫療人文領域中罕見的"實務教授"角色——將志願部門一線的倡導經驗帶入學術體制內部。她自 2018 年起擔任 IMH 國際顧問委員會成員，參與了 IMH 的旗艦項目 **"Hearing the Voice"**（聆聽聲音）和 **"Understanding Voices"** 網站——全球最主要的聽聲信息資源平臺——的協作開發。她與 IMH 研究者合作發表了多篇關於精神健康和精神病學的學術論文。
 
 目前，Hart 正支持 IMH 向 Wellcome Trust 申請一項 **1000 萬英鎊的 Discovery Research Platform** 資助，旨在突破研究障礙、催化關於健康與福祉中隱蔽體驗的共創研究。
 
-## 核心貢獻
+## 相關活動
 
 ### 聽聲運動與神經多樣性的聯盟
 

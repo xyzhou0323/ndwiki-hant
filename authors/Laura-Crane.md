@@ -20,7 +20,7 @@ needs-review: true
 - UCL 教育學院 CRAE 教授（倫敦，英國）
 - CRAE 前副主任（Deputy Director）
 
-## 核心貢獻
+## 相關研究
 
 ### 全球神經多樣性研究合作
 

@@ -13,7 +13,7 @@ needs-review: true
 
 Morton Ann Gernsbacher 是威斯康星大學麥迪遜分校（University of Wisconsin—Madison）心理學系教授。她的研究涵蓋語言理解、孤獨譜系認知和科學方法論。
 
-## 核心貢獻
+## 相關研究
 
 ### 對心理理論缺陷假說的系統性批判
 

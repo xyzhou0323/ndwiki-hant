@@ -15,7 +15,7 @@ needs-review: true
 
 引用：Rea, H. M., Øien, R. A., Webb, S. J., Bansal, S., Strang, J. F., & Nordahl-Hansen, A. (2024). Gender diversity, gender dysphoria/incongruence, and the intersection with autism spectrum disorders: An updated scoping review. *Journal of Autism and Developmental Disorders*. https://doi.org/10.1007/s10803-024-06650-6
 
-## 核心貢獻
+## 本文要點
 
 對 2018 年 9 月至 2024 年 1 月發表的 99 項實證研究及 6 篇系統綜述/元分析進行範圍綜述，是對 Øien et al. (2018) 和 Nordahl-Hansen et al. (2019) 的更新與擴展。2018 年被視爲性別多樣性與孤獨譜系交叉研究的**全球轉折點**——此後約 5.5 年間發表的研究數量（99 篇）是此前 37 年（1981–2018，47 篇）的約 1.5 倍。
 
