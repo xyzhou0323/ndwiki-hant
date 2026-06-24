@@ -67,7 +67,7 @@ needs-review: true
 
 ### 支持 DEP 的證據
 
-- 孤獨譜系-非孤獨譜系配對報告更低融洽度、更少同步性和更頻繁的誤解（Crompton, Ropar et al., 2020; Morrison et al., 2020; Bolis et al., 2021; Foster et al., 2025）
+- 孤獨譜系-非孤獨譜系配對報告更低融洽度、更少同步性和更頻繁的誤解（[[CromptonEtAl2020|Crompton, Ropar et al. (2020)]]; Morrison et al., 2020; Bolis et al., 2021; Foster et al., 2025）
 - 混合神經類型互動常爲最不成功的——與孤獨譜系"缺陷"理論明顯矛盾
 - 部分研究的不同發現（如 Wadge et al., 2019）不構成反駁——DEP 主張的是更大**概率**的連接，而非任何情境下都成立
 

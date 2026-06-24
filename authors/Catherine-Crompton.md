@@ -1,6 +1,6 @@
 ---
 title: Catherine Crompton
-description: Catherine J. Crompton 是愛丁堡大學 Usher 研究所高級研究員（Ph.D.），Edinburgh Neuroscience 成員，雙 empathy 問題最重要的實證研究者之一，以擴散鏈實驗首次證明孤獨譜系者間信息傳遞高效、跨神經類型互動融洽度差異著稱，獲 Autistica 公衆參與獎（2018）
+description: Catherine J. Crompton 是愛丁堡大學 Usher 研究所高級研究員（Ph.D.），Edinburgh Neuroscience 成員，雙向同理心問題最重要的實證研究者之一，以擴散鏈實驗首次證明孤獨譜系者間信息傳遞高效、跨神經類型互動融洽度差異著稱，獲 Autistica 公衆參與獎（2018）
 aliases: [Catherine Crompton, Catherine J. Crompton, Crompton, 凱瑟琳·克朗普頓]
 tags: [author, neurodiversity, autism, double-empathy, translational-neuroscience]
 sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
@@ -12,7 +12,7 @@ needs-review: true
 
 # Catherine Crompton
 
-**身份**：孤獨譜系社交互動研究者 × 雙 empathy 問題實證驗證者 × 轉化神經科學學者
+**身份**：孤獨譜系社交互動研究者 × 雙向同理心問題實證驗證者 × 轉化神經科學學者
 **機構**：愛丁堡大學（University of Edinburgh），人口健康科學學院，Usher 研究所，生物醫學、自我與社會中心（Centre for Biomedicine, Self and Society）
 **職稱**：高級研究員（Senior Research Fellow）
 **隸屬**：Edinburgh Neuroscience、愛丁堡心理健康網絡
@@ -22,11 +22,11 @@ needs-review: true
 
 ## 學術定位
 
-Crompton 的研究橫跨**孤獨譜系社交認知、健康不平等與轉化神經科學**。她的早期工作涉及健康老化中的協作學習與記憶，近年聚焦**神經多樣性框架下的跨神經類型互動**，以嚴格的行爲實驗方法爲[[雙向同理心問題|雙 empathy 問題]]提供關鍵實證證據。同時關注孤獨譜系成人的**健康體驗**（如 Ehlers-Danlos 綜合徵共病）和**開放科學工具開發**（如 duet R 包）。
+Crompton 的研究橫跨**孤獨譜系社交認知、健康不平等與轉化神經科學**。她的早期工作涉及健康老化中的協作學習與記憶，近年聚焦**神經多樣性框架下的跨神經類型互動**，以嚴格的行爲實驗方法爲[[雙向同理心問題]]提供關鍵實證證據。同時關注孤獨譜系成人的**健康體驗**（如 Ehlers-Danlos 綜合徵共病）和**開放科學工具開發**（如 duet R 包）。
 
 ## 研究
 
-### 雙 empathy 問題的實證驗證
+### 雙向同理心問題的實證驗證
 
 Crompton 是 DEP 理論最重要的實證研究者之一，其系列實驗爲 DEP 提供了直接而系統的行爲證據：
 
@@ -75,11 +75,15 @@ Crompton 是 DEP 理論最重要的實證研究者之一，其系列實驗爲 DE
 
 ## 本wiki已引用著作
 
+- [[CromptonEtAl2020|Crompton et al. (2020)]] — 首次擴散鏈實驗，證明孤獨譜系者間信息傳遞高效、跨神經類型衰減
+- [[CromptonEtAl2025|Crompton et al. (2025)]] — 大規模預註冊複製，再次確認孤獨譜系鏈無缺陷，發現診斷告知改善融洽度
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 
 ## Related
 
 - [[雙向同理心問題]]
+- [[CromptonEtAl2020|Crompton et al. (2020)]]
+- [[CromptonEtAl2025|Crompton et al. (2025)]]
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
 - [[Milton2012|Milton (2012)]]
 - [[Damian-Milton]] — DEP 原創者
