@@ -41,7 +41,7 @@ Srinivasan 將神經多樣性運動與多學科理論資源對接，將框架建
 | 醫學-社會橋樑 | 生物心理社會模型（Biopsychosocial Model）、ICF（國際功能、殘障與健康分類） |
 | 邊緣化與污名 | 標籤理論（Labeling Theory）、污名理論（Stigma Theory）、酷殘理論（Crip Theory）、瘋狂理論（Mad Theory） |
 | 文化與結構 | 殘障文化模型（Cultural Models of Disability）、個人主義-集體主義、能力路徑（Capability Approach）、生態系統理論（Ecological Systems Theory） |
-| 社會正義 | **殘障正義（Disability Justice）**、批判殘障理論（Critical Disability Theory） |
+| 社會正義 | **殘障正義（Disability Justice）**、批判性殘障理論（Critical Disability Theory） |
 
 ## 三個關鍵差距
 

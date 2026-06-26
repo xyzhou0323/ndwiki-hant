@@ -1,10 +1,10 @@
 ---
-title: Crompton et al. (2025) - 孤獨譜系與非孤獨譜系者內及跨群體信息傳遞
+title: Crompton et al. (2025) - 孤獨譜系與非孤獨譜系者內及跨羣體信息傳遞
 description: Crompton 等人以更大樣本（N=311）三站點預註冊複製研究重新檢驗神經類型匹配對信息傳遞和融洽度的影響，複製了孤獨譜系與非孤獨譜系鏈信息傳遞無差異的結果，但未發現跨神經類型信息傳遞的選擇性衰減，非孤獨譜系鏈融洽度更高、診斷告知改善融洽度
 aliases:
   - CromptonEtAl2025
   - Information transfer within and between autistic and non-autistic people
-  - 孤獨譜系與非孤獨譜系者內及跨群體信息傳遞
+  - 孤獨譜系與非孤獨譜系者內及跨羣體信息傳遞
 tags:
   - work
   - autism
@@ -21,7 +21,7 @@ zh-hans: [[wiki/works/CromptonEtAl2025]]
 needs-review: true
 ---
 
-# Crompton et al. (2025) — 孤獨譜系與非孤獨譜系者內及跨群體信息傳遞
+# Crompton et al. (2025) — 孤獨譜系與非孤獨譜系者內及跨羣體信息傳遞
 
 引用：Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthimiou, T. N., Ropar, D., Sasson, N. J., Lages, M., & Fletcher-Watson, S. (2025). Information transfer within and between autistic and non-autistic people. *Autism*. Advance online publication.
 
@@ -32,12 +32,12 @@ needs-review: true
 
 ## 定位
 
-本文是 [[CromptonEtAl2020|Crompton et al. (2020)]] 的**預註冊大規模複製**，同時增加兩個擴展條件：（1）診斷告知（知情 vs. 不知情），考察了解互動對象診斷狀態對信息傳遞和融洽度的影響；（2）內容類型（虛構 vs. 事實性材料），考察信息類型是否調節跨神經類型傳遞效果。N=311，三站點獨立數據收集，統計效力遠高於原始研究。
+本文是 [[CromptonEtAl2020|Crompton et al. (2020)]] 的**預註冊大規模複製**，同時增加兩個擴展條件：（1）診斷告知（知情 vs. 不知情），考察瞭解互動對象診斷狀態對信息傳遞和融洽度的影響；（2）內容類型（虛構 vs. 事實性材料），考察信息類型是否調節跨神經類型傳遞效果。N=311，三站點獨立數據收集，統計效力遠高於原始研究。
 
 ## 方法
 
 - **設計**：混合實驗設計。組間因子：鏈類型（孤獨譜系、非孤獨譜系、混合）× 診斷告知（知情/不知情）；組內因子：任務類型（虛構/事實）
-- **參與者**：N=311（孤獨譜系 154 人，非孤獨譜系 157 人），孤獨譜系組含臨床診斷（144 人）和自我認同（40 人，RAADS-R>72）
+- **參與者**：N=311（孤獨譜系 154 人，非孤獨譜系 157 人），孤獨譜系組含臨牀診斷（144 人）和自我認同（40 人，RAADS-R>72）
 - **範式**：6 人擴散鏈（較 2020 年 8 人縮短以避免地板效應），看視頻複述故事
 - **預註冊**：Stage 1 protocol at [osf.io/us9c7](https://osf.io/us9c7)
 - **分析**：多水平混合效應模型（MLM）+ 貝葉斯因子
@@ -69,7 +69,7 @@ needs-review: true
 
 ## 討論
 
-### 為何未複製混合鏈效應？
+### 爲何未複製混合鏈效應？
 
 作者提出幾個可能解釋：
 
@@ -82,7 +82,7 @@ needs-review: true
 
 - 在更大、更多樣化的樣本中**再次否定**孤獨譜系者存在普遍性溝通缺陷的診斷假設
 - 揭示跨神經類型互動的複雜性——神經類型匹配並非唯一影響變量
-- 診斷告知改善融洽度——對臨床實踐和孤獨譜系者日常自我披露決策具有啟示
+- 診斷告知改善融洽度——對臨牀實踐和孤獨譜系者日常自我披露決策具有啓示
 
 ## Related
 
