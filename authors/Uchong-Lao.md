@@ -1,11 +1,11 @@
 ---
 title: Uchong Lao
-description: 劉宇翀（Dr. Uchong Lao）是神經多元人士、中山大學附屬第三醫院博士後、《神經多樣性工具包》主編、神多宇研（神經多樣性宇宙研究所）創始人，Lao & Zhu (2024) 第一作者，致力於神經多樣性的嚴肅推廣、研究與社羣實踐
+description: 劉宇翀（Dr. Uchong Lao）是神經多元人士、中山大學附屬第三醫院博士後、《神經多樣性工具包》主編、神多宇研（神經多樣性宇宙研究所）創始人，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 第一作者，致力於神經多樣性的嚴肅推廣、研究與社羣實踐
 aliases: [Uchong Lao, Lao, 劉宇翀, LAO Uchong]
 tags: [author, autism, neurodiversity]
 sources: [2026-06-24/LaoZhu2024-AutismTerminologyReview.md]
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-03
 zh-hans: [[wiki/authors/Uchong-Lao]]
 needs-review: true
 ---
@@ -37,7 +37,13 @@ needs-review: true
 - 主編《神經多樣性工具包》
 - 多次主持**感官友好環境工作坊**和**自倡導工作坊**
 
-## 相關研究
+## 本wiki已引用著作
+
+- [[LaoZhu2024|Lao & Zhu (2024)]] — 第一作者，中文孤獨症術語的概念更迭與感知研究綜述（*新醫學*）
+- [[LaoEtAl2024|Lao et al. (2024)]] — 第一作者，中文孤獨症術語的社羣感知調查（*Autism in Adulthood*）
+- [[LaoEtAl2026|Lao et al. (2026)]] — 第一作者，與自閉症對話：中文自閉症話語的解構與敘事能動性的重建（*Humanities and Social Sciences Communications*）
+
+### Lao & Zhu (2024)
 
 在 [[LaoZhu2024|Lao & Zhu (2024)]] 中作爲**第一作者**，從語言建構角度系統綜述了：
 
@@ -48,9 +54,19 @@ needs-review: true
 
 該研究是對中文語境中孤獨症術語使用最系統的綜述之一，填補了此前中文文獻中關於孤獨症語言建構、健全者中心主義與神經多樣性術語討論的空白。
 
+### Lao et al. (2024)
+
+在 [[LaoEtAl2024|Lao et al. (2024)]] 中作爲**第一作者**，主導了首個大規模（N = 1,016）中文孤獨症術語感知的實證調查。研究採用 7 點量表評估 13 個術語的偏好、冒犯度和熟悉度，並通過聚類分析識別出六種態度模式。該論文將孤獨症術語討論從西方語境擴展到中文語境，揭示了中文獨特的雙翻譯現象和本土社區術語如何影響不同身份羣體的感知。
+
+### Lao et al. (2026)
+
+在 [[LaoEtAl2026|Lao et al. (2026)]] 中作爲**第一作者**，主導了混合方法研究，通過語料分析、問卷調查和深度訪談，運用反思性主題分析揭示了中文自閉症術語的社會建構過程，以及孤獨症人士如何通過與中國哲學傳統的對話解構醫學標籤、重建敘事能動性。
+
 ## Related
 
-- [[LaoZhu2024|Lao & Zhu (2024)]] — 第一作者
+- [[LaoZhu2024|Lao & Zhu (2024)]] — 第一作者（中文綜述）
+- [[LaoEtAl2024|Lao et al. (2024)]] — 第一作者（英文實證研究）
+- [[LaoEtAl2026|Lao et al. (2026)]] — 第一作者（英文混合方法研究）
 - [[Huilin-Zhu|朱繪霖]] — 合作者與通訊作者
 - [[術語翻譯對照表]] — 本 wiki 術語規範
 - [[孤獨譜系障礙]] — 核心研究主題
