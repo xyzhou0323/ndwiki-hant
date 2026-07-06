@@ -19,6 +19,6 @@ needs-review: true
 
 ## Related
 
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]]
-- [[Monique-Botha]]
-- [[Gemma-Williams]]
+- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？身份在前與人稱在前語言的使用（共同作者）
+- [[Monique-Botha]] — 本文第一作者
+- [[Gemma-Williams]] — 本文共同作者

@@ -95,6 +95,6 @@ needs-review: true
 - [[去病理化]] — 本文"多樣性非缺陷"框架的直接應用
 - [[殘障的社會模型]] — 本文"情境很重要"論證的理論背景
 - [[孤獨譜系障礙]] — 本文討論的核心對象
-- [[Elizabeth-Pellicano|Elizabeth Pellicano]]
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 第一作者
 - [[denHouting2019|den Houting (2019)]] — 本文方法論立場的早期版本：內部人視角與三大誤解澄清
-- [[Jacquiline-den-Houting|Jacquiline den Houting]]
+- [[Jacquiline-den-Houting|Jacquiline den Houting]] — 第二作者

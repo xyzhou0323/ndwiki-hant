@@ -32,4 +32,3 @@ needs-review: true
 - [[RosqvistEtAl2020]] — 主編的編輯卷
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Anna-Stenning]] — 合作主編
 - [[Ines-Hipolito]] — 第 12 章合作者
-- [[00-知識地圖]] — 知識地圖入口

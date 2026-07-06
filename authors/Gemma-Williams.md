@@ -30,7 +30,7 @@ needs-review: true
 
 ## Related
 
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]]
-- [[ZanevaEtAl2024|Zaneva et al. (2024)]]
-- [[神經多樣性範式]]
-- [[去病理化]]
+- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？身份在前與人稱在前語言的使用（共同作者）
+- [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神經多樣性入門閱讀清單（共同作者）
+- [[神經多樣性範式]] — Williams 的身份在前語言倡導的理論基礎
+- [[去病理化]] — 語言選擇的核心批判立場

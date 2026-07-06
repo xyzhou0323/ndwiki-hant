@@ -36,4 +36,3 @@ needs-review: true
 - [[Nick-Chown]]、[[Anna-Stenning]] — 合作主編
 - David-Jackson-Perry — 感官研究合作者
 - [[神經多樣性研究]] — 共同奠基的學術領域
-- [[00-知識地圖]] — 知識地圖入口

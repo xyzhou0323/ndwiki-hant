@@ -19,5 +19,5 @@ needs-review: true
 
 ## Related
 
-- [[ChengEtAl2023|Cheng et al. (2023)]]
-- [[神經多樣性與交叉性]]
+- [[ChengEtAl2023|Cheng et al. (2023)]] — 神經多樣性與社區主導權利運動的全球研究合作（合著者）
+- [[神經多樣性與交叉性]] — 全球研究合作中涉及的核心交叉維度

@@ -26,8 +26,8 @@ Kilgallon 主導了 [[KilgallonEtAl2026|Kilgallon et al. (2026)]]——一篇重
 
 ## Related
 
-- [[雙向同理心問題]]
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
-- [[Monique-Botha]]
-- [[Patrick-Dwyer]]
-- [[Damian-Milton]]
+- [[雙向同理心問題]] — Kilgallon et al. (2026) 重新闡明的核心框架
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（第一作者）
+- [[Monique-Botha]] — 論文合著者，DEP 批判理論維度貢獻者
+- [[Patrick-Dwyer]] — 論文合著者，ND 方法羣框架提出者
+- [[Damian-Milton]] — 論文合著者，DEP 原創者

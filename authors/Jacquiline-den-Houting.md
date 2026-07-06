@@ -52,10 +52,10 @@ needs-review: true
 
 ## Related
 
-- [[神經多樣性範式]]
-- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]]
+- [[神經多樣性範式]] — den Houting 以內部人視角推進的核心框架
+- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 從常規科學轉向神經多樣性
 - [[denHouting2019|den Houting (2019)]] — 內部人視角
-- [[Elizabeth-Pellicano|Elizabeth Pellicano]]
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 長期合作者
 - [[Steven-Kapp|Steven Kapp]] — 合作者
 - [[Sue-Fletcher-Watson|Sue Fletcher-Watson]] — 合作者
 - [[Dwyer2022|Dwyer (2022)]] — 同期的神經多樣性方法羣框架

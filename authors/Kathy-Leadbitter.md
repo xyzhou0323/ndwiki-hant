@@ -32,6 +32,6 @@ needs-review: true
 
 ## Related
 
-- [[ChengEtAl2023|Cheng et al. (2023)]]
-- [[ASD干預]]
-- [[神經多樣性與民主研究]]
+- [[ChengEtAl2023|Cheng et al. (2023)]] — 神經多樣性與社區主導權利運動的全球研究合作（合著者）
+- [[ASD干預]] — Leadbitter 的 PACT 試驗與神經多樣性肯定式干預研究領域
+- [[神經多樣性與民主研究]] — 參與式方法的方法論關聯

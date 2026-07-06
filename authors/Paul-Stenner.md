@@ -26,7 +26,7 @@ Stenner 主持了 [[StennerEtAl2025|Stenner et al. (2025)]]——首次將 Q 方
 
 ## Related
 
-- [[StennerEtAl2025|Stenner et al. (2025)]]
+- [[StennerEtAl2025|Stenner et al. (2025)]] — Q 方法學追問神經多樣性運動的定義與目標（第一作者）
 - [[神經多樣性運動]] — Q 方法學追問的直接對象
 - [[神經多樣性批判與回應]] — 本文所識別的觀點分歧的系統位置
 - [[參與式行動研究]] — 集體反思程序與 PAR 的方法論親和性

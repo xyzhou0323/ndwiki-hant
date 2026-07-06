@@ -31,9 +31,8 @@ needs-review: true
 ## Related
 
 - [[Robert-Chapman]] — 合著者
-- [[ChapmanBovell2022|Chapman & Bovell (2022)]]
-- [[RosqvistEtAl2020]]
+- [[ChapmanBovell2022|Chapman & Bovell (2022)]] — ABA 倫理爭議的系統分析（合著）
+- [[RosqvistEtAl2020]] — 第 3 章：預防和/或治癒孤獨譜系是否存在倫理理由
 - [[應用行爲分析]] — ABA 倫理爭議
 - [[ASD干預]] — 干預倫理
-- [[去病理化]]
-- [[00-知識地圖]]
+- [[去病理化]] — Bovell 的倫理分析所支持的核心批判立場

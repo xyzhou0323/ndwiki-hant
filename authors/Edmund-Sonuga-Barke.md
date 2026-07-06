@@ -31,7 +31,7 @@ ADHD 領域的權威研究者，在 ADHD 的維度性、成人期首現形式、
 
 ## Related
 
-- [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]]
+- [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — ADHD 與神經多樣性的雙視角調和
 - [[Anita-Thapar]] — 共同作者
-- [[ADHD]]
-- [[神經多樣性範式]]
+- [[ADHD]] — Sonuga-Barke 的發育精神病理學核心研究領域
+- [[神經多樣性範式]] — Sonuga-Barke 主張與傳統臨牀實踐並行整合的框架

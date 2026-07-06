@@ -34,4 +34,3 @@ needs-review: true
 - [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — ND Studies 方法論綱領：三種取向與第四取向
 - [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]] — 合作主編
 - [[神經多樣性研究]] — 共同奠基的學術領域
-- [[00-知識地圖]] — 知識地圖入口
