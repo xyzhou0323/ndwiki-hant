@@ -19,7 +19,7 @@ needs-review: true
 
 與 [[Sarah-Arnaud|Sarah Arnaud]] 合作發表 [[ArnaudGibson2025|Arnaud & Gibson (2025)]]，將 Peirce 的"實體抽象"概念適用於 ND 運動分析：
 
-- 精確形式化 **HAP（實體抽象原則）**
+- 形式化 **HAP（實體抽象原則）**
 - 以成癮哲學的專業知識爲對比——論證爲何 Pickard 爲成癮辯護 HAP 的實用主義論證不能類推至孤獨譜系
 - 提供兩個身份層面（前反思體驗結構 vs 社會/政治認同）的現象學分析
 
