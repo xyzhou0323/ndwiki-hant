@@ -1,9 +1,21 @@
 ---
 title: Chapman (2023) - 正常帝國
 description: Robert Chapman 著，從馬克思主義視角追溯"正常"概念的建構史，論證常態範式與資本主義的共生關係，提出神經殊異馬克思主義作爲解放路徑
-aliases: [正常帝國-Empire-of-Normality, Empire of Normality, 正常帝國: 神經多樣性與資本主義, Empire of Normality: Neurodiversity and Capitalism]
-tags: [work, neurodiversity, foundational, political, capitalism]
-sources: [books/正常帝國-Empire of Normality (Robert Chapman).epub]
+aliases:
+  - 正常帝國-Empire-of-Normality
+  - Empire of Normality
+  - 正常帝國:神經多樣性與資本主義
+  - Empire of Normality:Neurodiversity and Capitalism
+  - Chapman(2023)
+  - Chapman（2023）
+tags:
+  - work
+  - neurodiversity
+  - foundational
+  - political
+  - capitalism
+sources:
+  - books/正常帝國-Empire of Normality (Robert Chapman).epub
 created: 2026-05-07
 updated: 2026-05-09
 citation_apa: "Chapman, R. (2023). Empire of normality: Neurodiversity and capitalism. Pluto Press."

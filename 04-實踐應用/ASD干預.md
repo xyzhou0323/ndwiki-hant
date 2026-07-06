@@ -20,6 +20,7 @@ sources:
   - 2026-05-18/Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf
   - 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf
   - 2026-05-18/兒童與青少年孤獨症譜系障礙的補充和整合醫學治療.md
+  - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
 created: 2026-05-18
 updated: 2026-06-10
 zh-hans: [[wiki/04-实践应用/ASD干预]]
@@ -286,5 +287,5 @@ ND 範式與正統醫療模型在 ASD 干預上的分歧，根源不在於具體
 - [[神經多樣性批判與回應]] — "ND 反對一切干預"及其他批評的系統回應
 - [[神經多樣性教育]] — 肯定式教育的替代框架
 - [[融合教育]] — 教育安置的 ND 視角
-- Chapman & Bovell (2020) — 當代 ABA 的倫理批判
+- [[ChapmanBovell2022|Chapman & Bovell (2022)]] — 當代 ABA 的倫理批判：四重倫理維度（療效、正常化、創傷、自主權）
 - [[Constantino2018|Constantino (2018)]] — 口吃治療的平行論證：福祉 vs 正常化的分水嶺，常態範式固有倫理缺陷的跨診斷證據
