@@ -29,6 +29,11 @@ needs-review: true
 
 ## Related
 
+### 本wiki已引用著作
+
 - [[RosqvistEtAl2020]] — 第 13 章
+
+### 其他相關頁面
+
 - [[神經多樣性範式]] — Huijg 以批判 ND 方法研究的理論框架
 - [[神經規範性]] — Huijg 揭示能動性概念中神經規範性預設的核心批判對象

@@ -15,7 +15,7 @@ needs-review: true
 
 引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. https://doi.org/10.1177/13623613231159165
 
-**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大學，孤獨譜系自倡導者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤獨譜系研究與教育中心）、[[Kathy-Leadbitter]]（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）
+**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大學，孤獨譜系自我倡權者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤獨譜系研究與教育中心）、[[Kathy-Leadbitter]]（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）
 **年份**：2023
 **期刊**：*Autism*, Vol. 27, No. 03, pp. 573–577
 **DOI**：10.1177/13623613231159165
@@ -48,7 +48,7 @@ ND 運動與知識生產去殖民化運動共享四項基本目標：
 
 ### 埃塞俄比亞
 
-**條件**：孤獨譜系知識匱乏、診斷服務稀缺、物質資源不足——家庭通常只在兒童伴顯著智力/語言/身體障礙時才尋求幫助。因此自閉診斷者極少，自倡導者更少。
+**條件**：孤獨譜系知識匱乏、診斷服務稀缺、物質資源不足——家庭通常只在兒童伴顯著智力/語言/身體障礙時才尋求幫助。因此孤獨譜系診斷者極少，自我倡權者更少。
 
 **文化特徵**：強烈強調相互依賴、社區與家庭。身份嵌入家庭與社區的集體關係——以個體身份與權利爲核心的運動在社會文化上可能顯得陌生。
 
@@ -56,7 +56,7 @@ ND 運動與知識生產去殖民化運動共享四項基本目標：
 
 ### 印度
 
-**條件**：存在孤獨譜系自倡導者（通常社會經濟特權、受過西方教育、居住於都市中心），已建立社交網絡並接觸英語 ND 話語。但社會文化障礙阻礙運動啓動。
+**條件**：存在孤獨譜系自我倡權者（通常社會經濟特權、受過西方教育、居住於都市中心），已建立社交網絡並接觸英語 ND 話語。但社會文化障礙阻礙運動啓動。
 
 **障礙**：
 - 孤獨譜系污名帶來對福祉、社區融入和生計的真實後果
@@ -64,7 +64,7 @@ ND 運動與知識生產去殖民化運動共享四項基本目標：
 - 污名及其後果影響整個家庭
 - 使用 ND 話語時帶有**英語腔調**，可能被更廣泛社羣懷疑和拒斥
 
-**本土實踐**：Sangath（印度非營利組織）與本地自倡導者和設計諮詢公司 Quicksand 合作，在德里和果阿開展社區參與和參與式設計——以**本地語言**、**本地熟悉的概念**製作數字與物理資源。
+**本土實踐**：Sangath（印度非營利組織）與本地自我倡權者和設計諮詢公司 Quicksand 合作，在德里和果阿開展社區參與和參與式設計——以**本地語言**、**本地熟悉的概念**製作數字與物理資源。
 
 ### 香港
 
@@ -72,7 +72,7 @@ ND 運動與知識生產去殖民化運動共享四項基本目標：
 
 **文化特徵**：新自由主義與"亞洲世界城市"追求創造強調學業表現的競爭文化。社會從衆受到高度重視——使家長難以接納和慶祝孤獨譜系兒童的差異。
 
-**本土實踐**：Red Swastika Society Tai Po Secondary School 以包容性課程替代固定剛性課程，承認兒童的包容教育權利。少數香港研究者（Kwok & Kwok, 2020; Lam et al., 2021）開始在研究中納入 ND 概念。第一作者 Yulin Cheng 以孤獨譜系自倡導者身份進行研究。
+**本土實踐**：Red Swastika Society Tai Po Secondary School 以包容性課程替代固定剛性課程，承認兒童的包容教育權利。少數香港研究者（Kwok & Kwok, 2020; Lam et al., 2021）開始在研究中納入 ND 概念。第一作者 Yulin Cheng 以孤獨譜系自我倡權者身份進行研究。
 
 ## 實踐原則
 
@@ -91,7 +91,7 @@ ND 運動與知識生產去殖民化運動共享四項基本目標：
 - Giwa Onaiwu (2020) — ND 運動的白人特權問題
 - Botha & Gillespie-Lynch (2022) — 交叉性視角下的孤獨譜系身份發展
 - [[JonesOrchard2024|Jones & Orchard (2024)]] — 去歷史化與神經中心主義
-- [[Yulin-Cheng]] — 第一作者，孤獨譜系自倡導者
+- [[Yulin-Cheng]] — 第一作者，孤獨譜系自我倡權者
 - [[Bethlehem-Tekola]] — 共同作者，KCL 全球心理健康中心
 - [[Laura-Crane]] — 共同作者，UCL CRAE
 - [[Kathy-Leadbitter]] — 共同作者，曼徹斯特大學

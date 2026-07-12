@@ -14,11 +14,12 @@ Clarissa Müller-Kosmarov 是神經多樣性哲學研究者。她與 [[Robert-Ch
 
 該研究獲 **Wellcome Trust** 資助（Grant number 226798/Z/22/Z）。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - **[[MullerKosmarovChapman2026|Müller-Kosmarov & Chapman (2026)]]**（Neurodiversity and Philosophy）：系統梳理神經多樣性哲學的核心議題，涵蓋認識論、現象學、神經酷兒理論及政治倫理哲學
 
-## Related
+### 其他相關頁面
 
 - [[Robert-Chapman]] — 合著者
-- [[MullerKosmarovChapman2026]] — 合著條目

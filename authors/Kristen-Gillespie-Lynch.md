@@ -15,6 +15,13 @@ needs-review: true
 在 [[Dwyer2025|Dwyer (2025)]] 中擔任共同資深作者（†co-senior author），該研究首次以 504 名社羣成員的混合方法數據揭示了非孤獨譜系 NDM 支持者與孤獨譜系倡導者之間的關注偏差——爲 [[庸俗版神經多樣性]] 提供了首批定量線索。
 
 ## Related
+
+### 本wiki已引用著作
+
+暫無
+
+### 其他相關頁面
+
 - [[Patrick-Dwyer]] — 合作者，AIAS-G 共同開發者
 - [[Dwyer2025|Dwyer (2025)]] — 共同資深作者
 - [[Susan-M-Rivera]] — 共同擔任 Dwyer 2025 資深作者

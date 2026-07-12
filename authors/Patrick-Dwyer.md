@@ -105,19 +105,25 @@ Dwyer 的工作不怕揭示運動內部的不一致（如"強"SM 支持者在實
 
 ## Related
 
-- [[Dwyer2022|Dwyer (2022)]] — 理論框架論文
-- [[Dwyer2025|Dwyer (2025)]] — 實證後續研究
-- [[DwyerEtAl2023|Dwyer et al. (2023)]] — 神經多樣性包容高校：獲UC學術評議會認可的13條系統建議
-- [[SchuckEtAl2022|Schuck et al. (2022)]] — 作爲孤獨譜系合作者參與調和 ND 運動與 NDBI 干預的跨陣營協作
+### 本wiki已引用著作
+
+- [[Dwyer2022|Dwyer (2022)]] — 神經多樣性方法羣理論框架
+- [[Dwyer2025|Dwyer (2025)]] — 504 人混合方法實證調查
+- [[DwyerEtAl2023|Dwyer et al. (2023)]] — 神經多樣性包容高校：獲 UC 學術評議會認可的 13 條系統建議
+- [[DwyerEtAl2026|Dwyer et al. (2026)]] — 跨診斷聽覺過度反應與注意力研究
+- [[SchuckEtAl2022|Schuck et al. (2022)]] — 調和 ND 運動與 NDBI 干預的跨陣營協作
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
+
+### 其他相關頁面
+
 - [[Steven-Kapp]] — 長期合作者
 - [[Robert-Chapman]] — 理論對話者
 - [[Kristen-Gillespie-Lynch]] — 合作者，AIAS-G 共同開發者
 - [[Susan-M-Rivera]] — 學術導師/合作者
 - [[殘障的社會模型]] — 核心理論資源
 - [[殘障模型]] — 互動主義立場的理論基礎
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 - [[雙向同理心問題]] — 社羣知識學術化的關鍵理論
 - [[去病理化]] — 互動主義立場的實踐含義
-- [[單一聚焦]] — Dwyer 關注的社羣理論化學術化案例
+- [[單一聚焦]] — 關注的社羣理論化學術化案例
 - [[孤獨譜系耗竭]] — 同上
-- [[神經多樣性運動]] — Dwyer 所參與並研究的運動
+- [[神經多樣性運動]] — 所參與並研究的運動

@@ -1,9 +1,18 @@
 ---
 title: Christina Nicolaidis
-description: Christina Nicolaidis 是波特蘭州立大學社會服務學院教授，SDHI 主任，AASPIRE 聯合創始人與學術聯合主任，將社區參與式研究（CBPR）方法系統適配於孤獨譜系自倡導者社羣，並創辦了《Autism in Adulthood》期刊
-aliases: [Nicolaidis, 克里斯蒂娜·尼科萊迪斯]
-tags: [author, neurodiversity, autism, methodology, health-services, health-equity]
-sources: [2026-05-21/nihms359888.pdf]
+description: Christina Nicolaidis 是波特蘭州立大學社會服務學院教授，SDHI 主任，AASPIRE 聯合創始人與學術聯合主任，將社區參與式研究（CBPR）方法系統適配於孤獨譜系自我倡權者社羣，並創辦了《Autism in Adulthood》期刊
+aliases:
+  - Nicolaidis
+  - 克里斯蒂娜·尼科萊迪斯
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - methodology
+  - health-services
+  - health-equity
+sources:
+  - 2026-05-21/nihms359888.pdf
 created: 2026-05-21
 updated: 2026-06-24
 zh-hans: [[wiki/authors/Christina-Nicolaidis]]
@@ -53,13 +62,15 @@ Nicolaidis 領導 PSU 的 SDHI，聯合來自 PSU、OHSU、社區組織、政府
 
 ## 學術脈絡
 
-Nicolaidis 最初從事非裔美國人和拉丁裔社羣的 CBPR，隨後將這一方法學傳統適配於孤獨譜系自倡導者社羣。ta 的研究方法論與 [[神經多樣性與民主研究]] 和 [[參與式行動研究]] 中的"working with, not on"原則一致。
-
-## 本wiki已引用著作
-
-- **[[NicolaidisEtAl2011|Nicolaidis et al. (2011)]]**（Collaboration strategies in nontraditional CBPR partnerships）：[AASPIRE](https://aaspire.org/) 創始方法論文獻——將 CBPR 適配於孤獨譜系自倡導者社羣的四大經驗
+Nicolaidis 最初從事非裔美國人和拉丁裔社羣的 CBPR，隨後將這一方法學傳統適配於孤獨譜系自我倡權者社羣。ta 的研究方法論與 [[神經多樣性與民主研究]] 和 [[參與式行動研究]] 中的"working with, not on"原則一致。
 
 ## Related
+
+### 本wiki已引用著作
+
+- **[[NicolaidisEtAl2011|Nicolaidis et al. (2011)]]**（Collaboration strategies in nontraditional CBPR partnerships）：[AASPIRE](https://aaspire.org/) 創始方法論文獻——將 CBPR 適配於孤獨譜系自我倡權者社羣的四大經驗
+
+### 其他相關頁面
 
 - [[Dora-Raymaker]] — AASPIRE 社羣聯合主任，長期合作者
 - [[AASPIRE]] — 共同創立的學術-社羣合作組織

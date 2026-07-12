@@ -27,7 +27,12 @@ needs-review: true
 
 ## Related
 
-- [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — 主要合作著作
+### 本wiki已引用著作
+
+- [[ArnaudGibson2025|Arnaud & Gibson (2025)]]
+
+### 其他相關頁面
+
 - [[Sarah-Arnaud]] — 主要合作者
 - [[去病理化]] — HAP 框架論證的核心批判立場
 - [[神經多樣性範式]] — Gibson 的哲學論證所支持的核心範式

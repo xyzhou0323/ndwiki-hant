@@ -14,11 +14,13 @@ needs-review: true
 
 Elizabeth Barnes（伊麗莎白·巴恩斯）是哲學家，現任教於弗吉尼亞大學（University of Virginia）。她的研究涵蓋形而上學、殘障哲學和社會哲學。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - **[[Barnes2016|Barnes (2016)]]**（*The Minority Body: A Theory of Disability*）：提出以殘障權利運動的團結判斷規則爲基礎的社會建構論殘障定義——*S* 具有身體殘障當且僅當殘障權利運動所採用的規則將 *S* 的身體狀態歸類爲其尋求正義的條件之一。這一進路取消了損傷/殘障的傳統區分，不直接訴諸不利益或傷害，與肯定模型兼容
 
-## Related
+### 其他相關頁面
 
 - [[殘障的哲學定義]] — Barnes 的定義是社會建構論進路的核心錨點
 - [[殘障肯定模型]] — Barnes 的定義特別兼容肯定模型

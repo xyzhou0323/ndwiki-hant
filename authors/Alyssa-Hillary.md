@@ -29,13 +29,14 @@ needs-review: true
 - 神經多樣性在虛構和媒體中的表徵
 - 腦機接口
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神經多樣性導論：一份帶註釋的閱讀清單（共同資深作者，與 Mirela Zaneva、Mahmoud Elsherif 共同領導）
 - [[GreenEtAl2020|Green et al. (2020)]] — 帶着精神健康診斷進行教學與研究：學術健全中心主義的實踐與視角
 - [[RosqvistEtAl2020]] — 第 6 章：跨文化溝通框架應用於跨神經類型溝通
 
-## Related
+### 其他相關頁面
 
-- [[RosqvistEtAl2020]] — 第 6 章
 - [[雙向同理心問題]] — 相關：跨神經類型溝通困難

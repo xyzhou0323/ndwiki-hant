@@ -124,9 +124,14 @@ Ne'eman 擔任 HHS 民權辦公室顧問，在 COVID-19 疫情期間的關鍵時
 
 ## Related
 
+### 本wiki已引用著作
+
 - [[BroderickNeeman2008|Broderick & Ne'eman (2008)]] — 首次重要的學術合著
 - [[Neeman2021|Ne'eman (2021)]] — 倫理批判
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 運動內部政治
+
+### 其他相關頁面
+
 - [[Steven-Kapp]] — DSM-5 遊說合作者
 - [[Alicia-Broderick]] — 學術合作者
 - [[Elizabeth-Pellicano]] — 合作者

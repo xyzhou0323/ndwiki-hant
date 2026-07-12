@@ -73,13 +73,15 @@ Crompton 是 DEP 理論最重要的實證研究者之一，其系列實驗爲 DE
 - **Autistica 公衆參與獎**（2018）
 - *Autism* 期刊審稿人（2018–）
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[CromptonEtAl2020|Crompton et al. (2020)]] — 首次擴散鏈實驗，證明孤獨譜系者間信息傳遞高效、跨神經類型衰減
 - [[CromptonEtAl2025|Crompton et al. (2025)]] — 大規模預註冊複製，再次確認孤獨譜系鏈無缺陷，發現診斷告知改善融洽度
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清（合著者）
 
-## Related
+### 其他相關頁面
 
 - [[雙向同理心問題]] — Crompton 以擴散鏈實驗爲其提供最直接的實證驗證
 - [[CromptonEtAl2020|Crompton et al. (2020)]] — 首次擴散鏈實驗（第一作者）

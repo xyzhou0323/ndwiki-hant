@@ -19,6 +19,12 @@ needs-review: true
 - 開放與可重複科學
 - 參與式研究方法
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神經多樣性導論：一份帶註釋的閱讀清單（通訊作者，與 Mahmoud Elsherif、Alyssa Hillary Zisk 共同領導）
+
+### 其他相關頁面
+
+暫無

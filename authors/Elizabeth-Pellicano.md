@@ -50,8 +50,13 @@ needs-review: true
 
 ## Related
 
-- [[神經多樣性範式]] — Pellicano 倡導從常規科學轉向神經多樣性範式的核心框架
+### 本wiki已引用著作
+
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 從常規科學轉向神經多樣性
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 神經多樣性作爲政治
+
+### 其他相關頁面
+
+- [[神經多樣性範式]] — Pellicano 倡導從常規科學轉向神經多樣性範式的核心框架
 - [[Jacquiline-den-Houting|Jacquiline den Houting]] — 長期合作者
 - [[Ari-Ne'eman|Ari Ne'eman]] — 合作發表神經多樣性作爲政治

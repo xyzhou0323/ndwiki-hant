@@ -37,7 +37,7 @@ needs-review: true
 
 ### 被揭示的關鍵事實
 
-**1996年——Tony Langdon 的帖子**（Martijn Dekker 2023年檔案發現）：
+**1996年——Tony Langdon 的帖子**（[[Martijn-Dekker|Martijn Dekker]] 2023年檔案發現）：
 
 - 在 Independent Living（InLv）郵件列表的討論中，Tony Langdon 寫道：
   > "the neurological diversity of people. i.e. the atypical among a society provide the different perspectives needed to generate new ideas and advances, whether they be technological, cultural, artistic or otherwise"

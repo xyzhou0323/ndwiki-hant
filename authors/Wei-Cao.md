@@ -17,14 +17,14 @@ needs-review: true
 **角色**：科研工作者
 **專業背景**：心理學
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[LaoEtAl2024|Lao et al. (2024)]] — 合著者，中文孤獨症術語的社羣感知調查
 - [[LaoEtAl2026|Lao et al. (2026)]] — 合著者，與孤獨譜系對話：中文自閉症話語的解構與敘事能動性的重建
 
-## Related
+### 其他相關頁面
 
-- [[LaoEtAl2024|Lao et al. (2024)]] — 合著
-- [[LaoEtAl2026|Lao et al. (2026)]] — 合著
 - [[Uchong-Lao|劉宇翀]] — 合作者
 - [[Huilin-Zhu|朱繪霖]] — 合作者

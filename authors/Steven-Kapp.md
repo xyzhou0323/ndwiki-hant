@@ -84,9 +84,14 @@ Kapp 作爲 **ASAN 科學主任**（director of science），與 Ari Ne'eman 共
 
 ## Related
 
+### 本wiki已引用著作
+
 - [[Kapp2020|Kapp (2020)]] — 主編著作
 - [[KappEtAl2012|Kapp et al. (2012)]] — 里程碑實證研究
-- [[BothaEtAl2024|Botha et al. (2024)]] — 術語起源修正
+- [[BothaEtAl2024|Botha et al. (2024)]] — 術語起源修正（合著者）
+
+### 其他相關頁面
+
 - [[神經多樣性運動]] — 其編輯文集的敘事主題
 - [[神經多樣性運動史]] — 2020 文集的核心內容
 - [[孤獨譜系耗竭]] — 合著 Raymaker 2020

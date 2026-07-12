@@ -15,11 +15,13 @@ needs-review: true
 **身份**：UC Santa Barbara Gevirtz 教育研究生院研究者
 **研究領域**：孤獨譜系干預、自然發展行爲干預（NDBIs）、神經多樣性與行爲干預的調和
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[SchuckEtAl2022|Schuck et al. (2022)]] — 孤獨譜系與非孤獨譜系合作者共同論證 NDBI 可彌合早期干預與神經多樣性運動鴻溝：8 條改善建議，發表於 JADD
 
-## Related
+### 其他相關頁面
 
 - [[Patrick-Dwyer|Patrick Dwyer]] — 論文的孤獨譜系核心合作者
 - [[ND範式與補充替代療法]] — 與本文構成平行結構：ND 範式如何排除 vs 改進干預

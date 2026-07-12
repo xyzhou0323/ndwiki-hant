@@ -16,12 +16,13 @@ needs-review: true
 **任職**：武漢大學計算機學院（武漢）、崑山杜克大學數據科學研究中心（崑山）
 **角色**：科研工作者
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[LaoEtAl2024|Lao et al. (2024)]] — 合著者，中文孤獨症術語的社羣感知調查
 
-## Related
+### 其他相關頁面
 
-- [[LaoEtAl2024|Lao et al. (2024)]] — 合著
 - [[Uchong-Lao|劉宇翀]] — 合作者
 - [[Huilin-Zhu|朱繪霖]] — 合作者

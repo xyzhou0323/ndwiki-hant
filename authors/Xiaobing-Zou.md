@@ -42,15 +42,15 @@ needs-review: true
 
 創造性提出基於孤獨症文化理念下的**干預三原則**，並在此基礎上建立了孤獨症**結構化社交行爲干預 BSR 模式**（Behavior-Structured-Relationship model），將結構化教學、行爲干預和關係建立整合爲系統化的干預框架。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[LaoEtAl2024|Lao et al. (2024)]] — 通訊作者，中文孤獨症術語的社羣感知調查（*Autism in Adulthood*）
 - [[LaoEtAl2026|Lao et al. (2026)]] — 共同通訊作者，與孤獨譜系對話：中文自閉症話語的解構與敘事能動性的重建（*Humanities and Social Sciences Communications*）
 
-## Related
+### 其他相關頁面
 
-- [[LaoEtAl2024|Lao et al. (2024)]] — 通訊作者
-- [[LaoEtAl2026|Lao et al. (2026)]] — 共同通訊作者
 - [[Uchong-Lao|劉宇翀]] — 合作者
 - [[Huilin-Zhu|朱繪霖]] — 合作者與共同通訊作者
 - [[孤獨譜系障礙]] — 核心研究主題

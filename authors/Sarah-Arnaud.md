@@ -37,7 +37,12 @@ needs-review: true
 
 ## Related
 
-- [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — 主要合作著作
+### 本wiki已引用著作
+
+- [[ArnaudGibson2025|Arnaud & Gibson (2025)]]
+
+### 其他相關頁面
+
 - [[Quinn-Hiroshi-Gibson]] — 主要合作者
 - [[去病理化]] — HAP 框架直接對應
 - [[神經多樣性範式]] — Arnaud 的 HAP 框架所支持和形式化的核心範式

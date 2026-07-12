@@ -8,6 +8,7 @@ created: 2026-05-07
 updated: 2026-05-07
 citation_apa: "Sinclair, J. (1993). Don't mourn for us. Our Voice, 1(3). Autism Network International. https://www.autreat.com/dont_mourn.html"
 zh-hans: [[wiki/works/Sinclair1993]]
+needs-review: true
 ---
 
 # Sinclair (1993) — 不要爲我們哀悼

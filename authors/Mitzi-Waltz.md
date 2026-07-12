@@ -30,6 +30,11 @@ needs-review: true
 
 ## Related
 
-- [[RosqvistEtAl2020]] — 第 1 章
+### 本wiki已引用著作
+
+- [[RosqvistEtAl2020]]
+
+### 其他相關頁面
+
 - [[常態的發明]] — Waltz 研究的核心歷史主題："正常兒童"的歷史生產
 - [[常態範式]] — Waltz 的孤獨譜系社會史所批判的傳統框架

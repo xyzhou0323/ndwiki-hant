@@ -32,6 +32,13 @@ Blume 在歷史上的特殊地位在於：**他從未將神經多樣性概念的
 Blume 通過 InLv 結識了 [[Judy-Singer]]。兩人分別從文學-藝術和學術-政治兩個角度參與了"神經多樣性"概念的早期探討。但 Blume 本人從未將術語創造歸功於 Singer——這一敘事主要源於 [[Silberman2015|Silberman (2015)]] 的傳播。
 
 ## Related
+
+### 本wiki已引用著作
+
+暫無
+
+### 其他相關頁面
+
 - [[BothaEtAl2024|Botha et al. (2024)]] — 檔案研究修正了 Blume 的角色敘事
 - [[Judy-Singer]] — InLv 中結識，共同參與早期神經多樣性概念討論
 - [[神經多樣性運動]] — Blume 所報道的在線社羣運動

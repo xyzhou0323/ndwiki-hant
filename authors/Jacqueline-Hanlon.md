@@ -13,12 +13,13 @@ needs-review: true
 
 **Jacqueline Hanlon**，Botha et al. (2023) 共同作者。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用（*JADD*）
 
-## Related
+### 其他相關頁面
 
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？身份在前與人稱在前語言的使用（共同作者）
 - [[Monique-Botha]] — 本文第一作者
 - [[Gemma-Williams]] — 本文共同作者

@@ -11,7 +11,7 @@ needs-review: true
 
 # Melanie Yergeau
 
-Melanie Yergeau 是密歇根大學（University of Michigan）英語語言文學系副教授，孤獨譜系自倡導者。她的學術工作在修辭理論、殘障研究和孤獨譜系批判的交叉點上運作。
+Melanie Yergeau 是密歇根大學（University of Michigan）英語語言文學系副教授，孤獨譜系自我倡權者。她的學術工作在修辭理論、殘障研究和孤獨譜系批判的交叉點上運作。
 
 ## 相關研究
 
@@ -27,13 +27,14 @@ Yergeau 的著作 *Authoring Autism: On Rhetoric and Neurological Queerness*（D
 
 Yergeau 的工作與 [[Nick-Walker]] 的 neuroqueer 概念在理論和政治層面高度共振：兩者都拒絕將孤獨譜系視爲"缺乏"某物的缺陷模型，轉而肯定神經殊異者的存在方式和表達方式本身就是合法的、有意圖的、有修辭力量的。
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[GernsbacherYergeau2019|Gernsbacher & Yergeau (2019)]] — 孤獨譜系者缺乏心理理論主張的實證失敗（*Archives of Scientific Psychology*）
 
-## Related
+### 其他相關頁面
 
-- [[GernsbacherYergeau2019|Gernsbacher & Yergeau (2019)]] — 本 wiki 收錄的代表作
 - [[Morton-Ann-Gernsbacher]] — 合著者
 - [[雙向同理心問題]] — 與 Yergeau 的修辭學批判在理論上互補
 - [[Nick-Walker]] — neuroqueer 概念的創造者，與 Yergeau 的理論工作共振

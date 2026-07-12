@@ -37,10 +37,15 @@ needs-review: true
 
 ## Related
 
+### 本wiki已引用著作
+
 - [[HappeFrith2020|Happé & Frith (2020)]] — 孤獨譜系概念七大變遷的權威回顧
+- [[SarrEtAl2024|Sarr et al. (2024)]] — 合著者，共制Delphi法鑑別診斷共識
+
+### 其他相關頁面
+
 - [[Uta-Frith]] — 長期合作者
 - [[孤獨譜系障礙]] — 核心研究對象
 - [[述情障礙]] — Happé 參與的 Bird & Cook 研究挑戰了孤獨譜系→同理心困難的直接因果關係
 - [[CAT-Q]] — Hull 等在 Happé 指導下開發
 - [[Sue-Fletcher-Watson]] — 合著合作者
-- [[SarrEtAl2024|Sarr et al. (2024)]] — 合著者，共制Delphi法鑑別診斷共識

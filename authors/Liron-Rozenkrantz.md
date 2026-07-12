@@ -15,11 +15,13 @@ needs-review: true
 **身份**：MIT 腦與認知科學系 / McGovern 腦研究所研究者
 **研究領域**：孤獨譜系決策與推理、認知偏誤、增強理性
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[RozenkrantzEtAl2021|Rozenkrantz et al. (2021)]] — 孤獨譜系增強理性系統綜述：七類認知偏誤證據——孤獨譜系者更客觀、更少受直覺和情境影響的判斷方式
 
-## Related
+### 其他相關頁面
 
 - [[DempseyEtAl2019|Dempsey et al. (2019)]] — 道德判斷中的平行發現：ASD 者道德推理完整，差異不是缺陷
 - [[CastenEtAl2023|Casten et al. (2023)]] — 增強理性的另一面：高認知能力在 ASD 中可能增加自殺意念風險

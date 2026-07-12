@@ -1,6 +1,6 @@
 ---
 title: Gemma Louise Williams
-description: Gemma Louise Williams 是布萊頓與薩塞克斯醫學院榮譽訪問講師，朴茨茅斯大學心理學講師，孤獨譜系自倡導者，以關聯理論重新審視跨神經類型溝通和身份在前語言的堅定主張而聞名
+description: Gemma Louise Williams 是布萊頓與薩塞克斯醫學院榮譽訪問講師，朴茨茅斯大學心理學講師，孤獨譜系自我倡權者，以關聯理論重新審視跨神經類型溝通和身份在前語言的堅定主張而聞名
 aliases: [Gemma L. Williams, Gemma Williams, Williams]
 tags: [author, neurodiversity, autism, language, linguistics]
 created: 2026-06-10
@@ -11,7 +11,7 @@ needs-review: true
 
 # Gemma Louise Williams
 
-**Gemma Louise Williams, MA, PhD**，布萊頓與薩塞克斯醫學院（BSMS）榮譽訪問講師，朴茨茅斯大學心理學講師。孤獨譜系自倡導者（she/they），第一代學者。
+**Gemma Louise Williams, MA, PhD**，布萊頓與薩塞克斯醫學院（BSMS）榮譽訪問講師，朴茨茅斯大學心理學講師。孤獨譜系自我倡權者（she/they），第一代學者。
 
 ## 研究領域
 
@@ -22,15 +22,16 @@ needs-review: true
 
 ## 立場
 
-在整個學術工作中一貫使用**身份在前語言**（"孤獨譜系障礙者"），反對"有孤獨症的人"（人稱在前語言）。論證語言選擇應反映孤獨譜系自倡導者的總體偏好（Kenny et al., 2016; Botha et al., 2021）。
-
-## 本wiki已引用著作
-
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用（*JADD*）
+在整個學術工作中一貫使用**身份在前語言**（"孤獨譜系障礙者"），反對"有孤獨症的人"（人稱在前語言）。論證語言選擇應反映孤獨譜系自我倡權者的總體偏好（Kenny et al., 2016; Botha et al., 2021）。
 
 ## Related
 
-- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？身份在前與人稱在前語言的使用（共同作者）
+### 本wiki已引用著作
+
+- [[BothaHanlonWilliams2023|Botha et al. (2023)]] — 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用（*JADD*）
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 神經多樣性入門閱讀清單（共同作者）
+
+### 其他相關頁面
+
 - [[神經多樣性範式]] — Williams 的身份在前語言倡導的理論基礎
 - [[去病理化]] — 語言選擇的核心批判立場
