@@ -90,3 +90,4 @@ Milton 於 2012 年在 *Disability & Society* 發表的 [[Milton2012|Milton (201
 - [[參與式行動研究]] — Milton 在 PARC 推動的研究方法論
 - [[神經多樣性範式]] — DEP 的理論基礎
 - [[常態範式]] — DEP 所挑戰的傳統模型
+- [[Chapman2019|Chapman (2019)]] — 從維特根斯坦式生活形式分析 DEP

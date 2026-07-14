@@ -20,11 +20,13 @@ Roald A. Øien 是 UiT – The Arctic University of Norway（特羅姆瑟）和 
 - 孤獨譜系評估與篩查的跨國研究
 - 關注孤獨譜系的性別差異與共現狀況
 
-## 本wiki已引用著作
+## Related
+
+### 本wiki已引用著作
 
 - [[ReaEtAl2024|Rea et al. (2024)]] — 性別多樣性與孤獨譜系交叉更新範圍綜述（合著者），基於其 2018 年原始綜述擴展
 
-## 參見
+### 其他相關頁面
 
 - [[Anders-Nordahl-Hansen]] — 長期合作者，共同發表 2018 原始綜述和 2019 更新
 - [[John-Strang]] — 合作者，綜述共同領導

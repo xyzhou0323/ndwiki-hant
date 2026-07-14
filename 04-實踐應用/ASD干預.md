@@ -289,3 +289,4 @@ ND 範式與正統醫療模型在 ASD 干預上的分歧，根源不在於具體
 - [[融合教育]] — 教育安置的 ND 視角
 - [[ChapmanBovell2022|Chapman & Bovell (2022)]] — 當代 ABA 的倫理批判：四重倫理維度（療效、正常化、創傷、自主權）
 - [[Constantino2018|Constantino (2018)]] — 口吃治療的平行論證：福祉 vs 正常化的分水嶺，常態範式固有倫理缺陷的跨診斷證據
+- [[MaskitFultner2026|Maskit & Fultner (2026)]] — Ch8：ABA 批判——以維特根斯坦式生活形式分析 ABA 的認識論暴力

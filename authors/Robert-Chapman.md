@@ -93,6 +93,7 @@ Chapman 的工作代表了神經多樣性研究的範式轉變——將討論從
 - [[ChapmanBotha2023|Chapman & Botha (2023)]] — 神經殊異知情治療
 - [[MullerKosmarovChapman2026|Müller-Kosmarov & Chapman (2026)]] — 神經多樣性哲學綜述
 - [[RosqvistEtAl2020|Rosqvist et al. (2020)]] — 含 Chapman 撰寫的第 4 章（殘障與福祉）及第 14 章（定義神經多樣性）
+- [[Chapman2019|Chapman (2019)]] — 作爲生命形式的孤獨譜系：維特根斯坦與孤獨譜系的心理連貫性
 
 ### 其他相關頁面
 
