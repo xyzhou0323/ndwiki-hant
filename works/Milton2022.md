@@ -14,7 +14,7 @@ needs-review: true
 
 # Milton et al. (2022) — 雙向同理心問題：十年回顧
 
-引用：Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. https://doi.org/10.1177/13623613221129123
+引用：Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. [https://doi.org/10.1177/13623613221129123](https://doi.org/10.1177/13623613221129123)
 
 
 **作者**：Damian Milton（肯特大學 Tizard 中心）、Emine Gurbuz（朴茨茅斯大學心理學系）、Beatriz López（朴茨茅斯大學心理學系）

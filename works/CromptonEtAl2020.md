@@ -23,7 +23,7 @@ needs-review: true
 
 # Crompton et al. (2020) — 孤獨譜系同伴間信息傳遞高度有效
 
-引用：Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. *Autism*, *24*(7), 1704–1712. https://doi.org/10.1177/1362361320919286
+引用：Crompton, C. J., Ropar, D., Evans-Williams, C. V. M., Flynn, E. G., & Fletcher-Watson, S. (2020). Autistic peer-to-peer information transfer is highly effective. *Autism*, *24*(7), 1704–1712. [https://doi.org/10.1177/1362361320919286](https://doi.org/10.1177/1362361320919286)
 
 **作者**：[[Catherine-Crompton]]、Danielle Ropar、Claire VM Evans-Williams、Emma G Flynn、[[Sue-Fletcher-Watson]]
 **發表**：*Autism*

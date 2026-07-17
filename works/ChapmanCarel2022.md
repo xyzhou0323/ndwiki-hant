@@ -23,7 +23,7 @@ needs-review: true
 
 # Chapman & Carel (2022) — 神經多樣性、知識不正義與美好人生
 
-引用：Chapman, R., & Carel, H. (2022). Neurodiversity, epistemic injustice, and the good human life. *Journal of Social Philosophy*, 00, 1–18. https://doi.org/10.1111/josp.12456
+引用：Chapman, R., & Carel, H. (2022). Neurodiversity, epistemic injustice, and the good human life. *Journal of Social Philosophy*, 00, 1–18. [https://doi.org/10.1111/josp.12456](https://doi.org/10.1111/josp.12456)
 
 **作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、Havi Carel（University of Bristol）
 

@@ -14,7 +14,7 @@ needs-review: true
 
 # Milton (2012) — 論孤獨譜系的本體論地位：雙向同理心問題
 
-引用：Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. https://doi.org/10.1080/09687599.2012.710008
+引用：Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. [https://doi.org/10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
 
 
 **作者**：Damian E M Milton（伯明翰大學）
