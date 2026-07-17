@@ -14,7 +14,7 @@ needs-review: true
 
 # Heraty et al. (2023) — 社羣之間的橋樑建設：想象生物醫學孤獨譜系研究的未來
 
-引用：Heraty, S., Lautarescu, A., Belton, D., Boyle, A., Cirrincione, P., Doherty, M., ... & Jones, E. J. H. (2023). Bridge-building between communities: Imagining the future of biomedical autism research. _Cell_, _186_(18), 3747–3752. https://doi.org/10.1016/j.cell.2023.08.004
+引用：Heraty, S., Lautarescu, A., Belton, D., Boyle, A., Cirrincione, P., Doherty, M., ... & Jones, E. J. H. (2023). Bridge-building between communities: Imagining the future of biomedical autism research. _Cell_, _186_(18), 3747–3752. [https://doi.org/10.1016/j.cell.2023.08.004](https://doi.org/10.1016/j.cell.2023.08.004)
 
 ## 定位
 

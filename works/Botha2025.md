@@ -15,7 +15,7 @@ needs-review: true
 
 # Botha (2025) — 批判實在論、社區心理學與孤獨譜系
 
-引用：Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. *Journal of Community Psychology*, *53*, e22764. https://doi.org/10.1002/jcop.22764
+引用：Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. *Journal of Community Psychology*, *53*, e22764. [https://doi.org/10.1002/jcop.22764](https://doi.org/10.1002/jcop.22764)
 
 **作者**：[[Monique-Botha]]，University of Stirling 心理學系 / University of Surrey 心理學院
 **發表**：2021 年 11 月接收，2025 年於 *Journal of Community Psychology* 第 53 卷正式刊出

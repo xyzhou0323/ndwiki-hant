@@ -14,7 +14,7 @@ needs-review: true
 
 # Stenning & Bertilsdotter Rosqvist (2021) — 神經多樣性研究：繪製新批判範式的可能性
 
-引用：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. https://doi.org/10.1080/09687599.2021.1919503
+引用：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. [https://doi.org/10.1080/09687599.2021.1919503](https://doi.org/10.1080/09687599.2021.1919503)
 
 **完整引用**：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. _Disability & Society_, _36_(9), 1532–1537. https://doi.org/10.1080/09687599.2021.1919503
 

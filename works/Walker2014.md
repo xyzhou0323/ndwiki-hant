@@ -13,7 +13,7 @@ needs-review: true
 
 # Walker (2014) — 神經多樣性基本術語與定義
 
-引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. https://neuroqueer.com/neurodiversity-terms-and-definitions/
+引用：Walker, N. (2014). Neurodiversity: Some basic terms & definitions. Neurocosmopolitanism. [https://neuroqueer.com/neurodiversity-terms-and-definitions/](https://neuroqueer.com/neurodiversity-terms-and-definitions/)
 
 
 **作者**：Nick Walker，加州整合大學（CIIS）心理學教授、孤獨譜系酷兒學者

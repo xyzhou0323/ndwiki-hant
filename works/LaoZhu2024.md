@@ -22,7 +22,7 @@ needs-review: true
 
 # Lao & Zhu (2024) — Autism 及相關術語的概念更迭和感知研究綜述
 
-引用：劉宇翀, 朱繪霖. (2024). Autism 及相關術語的概念更迭和感知研究綜述. *新醫學*, *55*(12). https://doi.org/10.3969/j.issn.0253-9802.2024.12.012
+引用：劉宇翀, 朱繪霖. (2024). Autism 及相關術語的概念更迭和感知研究綜述. *新醫學*, *55*(12). [https://doi.org/10.3969/j.issn.0253-9802.2024.12.012](https://doi.org/10.3969/j.issn.0253-9802.2024.12.012)
 
 **作者**：[[Uchong-Lao|劉宇翀]]、[[Huilin-Zhu|朱繪霖]]（通訊作者，zhuhlin6@mail.sysu.edu.cn），中山大學附屬第三醫院兒童發育行爲中心
 **發表**：*新醫學*（Journal of New Medicine）

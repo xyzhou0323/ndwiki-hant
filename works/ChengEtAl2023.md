@@ -13,7 +13,7 @@ needs-review: true
 
 # Cheng et al. (2023) — 神經多樣性與社區主導的權利運動：全球研究合作的障礙與機遇
 
-引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. https://doi.org/10.1177/13623613231159165
+引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. [https://doi.org/10.1177/13623613231159165](https://doi.org/10.1177/13623613231159165)
 
 **作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大學，孤獨譜系自我倡權者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤獨譜系研究與教育中心）、[[Kathy-Leadbitter]]（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）
 **年份**：2023

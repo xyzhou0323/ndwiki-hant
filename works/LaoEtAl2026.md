@@ -22,7 +22,7 @@ needs-review: true
 
 # Lao et al. (2026) — 與孤獨譜系對話：中文自閉症話語的解構與敘事能動性的重建
 
-引用：Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X., & Zhu, H. (2026). Dialoguing with autism: Deconstruction of autism discourse and reconstruction of narrative agency in Chinese. *Humanities and Social Sciences Communications*. https://doi.org/10.1057/s41599-026-07772-1
+引用：Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X., & Zhu, H. (2026). Dialoguing with autism: Deconstruction of autism discourse and reconstruction of narrative agency in Chinese. *Humanities and Social Sciences Communications*. [https://doi.org/10.1057/s41599-026-07772-1](https://doi.org/10.1057/s41599-026-07772-1)
 
 **作者**：[[Uchong-Lao|Uchong Lao (劉宇翀)]]、[[Fengjing-Liang|Fengjing Liang (梁鳳晶)]]、[[Jiamin-Dai|Jiamin Dai (戴嘉敏)]]、[[Wei-Cao|Wei Cao (曹偉)]]、[[Qian-Chen|Qian Chen (陳謙)]]、[[Min-Wang|Min Wang (王敏)]]、[[Xiaobing-Zou|Xiaobing Zou (鄒小兵)]]、[[Huilin-Zhu|Huilin Zhu (朱繪霖)]]
 **發表**：2026 年 6 月 29 日，*Humanities and Social Sciences Communications*（Springer Nature）

@@ -13,7 +13,7 @@ needs-review: true
 
 # Rea et al. (2024) - 性別多樣性與孤獨譜系交叉：更新範圍綜述
 
-引用：Rea, H. M., Øien, R. A., Webb, S. J., Bansal, S., Strang, J. F., & Nordahl-Hansen, A. (2024). Gender diversity, gender dysphoria/incongruence, and the intersection with autism spectrum disorders: An updated scoping review. *Journal of Autism and Developmental Disorders*. https://doi.org/10.1007/s10803-024-06650-6
+引用：Rea, H. M., Øien, R. A., Webb, S. J., Bansal, S., Strang, J. F., & Nordahl-Hansen, A. (2024). Gender diversity, gender dysphoria/incongruence, and the intersection with autism spectrum disorders: An updated scoping review. *Journal of Autism and Developmental Disorders*. [https://doi.org/10.1007/s10803-024-06650-6](https://doi.org/10.1007/s10803-024-06650-6)
 
 ## 本文要點
 

@@ -12,7 +12,7 @@ needs-review: true
 
 # Gourdon-Kanhukamwe et al. (2023) — 拓寬對神經多樣性的理解
 
-引用：Gourdon-Kanhukamwe, A., et al. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. *The Cognitive Psychology Bulletin, 1*(8), 23–27. https://doi.org/10.53841/bpscog.2023.1.8.23
+引用：Gourdon-Kanhukamwe, A., et al. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. *The Cognitive Psychology Bulletin, 1*(8), 23–27. [https://doi.org/10.53841/bpscog.2023.1.8.23](https://doi.org/10.53841/bpscog.2023.1.8.23)
 
 **作者**：[[Amelie-Gourdon-Kanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[Mirela-Zaneva]]、Marie Dokovova、Helena Hartmann、[[Steven-Kapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[Mahmoud-M-Elsherif]]（通訊作者）
 **年份**：2023

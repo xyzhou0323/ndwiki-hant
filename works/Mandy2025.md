@@ -14,7 +14,7 @@ needs-review: true
 
 # Mandy (2025) — 如今，孤獨譜系究竟是什麼？
 
-引用：Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. https://doi.org/10.5281/zenodo.17989621
+引用：Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. [https://doi.org/10.5281/zenodo.17989621](https://doi.org/10.5281/zenodo.17989621)
 
 
 **作者**：Will Mandy

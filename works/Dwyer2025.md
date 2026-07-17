@@ -14,7 +14,7 @@ needs-review: true
 
 # Dwyer et al. (2025) — 社區對神經多樣性、殘障模式與孤獨譜系干預的看法
 
-引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029
+引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. [https://doi.org/10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
 
 
 **作者**：[[Patrick-Dwyer|Patrick Dwyer]] (UC Davis / La Trobe), Ava N Gurba*, [[Steven-Kapp|Steven K Kapp]]*, Elizabeth Kilgallon*, Lynnette H Hersh, David S Chang, Susan M Rivera†, Kristen Gillespie-Lynch†（*共同第二作者，†共同資深作者）

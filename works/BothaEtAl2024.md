@@ -14,7 +14,7 @@ needs-review: true
 
 # Botha et al. (2024) — 神經多樣性的集體起源
 
-引用：Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871
+引用：Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. [https://doi.org/10.1177/13623613241237871](https://doi.org/10.1177/13623613241237871)
 
 
 **作者**（按字母順序）：Monique Botha, [[Robert-Chapman]], Morénike Giwa Onaiwu, [[Steven-Kapp]], Abs Stannard Ashley, [[Nick-Walker]]

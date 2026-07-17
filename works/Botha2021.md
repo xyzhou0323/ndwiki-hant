@@ -14,7 +14,7 @@ needs-review: true
 
 # Botha (2021) — 學者、行動者還是倡導者？關於孤獨譜系知識生產的批判性反思
 
-引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542
+引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. [https://doi.org/10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
 
 
 **作者**：[[Monique-Botha]]，英國斯特靈大學心理學系

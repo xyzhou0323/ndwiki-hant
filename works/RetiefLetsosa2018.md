@@ -14,7 +14,7 @@ needs-review: true
 
 # Retief & Letsosa (2018) — 殘障模型概述
 
-引用：Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. *HTS Teologiese Studies/Theological Studies*, 74(1), a4738. https://doi.org/10.4102/hts.v74i1.4738
+引用：Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. *HTS Teologiese Studies/Theological Studies*, 74(1), a4738. [https://doi.org/10.4102/hts.v74i1.4738](https://doi.org/10.4102/hts.v74i1.4738)
 
 **作者**：Marno Retief & Rantoa Letsosa（西北大學神學院，南非）
 **期刊**：*HTS Teologiese Studies/Theological Studies*，第 74 卷，第 1 期，a4738

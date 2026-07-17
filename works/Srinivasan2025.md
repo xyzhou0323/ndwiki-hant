@@ -13,7 +13,7 @@ needs-review: true
 
 # Srinivasan (2025) — 神經多樣性 2.0
 
-引用：Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652
+引用：Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. [https://doi.org/10.1016/j.reia.2025.202652](https://doi.org/10.1016/j.reia.2025.202652)
 
 
 **作者**：[[Hari-Srinivasan|Hari Srinivasan]]（範德堡大學神經科學博士生，孤獨譜系自我倡權者）

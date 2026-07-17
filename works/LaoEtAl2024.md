@@ -14,7 +14,7 @@ needs-review: true
 
 # Lao et al. (2024) — 中文孤獨症術語的社羣感知調查
 
-引用：Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X., & Zhu, H. (2024). Unveiling the perceptions of autism-related Chinese language among the autism community and the general public. *Autism in Adulthood*. https://doi.org/10.1089/aut.2024.0001
+引用：Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X., & Zhu, H. (2024). Unveiling the perceptions of autism-related Chinese language among the autism community and the general public. *Autism in Adulthood*. [https://doi.org/10.1089/aut.2024.0001](https://doi.org/10.1089/aut.2024.0001)
 
 **作者**：[[Uchong-Lao|Uchong Lao (劉宇翀)]]、[[Jiamin-Dai|Jiamin Dai (戴嘉敏)]]、[[Fengjing-Liang|Fengjing Liang (梁鳳晶)]]、[[Qian-Chen|Qian Chen (陳謙)]]、[[Wei-Cao|Wei Cao (曹偉)]]、[[Yueran-Pan|Yueran Pan (潘悅然)]]、[[Xiaobing-Zou|Xiaobing Zou (鄒小兵)]]（通訊作者）、[[Huilin-Zhu|Huilin Zhu (朱繪霖)]]（通訊作者）
 **發表**：2024 年 11 月 21 日，*Autism in Adulthood*（Mary Ann Liebert / SAGE）

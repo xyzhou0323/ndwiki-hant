@@ -14,7 +14,7 @@ needs-review: true
 
 # Jones & Orchard (2024) — 神經多樣性與殘障：關鍵何在？
 
-引用：Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. https://doi.org/10.1136/medhum-2023-012808
+引用：Jones, E. K., & Orchard, V. (2024). Neurodiversity and disability: What is at stake? Medical Humanities, 50(3), 456-465. [https://doi.org/10.1136/medhum-2023-012808](https://doi.org/10.1136/medhum-2023-012808)
 
 
 **作者**：Eleanor K. Jones（南安普頓大學）和 Vivienne Orchard

@@ -12,7 +12,7 @@ needs-review: true
 
 # Chapman (2025) — 是的，每個人都可以是神經殊異者
 
-引用：Chapman, R. (2025, April 4). Yes, it really is possible for everyone to be neurodivergent. *Neurodiversity and Capitalism*. https://substack.com/@neurodiversityandcapitalism/p-160531383
+引用：Chapman, R. (2025, April 4). Yes, it really is possible for everyone to be neurodivergent. *Neurodiversity and Capitalism*. [https://substack.com/@neurodiversityandcapitalism/p-160531383](https://substack.com/@neurodiversityandcapitalism/p-160531383)
 
 **作者**：[[Robert-Chapman|Robert Chapman]]
 **發表**：*Neurodiversity and Capitalism* (Substack), 2025-04-04

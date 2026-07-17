@@ -14,7 +14,7 @@ needs-review: true
 
 # Rozenkrantz et al. (2021) — 孤獨譜系中的增強理性
 
-引用：Rozenkrantz, L., D'Mello, A. M., & Gabrieli, J. D. E. (2021). Enhanced rationality in autism spectrum disorder. *Trends in Cognitive Sciences*, 25(8), 685–696. https://doi.org/10.1016/j.tics.2021.05.004
+引用：Rozenkrantz, L., D'Mello, A. M., & Gabrieli, J. D. E. (2021). Enhanced rationality in autism spectrum disorder. *Trends in Cognitive Sciences*, 25(8), 685–696. [https://doi.org/10.1016/j.tics.2021.05.004](https://doi.org/10.1016/j.tics.2021.05.004)
 
 **作者**：Liron Rozenkrantz、Anila M. D'Mello、John D. E. Gabrieli（MIT 腦與認知科學系 / McGovern 腦研究所）
 **期刊**：*Trends in Cognitive Sciences*，第 25 卷，第 8 期，第 685–696 頁

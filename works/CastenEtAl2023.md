@@ -14,7 +14,7 @@ needs-review: true
 
 # Casten et al. (2023) — 孤獨譜系、高認知能力與自殺意念
 
-引用：Casten, L. G., Thomas, T. R., Doobay, A. F., Foley-Nicpon, M., Kramer, S., Nickl-Jockschat, T., Abel, T., Assouline, S., & Michaelson, J. J. (2023). The combination of autism and exceptional cognitive ability is associated with suicidal ideation. *Neurobiology of Learning and Memory*, 197, 107698. https://doi.org/10.1016/j.nlm.2022.107698
+引用：Casten, L. G., Thomas, T. R., Doobay, A. F., Foley-Nicpon, M., Kramer, S., Nickl-Jockschat, T., Abel, T., Assouline, S., & Michaelson, J. J. (2023). The combination of autism and exceptional cognitive ability is associated with suicidal ideation. *Neurobiology of Learning and Memory*, 197, 107698. [https://doi.org/10.1016/j.nlm.2022.107698](https://doi.org/10.1016/j.nlm.2022.107698)
 
 **作者**：Lucas G. Casten、Taylor R. Thomas、Alissa F. Doobay、Megan Foley-Nicpon、Sydney Kramer、Thomas Nickl-Jockschat、Ted Abel、Susan Assouline、Jacob J. Michaelson（University of Iowa）
 **期刊**：*Neurobiology of Learning and Memory*，第 197 卷，107698

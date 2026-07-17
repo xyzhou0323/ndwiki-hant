@@ -18,7 +18,7 @@ needs-review: true
 
 # Stenner et al. (2025) — 以 Q 方法學追問神經多樣性運動
 
-引用：Stenner, P., Pearson, A., Kapp, S., Watson, C., Pressler, R., Williams, G., Bertilsdotter-Rosqvist, H., Hultman, L., Semmens-Wheeler, R., & Botha, M. (2025). Using Q methodology, a group of neurodivergent neurodiversity researchers ask: What is the neurodiversity movement and what should it do? *Neurodiversity*, *3*, 1–17. https://doi.org/10.1177/27546330251329625
+引用：Stenner, P., Pearson, A., Kapp, S., Watson, C., Pressler, R., Williams, G., Bertilsdotter-Rosqvist, H., Hultman, L., Semmens-Wheeler, R., & Botha, M. (2025). Using Q methodology, a group of neurodivergent neurodiversity researchers ask: What is the neurodiversity movement and what should it do? *Neurodiversity*, *3*, 1–17. [https://doi.org/10.1177/27546330251329625](https://doi.org/10.1177/27546330251329625)
 
 **作者**：[[Paul-Stenner|Paul Stenner]]（The Open University）、Amy Pearson（Durham）、[[Steven-Kapp]]（Portsmouth）、Catherine Watson（Open University）、Ronit Pressler（UCL）、Gemma Williams（獨立研究者）、[[Hanna-Bertilsdotter-Rosqvist]]（Södertörn）、Lill Hultman（Södertörn）、Rebecca Semmens-Wheeler（Birmingham City）、[[Monique-Botha]]（Durham / Stirling）
 **發表**：2024 年 5 月投稿，2025 年 3 月接收，刊於 *Neurodiversity* 第 3 卷

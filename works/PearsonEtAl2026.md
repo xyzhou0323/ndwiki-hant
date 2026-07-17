@@ -14,7 +14,7 @@ needs-review: true
 
 # Pearson et al. (2026) - 就像把矮個子叫做"垂直挑戰者"：英國神經殊異成人的語言與術語偏好
 
-引用：Pearson, A., Grant, A., Leigh, J., Macdonald, S. J., Williams, K., Williams, G., Spaeth, E., Rose, K., Memmott, A., & Botha, M. (2026). 'It's like calling short people vertically challenged': Language and terminology preferences among neurodivergent adults in the United Kingdom. *Neurodiversity*, *4*, 1–16. https://doi.org/10.1177/27546330261428235
+引用：Pearson, A., Grant, A., Leigh, J., Macdonald, S. J., Williams, K., Williams, G., Spaeth, E., Rose, K., Memmott, A., & Botha, M. (2026). 'It's like calling short people vertically challenged': Language and terminology preferences among neurodivergent adults in the United Kingdom. *Neurodiversity*, *4*, 1–16. [https://doi.org/10.1177/27546330261428235](https://doi.org/10.1177/27546330261428235)
 
 ## 研究概述
 

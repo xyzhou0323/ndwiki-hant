@@ -12,7 +12,7 @@ needs-review: true
 
 # Frith (2026) — 爲什麼我不再認爲孤獨譜系是一個譜系
 
-引用：Frith, U. (2026, March 4). Uta Frith: why I no longer think autism is a spectrum (H. Amass, Interviewer). *TES Magazine*. https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum
+引用：Frith, U. (2026, March 4). Uta Frith: why I no longer think autism is a spectrum (H. Amass, Interviewer). *TES Magazine*. [https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum](https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum)
 
 **作者**：Dame Uta Frith（倫敦大學學院認知神經科學研究所榮休教授，孤獨譜系認知理論的奠基人）
 **採訪者**：Helen Amass

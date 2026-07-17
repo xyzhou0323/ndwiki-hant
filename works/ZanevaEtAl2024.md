@@ -19,7 +19,7 @@ needs-review: true
 
 # Zaneva et al. (2024) — 神經多樣性導論：一份帶註釋的閱讀清單
 
-引用：Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. https://doi.org/10.31234/osf.io/ugkxp
+引用：Zaneva, M., Coll-Martín, T., Héjja-Brichard, Y., Kalandadze, T., Kis, A., Koperska, A., Manalili, M. A. R., Mathy, A., Graham, C. J., Hollis, A., Ross, R. M., Yeung, S. K., Allen, V., Azevedo, F., Friedel, E., Fuller, S., Giannouli, V., Gjoneska, B., Hartmann, H., Korbmacher, M., Elsherif, M. M., & Zisk, A. H. (2024). Introduction to neurodiversity: An annotated reading list. PsyArXiv. [https://doi.org/10.31234/osf.io/ugkxp](https://doi.org/10.31234/osf.io/ugkxp)
 
 **作者**：[[Mirela-Zaneva]]（通訊作者）、Tao Coll-Martín、Yseult Héjja-Brichard、Tamara Kalandadze、Andrea Kis、Alicja Koperska、Marie Adrienne Robles Manalili、Adrien Mathy、Christopher J. Graham、Anna Hollis、Robert M. Ross、Siu Kit Yeung、Veronica Allen、Flavio Azevedo、Emily Friedel、Stephanie Fuller、Vaitsa Giannouli、Biljana Gjoneska、Helena Hartmann、Max Korbmacher、[[Mahmoud-M-Elsherif]]（共同資深作者）、[[Alyssa-Hillary|Alyssa Hillary Zisk]]（共同第一作者）
 **年份**：2024

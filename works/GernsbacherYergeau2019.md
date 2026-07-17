@@ -14,7 +14,7 @@ needs-review: true
 
 # Gernsbacher & Yergeau (2019) — 孤獨譜系者缺乏心理理論主張的實證失敗
 
-引用：Gernsbacher, M. A., & Yergeau, M. (2019). Empirical failures of the claim that autistic people lack a theory of mind. Archives of Scientific Psychology, 7(1), 102–118. https://doi.org/10.1037/arc0000067
+引用：Gernsbacher, M. A., & Yergeau, M. (2019). Empirical failures of the claim that autistic people lack a theory of mind. Archives of Scientific Psychology, 7(1), 102–118. [https://doi.org/10.1037/arc0000067](https://doi.org/10.1037/arc0000067)
 
 **作者**：Morton Ann Gernsbacher（University of Wisconsin—Madison）、[[Melanie-Yergeau]]（University of Michigan）
 **發表**：2019 年，*Archives of Scientific Psychology*（APA 期刊），第 7 卷第 1 期

@@ -14,7 +14,7 @@ needs-review: true
 
 # Hughes (2021) — 孤獨譜系的異質性是否削弱了神經多樣性範式？
 
-引用：Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. https://doi.org/10.1111/bioe.12780
+引用：Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. [https://doi.org/10.1111/bioe.12780](https://doi.org/10.1111/bioe.12780)
 
 
 **作者**：Jonathan A. Hughes（基爾大學法學院）

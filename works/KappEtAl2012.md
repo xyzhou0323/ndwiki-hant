@@ -14,7 +14,7 @@ needs-review: true
 
 # Kapp et al. (2012) — 缺陷、差異，還是兩者兼具？孤獨譜系與神經多樣性
 
-引用：Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. *Developmental Psychology, 49*(1), 59–71. https://doi.org/10.1037/a0028353
+引用：Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. *Developmental Psychology, 49*(1), 59–71. [https://doi.org/10.1037/a0028353](https://doi.org/10.1037/a0028353)
 
 **作者**：[[Steven-Kapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均來自 UCLA）
 **發表**：2012 年 4 月 30 日在線首發，*Developmental Psychology* 2013 年第 49 卷第 1 期

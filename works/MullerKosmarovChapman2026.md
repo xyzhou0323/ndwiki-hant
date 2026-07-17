@@ -23,7 +23,7 @@ needs-review: true
 
 # Müller-Kosmarov & Chapman (2026) — 神經多樣性與哲學
 
-引用：Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and philosophy. In *Oxford Research Encyclopedia of Disability Studies*. Oxford University Press. https://doi.org/10.1093/9780197852668.003.0035
+引用：Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and philosophy. In *Oxford Research Encyclopedia of Disability Studies*. Oxford University Press. [https://doi.org/10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
 
 **作者**：[[Clarissa-Muller-Kosmarov|Clarissa Müller-Kosmarov]]、[[Robert-Chapman]]
 **出版日期**：2026 年 6 月 15 日
