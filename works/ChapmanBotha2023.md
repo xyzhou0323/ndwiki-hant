@@ -84,8 +84,7 @@ needs-review: true
 
 ## Related
 
-- [[Robert-Chapman]] — 第一作者
-- [[Monique-Botha]] — 第二作者
+### 相關概念
 - [[神經多樣性範式]] — 本文試圖應用於臨牀的核心範式
 - [[常態範式]] — 臨牀替代對象
 - [[去病理化]] — 核心實踐意涵
@@ -94,5 +93,11 @@ needs-review: true
 - [[神經殊異]] — 本文使用的基礎術語
 - [[掩飾與僞裝]] — 僞裝與自殺/抑鬱的關聯是抵制正常化的關鍵實證依據
 - [[神經多樣性與殘障]] — 社會-關係模型的理論基礎
+
+### 相關文獻
 - [[BothaEtAl2024|Botha et al. (2024)]] — Botha 與 Chapman 的後續合作，修正神經多樣性概念的起源敘事
 - [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — 本文回應的《柳葉刀》評論，提出神經多樣性概念的臨牀意涵
+
+### 作者
+- [[Robert-Chapman]] — 第一作者
+- [[Monique-Botha]] — 第二作者

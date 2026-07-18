@@ -73,9 +73,14 @@ RE-STAR（Regulating Emotions – Strengthening Adolescent Resilience）是研�
 
 ## Related
 
-- [[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]] — 作者，JCPP 主編
+### 相關概念
+- [[神經多樣性範式]] — 本文提出的"分歧範式"的理論基礎
+
+### 相關文獻
 - [[SonugaBarkeThapar2021|Sonuga-Barke & Thapar (2021)]] — 作者與 Thapar 的聯合立場聲明
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 收錄本文爲精選文獻的閱讀清單（主題 6）
-- [[神經多樣性範式]] — 本文提出的"分歧範式"的理論基礎
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 同以 Kuhn 範式框架論證孤獨譜系科學轉型
+
+### 作者
+- [[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]] — 作者，JCPP 主編
 - [[Anita-Thapar]] — 與作者合作提出 ND-臨牀整合論

@@ -104,9 +104,14 @@ needs-review: true
 
 ## Related
 
+### 相關概念
 - [[雙向同理心問題]] — DEP 概念
-- [[Milton2012|Milton (2012)]] — DEP 原初論文
-- [[Milton2022|Milton (2022)]] — DEP 十年回顧
-- [[Kathryn-Szechy]] — 第一作者
 - [[孤獨譜系障礙]] — 核心研究對象
 - [[神經多樣性範式]] — DEP 職場研究的理論框架基礎
+
+### 相關文獻
+- [[Milton2012|Milton (2012)]] — DEP 原初論文
+- [[Milton2022|Milton (2022)]] — DEP 十年回顧
+
+### 作者
+- [[Kathryn-Szechy]] — 第一作者

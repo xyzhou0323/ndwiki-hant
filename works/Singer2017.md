@@ -165,16 +165,21 @@ Singer 在書中討論了"誰真正創造了這個詞？"，描述了 Wikipedia 
 
 ## Related
 
-- [[Judy-Singer]] — 作者
-- [[BothaEtAl2024|Botha et al. (2024)]] — 對本書核心主張的學術修正
-- [[Dekker2023|Dekker (2023)]] — InLv 創始人的術語起源更正，公佈 Langdon 1996 年帖子和 Singer 1998 年私信
-- [[Martijn-Dekker]] — InLv 創始人
-- [[Tony-Langdon]] — 1996 年首次使用"neurological diversity"的 InLv 成員
-- [[JonesOrchard2024|Jones & Orchard (2024)]] — 對 Singer 奠基性排斥的批判
+### 相關概念
 - [[神經多樣性運動]] — 1990 年代至今的運動史（含 Botha 修正）
 - [[神經多樣性運動史]] — 包含 InLv 社羣的詳細歷史
 - [[神經多樣性]] — 概念的完整定義與區分
 - [[殘障的社會模型]] — Singer 理論框架的核心來源與批判對象
-- [[Harvey-Blume]] — 首位在印刷中使用"neurodiversity"的記者
+
+### 相關文獻
+- [[BothaEtAl2024|Botha et al. (2024)]] — 對本書核心主張的學術修正
+- [[Dekker2023|Dekker (2023)]] — InLv 創始人的術語起源更正，公佈 Langdon 1996 年帖子和 Singer 1998 年私信
+- [[JonesOrchard2024|Jones & Orchard (2024)]] — 對 Singer 奠基性排斥的批判
 - [[Silberman2015|Silberman (2015)]] — 將 Singer 推上術語創造者地位的作品
 - [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — 將 Singer 定位爲第一取向代表
+
+### 作者
+- [[Judy-Singer]] — 作者
+- [[Martijn-Dekker]] — InLv 創始人
+- [[Tony-Langdon]] — 1996 年首次使用"neurological diversity"的 InLv 成員
+- [[Harvey-Blume]] — 首位在印刷中使用"neurodiversity"的記者

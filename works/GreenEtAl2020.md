@@ -82,9 +82,14 @@ needs-review: true
 
 ## Related
 
-- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）
-- [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主題 7 精選文獻：將本文納入神經多樣性入門閱讀清單
+### 相關概念
 - [[神經多樣性與民主研究]] — 參與式方法論與多聲部研究的交叉
 - [[去病理化]] — 對話中對 DSM 診斷框架的批判與此交叉
 - [[神經多樣性研究]] — Price、Dolmage、Yergeau 等殘障修辭學者在此對話中的理論角色
 - [[神經多樣性與交叉性]] — 性別、性取向、職業安全與精神健康的交叉運作
+
+### 相關文獻
+- [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 主題 7 精選文獻：將本文納入神經多樣性入門閱讀清單
+
+### 作者
+- [[Alyssa-Hillary|Alyssa Hillary]] — 合著者（以 "Alyssa _" 署名）

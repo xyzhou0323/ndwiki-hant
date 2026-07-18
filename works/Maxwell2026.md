@@ -254,9 +254,20 @@ Maxwell 澄清其論點並非主張在話語解讀中使用假設是糟糕的，
 
 ## Related
 
-- [[AndersonCushingEds2026]] — 本卷主頁
-- [[Whittle2026|Whittle (2026)]] — 第 2 章，討論孤獨譜系者的道德責任
+### 相關概念
 - [[雙向同理心問題]] — 孤獨譜系與非孤獨譜系間溝通困難的核心理論
 - [[掩飾與僞裝]] — 孤獨譜系者因被誤解而發展出的生存策略
 - [[知識不正義]] — 某人以認知主體的身份被不公正地降級或處於不利地位
+
+### 相關文獻
+- [[AndersonCushingEds2026]] — 本卷主頁
+- [[Whittle2026|Whittle (2026)]] — 第 2 章，討論孤獨譜系者的道德責任
+- [[Milton2012|Milton (2012)]] — DEP 原初論文，本章核心理論資源
+- [[CromptonEtAl2020|Crompton et al. (2020)]] — 孤獨譜系間溝通流暢性的核心實證支持
+- [[Chapman2019|Chapman (2019)]] — 維特根斯坦式生活形式（共享維特根斯坦語用學資源）
+- [[KraemerKraemer2026|Kraemer & Kraemer (2026)]] — 第 10 章，共享跨神經類型溝通中認識不正義的分析
+- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，共享對會話語用學和相互誤解的分析
+- [[RosinaMcCready2026|Rosina & McCready (2026)]] — 第 9 章，共享對會話修復與語用預設的分析
+
+### 作者
 - [[Sydney-Maxwell]] — 作者頁

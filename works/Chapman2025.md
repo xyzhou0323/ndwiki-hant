@@ -49,8 +49,13 @@ Chapman 指出，這種論調的真正驅動力並非對概念精確性的學術
 
 ## Related
 
+### 相關概念
 - [[神經多樣性批判與回應]] — 批評四直接引用本文
-- [[Robert-Chapman]] — 作者頁
 - [[神經殊異]] — 本文論證的核心概念
 - [[神經多樣性範式]] — 本文所基於的理論框架
+
+### 相關文獻
 - [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — 第5章對自我認同問題的擴展討論
+
+### 作者
+- [[Robert-Chapman]] — 作者頁

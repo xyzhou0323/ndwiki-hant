@@ -92,14 +92,19 @@ needs-review: true
 
 ## Related
 
-- [[RosqvistEtAl2020]] — 本文的理論基礎（編輯卷），第 16 章已初步提出 ND Studies 框架
+### 相關概念
 - [[神經多樣性研究]] — 本文所闡述的批判範式概念頁
-- [[Anna-Stenning]]、[[Hanna-Bertilsdotter-Rosqvist]] — 作者
-- [[Robert-Chapman]] — "移動目標"概念、編輯卷第 4/14 章
-- [[Jim-Sinclair]] — 第三取向的精神來源
-- [[Judy-Singer]]、[[Harvey-Blume]] — 第一/二取向的代表人物
 - [[神經多樣性]] — 本文批判了其與生物多樣性的類比
 - [[神經規範性]] — 本文重新框架醫學模型的核心批判對象
 - [[神經多樣性與資本主義]] — 第二取向（新自由主義收編）的系統分析
 - [[神經多樣性與民主研究]] — 本文"working with"方法論的具體實踐
 - [[去病理化]] — 本文重新框架醫學模型與去病理化的關係
+
+### 相關文獻
+- [[RosqvistEtAl2020]] — 本文的理論基礎（編輯卷），第 16 章已初步提出 ND Studies 框架
+
+### 作者
+- [[Anna-Stenning]]、[[Hanna-Bertilsdotter-Rosqvist]] — 作者
+- [[Robert-Chapman]] — "移動目標"概念、編輯卷第 4/14 章
+- [[Jim-Sinclair]] — 第三取向的精神來源
+- [[Judy-Singer]]、[[Harvey-Blume]] — 第一/二取向的代表人物

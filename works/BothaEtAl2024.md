@@ -75,16 +75,21 @@ needs-review: true
 
 ## Related
 
+### 相關概念
 - [[神經多樣性運動]] — 應據此修正的運動完整歷史
 - [[神經多樣性範式]] — 這一集體運動所發展的核心範式
 - [[神經殊異]] — Kassiane Asasuasu 創造的術語
+
+### 相關文獻
 - [[Sinclair1993|Sinclair (1993)]] — Jim Sinclair 的奠基宣言
+- [[Singer2017|Singer (2017)]] — Singer 在本書修正後自費出版的個人敘事，聲稱自己是術語創造者
+- [[Silberman2015|Silberman (2015)]] — 傳播 Singer 敘事的作品
+- [[Chapman2023|Chapman (2023)]] — Chapman 對資本主義與神經規範性的系統分析
+
+### 作者
 - [[Jim-Sinclair]] — 運動奠基人
 - [[Harvey-Blume]] — 首位在印刷中使用術語的記者
-- [[Singer2017|Singer (2017)]] — Singer 在本書修正後自費出版的個人敘事，聲稱自己是術語創造者
 - [[Judy-Singer]] — 被修正敘事中的當事人，最早學術使用者之一
-- [[Silberman2015|Silberman (2015)]] — 傳播 Singer 敘事的作品
 - [[Steven-Kapp]] — 合著者之一，Kapp (2020) 主編
 - [[Nick-Walker]] — 合著者之一，Walker (2021) 作者
 - [[Robert-Chapman]] — 合著者之一
-- [[Chapman2023|Chapman (2023)]] — Chapman 對資本主義與神經規範性的系統分析

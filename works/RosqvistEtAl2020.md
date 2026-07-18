@@ -84,17 +84,22 @@ needs-review: true
 
 ## Related
 
-- [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — 編輯卷的後續理論闡述，三種取向 → 第四取向
+### 相關概念
 - [[神經多樣性研究]] — 編輯卷正式提出的學術領域
-- [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]]、[[Anna-Stenning]] — 主編
-- [[Robert-Chapman]] — 第 4、14 章作者
-- [[Virginia-Bovell]]、[[Dieuwertje-Dyi-Huijg]]、[[Akiko-Hart]]、[[Mitzi-Waltz]]、[[Alyssa-Hillary]]、[[Alan-Jurgens]]、[[Ines-Hipolito]] — 章節貢獻者
-- David-Jackson-Perry — 第 8 章合著者
-- Matthew-K-Belmonte — 第 11 章作者
-- Nicola-Martin — 第 9 章作者
 - [[單一聚焦]] — 第 5 章整合的核心理論
 - [[雙向同理心問題]] — 第 5 章整合的核心理論
 - [[殘障模型]] — 價值中立模型的系統引入
 - [[殘障的社會模型]] — Chapman 對社會模型的內部批判
 - 聽聲運動 — Hart 提議的聯盟
 - [[神經多樣性]] — 第 14 章的定義澄清
+
+### 相關文獻
+- [[StenningRosqvist2021|Stenning & Rosqvist (2021)]] — 編輯卷的後續理論闡述，三種取向 → 第四取向
+
+### 作者
+- [[Hanna-Bertilsdotter-Rosqvist]]、[[Nick-Chown]]、[[Anna-Stenning]] — 主編
+- [[Robert-Chapman]] — 第 4、14 章作者
+- [[Virginia-Bovell]]、[[Dieuwertje-Dyi-Huijg]]、[[Akiko-Hart]]、[[Mitzi-Waltz]]、[[Alyssa-Hillary]]、[[Alan-Jurgens]]、[[Ines-Hipolito]] — 章節貢獻者
+- David-Jackson-Perry — 第 8 章合著者
+- Matthew-K-Belmonte — 第 11 章作者
+- Nicola-Martin — 第 9 章作者

@@ -123,12 +123,17 @@ needs-review: true
 
 ## Related
 
-- [[LaoEtAl2024|Lao et al. (2024)]] — 同一團隊的前期定量研究，爲本研究的問卷調查部分提供數據
-- [[LaoZhu2024|Lao & Zhu (2024)]] — 同一第一作者的中文術語綜述
-- [[Uchong-Lao|劉宇翀]] — 第一作者
-- [[Fengjing-Liang|梁鳳晶]]、[[Jiamin-Dai|戴嘉敏]]、[[Wei-Cao|曹偉]]、[[Qian-Chen|陳謙]]、[[Min-Wang|王敏]] — 合著者
-- [[Xiaobing-Zou|鄒小兵]]、[[Huilin-Zhu|朱繪霖]] — 合著者
+### 相關概念
 - [[神經多樣性]] — 核心理論框架
 - [[術語翻譯對照表]] — 本 wiki 術語選擇
 - [[去病理化]] — 研究結論支持的操作原則
 - [[孤獨譜系障礙]] — 核心研究主題
+
+### 相關文獻
+- [[LaoEtAl2024|Lao et al. (2024)]] — 同一團隊的前期定量研究，爲本研究的問卷調查部分提供數據
+- [[LaoZhu2024|Lao & Zhu (2024)]] — 同一第一作者的中文術語綜述
+
+### 作者
+- [[Uchong-Lao|劉宇翀]] — 第一作者
+- [[Fengjing-Liang|梁鳳晶]]、[[Jiamin-Dai|戴嘉敏]]、[[Wei-Cao|曹偉]]、[[Qian-Chen|陳謙]]、[[Min-Wang|王敏]] — 合著者
+- [[Xiaobing-Zou|鄒小兵]]、[[Huilin-Zhu|朱繪霖]] — 合著者

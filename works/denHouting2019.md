@@ -92,11 +92,16 @@ den Houting 以"作爲一位孤獨譜系的孤獨譜系研究者"的身份寫作
 
 ## Related
 
+### 相關概念
 - [[神經多樣性範式]] — 本文所闡述的核心範式
 - [[殘障的社會模型]] — 本文以社會模型作爲 ND 的殘障理論基礎
-- [[Jacquiline-den-Houting]] — 作者
-- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 後續與 Pellicano 合作的範式轉型宏觀論證
 - [[庸俗版神經多樣性]] — 本文首次將"neurodiversity lite"引入學術文獻
 - [[去病理化]] — 本文"正常化 vs 福祉"區分是其核心操作
+
+### 相關文獻
+- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 後續與 Pellicano 合作的範式轉型宏觀論證
+
+### 作者
+- [[Jacquiline-den-Houting]] — 作者
 - [[Shain-M-Neumeier]] — "neurodiversity lite"概念首創者
 - [[Robert-Chapman]] — 將 neurodiversity lite 系統發展爲庸俗版神經多樣性批判框架

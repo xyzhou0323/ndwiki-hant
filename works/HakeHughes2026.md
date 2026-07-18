@@ -243,13 +243,22 @@ Hake 與 Hughes 最後論證批判現象學可與 NM 合作，支持向更大交
 
 ## Related
 
-- [[AndersonCushingEds2026]] — 本卷主頁
-- [[Garcia2026|Garcia (2026)]] — 第 4 章，共享 4E 認知框架
-- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，討論 DEP 與同理心——EMB 理論共享的認知預設
-- [[Whittle2026|Whittle (2026)]] — 第 2 章，共享對孤獨譜系者道德地位的辯護
+### 相關概念
 - [[神經多樣性範式]] — NM 的核心理論框架
 - [[掩飾與僞裝]] — FAP 的僞裝行爲維度和神經酷兒作爲去僞裝
 - [[雙向同理心問題]] — 性別之間的誤解同樣構成"雙重問題"
 - [[ASD干預]] — 批判現象學視角下的替代治療路徑
+
+### 相關文獻
+- [[AndersonCushingEds2026]] — 本卷主頁
+- [[Garcia2026|Garcia (2026)]] — 第 4 章，共享 4E 認知框架
+- [[Fellowes2026|Fellowes (2026)]] — 第 3 章，討論 DEP 與同理心——EMB 理論共享的認知預設
+- [[Whittle2026|Whittle (2026)]] — 第 2 章，共享對孤獨譜系者道德地位的辯護
+- [[Cushing2026|Cushing (2026)]] — 第 11 章，共享反本質主義與策略性本質主義討論
+- [[RosinaMcCready2026|Rosina & McCready (2026)]] — 第 9 章，共享對性別與僞裝的討論
+- [[GibsonArnaud2026|Gibson & Arnaud (2026)]] — 第 6 章，共享神經多樣性運動分析
+- [[Chapman2019|Chapman (2019)]] — 維特根斯坦式生活形式與反本質主義
+
+### 作者
 - [[Ruby-Hake]] — 作者頁
 - [[Emily-Hughes]] — 作者頁

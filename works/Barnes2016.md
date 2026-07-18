@@ -37,7 +37,10 @@ Elizabeth Barnes 在本書中提出了一個影響深遠的殘障定義——以
 
 ## Related
 
+### 相關概念
 - [[殘障的哲學定義]] — 四種哲學定義進路的完整討論
 - [[殘障肯定模型]] — Barnes 的定義與肯定模型深度兼容
-- [[Elizabeth-Barnes|Elizabeth Barnes]] — 作者頁面
 - [[殘障模型]] — 社會建構論所在的理論語境
+
+### 作者
+- [[Elizabeth-Barnes|Elizabeth Barnes]] — 作者頁面

@@ -113,12 +113,17 @@ Divergentism 聚類中非二元/未披露性別者比例最高（46%），且平
 
 ## Related
 
-- [[LaoZhu2024|Lao & Zhu (2024)]] — 同一第一作者的術語概念綜述（中文）
-- [[Uchong-Lao|劉宇翀]] — 第一作者
-- [[Huilin-Zhu|朱繪霖]] — 通訊作者
-- [[Xiaobing-Zou|鄒小兵]] — 通訊作者
-- [[Jiamin-Dai|戴嘉敏]]、[[Fengjing-Liang|梁鳳晶]]、[[Qian-Chen|陳謙]]、[[Wei-Cao|曹偉]]、[[Yueran-Pan|潘悅然]] — 合著者
+### 相關概念
 - [[術語翻譯對照表]] — 本 wiki 的術語規範參考
 - [[神經多樣性]] — 最受偏好的術語框架
 - [[孤獨譜系障礙]] — 核心研究主題
 - [[去病理化]] — 研究結論支持的操作原則
+
+### 相關文獻
+- [[LaoZhu2024|Lao & Zhu (2024)]] — 同一第一作者的術語概念綜述（中文）
+
+### 作者
+- [[Uchong-Lao|劉宇翀]] — 第一作者
+- [[Huilin-Zhu|朱繪霖]] — 通訊作者
+- [[Xiaobing-Zou|鄒小兵]] — 通訊作者
+- [[Jiamin-Dai|戴嘉敏]]、[[Fengjing-Liang|梁鳳晶]]、[[Qian-Chen|陳謙]]、[[Wei-Cao|曹偉]]、[[Yueran-Pan|潘悅然]] — 合著者

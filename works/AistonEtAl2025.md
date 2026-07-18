@@ -76,15 +76,20 @@ needs-review: true
 
 ## Related
 
+### 相關概念
 - [[信息大放送]] — 本論文系統定位的核心溝通實踐
 - [[單一聚焦]] — 論文的認知理論基礎：注意力隧道與興趣作爲組織原則
 - [[雙向同理心問題]] — 論文所服務解決的核心問題
-- [[Hanna-Bertilsdotter-Rosqvist]] — 興趣爲本社交 vs 社交爲本社交的概念區分
-- [[Anna-Stenning]] — Stenning (2024) 的關係性自我與抵抗性主體概念
-- [[HeasmanGillespie2019|Heasman & Gillespie (2019)]] — 神經殊異交互主體性的實證基礎——論文引爲關鍵先例
-- [[Jessica-Aiston]] — 第一作者
-- [[Nelya-Koteyko]] — 通訊作者團隊核心成員
-- [[Martine-van-Driel]] — 合著者（孤獨譜系研究者）
 - [[神經多樣性範式]] — 論文的理論框架立場
 - [[參與式行動研究]] — 論文的核心方法論要求
 - [[神經多樣性研究]] — 論文所體現的批判研究範式
+
+### 相關文獻
+- [[HeasmanGillespie2019|Heasman & Gillespie (2019)]] — 神經殊異交互主體性的實證基礎——論文引爲關鍵先例
+
+### 作者
+- [[Jessica-Aiston]] — 第一作者
+- [[Nelya-Koteyko]] — 通訊作者團隊核心成員
+- [[Martine-van-Driel]] — 合著者（孤獨譜系研究者）
+- [[Hanna-Bertilsdotter-Rosqvist]] — 興趣爲本社交 vs 社交爲本社交的概念區分
+- [[Anna-Stenning]] — Stenning (2024) 的關係性自我與抵抗性主體概念

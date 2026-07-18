@@ -91,10 +91,13 @@ needs-review: true
 
 ## Related
 
+### 相關概念
 - [[神經多樣性]] — ND 作爲生物學事實
 - [[神經多樣性範式]] — ND 範式 vs 常態範式
 - [[ADHD]] — 論文討論的核心病症之一
 - [[孤獨譜系障礙]] — 論文討論的核心病症之一
+
+### 相關文獻
 - [[ArnaudGibson2025|Arnaud & Gibson (2025)]] — HAP 框架對比：ND 運動拒絕的恰恰是"障礙由功能障礙定義"的前提
 - [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 庫恩範式轉型框架 vs 論文的"無矛盾整合論"
 - [[Dwyer2022|Dwyer (2022)]] — 互動主義中間道路 vs 被論文混入"激進 ND"的標籤

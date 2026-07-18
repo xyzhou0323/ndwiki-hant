@@ -76,9 +76,14 @@ needs-review: true
 
 ## Related
 
-- [[CromptonEtAl2025|Crompton et al. (2025)]] — 本研究的複製與擴展（N=311）
+### 相關概念
 - [[雙向同理心問題]] — 本研究爲其提供關鍵實證支持的框架：孤獨譜系者間信息傳遞高效、跨神經類型衰減
-- [[Catherine-Crompton]] — 本文第一作者
-- [[Sue-Fletcher-Watson]] — 合著者
+
+### 相關文獻
+- [[CromptonEtAl2025|Crompton et al. (2025)]] — 本研究的複製與擴展（N=311）
 - [[Milton2012|Milton (2012)]] — DEP 原初論文
 - [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清
+
+### 作者
+- [[Catherine-Crompton]] — 本文第一作者
+- [[Sue-Fletcher-Watson]] — 合著者

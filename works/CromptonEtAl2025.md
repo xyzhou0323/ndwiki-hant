@@ -86,9 +86,14 @@ needs-review: true
 
 ## Related
 
-- [[CromptonEtAl2020|Crompton et al. (2020)]] — 本研究複製的原始實驗
+### 相關概念
 - [[雙向同理心問題]] — 本研究爲其提供擴展實證支持的框架
+
+### 相關文獻
+- [[CromptonEtAl2020|Crompton et al. (2020)]] — 本研究複製的原始實驗
+- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清
+
+### 作者
 - [[Catherine-Crompton]] — 本文第一作者
 - [[Noah-Sasson]] — 合著者，DEP 實證研究者
 - [[Sue-Fletcher-Watson]] — 合著者
-- [[KilgallonEtAl2026|Kilgallon et al. (2026)]] — DEP 概念澄清

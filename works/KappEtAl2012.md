@@ -121,10 +121,15 @@ needs-review: true
 
 ## Related
 
-- [[Steven-Kapp]] — 第一作者與通訊作者
-- [[Kapp2020|Kapp (2020)]] — Kapp 後續主編的運動史文集
-- [[Milton2012|Milton (2012)]] — 同期發表在 *Disability & Society* 的 DEP 概念
-- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 後續的庫恩範式轉型論證
+### 相關概念
 - [[神經多樣性運動]] — 本文是早期運動的實證基礎
 - [[雙向同理心問題]] — 本文結論與 DEP 的"溝通是雙向的"呼應
 - [[殘障的社會模型]] — Kapp 指出運動並非純粹社會模型立場
+
+### 相關文獻
+- [[Kapp2020|Kapp (2020)]] — Kapp 後續主編的運動史文集
+- [[Milton2012|Milton (2012)]] — 同期發表在 *Disability & Society* 的 DEP 概念
+- [[PellicanodenHouting2022|Pellicano & den Houting (2022)]] — 後續的庫恩範式轉型論證
+
+### 作者
+- [[Steven-Kapp]] — 第一作者與通訊作者

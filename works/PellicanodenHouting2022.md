@@ -88,13 +88,18 @@ needs-review: true
 
 ## Related
 
+### 相關概念
 - [[神經多樣性範式]] — 本文論證的核心目標範式
-- [[Dwyer2022|Dwyer (2022)]] — 同期發表的神經多樣性方法羣框架，本文爲其補充了範式轉型的宏觀論證
-- [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相關政治分析
-- [[Milton2022|Milton (2022)]] — 本文以雙向同理心問題爲核心理論支撐
 - [[去病理化]] — 本文"多樣性非缺陷"框架的直接應用
 - [[殘障的社會模型]] — 本文"情境很重要"論證的理論背景
 - [[孤獨譜系障礙]] — 本文討論的核心對象
-- [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 第一作者
+
+### 相關文獻
+- [[Dwyer2022|Dwyer (2022)]] — 同期發表的神經多樣性方法羣框架，本文爲其補充了範式轉型的宏觀論證
+- [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — 同一作者同年的相關政治分析
+- [[Milton2022|Milton (2022)]] — 本文以雙向同理心問題爲核心理論支撐
 - [[denHouting2019|den Houting (2019)]] — 本文方法論立場的早期版本：內部人視角與三大誤解澄清
+
+### 作者
+- [[Elizabeth-Pellicano|Elizabeth Pellicano]] — 第一作者
 - [[Jacquiline-den-Houting|Jacquiline den Houting]] — 第二作者

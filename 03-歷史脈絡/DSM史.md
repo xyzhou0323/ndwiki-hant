@@ -121,8 +121,25 @@ Horwitz（2021）提出了理解 DSM 演變的三種解釋框架：
 
 Horwitz認爲，診斷分類"像所有分類一樣，既是其所嵌入的社會世界的產物，又在塑造着那個社會世界"。
 
+## Related
+
+### 相關概念
+- [[常態範式]] — DSM 是常態範式的制度化工具，將偏離常態的行爲和體驗歸類爲精神障礙
+- [[常態的發明]] — DSM 診斷所依賴的"正常/異常"邊界的統計建構歷史：從 Quetelet 到 Galton
+- [[反精神病學]] — 1960-70 年代對精神醫學合法性的挑戰運動，推動 DSM-III 操作性轉向的關鍵催化劑
+- [[去病理化]] — DSM 史上的標誌性去病理化事件：同性戀（1973）、阿斯伯格綜合徵併入孤獨譜系障礙（DSM-5 2013）
+- [[孤獨譜系障礙]] — DSM 中爭議最大的診斷類別之一：從 DSM-III 首次納入到 DSM-5 合併爲單一譜系
+- [[神經多樣性範式]] — 將神經認知差異視爲人類自然變異的理論框架，構成對 DSM 疾病分類邏輯的根本挑戰
+- [[殘障的社會模型]] — 區分損傷與殘障的框架，與 DSM 所依賴的醫學模型形成對比
+
+### 相關文獻
+- [[Frith2026|Frith (2026)]] — 孤獨譜系在精神醫學分類體系中的歷史演變，與 DSM 史互爲補充
+- [[Chapman2023|Chapman (2023)]] — *Empire of Normality*：對常態/病理邊界的政治經濟學批判，將 DSM 的發展置於資本主義神經規範性構建的歷史脈絡中
+
+### 外部鏈接
+- [American Psychiatric Association - DSM](https://www.psychiatry.org/psychiatrists/practice/dsm)
+
 ## 參考
 
-- American Psychiatric Association: https://www.psychiatry.org/psychiatrists/practice/dsm
 - Horwitz, A. V. (2021). *DSM: A History of Psychiatry's Bible*. Johns Hopkins University Press.
 - Tsou, J. Y. (2016). Natural kinds, psychiatric classification and the history of the DSM. *History of Psychiatry, 27*(4), 406–424.

@@ -217,9 +217,18 @@ Whittle 的核心結論：
 
 ## Related
 
+### 相關概念
+- [[雙向同理心問題]] — 本章核心理論資源
+
+### 相關文獻
 - [[AndersonCushingEds2026]] — 本卷主頁
 - [[Maxwell2026|Maxwell (2026)]] — 第 1 章，討論責備與批評的區分，本章與之密切對話
 - [[Fellowes2026|Fellowes (2026)]] — 第 3 章，深入探討雙向同理心問題
-- [[雙向同理心問題]] — 本章核心理論資源
 - [[Milton2012]] — 雙向同理心問題原始論文
+- [[Chapman2019|Chapman (2019)]] — 將 DEP 哲學化地發展爲生活形式假說
+- [[Cushing2026|Cushing (2026)]] — 第 11 章，共享對孤獨譜系者道德社羣成員資格的辯護
+- [[GibsonArnaud2026|Gibson & Arnaud (2026)]] — 第 6 章，共享對孤獨譜系者道德能動性的討論
+- [[KraemerKraemer2026|Kraemer & Kraemer (2026)]] — 第 10 章，共享對孤獨譜系者認識條件的討論
+
+### 作者
 - [[Ann-Whittle]] — 作者頁

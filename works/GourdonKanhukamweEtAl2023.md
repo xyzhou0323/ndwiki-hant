@@ -40,10 +40,15 @@ needs-review: true
 
 ## Related
 
-- [[Amelie-Gourdon-Kanhukamwe]] — 第一作者
+### 相關概念
+- [[神經多樣性與民主研究]] — 參與式研究框架
+- [[神經多樣性範式]] — 理論根基
+
+### 相關文獻
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — 收錄本文爲精選文獻的閱讀清單（主題 9）
+
+### 作者
+- [[Amelie-Gourdon-Kanhukamwe]] — 第一作者
 - [[Mirela-Zaneva]] — 聯名作者
 - [[Steven-Kapp|Steven K. Kapp]] — 聯名作者
 - [[Mahmoud-M-Elsherif]] — 通訊作者，FORRT 神經多樣性團隊領導者
-- [[神經多樣性與民主研究]] — 參與式研究框架
-- [[神經多樣性範式]] — 理論根基

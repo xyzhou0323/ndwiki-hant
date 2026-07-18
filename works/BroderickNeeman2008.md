@@ -121,11 +121,16 @@ Ari Ne'eman 提出雙軌策略：
 
 ## Related
 
-- [[Alicia-Broderick]] — 第一作者
-- [[Ari-Ne'eman]] — 第二作者，ASAN 創始主席
+### 相關概念
 - [[神經多樣性運動]] — 本文是對運動早期話語鬥爭的核心記錄
 - [[神經規範性]] — 本文分析的"疾病隱喻"是神經規範性的主要再生產機制
 - [[去病理化]] — 本文的隱喻分析是去病理化批判的理論資源
+
+### 相關文獻
 - [[Sinclair1993|Sinclair (1993)]] — 運動中引用的奠基宣言
 - [[Kapp2020|Kapp (2020)]] — 20 年後 Kapp 主編的運動史內部視角文集
 - [[NeemanPellicano2022|Ne'eman & Pellicano (2022)]] — Ne'eman 對運動內部分歧的後續分析
+
+### 作者
+- [[Alicia-Broderick]] — 第一作者
+- [[Ari-Ne'eman]] — 第二作者，ASAN 創始主席

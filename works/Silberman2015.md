@@ -95,10 +95,15 @@ Temple Grandin 1989年在 Chapel Hill 的公開演講——作爲最早公開自
 
 ## Related
 
-- [[Steve-Silberman]] — 作者
+### 相關概念
 - [[神經多樣性運動]] — 該書詳細敘述了從 Kanner 時代到神經多樣性運動的歷史，但其中的"概念起源"部分已被 Botha 等（2024）修正
+- [[雙向同理心問題]] — Milton 2012 的概念，在 NeuroTribes 出版時尚未被充分整合
+- [[神經多樣性與資本主義]] — Silberman 樂觀的技術賦權敘事 vs 結構性批判
+
+### 相關文獻
 - [[BothaEtAl2024|Botha et al. (2024)]] — 對書中"Judy Singer 創造術語"敘事的學術修正
 - [[ChapmanFletcherWatson2026|Chapman & Fletcher-Watson (2026)]] — Chapman & Fletcher-Watson 的更系統化學術介紹（2025）
 - [[Chapman2023|Chapman (2023)]] — Chapman 對常態的系統性批判
-- [[雙向同理心問題]] — Milton 2012 的概念，在 NeuroTribes 出版時尚未被充分整合
-- [[神經多樣性與資本主義]] — Silberman 樂觀的技術賦權敘事 vs 結構性批判
+
+### 作者
+- [[Steve-Silberman]] — 作者
