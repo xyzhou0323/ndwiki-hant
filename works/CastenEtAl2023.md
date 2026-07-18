@@ -1,7 +1,7 @@
 ---
 title: Casten et al. (2023) - 孤獨譜系與高認知能力的組合與自殺意念相關
 description: 首項大規模遺傳學研究發現：高認知能力在孤獨譜系中從保護因素逆轉爲自殺意念的風險因素——雙重特殊兒童是自殺意念最高風險羣體
-aliases: [Casten 2023, Casten et al. 2023, twice-exceptional suicide, 2e suicide]
+aliases: ["Casten(2023)", Casten 2023, Casten et al. 2023, twice-exceptional suicide, 2e suicide]
 tags: [work, autism, neurodiversity, mental-health]
 sources: [2026-05-14/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf]
 doi: 10.1016/j.nlm.2022.107698

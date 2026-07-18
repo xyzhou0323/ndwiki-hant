@@ -1,6 +1,7 @@
 ---
 title: Crompton et al. (2020) - 孤獨譜系同伴間信息傳遞高度有效
 description: Crompton 等人首次以擴散鏈實驗證明孤獨譜系者之間的信息傳遞效率與非孤獨譜系者相當，而跨神經類型配對時信息傳遞顯著衰減、融洽度顯著降低，爲雙向同理心問題提供了最直接的實證證據
+aliases: ["Crompton(2020)"]
 aliases:
   - CromptonEtAl2020
   - Autistic peer-to-peer information transfer is highly effective

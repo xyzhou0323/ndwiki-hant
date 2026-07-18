@@ -2,6 +2,7 @@
 title: Müller-Kosmarov & Chapman (2026) - 神經多樣性與哲學
 description: Müller-Kosmarov 與 Chapman 合著的牛津殘障研究百科全書條目，是首部以百科全書條目形式系統梳理神經多樣性哲學這一新興子領域的綜述性文獻，涵蓋哲學史背景、神經多樣性範式、核心概念、殘障模型、神經規範性、認識論、現象學、神經酷兒理論及政治倫理哲學，兼具學科導論與解放政治雙重目的
 aliases:
+  - Müller-Kosmarov(2026)
   - Müller-Kosmarov & Chapman (2026)
   - MullerKosmarovChapman2026
   - Neurodiversity and Philosophy

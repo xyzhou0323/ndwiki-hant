@@ -3,8 +3,9 @@ title: Dwyer et al. (2023) - 建設神經多樣性包容高校：給高等教育
 description: Patrick Dwyer 等神經殊異學生與研究者共同撰寫的系統建議——三項領域13條建議，獲加州大學學術評議會認可，發表於 Autism in Adulthood
 aliases: [Dwyer et al. (2023), Building Neurodiversity-Inclusive Postsecondary Campuses]
 tags: [work, neurodiversity, education, applied, DEI]
+aliases: ["Dwyer(2023)"]
 authors: [Patrick Dwyer, Erica Mineo, Kristin Mifsud, Chris Lindholm, Ava Gurba, T.C. Waisman]
-source: sources/2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf
+sources: [2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf]
 created: 2026-05-18
 updated: 2026-05-18
 zh-hans: [[wiki/works/DwyerEtAl2023]]

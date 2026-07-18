@@ -3,6 +3,7 @@ title: Bethlehem Tekola
 description: Bethlehem Tekola 是倫敦國王學院全球心理健康中心研究員，埃塞俄比亞孤獨譜系與發育障礙研究先驅，專注於低資源環境中的污名、文化適應干預與服務改善
 aliases: [Bethlehem Tekola Gebru, Tekola]
 tags: [author, neurodiversity, autism, global-mental-health, Ethiopia]
+sources: ["2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf"]
 created: 2026-06-10
 updated: 2026-06-10
 zh-hans: [[wiki/authors/Bethlehem-Tekola]]

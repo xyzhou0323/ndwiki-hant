@@ -1,6 +1,7 @@
 ---
 title: Botha et al. (2023) - 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用
 description: Botha、Hanlon 與 Williams 在 JADD 發表的對 Vivanti (2020) 的回應——論證語言選擇對孤獨譜系者具有污名化、去人化和暴力的實質性後果，身份在前語言（"孤獨譜系障礙者"）反映自我倡權者自主權，人稱在前語言（"有孤獨症的人"）驅動"人與孤獨症可分離"的危險隱喻
+aliases: ["Botha(2023)"]
 aliases:
   - Does Language Matter? Identity-First Versus Person-First Language Use in Autism Research
   - BothaHanlonWilliams2023

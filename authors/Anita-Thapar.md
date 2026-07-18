@@ -3,6 +3,7 @@ title: Anita Thapar
 description: Anita Thapar 是卡迪夫大學醫學院榮譽教授（MBBCh PhD, FMedSci, FLSW, CBE），臨牀科學家，Rutter's Child and Adolescent Psychiatry 聯合主編，曾任 NHS England ADHD 工作組主席與威爾士政府神經多樣性部長諮詢組聯合主席，ADHD 與神經發育障礙遺傳流行病學權威
 aliases: [Anita Thapar, Thapar]
 tags: [author, adhd, neurodiversity, child-psychiatry, policy]
+sources: ["2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf"]
 created: 2026-05-09
 updated: 2026-06-24
 zh-hans: [[wiki/authors/Anita-Thapar]]

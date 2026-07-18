@@ -1,7 +1,7 @@
 ---
 title: Dekker (2023) - 對"神經多樣性"術語起源的更正
 description: Martijn Dekker 於 2023 年發佈的博客文章，撤回此前對 Judy Singer 爲術語創造者的認可，並公佈 Tony Langdon 1996 年 10 月在 InLv 中使用"neurological diversity"的檔案證據——這是已知最早的完整表述
-aliases: [A correction on the origin of the term neurodiversity, Dekker 2023]
+aliases: ["Dekker(2023)", A correction on the origin of the term neurodiversity, Dekker 2023]
 tags: [work, neurodiversity, autism, historical]
 sources: [2026-07-12/Dekker2023-NeurodiversityOrigin.md]
 created: 2026-07-12

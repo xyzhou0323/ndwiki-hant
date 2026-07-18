@@ -1,7 +1,7 @@
 ---
 title: Aiston et al. (2025) - 基於話語的孤獨譜系專注興趣研究路徑
 description: Aiston、Koteyko 與 van Driel (2025) 在 Applied Linguistics 發表立場論文，首次將信息大放送（info-dumping）和興趣爲本社交系統引入應用語言學——論證未來研究須以參與式、神經多樣性肯定的方式通過話語分析理解和改善孤獨譜系溝通
-aliases: [Aiston et al. (2025), AistonKoteykoVanDriel2025]
+aliases: ["Aiston(2025)", Aiston et al. (2025), AistonKoteykoVanDriel2025]
 tags: [work, autism, neurodiversity, communication, methodology, applied]
 citation_apa: "Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. Applied Linguistics, amaf006. https://doi.org/10.1093/applin/amaf006"
 sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]

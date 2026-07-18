@@ -1,7 +1,7 @@
 ---
 title: Broderick & Ne'eman (2008) - 孤獨症作爲隱喻：敘事與反敘事
 description: Broderick & Ne'eman 運用 Foucault 框架分析孤獨症話語中的隱喻鬥爭——疾病隱喻（主流敘事）vs. 神經多樣性（反敘事），論證反敘事對文化批判與意識形態抵抗的作用
-aliases: [Autism as metaphor: narrative and counter-narrative, Broderick & Ne'eman 2008, BroderickNeeman2008, 孤獨症作爲隱喻]
+aliases: ["Broderick(2008)", "Autism as metaphor: narrative and counter-narrative", Broderick & Ne'eman 2008, BroderickNeeman2008, 孤獨症作爲隱喻]
 tags: [work, neurodiversity, autism, discourse, foundational]
 sources: [2026-05-09/Autism as metaphor narrative and counter-narrative (Broderick, Alicia A. Neeman, Ari).pdf]
 created: 2026-05-10

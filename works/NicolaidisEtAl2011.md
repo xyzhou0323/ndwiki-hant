@@ -1,6 +1,7 @@
 ---
 title: Nicolaidis et al. (2011) - 非傳統CBPR合作策略：與孤獨譜系自我倡權者的學術-社羣合作經驗
 description: AASPIRE 創始論文——首次系統記錄如何將社區參與式研究（CBPR）方法適配於孤獨譜系自我倡權者社羣，包括遠程文本協作、五項共識法、結構化郵件格式等關鍵策略
+aliases: ["Nicolaidis(2011)"]
 aliases:
   - Nicolaidis 2011
   - AASPIRE CBPR

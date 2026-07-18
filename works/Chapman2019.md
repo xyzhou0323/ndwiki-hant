@@ -1,7 +1,7 @@
 ---
 title: Chapman (2019) - 作爲生命形式的孤獨譜系：維特根斯坦與孤獨譜系的心理連貫性
 description: Robert Chapman 以維特根斯坦式"生活形式"重構孤獨譜系心智，同時超越神經認知主義的缺陷框架和 Hobson 的關係性框架，論證雙向同理心問題可由相互方面盲解釋，過度系統化是對前認知焦慮的非常人性化反應而非靜態認知差異
-aliases: [Chapman2019, Autism as a Form of Life: Wittgenstein and the Psychological Coherence of Autism]
+aliases: ["Chapman(2019)", Chapman2019, "Autism as a Form of Life: Wittgenstein and the Psychological Coherence of Autism"]
 tags: [work, paper, autism, Wittgenstein, form-of-life, philosophy, cognition, double-empathy, systemising, neurodiversity]
 sources: [papers/Chapman2019-AutismAsAFormOfLife.md]
 created: 2026-07-15

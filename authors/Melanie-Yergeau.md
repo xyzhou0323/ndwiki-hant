@@ -3,6 +3,7 @@ title: Melanie Yergeau
 description: "Melanie Yergeau 是密歇根大學英語語言文學系副教授，孤獨譜系修辭學者，《Authoring Autism: On Rhetoric and Neurological Queerness》(2018) 作者，其工作融合了修辭理論、殘障研究與神經多樣性批判"
 aliases: [Melanie Yergeau, Yergeau]
 tags: [author, autism, neurodiversity, rhetoric, neuroqueer]
+sources: ["2026-06-16/APA PsycNet 全文 HTML 頁面 --- APA PsycNet FullTextHTML page.md"]
 created: 2026-06-16
 updated: 2026-06-16
 zh-hans: [[wiki/authors/Melanie-Yergeau]]

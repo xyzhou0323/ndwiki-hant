@@ -3,6 +3,7 @@ title: Mirela Zaneva
 description: Mirela Zaneva 是牛津大學實驗心理學家，FORRT 神經多樣性團隊成員，Zaneva et al.（2024）神經多樣性導論注讀清單的通訊作者，致力於開放科學與參與式研究方法
 aliases: [Mirela-Zaneva, Zaneva]
 tags: [author, neurodiversity]
+sources: ["2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md"]
 created: 2026-06-10
 updated: 2026-06-10
 zh-hans: [[wiki/authors/Mirela-Zaneva]]

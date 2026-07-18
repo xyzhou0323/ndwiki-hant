@@ -1,7 +1,7 @@
 ---
 title: Arnaud & Gibson (2025) - 神經多樣性、身份與實體抽象
 description: Arnaud 與 Gibson 提出 ND 運動的核心訴求（去病理化）應理解爲拒絕"實體抽象原則"（HAP）——將孤獨譜系從"一個人擁有的可剝離之物"重新概念化爲"一個人之所是"；區分孤獨譜系身份的兩個層次（前反思體驗結構與政治/社會認同），並論證由此觀之，四類批評均未觸及運動實質
-aliases: [ArnaudGibson2025, 神經多樣性與實體抽象, Neurodiversity identity and hypostatic abstraction]
+aliases: ["Arnaud(2025)", ArnaudGibson2025, 神經多樣性與實體抽象, Neurodiversity identity and hypostatic abstraction]
 tags: [work, neurodiversity, autism, foundational, methodology]
 sources: [2026-05-09/Arnaud和Gibson - Neurodiversity, identity, and hypostatic abstraction.pdf]
 created: 2026-05-09

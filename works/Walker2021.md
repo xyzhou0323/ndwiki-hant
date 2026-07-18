@@ -1,7 +1,7 @@
 ---
 title: Walker (2021) - 神經酷兒異端
 description: Nick Walker (2021) 的文集——神經多樣性範式、孤獨譜系賦權與後常態可能性的筆記，收錄了影響深遠的2014年術語定義及"神經酷兒"概念的首次提出
-aliases: [Neuroqueer Heresies, 神經酷兒異端, Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities]
+aliases: ["Walker(2021)", Neuroqueer Heresies, 神經酷兒異端, "Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities"]
 tags: [work, neurodiversity, autism, foundational]
 sources: [2026-05-07/神經酷兒-Neuroqueer Heresies (Nick Walker).epub]
 created: 2026-05-07

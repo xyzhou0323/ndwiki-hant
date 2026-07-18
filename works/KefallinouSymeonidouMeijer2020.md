@@ -1,7 +1,7 @@
 ---
 title: Kefallinou, Symeonidou & Meijer (2020) - 理解融合教育的價值與實施：文獻綜述
 description: Kefallinou 等發表於 Prospects 的綜述——梳理融合教育對學生學業成就、社會融合和長期發展的積極影響，識別學校變革、課堂實踐和社區參與三層面的成功實施策略
-aliases: [Kefallinou Symeonidou Meijer 2020, KefallinouSymeonidouMeijer2020]
+aliases: ["Kefallinou(2020)", Kefallinou Symeonidou Meijer 2020, KefallinouSymeonidouMeijer2020]
 tags: [work, education, disability]
 sources: [2026-05-12/Kefallinou_Symeonidou_Meijer_2020.pdf]
 doi: 10.1007/s11125-020-09500-2

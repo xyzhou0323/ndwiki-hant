@@ -1,7 +1,7 @@
 ---
 title: de Hooge (2019)
 description: "Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity — 以情境知識認識論系統分析阿斯至上主義意識形態，揭示其與白人男性氣質、經濟價值論和 Lyotard 後現代主義的深層關聯"
-aliases: [de Hooge (2019), Binary Boys, deHooge2019]
+aliases: ["de Hooge(2019)", de Hooge (2019), Binary Boys, deHooge2019]
 tags: [work, autism, critique, intersectionality]
 citation_apa: "de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. Disability Studies Quarterly, 39(1). https://doi.org/10.18061/dsq.v39i1.6461"
 sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]

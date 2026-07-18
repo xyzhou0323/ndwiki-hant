@@ -1,6 +1,7 @@
 ---
 title: Raymaker et al. (2020) - 孤獨譜系耗竭的學術定義
 description: 首篇對"孤獨譜系耗竭"進行學術定義的論文——以社羣參與式研究方法（CBPR），基於19位孤獨譜系成人的深度訪談，提煉出耗竭的特徵、觸發因素、恢復障礙與恢復路徑
+aliases: ["Raymaker(2020)"]
 aliases:
   - Raymaker 2020
   - Raymaker et al. 2020

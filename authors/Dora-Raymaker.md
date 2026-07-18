@@ -3,6 +3,7 @@ title: Dora Raymaker
 description: Dora Raymaker 是波特蘭州立大學社會服務學院區域人類服務研究所（RRI）研究副教授，AASPIRE 聯合創始主任，以 CBPR 方法論的先驅性應用和孤獨譜系耗竭概念的學術化推動而聞名
 aliases: [Dora Raymaker, Dora M. Raymaker, Raymaker]
 tags: [author, autism, neurodiversity, disability, methodology]
+sources: ["2026-05-14/raymaker-et-al-2020-having-all-of-your-internal-resources-exhausted-beyond-measure-and-being-left-with-no-clean-up-crew.pdf"]
 created: 2026-05-14
 updated: 2026-06-24
 zh-hans: [[wiki/authors/Dora-Raymaker]]

@@ -2,6 +2,7 @@
 title: Lao & Zhu (2024) - Autism 及相關術語的概念更迭和感知研究綜述
 description: 劉宇翀和朱繪霖從語言建構角度系統綜述了孤獨症概念在中西語境中的演變，分析了中文孤獨症術語的翻譯、污名化與本土化重塑過程，並基於神經多樣性視角、殘障社會模型和聯合國殘障包容傳播指南提出了中文語境下的術語使用建議
 aliases:
+  - Lao(2024)
   - A review of conceptual changes and perception studies of autism and related terminologies
   - LaoZhu2024
   - 劉宇翀朱繪霖2024

@@ -1,7 +1,7 @@
 ---
 title: Srinivasan (2025) - 神經多樣性 2.0
 description: Hari Srinivasan 發表於 Research in Autism 的框架論文——整合殘障研究、社會正義與政策的跨學科洞見，提出"神經多樣性 2.0"框架，反對社會 vs 醫學、自主 vs 依賴、優勢 vs 缺陷的虛假二元，倡導從被動便利措施轉向主動系統設計
-aliases: [Srinivasan 2025, Neurodiversity 2.0, ND 2.0]
+aliases: ["Srinivasan(2025)", Srinivasan 2025, Neurodiversity 2.0, ND 2.0]
 tags: [work, neurodiversity, disability, foundational, framework]
 doi: 10.1016/j.reia.2025.202652
 created: 2026-05-08

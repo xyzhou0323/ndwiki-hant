@@ -3,6 +3,7 @@ title: Gemma Louise Williams
 description: Gemma Louise Williams 是布萊頓與薩塞克斯醫學院榮譽訪問講師，朴茨茅斯大學心理學講師，孤獨譜系自我倡權者，以關聯理論重新審視跨神經類型溝通和身份在前語言的堅定主張而聞名
 aliases: [Gemma L. Williams, Gemma Williams, Williams]
 tags: [author, neurodiversity, autism, language, linguistics]
+sources: ["2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md"]
 created: 2026-06-10
 updated: 2026-06-10
 zh-hans: [[wiki/authors/Gemma-Williams]]

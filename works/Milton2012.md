@@ -1,7 +1,7 @@
 ---
 title: Milton (2012) - 論孤獨譜系的本體論地位：雙向同理心問題
 description: Damian Milton 2012 年在 Disability & Society 發表的原初論文，首次在學術文獻中提出"雙向同理心問題"概念，批判心智理論缺陷說，將孤獨譜系的社交差異重新定義爲雙向的人際關係問題
-aliases: [Milton2012, Milton (2012), On the Ontological Status of Autism: the 'Double Empathy Problem', DEP原初論文, 雙向同理心問題原初論文]
+aliases: ["Milton(2012)", Milton2012, Milton (2012), "On the Ontological Status of Autism: the 'Double Empathy Problem'", DEP原初論文, 雙向同理心問題原初論文]
 tags: [work, neurodiversity, autism, foundational, critique]
 sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf]
 doi: 10.1080/09687599.2012.710008

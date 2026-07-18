@@ -1,7 +1,7 @@
 ---
 title: Barnes (2016) - 少數身體：一種殘障理論
 description: Barnes 提出以殘障權利運動的團結判斷規則爲基礎的社會建構論殘障定義，取消損傷/殘障區分，與肯定模型兼容
-aliases: [The Minority Body, Barnes 2016]
+aliases: ["Barnes(2016)", The Minority Body, Barnes 2016]
 tags: [work, disability]
 citation_apa: "Barnes, E. (2016). The Minority Body: A Theory of Disability. Oxford: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198732587.001.0001"
 sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md]

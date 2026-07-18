@@ -1,7 +1,7 @@
 ---
 title: Mandy (2025) - 如今，孤獨譜系究竟是什麼？
 description: Will Mandy 論證孤獨譜系診斷率70倍增長並非"大流行"也非過度診斷，而是晚期現代社會環境對神經殊異者的致殘效應
-aliases: [Mandy 2025, What is Autism Now?, 孤獨譜系診斷擴展, 超社交性時代]
+aliases: ["Mandy(2025)", Mandy 2025, What is Autism Now?, 孤獨譜系診斷擴展, 超社交性時代]
 tags: [work, neurodiversity, autism, political, capitalism]
 sources: [2026-05-07/Mandy2025-如今孤獨譜系究竟是什麼.md]
 doi: 10.5281/zenodo.17989621

@@ -3,6 +3,7 @@ title: Susan M. Rivera
 description: Susan M. Rivera 是發展認知神經科學研究者，Patrick Dwyer 的學術導師與合作者，在 Dwyer（2025）中擔任共同資深作者
 aliases: [Susan M Rivera, Susan M. Rivera, Susan-Rivera]
 tags: [person, researcher, autism, neurodiversity]
+sources: ["2026-07-12/DwyerEtAl2026.md"]
 created: 2026-05-08
 zh-hans: [[wiki/authors/Susan-M-Rivera]]
 needs-review: true

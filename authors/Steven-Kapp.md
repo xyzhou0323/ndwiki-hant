@@ -3,6 +3,7 @@ title: Steven Kapp
 description: Steven Kapp 是朴茨茅斯大學心理學院高級講師，發展心理學家，ASAN 前科學主任，Kapp 2020 主編——首部由運動內部 21 位關鍵領導者以第一人稱親述的神經多樣性運動全史，並實質性地影響了 DSM-5 孤獨譜系診斷標準的修訂
 aliases: [Steven Kapp, Steven K. Kapp, Kapp, 史蒂文·卡普]
 tags: [author, neurodiversity, autism, foundational]
+sources: ["2026-05-07/Autistic Community and the Neurodiversity Movement機翻雙語.pdf"]
 created: 2026-05-07
 updated: 2026-06-24
 zh-hans: [[wiki/authors/Steven-Kapp]]

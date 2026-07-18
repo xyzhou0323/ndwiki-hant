@@ -1,7 +1,7 @@
 ---
 title: Silberman (2015) - 神經部落
 description: 一部從18世紀前診斷時代到21世紀神經多樣性運動的孤獨譜系與神經多樣性全面歷史——塑造了公衆對神經多樣性的理解，獲2015年Samuel Johnson非虛構獎
-aliases: [NeuroTribes-神經部落, NeuroTribes, 神經部落, NeuroTribes: The Legacy of Autism and the Future of Neurodiversity]
+aliases: ["Silberman(2015)", NeuroTribes-神經部落, NeuroTribes, 神經部落, "NeuroTribes: The Legacy of Autism and the Future of Neurodiversity"]
 tags: [work, neurodiversity, autism, historical, foundational]
 sources: [2026-05-07/《神經部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman) (z-library.sk, 1lib.sk, z-lib.sk).epub]
 created: 2026-05-07

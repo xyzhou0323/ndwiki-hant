@@ -1,6 +1,7 @@
 ---
 title: Rosina & McCready (2026) - 作爲人格靈活性的僞裝
 description: Emil Eva Rosina 與 Elin McCready 拒絕將僞裝視爲隱藏孤獨譜系特質的傳統觀點，以 Burnett 的人格解析（persona resolution）和貝葉斯信號博弈建模孤獨譜系溝通，論證僞裝的核心是人格面具靈活性超出自身標準而"過多"——孤獨譜系者具有更高的社會真誠和話語真誠標準，使得神經典型式的角色差異在孤獨譜系者中感知爲不誠實和自我解體，進而解釋去僞裝/僞裝/社交退縮三分法及"被全世界煤氣燈操控"的體驗
+aliases: ["Rosina(2026)"]
 aliases:
   - RosinaMcCready2026
   - Masking as Persona Flexibility

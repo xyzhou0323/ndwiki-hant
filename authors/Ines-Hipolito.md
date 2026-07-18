@@ -3,6 +3,7 @@ title: Inês Hipólito
 description: Inês Hipólito 是心靈哲學與認知科學交叉學者，以生成主義框架論證孤獨譜系社會認知風格應被理解爲全人層面的"認知多樣性"而非次人格層面的"心智理論缺陷"
 aliases: [Inês Hipólito, Ines Hipolito]
 tags: [author, neurodiversity, autism, philosophy, cognitive-science]
+sources: ["2026-05-09/0051276.pdf"]
 created: 2026-05-09
 updated: 2026-05-09
 zh-hans: [[wiki/authors/Ines-Hipolito]]

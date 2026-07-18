@@ -1,7 +1,7 @@
 ---
 title: Ne'eman (2021) - 當殘障由行爲定義時，結果測量不應鼓勵“扮裝”
 description: Ari Ne'eman 在 AMA Journal of Ethics 發表的倫理學分析——以孤獨譜系爲案例，論證以消除診斷特質爲目標的結果測量存在嚴重倫理問題：扮裝的內化傷害、內在傷害標準的提出、舉證責任的反轉、CYBOCS-ASD 的具體批判
-aliases: [Ne'eman 2021, When Disability Is Defined by Behavior]
+aliases: ["Ne'eman(2021)", Ne'eman 2021, When Disability Is Defined by Behavior]
 tags: [work, neurodiversity, autism, ethics, applied]
 sources: [2026-05-09/nihms-1785456.pdf]
 created: 2026-05-09

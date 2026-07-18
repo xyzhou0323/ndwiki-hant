@@ -1,7 +1,7 @@
 ---
 title: Lao et al. (2024) - 中文孤獨症術語的社羣感知調查
 description: Lao 等人的實證研究通過 1016 名中文使用者的在線調查，測量了 13 個孤獨症相關術語的偏好、冒犯度和熟悉度，發現神經多樣性、譜系和孤獨症譜系障礙最受偏好，而閉娃、高/低功能和自閉症最不受偏好，不同身份羣體間及羣體內部均無統一態度
-aliases: [Lao et al. 2024, Unveiling the Perceptions of Autism-Related Chinese Language]
+aliases: ["Lao(2024)", Lao et al. 2024, Unveiling the Perceptions of Autism-Related Chinese Language]
 tags: [work, autism, neurodiversity, methodology]
 sources: []
 doi: 10.1089/aut.2024.0001

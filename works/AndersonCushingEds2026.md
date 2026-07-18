@@ -1,7 +1,7 @@
 ---
 title: Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學
 description: Jami L. Anderson 與 Simon Cushing 合編的哲學論文集，收錄 11 篇分析哲學傳統的論文，探討孤獨譜系在社會政治理論、倫理學、認識論、形而上學和法學等領域引發的問題——每篇論文至少有一位作者具備孤獨譜系直接個人經驗
-aliases: [Contemporary Philosophy of Autism, AndersonCushingEds2026, CPA 2026]
+aliases: ["Anderson(2026)", Contemporary Philosophy of Autism, AndersonCushingEds2026, CPA 2026]
 tags: [work, edited-volume, neurodiversity, autism, philosophy]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

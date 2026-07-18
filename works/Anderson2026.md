@@ -1,7 +1,7 @@
 ---
 title: Anderson (2026) - 大象與犰狳：反孤獨譜系意識形態形成反孤獨譜系世界
 description: Jami L. Anderson 追溯應用行爲分析（ABA）意識形態從 Løvaas 到當代 EIBI 的譜系——論證 ABA 行業通過妖魔化孤獨譜系兒童、傳播反孤獨譜系敘事（糞便塗抹、暴力自傷、調節行爲污名化），積極構建了它聲稱要保護孤獨譜系兒童免受的反孤獨譜系世界；最終追溯至 JRC 電擊裝置（GED）的法律鬥爭，並以 RFK Jr. 2025 年的言論說明同一反孤獨譜系修辭至今仍在循環
-aliases: [Anderson2026, Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World]
+aliases: ["Anderson(2026)", Anderson2026, "Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World"]
 tags: [work, chapter, autism, ABA, ideology, Løvaas, EIBI, ableism, GED, JRC, critique]
 sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
 created: 2026-07-14

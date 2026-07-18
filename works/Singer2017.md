@@ -1,7 +1,7 @@
 ---
 title: Singer (2017) - 神經多樣性的誕生
 description: Judy Singer 於 2017 年自出版的著作，將其 1998 年 Honours 論文擴展再版——旨在確立 Singer 作爲"神經多樣性"一詞創造者的歷史地位，但 Botha 等（2024）的檔案研究已將其角色修正爲"最早學術使用者之一"
-aliases: [NeuroDiversity: The Birth of an Idea, Singer 2017]
+aliases: ["Singer(2017)", "NeuroDiversity: The Birth of an Idea", Singer 2017]
 tags: [work, neurodiversity, autism, historical]
 sources: [2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md]
 created: 2026-05-07

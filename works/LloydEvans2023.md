@@ -1,10 +1,10 @@
 ---
 title: Lloyd-Evans (2023) - 參與式行動研究工具包
 description: University of Reading 開發的 PAR 工具包——基於社羣研究者和學者的生活經驗，提出 PAR 八階段流程和 PAR 車輪 A-Z 詞彙表，CC BY-NC-SA 4.0 許可
-aliases: [Lloyd-Evans (2023), PAR Toolkit, Participatory Action Research Toolkit, 參與式行動研究工具包]
+aliases: ["Lloyd-Evans(2023)", Lloyd-Evans (2023), PAR Toolkit, Participatory Action Research Toolkit, 參與式行動研究工具包]
 tags: [work, PAR, participatory-research, methodology, toolkit, social-justice]
 authors: [Sally Lloyd-Evans]
-source: sources/2026-05-21/PAR-Toolkit-v10.pdf
+sources: [2026-05-21/PAR-Toolkit-v10.pdf]
 citation_apa: "Lloyd-Evans, S., Oenga, E., & the Whitley Researchers Core Group. (2023). *Participatory action research: A toolkit*. University of Reading."
 created: 2026-05-21
 updated: 2026-05-21

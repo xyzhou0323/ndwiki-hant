@@ -1,6 +1,7 @@
 ---
 title: Chapman & Carel (2022) — 神經多樣性、知識不正義與美好人生
 description: Chapman & Carel (2022) 將 Fricker 的知識不正義框架應用於孤獨譜系，論證證言不正義和詮釋不正義如何交叉鎖定爲 catch-22，系統性抹除孤獨譜系者繁榮的可能性
+aliases: ["Chapman(2022)"]
 aliases:
   - ChapmanCarel2022
   - Neurodiversity

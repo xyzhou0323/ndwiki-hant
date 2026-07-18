@@ -1,7 +1,7 @@
 ---
 title: Sonuga-Barke (2023) - 範式"翻轉"以重振轉化科學
 description: JCPP 主編 Sonuga-Barke 的社論——論證神經多樣性視角的本體論假設可從意識形態主張中分離，提出從"障礙範式"到"分歧範式"的範式翻轉，以"個人成長弧"重新定義干預目標，以 RE-STAR 青年研究者小組（Y-RP）作爲參與式研究典範
-aliases: [Paradigm flipping to reinvigorate translational science, SonugaBarke2023]
+aliases: ["Sonuga-Barke(2023)", Paradigm flipping to reinvigorate translational science, SonugaBarke2023]
 tags: [work, neurodiversity, ADHD, translational-science, paradigm, participatory-research]
 created: 2026-06-10
 updated: 2026-06-10

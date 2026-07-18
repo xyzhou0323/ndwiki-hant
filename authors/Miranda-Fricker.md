@@ -3,6 +3,7 @@ title: Miranda Fricker
 description: Miranda Fricker 是英國哲學家，紐約大學哲學系 Julius Silver 教授、紐約哲學研究所聯合主任，以提出"知識不正義"（Epistemic Injustice）分析框架著稱，英國國家學術院及美國藝術與科學院院士
 aliases: [Miranda Fricker]
 tags: [author, philosophy, epistemology, feminism]
+sources: ["2026-07-06/Fricker2017-EvolvingConceptsEpistemicInjustice.md"]
 created: 2026-07-06
 updated: 2026-07-06
 zh-hans: [[wiki/authors/Miranda-Fricker]]

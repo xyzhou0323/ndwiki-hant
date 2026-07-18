@@ -1,7 +1,7 @@
 ---
 title: Cheng et al. (2023) - 神經多樣性與社區主導的權利運動：全球研究合作的障礙與機遇
 description: Cheng、Tekola、Balasubramanian、Crane 與 Leadbitter 在 Autism 期刊發表的社論，指出神經多樣性運動的西方中心性，以埃塞俄比亞、印度和香港爲例分析全球南方社區的獨特社會文化條件，呼籲避免將 ND 框架不加批判地移植至非歐美語境，倡導多向知識交流與本土化權利運動
-aliases: [ChengEtAl2023, Neurodiversity global research partnerships, ND運動全球南方]
+aliases: ["Cheng(2023)", ChengEtAl2023, Neurodiversity global research partnerships, ND運動全球南方]
 tags: [work, neurodiversity, autism, political, intersectionality, methodology]
 sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf, 2026-06-10/full.md]
 created: 2026-05-09

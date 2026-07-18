@@ -3,6 +3,7 @@ title: Frith (2026) - 爲什麼我不再認爲孤獨譜系是一個譜系
 description: Uta Frith 在 2026 年 3 月 TES 雜誌的訪談——孤獨譜系研究奠基人公開主張"譜系已崩潰"，挑戰掩飾概念和感官便利措施的科學基礎
 aliases: [Uta Frith 2026 interview, Frith 2026]
 tags: [work, autism, critique]
+aliases: ["Frith(2026)"]
 sources: [articles/Uta Frith why I no longer think autism is a spectrum.md]
 created: 2026-05-10
 updated: 2026-05-10

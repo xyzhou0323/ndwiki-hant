@@ -1,7 +1,7 @@
 ---
 title: Constantino (2018) - 口吃者能從神經多樣性運動中學到什麼？
 description: 將神經多樣性範式應用於口吃領域——涵蓋運動歷史與定義、殘障模型對比、干預與治癒的爭議、身份優先語言，附神經多樣性肯定式口吃治療的案例展示
-aliases: [What Can Stutterers Learn from the Neurodiversity Movement?, Constantino2018]
+aliases: ["Constantino(2018)", What Can Stutterers Learn from the Neurodiversity Movement?, Constantino2018]
 tags: [work, neurodiversity, applied, foundational]
 sources: [2026-06-10/Constantino2018-What-Can-Stutterers-Learn-from-the-Neurodiversity-Movement.md]
 created: 2026-06-10
