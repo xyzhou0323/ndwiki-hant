@@ -12,7 +12,7 @@ needs-review: true
 
 # Nick Walker
 
-Nick Walker 是美國學者、作家和神經多樣性活動家，California Institute of Integral Studies 博士。她是神經多樣性範式的理論家之一——其2014年術語定義（*Neurodiversity: Some Basic Terms & Definitions*）爲整個神經多樣性話語體系提供了概念骨架。
+Nick Walker 是美國學者、作家和神經多樣性行動者，California Institute of Integral Studies 博士。她是神經多樣性範式的理論家之一——其2014年術語定義（*Neurodiversity: Some Basic Terms & Definitions*）爲整個神經多樣性話語體系提供了概念骨架。
 
 ## 相關研究
 

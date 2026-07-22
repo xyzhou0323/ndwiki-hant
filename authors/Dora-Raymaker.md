@@ -66,7 +66,7 @@ Raymaker 是**神經殊異自己的聲音**（neurodivergent own voices）科幻
 
 ## 學術脈絡
 
-Raymaker 的工作嵌於由孤獨譜系學者-活動家推動的研究範式中：
+Raymaker 的工作嵌於由孤獨譜系學者-行動者推動的研究範式中：
 
 - 與 **Christina Nicolaidis** 的長期合作——AASPIRE 的日常共同運營：所有決定共享、所有材料共同創建
 - 與 **[[Steven-Kapp]]** 的合作——Raymaker 2020 的合著者

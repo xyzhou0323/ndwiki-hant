@@ -24,7 +24,7 @@ needs-review: true
 
 ## 核心論點
 
-這封由國際孤獨譜系學者聯名發表的學術通訊，糾正了一個已流傳甚廣但**錯誤且有害**的敘事：神經多樣性概念並非由 Judy Singer 一人創造，而是由**孤獨譜系活動家社羣在1990年代中期集體理論化和發展**的。
+這封由國際孤獨譜系學者聯名發表的學術通訊，糾正了一個已流傳甚廣但**錯誤且有害**的敘事：神經多樣性概念並非由 Judy Singer 一人創造，而是由**孤獨譜系行動者社羣在1990年代中期集體理論化和發展**的。
 
 ## 被修正的主流敘事
 
@@ -63,8 +63,8 @@ needs-review: true
 ## 更早的運動起源
 
 - **1992年**：國際孤獨譜系網絡（Autism Network International, ANI）成立
-- **[[Jim-Sinclair]]**（酷兒雙性人活動家）：1993年撰寫具有奠基意義的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述爲"神經多樣性運動的試金石"
-- **Ed Roberts、Judy Heumann、Anita Cameron**（孤獨譜系者）等人的跨殘障倡導工作爲神經多樣性理論奠定了基礎
+- **[[Jim-Sinclair]]**（酷兒行動者）：1993年撰寫具有奠基意義的 [[Sinclair1993|"Don't Mourn for Us"]]，被描述爲"神經多樣性運動的奠基石"
+- **Ed Roberts、Judy Heumann、Anita Cameron**（孤獨譜系者）等人的跨殘障倡權工作爲神經多樣性理論奠定了基礎
 - **Kassiane Asasuasu**：2000年創造"[[神經殊異|neurodivergent]]"和"neurodivergence"兩個術語
 
 ## 爲什麼這很重要

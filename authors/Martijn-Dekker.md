@@ -12,7 +12,7 @@ needs-review: true
 
 # Martijn Dekker
 
-Martijn "McDutchie" Dekker 是荷蘭裔孤獨譜系活動家，InLv（Independent Living Listserv）的創始人。InLv 於 1996 年創建，是早期互聯網上最重要的孤獨譜系自我倡權在線論壇之一——集結了最早一批在線組織起來的孤獨譜系自我倡權者，成爲神經多樣性概念**集體誕生**的核心場域。
+Martijn "McDutchie" Dekker 是荷蘭裔孤獨譜系行動者，InLv（Independent Living Listserv）的創始人。InLv 於 1996 年創建，是早期互聯網上最重要的孤獨譜系自我倡權在線論壇之一——集結了最早一批在線組織起來的孤獨譜系自我倡權者，成爲神經多樣性概念**集體誕生**的核心場域。
 
 ## 貢獻
 

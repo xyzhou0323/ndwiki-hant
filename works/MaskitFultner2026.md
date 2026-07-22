@@ -1,9 +1,23 @@
 ---
 title: Maskit & Fultner (2026) - 摒棄應用行爲分析
-description: Dani Maskit（孤獨譜系活動家）與 Barbara Fultner（女性主義哲學家）跨神經類型合作，提出反 ABA 宣言——論證 ABA 的行爲主義基礎與神經多樣性範式在原則上不相容，將回避眼神接觸、調節行爲和僞裝重新定義爲文化標誌而非適應不良行爲，指控 ABA 構成文化滅絕；以生物社會模型、吉布森生態心理學和維特根斯坦式"生活形式"概念替代行爲主義和神經認知主義框架
-aliases: ["Maskit(2026)", MaskitFultner2026, "Ain't Misbehavin': Scrapping Applied Behavior Analysis"]
-tags: [work, chapter, autism, ABA, neurodiversity, cultural-genocide, critique, behaviorism, double-empathy, ecological-psychology]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+description: Dani Maskit（孤獨譜系行動者）與 Barbara Fultner（女性主義哲學家）跨神經類型合作，提出反 ABA 宣言——論證 ABA 的行爲主義基礎與神經多樣性範式在原則上不相容，將回避眼神接觸、調節行爲和僞裝重新定義爲文化標誌而非適應不良行爲，指控 ABA 構成文化滅絕；以生物社會模型、吉布森生態心理學和維特根斯坦式"生活形式"概念替代行爲主義和神經認知主義框架
+aliases:
+  - Maskit(2026)
+  - MaskitFultner2026
+  - "Ain't Misbehavin': Scrapping Applied Behavior Analysis"
+tags:
+  - work
+  - chapter
+  - autism
+  - ABA
+  - neurodiversity
+  - cultural-genocide
+  - critique
+  - behaviorism
+  - double-empathy
+  - ecological-psychology
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
 updated: 2026-07-14
 citation_apa: "Maskit, D., & Fultner, B. (2026). Ain't misbehavin': Scrapping applied behavior analysis. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 144–167). Routledge."
@@ -15,7 +29,7 @@ needs-review: true
 
 引用：Maskit, D., & Fultner, B. (2026). Ain't misbehavin': Scrapping applied behavior analysis. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 144–167). Routledge.
 
-**作者**：[[Dani-Maskit|Dani Maskit]]（孤獨譜系活動家、創意技術專家）、[[Barbara-Fultner|Barbara Fultner]]（Denison University 哲學與女性及性別研究教授）
+**作者**：[[Dani-Maskit|Dani Maskit]]（孤獨譜系行動者、創意技術專家）、[[Barbara-Fultner|Barbara Fultner]]（Denison University 哲學與女性及性別研究教授）
 
 **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 8 章
 
@@ -23,7 +37,7 @@ needs-review: true
 
 ## 作者位置與合作形式
 
-本章是一次跨越神經多樣性的合作——Maskit 爲成年後確診的孤獨譜系活動家，Fultner 爲女性主義哲學家。兩人在尾聲（8.8）中反思了這次合著過程：選擇以統一筆調而非復調文本寫作，需要細緻對話——正是本章所倡導的那種跨越差異的對話。她們指出，"成功在生活中的許多神經殊異羣體取決於能否形成持久的共生關係——在這種關係中，弱點可以被視爲差異而非缺陷，優勢能夠以其自身價值被認可"。
+本章是一次跨越神經多樣性的合作——Maskit 爲成年後確診的孤獨譜系行動者，Fultner 爲女性主義哲學家。兩人在尾聲（8.8）中反思了這次合著過程：選擇以統一筆調而非復調文本寫作，需要細緻對話——正是本章所倡導的那種跨越差異的對話。她們指出，"成功在生活中的許多神經殊異羣體取決於能否形成持久的共生關係——在這種關係中，弱點可以被視爲差異而非缺陷，優勢能夠以其自身價值被認可"。
 
 ## 核心論證結構
 

@@ -1,9 +1,16 @@
 ---
 title: Sharon daVanport
-description: Sharon daVanport 是孤獨譜系活動家，2010 年創立孤獨譜系女性與非二元性別網絡（AWN），將交叉性女權主義系統引入神經多樣性運動，將性別化暴力作爲孤獨譜系自我倡權的核心議題
-aliases: [Sharon daVanport, Sharon-daVanport]
-tags: [person, activist, neurodiversity, feminism]
-sources: [2026-05-09/Kapp2020.md]
+description: Sharon daVanport 是孤獨譜系行動者，2010 年創立孤獨譜系女性與非二元性別網絡（AWN），將交叉性女權主義系統引入神經多樣性運動，將性別化暴力作爲孤獨譜系自我倡權的核心議題
+aliases:
+  - Sharon daVanport
+  - Sharon-daVanport
+tags:
+  - person
+  - activist
+  - neurodiversity
+  - feminism
+sources:
+  - 2026-05-09/Kapp2020.md
 created: 2026-05-08
 updated: 2026-06-16
 zh-hans: [[wiki/authors/Sharon-daVanport]]
@@ -12,7 +19,7 @@ needs-review: true
 
 # Sharon daVanport
 
-孤獨譜系活動家。2010 年創立**孤獨譜系女性與非二元性別網絡**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同時聯合創辦孤獨譜系有色人種網絡。
+孤獨譜系行動者。2010 年創立**孤獨譜系女性與非二元性別網絡**（Autistic Women & Nonbinary Network, [AWN](https://awnnetwork.org/)），同時聯合創辦孤獨譜系有色人種網絡。
 
 ## 相關活動
 
