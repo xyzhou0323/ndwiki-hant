@@ -5,7 +5,7 @@ aliases: [Steven Kapp, Steven K. Kapp, Kapp, 史蒂文·卡普]
 tags: [author, neurodiversity, autism, foundational]
 sources: ["2026-05-07/Autistic Community and the Neurodiversity Movement機翻雙語.pdf"]
 created: 2026-05-07
-updated: 2026-06-24
+updated: 2026-07-22
 zh-hans: [[wiki/authors/Steven-Kapp]]
 needs-review: true
 ---
@@ -90,6 +90,7 @@ Kapp 作爲 **ASAN 科學主任**（director of science），與 Ari Ne'eman 共
 - [[Kapp2020|Kapp (2020)]] — 主編著作
 - [[KappEtAl2012|Kapp et al. (2012)]] — 里程碑實證研究
 - [[BothaEtAl2024|Botha et al. (2024)]] — 術語起源修正（合著者）
+- [[RaymakerEtAl2026|Raymaker et al. (2026)]] — AASPIRE 孤獨譜系耗竭量表原始版（27題）的創建與首次心理測量驗證（合著者）
 
 ### 其他相關頁面
 

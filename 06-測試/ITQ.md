@@ -11,6 +11,8 @@ needs-review: true
 
 # ITQ 國際創傷問卷
 
+> **ITQ 系列**：[[ITQ|ITQ 標準版]] | [[ITQ#ITQ with Clinical Checks (ITQ-CC)|ITQ-CC 臨牀覈實版]] | [[ITQ-CA|ITQ-CA 兒童版]] | [[ITQ-CG|ITQ-CG 照護者版]]
+
 **ITQ**（International Trauma Questionnaire）是一份基於世界衛生組織 **ICD-11** 創傷相關診斷模型設計的自評問卷，用於評估**創傷後應激障礙**（PTSD）和**複合型創傷後應激障礙**（CPTSD）的症狀表現及功能損害。
 
 ITQ 能夠可靠區分 PTSD 單獨診斷與 CPTSD：僅 PTSD 分量表達閾值而不滿足 DSO 標準者爲 PTSD，兩個分量表均達閾值者爲 CPTSD。

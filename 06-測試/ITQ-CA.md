@@ -11,6 +11,8 @@ needs-review: true
 
 # ITQ-CA 創傷問卷兒童青少年版
 
+> **ITQ 系列**：[[ITQ|ITQ 標準版]] | [[ITQ#ITQ with Clinical Checks (ITQ-CC)|ITQ-CC 臨牀覈實版]] | [[ITQ-CA|ITQ-CA 兒童版]] | [[ITQ-CG|ITQ-CG 照護者版]]
+
 **ITQ-CA**（International Trauma Questionnaire – Child and Adolescent）是[[ITQ]]的兒童青少年版本，適用於7-17歲個體，基於 ICD-11 標準評估 **PTSD** 和 **CPTSD**。
 
 > **本站測試**：[ITQ-CA 創傷問卷兒童版](https://neuroxyz.cn/tests/itqca.html)

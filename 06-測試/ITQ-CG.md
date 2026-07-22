@@ -11,6 +11,8 @@ needs-review: true
 
 # ITQ-CG 國際創傷問卷照護者版
 
+> **ITQ 系列**：[[ITQ|ITQ 標準版]] | [[ITQ#ITQ with Clinical Checks (ITQ-CC)|ITQ-CC 臨牀覈實版]] | [[ITQ-CA|ITQ-CA 兒童版]] | [[ITQ-CG|ITQ-CG 照護者版]]
+
 **ITQ-CG**（International Trauma Questionnaire – Caregiver Version）是 [[ITQ]] 的照護者他評版本，適用於 7-17 歲兒童青少年，由家長或其他照護者根據對孩子的觀察填寫。與 [[ITQ-CA]]（兒童青少年自評版）不同，ITQ-CG 從照護者視角評估創傷相關症狀。
 
 > **本站測試**：[ITQ-CG 國際創傷問卷（照護者版）](https://neuroxyz.cn/tests/itqcg.html)
