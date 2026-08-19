@@ -1,12 +1,22 @@
 ---
 title: den Houting (2019) - 神經多樣性：內部人視角
 description: Jacquiline den Houting 以孤獨譜系研究者身份在 Autism 期刊發表的社論，系統澄清對 ND 運動的三種常見誤解，闡述社會模型在孤獨譜系中的應用，並首次將"neurodiversity lite"概念引入學術話語
-aliases: ["den Houting(2019)", denHouting2019, Neurodiversity An insider's perspective, ND內部人視角]
-tags: [work, neurodiversity, autism, foundational, methodology]
-sources: [2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf]
+aliases:
+  - den Houting(2019)
+  - denHouting2019
+  - Neurodiversity An insider's perspective
+  - ND內部人視角
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - methodology
+sources:
+  - 2026-05-09/Neurodiversity An insider's perspective (den Houting, Jacquiline) (z-library.sk, 1lib.sk, z-lib.sk).pdf
 doi: 10.1177/1362361318820762
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. https://doi.org/10.1177/1362361318820762"
 zh-hans: [[wiki/works/denHouting2019]]
 needs-review: true
@@ -14,20 +24,21 @@ needs-review: true
 
 # den Houting (2019) — 神經多樣性：內部人視角
 
+> [!infobox] den Houting (2019)
+> **作者**：[[Jacquiline-den-Houting]]
+> **出版年份**：2019
+> **類型**：期刊論文
+> **備註**：Jacquiline den Houting（麥考瑞大學），公開的孤獨譜系研究者；Editorial（社論）
+
 引用：den Houting, J. (2019). Neurodiversity: An insider's perspective. Autism, 23(2), 271-273. [https://doi.org/10.1177/1362361318820762](https://doi.org/10.1177/1362361318820762)
 
-
-**完整引用**：den Houting, J. (2019). Neurodiversity: An insider's perspective. *Autism*, 23(2), 271–273.
-
-**作者**：[[Jacquiline-den-Houting|Jacquiline den Houting]]（麥考瑞大學），公開的孤獨譜系研究者
-
-**類型**：Editorial（社論）
+den Houting (2019) 以孤獨譜系研究者身份在 *Autism* 期刊發表社論，系統澄清了對神經多樣性運動的三種常見誤解，闡述社會模型在孤獨譜系中的應用，並首次將"neurodiversity lite"概念引入學術話語。
 
 ## 定位
 
 本文是神經多樣性運動**最早的內部人視角學術陳述之一**——一位公開的孤獨譜系研究者，在孤獨譜系研究領域的旗艦期刊上，以第一人稱闡述 ND 範式的核心假設並澄清對其的常見誤解。文章篇幅短小（3 頁），但因其作者身份、發表平臺和系統性論證而成爲該領域引用率最高的基礎文獻之一。
 
-## 核心論證
+## 主要論證
 
 den Houting 以"作爲神經多樣性範式的倡導者，我歡迎知情且尊重的辯論"開篇，隨後指出她遇到的批評往往不是"細緻而複雜的批判"，而是**針對一個虛構的"神經多樣性"概念的誤解**。問題的加劇來自"neurodiversity lite"——使用運動語言卻不理解其基礎假設（Neumeier, 2018）。
 

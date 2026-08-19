@@ -1,16 +1,39 @@
 ---
 title: ASRS
 description: 成人 ADHD 自填篩查量表（ASRS, Adult ADHD Self-Report Scale）是基於 DSM-5-TR 標準的18題自評工具，由 Kessler et al. (2005) 開發並經 CFA 驗證三因素結構。需注意在低發生率人羣中該量表假陽性率極高，僅可作爲篩查而非診斷工具
-aliases: [ASRS, Adult ADHD Self-Report Scale, 成人ADHD自填量表, ASRS v1.1]
-tags: [test, adhd, neurodiversity]
-sources: [Kessler et al. 2005, Kessler et al. 2007, Adler et al. 2006, Adler et al. 2018, Stanton et al. 2018, Hines et al. 2012, Alarachi et al. 2024, Ustun et al. 2017, Chamberlain et al. 2021, UpToDate 2026]
+aliases:
+  - ASRS
+  - Adult ADHD Self-Report Scale
+  - 成人ADHD自填量表
+  - ASRS v1.1
+tags:
+  - test
+  - adhd
+  - neurodiversity
+sources:
+  - Kessler et al. 2005
+  - Kessler et al. 2007
+  - Adler et al. 2006
+  - Adler et al. 2018
+  - Stanton et al. 2018
+  - Hines et al. 2012
+  - Alarachi et al. 2024
+  - Ustun et al. 2017
+  - Chamberlain et al. 2021
+  - UpToDate 2026
 created: 2026-05-11
-updated: 2026-05-18
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/ASRS]]
 needs-review: true
 ---
 
 # ASRS
+
+> [!infobox] ASRS
+> **測量對象**：成年人的 ADHD 特徵（與 DSM-5-TR 標準一致）
+> **題數**：18 題（Part A 6 題 + Part B 12 題）
+> **適用年齡**：成年人（18 歲以上）
+> **開發者**：Kessler et al. (2005)
 
 **ASRS**（Adult ADHD Self-Report Scale, v1.1）是一份18題自填問卷，用於評估成年人（18+）的[[ADHD]] 特徵。量表基於 WHO 複合性國際診斷訪談（CIDI, 2001），題目與 DSM-IV 及 DSM-5-TR 標準一致，措辭專爲反映成人的特徵表現而設計（Kessler et al., 2005）。
 

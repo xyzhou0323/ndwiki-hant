@@ -1,11 +1,25 @@
 ---
 title: Garcia (2026) - 第二人稱視角下的孤獨譜系
 description: Francisco García 以孤獨譜系者身份寫作，挑戰心理理論（ToM）模型及其認知主義預設，捍衛第二人稱視角（SPP）作爲社會認知的基本機制，結合弱中央統合假說將孤獨譜系重構爲替代性認知風格而非缺陷，並提出"改變環境，而非改變個體"的外部主義認知腳手架治療路徑
-aliases: ["García(2026)", Garcia2026, Autism from the Second Person Perspective]
-tags: [work, chapter, autism, philosophy, cognition, 4E-cognition, second-person-perspective, theory-of-mind, cognitive-style, externalism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - García(2026)
+  - Garcia2026
+  - Autism from the Second Person Perspective
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - cognition
+  - 4E-cognition
+  - second-person-perspective
+  - theory-of-mind
+  - cognitive-style
+  - externalism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "García, F. (2026). Autism from the second person perspective. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 67–78). Routledge."
 zh-hans: [[wiki/works/Garcia2026]]
 needs-review: true
@@ -13,17 +27,19 @@ needs-review: true
 
 # Garcia (2026) — 第二人稱視角下的孤獨譜系
 
+> [!infobox] García (2026)
+> **作者**：[[Francisco-Garcia|Francisco García]]（University of Buenos Aires 研究生，研究後認知主義心靈哲學、4E 認知、語義規範性、社會認識論）
+> **出版年份**：2026
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 4 章
+> **類型**：書章
+
 引用：García, F. (2026). Autism from the second person perspective. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 67–78). Routledge.
 
-**作者**：[[Francisco-Garcia|Francisco García]]（University of Buenos Aires 研究生，研究後認知主義心靈哲學、4E 認知、語義規範性、社會認識論）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 4 章
-
-**類型**：論文集章節
+Francisco García 以孤獨譜系者身份寫作，挑戰心理理論（ToM）模型及其認知主義預設，捍衛第二人稱視角作爲社會認知的基本機制，並將孤獨譜系重構爲替代性認知風格而非缺陷。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 García 以孤獨譜系者的親身經歷驅動哲學論證——他在學習社會認知的哲學課程中首次接觸自己的狀況，被告知"孤獨譜系個體缺乏心理理論"，他的本能反應是"這肯定不對"：
 

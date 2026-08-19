@@ -1,11 +1,23 @@
 ---
 title: Kraemer & Kraemer (2026) - 重新審視知識：孤獨譜系社羣中的感官與社會挑戰
 description: Eric Kraemer（認識論學者）與 Ira Kraemer（孤獨譜系者）合作，梳理孤獨譜系感覺超敏的研究證據，論證感官煤氣燈效應如何系統性地剝奪孤獨譜系者通過親知知識獲取真實信念的能力，並逐一檢視基礎主義、融貫論、可靠主義、德性知識論、社會認識論和立場認識論在面對孤獨譜系認知者時需做出的修正——結論是更全面瞭解孤獨譜系羣體的感覺生活不僅能增強其作爲知識生產者的能力，還能增加社會對世界的整體知識儲備
-aliases: ["Kraemer(2026)", KraemerKraemer2026, Re-Examining Knowledge]
-tags: [work, chapter, autism, epistemology, sensory, standpoint-epistemology, gaslighting, ABA]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Kraemer(2026)
+  - KraemerKraemer2026
+  - Re-Examining Knowledge
+tags:
+  - work
+  - chapter
+  - autism
+  - epistemology
+  - sensory
+  - standpoint-epistemology
+  - gaslighting
+  - ABA
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Kraemer, E., & Kraemer, I. (2026). Re-examining knowledge: Sensory and social challenges in the autistic community. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 185–205). Routledge."
 zh-hans: [[wiki/works/KraemerKraemer2026]]
 needs-review: true
@@ -13,17 +25,19 @@ needs-review: true
 
 # Kraemer & Kraemer (2026) — 重新審視知識：孤獨譜系社羣中的感官與社會挑戰
 
+> [!infobox] Kraemer (2026)
+> **作者**：[[Eric-Kraemer|Eric Kraemer]]（University of Wisconsin-La Crosse，認識論專業哲學家）、[[Ira-Kraemer|Ira Kraemer]]（自我認同爲孤獨譜系者，對感覺超敏極爲熟悉）
+> **出版年份**：2026
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 10 章
+> **類型**：書章
+
 引用：Kraemer, E., & Kraemer, I. (2026). Re-examining knowledge: Sensory and social challenges in the autistic community. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 185–205). Routledge.
 
-**作者**：[[Eric-Kraemer|Eric Kraemer]]（University of Wisconsin-La Crosse，認識論專業哲學家）、[[Ira-Kraemer|Ira Kraemer]]（自我認同爲孤獨譜系者，對感覺超敏極爲熟悉）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 10 章
-
-**類型**：論文集章節
+Eric Kraemer 與 Ira Kraemer 合作論證感官煤氣燈效應如何系統性地剝奪孤獨譜系者通過親知知識獲取真實信念的能力，並逐一檢視各大認識論理論在面對孤獨譜系認知者時需做出的修正。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 Eric Kraemer（認識論專業哲學家）與 Ira Kraemer（孤獨譜系者）合作論證：
 

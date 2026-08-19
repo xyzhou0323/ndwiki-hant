@@ -1,15 +1,31 @@
 ---
 title: RBQ-2A
 description: 成人重複行爲問卷（RBQ-2A, Repetitive Behaviour Questionnaire 2 – Adult）是一份自填工具，用於評估成年人的重複感覺運動行爲與堅持同一性特徵
-aliases: [RBQ-2A, RBQ-2A 成人重複行爲, 成人重複行爲]
-tags: [test, autism, repetitive-behavior, neurodiversity]
+aliases:
+  - RBQ-2A
+  - RBQ-2A 成人重複行爲
+  - 成人重複行爲
+tags:
+  - test
+  - autism
+  - repetitive-behavior
+  - neurodiversity
+sources:
+  - Barrett et al. 2015
+  - Barrett et al. 2018
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/RBQ-2A]]
 needs-review: true
 ---
 
 # RBQ-2A 成人重複行爲
+
+> [!infobox] RBQ-2A 成人重複行爲
+> **測量對象**：成年人的重複感覺運動行爲與堅持同一性特徵
+> **題數**：20 題
+> **適用年齡**：18 歲及以上（智力平均水平或以上）
+> **開發者**：Barrett et al. (2015)
 
 **RBQ-2A**（Repetitive Behaviour Questionnaire 2 – Adult）是一份專門評估成年人重複行爲模式的自填工具。
 

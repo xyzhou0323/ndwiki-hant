@@ -1,19 +1,31 @@
 ---
 title: Kathryn A. Szechy
 description: Kathryn A. Szechy 是溫莎大學社會工作學院助理教授，首次將雙向同理心問題（DEP）實證檢驗應用於職場情境，發現孤獨譜系參與者解讀孤獨譜系員工行爲的準確率是非孤獨譜系者的 3.11 倍
-aliases: [Kathryn Szechy, Szechy]
-tags: [author, autism, neurodiversity, applied]
-sources: [2026-05-09/aut.2023.0046.pdf]
+aliases:
+  - Kathryn Szechy
+  - Szechy
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - applied
+sources:
+  - 2026-05-09/aut.2023.0046.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Kathryn-Szechy]]
 needs-review: true
 ---
 
 # Kathryn A. Szechy
 
-**身份**：社會工作學者，溫莎大學（University of Windsor）人文、藝術與社會科學學院社會工作學院助理教授
-**研究領域**：孤獨譜系成人就業、神經多樣性、雙向同理心問題、職場包容
+> [!infobox] Kathryn A. Szechy
+> **職業**：社會工作學者、助理教授
+> **機構**：溫莎大學（University of Windsor）人文、藝術與社會科學學院社會工作學院
+> **主要領域**：孤獨譜系成人就業、神經多樣性、雙向同理心問題、職場包容
+> **代表著作**：[[SzechyEtAl2024]]
+
+Kathryn A. Szechy 是溫莎大學社會工作學院助理教授，首次將雙向同理心問題（DEP）實證檢驗應用於職場情境，發現孤獨譜系參與者解讀孤獨譜系員工行爲的準確率是非孤獨譜系者的 3.11 倍。
 
 ## 主要貢獻
 

@@ -1,11 +1,21 @@
 ---
 title: Botha (2025) - 批判實在論、社區心理學與孤獨譜系：一種具有社會正義導向的科學哲學與實踐
 description: Monique Botha 論證批判實在論（Critical Realism）是社區心理學最適切的科學哲學基礎——超越實證主義與建構主義的二元對立，爲神經多樣性研究提供同時容納物質現實與反本質主義的哲學框架
-aliases: ["Botha(2025)", Botha 2025, Critical Realism Autism, Botha critical realism]
-tags: [work, neurodiversity, autism, methodology, critique]
-sources: [2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf]
+aliases:
+  - Botha(2025)
+  - Botha 2025
+  - Critical Realism Autism
+  - Botha critical realism
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - methodology
+  - critique
+sources:
+  - 2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 citation_apa: "Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. Journal of Community Psychology, 53, e22764. https://doi.org/10.1002/jcop.22764"
 authors:
   - Monique-Botha
@@ -15,12 +25,15 @@ needs-review: true
 
 # Botha (2025) — 批判實在論、社區心理學與孤獨譜系
 
+> [!infobox] Botha (2025)
+> **作者**：[[Monique-Botha]]
+> **出版年份**：2025
+> **備註**：2021 年 11 月接收
+> **許可**：CC BY 4.0 開放獲取
+
 引用：Botha, M. (2025). Critical realism, community psychology, and the curious case of autism: A philosophy and practice of science with social justice in mind. *Journal of Community Psychology*, *53*, e22764. [https://doi.org/10.1002/jcop.22764](https://doi.org/10.1002/jcop.22764)
 
-**作者**：[[Monique-Botha]]，University of Stirling 心理學系 / University of Surrey 心理學院
-**發表**：2021 年 11 月接收，2025 年於 *Journal of Community Psychology* 第 53 卷正式刊出
-**DOI**：[10.1002/jcop.22764](https://doi.org/10.1002/jcop.22764)
-**許可**：CC BY 4.0 開放獲取
+Botha (2025) 論證批判實在論（Critical Realism）是社區心理學最適切的科學哲學基礎——超越實證主義與建構主義的二元對立，爲神經多樣性研究提供同時容納物質現實與反本質主義的哲學框架。
 
 ## 背景
 
@@ -74,7 +87,7 @@ Botha 總結了 CP 面臨的三難困境（trilemma）：
 
 ## 批判實在論框架
 
-### 核心主張
+### 基本主張
 
 批判實在論（Critical Realism, CR）由 Roy Bhaskar（1975, 1979）提出，核心區分爲**本體論實在論**（ontological realism）與**認識論相對主義**（epistemological relativism）：
 

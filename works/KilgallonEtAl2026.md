@@ -1,11 +1,23 @@
 ---
 title: Kilgallon et al. (2026) - 雙向同理心問題是什麼（以及不是什麼）
 description: Kilgallon、Botha、Dwyer 等七位學者重新闡明雙向同理心問題（DEP）是一個關於孤獨譜系-非孤獨譜系互動的社會學框架，而非關於孤獨譜系的社會-認知理論，澄清了 DEP 的概率性主張、認識論基礎與實踐應用方向
-aliases: ["Kilgallon(2026)", KilgallonEtAl2026, What the Double Empathy Problem Is (and Is Not), DEP概念澄清, 雙向同理心問題概念澄清]
-tags: [work, neurodiversity, autism, foundational, critique, methodology]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Kilgallon(2026)
+  - KilgallonEtAl2026
+  - What the Double Empathy Problem Is (and Is Not)
+  - DEP概念澄清
+  - 雙向同理心問題概念澄清
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - critique
+  - methodology
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 citation_apa: "Kilgallon, E., Botha, M., Dwyer, P., Bottema-Beutel, K., Milton, D., Sasson, N. J., & Crompton, C. J. (2026). What the double empathy problem is (and is not). Autism in Adulthood."
 zh-hans: [[wiki/works/KilgallonEtAl2026]]
 needs-review: true
@@ -13,11 +25,14 @@ needs-review: true
 
 # Kilgallon et al. (2026) — 雙向同理心問題是什麼（以及不是什麼）
 
+> [!infobox] Kilgallon (2026)
+> **作者**：[[Elizabeth-Kilgallon]]、[[Monique-Botha]]、[[Patrick-Dwyer]]、[[Kristen-Bottema-Beutel]]、[[Damian-Milton]]、[[Noah-Sasson]]、[[Catherine-Crompton]]
+> **出版年份**：2026
+> **類型**：理論澄清與綜述
+
 引用：Kilgallon, E., Botha, M., Dwyer, P., Bottema-Beutel, K., Milton, D., Sasson, N. J., & Crompton, C. J. (2026). What the double empathy problem is (and is not). *Autism in Adulthood*.
 
-**作者**：[[Elizabeth-Kilgallon]], [[Monique-Botha]], [[Patrick-Dwyer]], [[Kristen-Bottema-Beutel]], [[Damian-Milton]], [[Noah-Sasson]], [[Catherine-Crompton]]
-**發表**：*Autism in Adulthood*
-**類型**：理論澄清與綜述
+Kilgallon、Botha、Dwyer 等七位學者重新闡明雙向同理心問題（DEP）是一個關於孤獨譜系-非孤獨譜系互動的社會學框架，而非關於孤獨譜系的社會-認知理論，並澄清其概率性主張、認識論基礎與實踐應用方向。
 
 ## 本文要點
 
@@ -32,7 +47,7 @@ needs-review: true
 - "雙向同理心問題"這一名稱是對孤獨譜系社會-認知理論的反諷式顛倒——那些理論聲稱孤獨譜系者缺乏認知同理心，卻展現出對孤獨譜系者驚人的缺乏同理心。DEP 將"同理心"重新政治化，照亮社會誤解的相互性與不對稱性
 - DEP 不解釋個體層面的認知機制，而是闡明關係性、互動性的錯配
 
-## 二、概率性主張：澄清 DEP 的核心論斷
+## 二、概率性主張：澄清 DEP 的主要論斷
 
 本文澄清了 DEP 的兩個相互關聯的概率性主張，反對將 DEP 簡化爲"同神經類型溝通必然優於跨神經類型溝通"的絕對化論斷：
 

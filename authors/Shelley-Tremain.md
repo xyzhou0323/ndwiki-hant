@@ -1,20 +1,30 @@
 ---
 title: Shelley Tremain
 description: Shelley Tremain 是殘障哲學家，以將福柯的生命權力概念系統應用於殘障研究而聞名，提出最具爭議的論證——損傷本身同樣是被裝置生產的社會範疇，挑戰了社會模型的損傷/殘障區分
-aliases: [雪萊·特雷曼, Tremain]
-tags: [author, disability, critique]
-sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md]
+aliases:
+  - 雪萊·特雷曼
+  - Tremain
+tags:
+  - author
+  - disability
+  - critique
+sources:
+  - 2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Shelley-Tremain]]
 needs-review: true
 ---
 
 # Shelley Tremain
 
+> [!infobox] Shelley Tremain
+> **職業**：殘障哲學家
+> **主要領域**：殘障哲學（福柯式生命權力批判、批判性殘障理論）
+
 Shelley Tremain（雪萊·特雷曼）是殘障哲學家，以將福柯的生命權力（biopower）概念系統應用於殘障研究而聞名。她主持"殘障對話"（Dialogues on Disability）系列訪談，已進行超過 50 次與殘障、酷兒、有色人種學術哲學家的訪談。
 
-## 核心論點
+## 主要論點
 
 ### 損傷的去自然化
 

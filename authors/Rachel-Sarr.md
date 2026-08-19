@@ -1,20 +1,35 @@
 ---
 title: Rachel Sarr
 description: Rachel Sarr 是倫敦國王學院 IoPPN 臨牀心理學博士（DClinPsy），研究孤獨譜系、依戀障礙、CPTSD 與 EUPD 的鑑別診斷，以 Delphi 法與混合方法爲主要研究工具，關注少數族裔青年的心理健康服務體驗
-aliases: [Rachel Sarr, Sarr]
-tags: [author, autism, neurodiversity, differential-diagnosis, trauma, cptsd, mixed-methods]
-sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
+aliases:
+  - Rachel Sarr
+  - Sarr
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - differential-diagnosis
+  - trauma
+  - cptsd
+  - mixed-methods
+sources:
+  - 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf
 created: 2026-05-17
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Rachel-Sarr]]
 needs-review: true
 ---
 
 # Rachel Sarr
 
-**身份**：臨牀心理學研究者 × 鑑別診斷方法學家 × 少數族裔心理健康倡導者
-**機構**：倫敦國王學院（King's College London），精神病學、心理學與神經科學研究所（IoPPN）
-**主頁**：[kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr](https://kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr/)
+> [!infobox] Rachel Sarr
+> **職業**：臨牀心理學研究者（DClinPsy）、鑑別診斷方法學家、少數族裔心理健康倡導者
+> **機構**：倫敦國王學院（King's College London）精神病學、心理學與神經科學研究所（IoPPN）
+> **主要領域**：孤獨譜系、依戀障礙、CPTSD 與 EUPD 的鑑別診斷
+> **代表著作**：[[SarrEtAl2024]]
+> **主頁**：[kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr](https://kclpure.kcl.ac.uk/portal/en/persons/rachel-sarr/)
+
+Rachel Sarr 是倫敦國王學院 IoPPN 臨牀心理學博士（DClinPsy），研究孤獨譜系、依戀障礙、CPTSD 與 EUPD 的鑑別診斷，以 Delphi 法與混合方法爲主要研究工具，並關注少數族裔青年的心理健康服務體驗。
 
 ## 學術定位
 

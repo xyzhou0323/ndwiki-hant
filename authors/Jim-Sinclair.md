@@ -1,22 +1,35 @@
 ---
 title: Jim Sinclair
 description: Jim Sinclair 是神經多樣性運動奠基人，ANI 聯合創始人，1993 年發表"Don't Mourn for Us"——該運動的第一份政治宣言，首次將孤獨譜系者的公共發言從自傳式證言轉變爲政治性訴求
-aliases: [Jim Sinclair, Sinclair]
-tags: [author, neurodiversity, autism, historical, foundational]
-sources: ["2026-05-07/不要爲我們悲哀 --- Don't Mourn For Us.md"]
+aliases:
+  - Jim Sinclair
+  - Sinclair
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+  - foundational
+sources:
+  - 2026-05-07/不要爲我們悲哀 --- Don't Mourn For Us.md
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Jim-Sinclair]]
 needs-review: true
 ---
 
 # Jim Sinclair
 
-**身份**：孤獨譜系權利運動奠基人、酷兒行動者
-**代詞**：xe/xyr/xem（中性代詞）
-**活躍期**：1992–2013
-**教育**：心理學學士、康復諮詢碩士
-**狀態**：2013 年後已不再活躍
+> [!infobox] Jim Sinclair
+> **職業**：孤獨譜系權利運動奠基人、酷兒行動者
+> **主要領域**：神經多樣性運動、孤獨譜系權利倡導
+> **代表著作**：[[Sinclair1993]]
+> **代詞**：xe/xyr/xem（中性代詞）
+> **活躍期**：1992–2013
+> **學位**：心理學學士、康復諮詢碩士
+> **狀態**：2013 年後已不再活躍
+
+Jim Sinclair 是神經多樣性運動奠基人，ANI 聯合創始人，1993 年發表"Don't Mourn for Us"——該運動的第一份政治宣言，首次將孤獨譜系者的公共發言從自傳式證言轉變爲政治性訴求。
 
 ## 運動奠基貢獻
 

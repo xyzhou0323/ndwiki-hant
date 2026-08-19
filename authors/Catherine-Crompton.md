@@ -1,24 +1,38 @@
 ---
 title: Catherine Crompton
 description: Catherine J. Crompton 是愛丁堡大學 Usher 研究所高級研究員（Ph.D.），Edinburgh Neuroscience 成員，雙向同理心問題最重要的實證研究者之一，以擴散鏈實驗首次證明孤獨譜系者間信息傳遞高效、跨神經類型互動融洽度差異著稱，獲 Autistica 公衆參與獎（2018）
-aliases: [Catherine Crompton, Catherine J. Crompton, Crompton, 凱瑟琳·克朗普頓]
-tags: [author, neurodiversity, autism, double-empathy, translational-neuroscience]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Catherine Crompton
+  - Catherine J. Crompton
+  - Crompton
+  - 凱瑟琳·克朗普頓
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - double-empathy
+  - translational-neuroscience
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Catherine-Crompton]]
 needs-review: true
 ---
 
 # Catherine Crompton
 
-**身份**：孤獨譜系社交互動研究者 × 雙向同理心問題實證驗證者 × 轉化神經科學學者
-**機構**：愛丁堡大學（University of Edinburgh），人口健康科學學院，Usher 研究所，生物醫學、自我與社會中心（Centre for Biomedicine, Self and Society）
-**職稱**：高級研究員（Senior Research Fellow）
-**隸屬**：Edinburgh Neuroscience、愛丁堡心理健康網絡
-**資歷**：Ph.D. 心理學（2017），MA 心理學（2011）
-**主頁**：[research.ed.ac.uk/en/persons/catherine-crompton](https://www.research.ed.ac.uk/en/persons/catherine-crompton/)
-**備註**：接受 PhD 學生
+> [!infobox] Catherine Crompton
+> **職業**：孤獨譜系社交互動研究者 × 雙向同理心問題實證驗證者 × 轉化神經科學學者
+> **機構**：愛丁堡大學（University of Edinburgh），人口健康科學學院，Usher 研究所，生物醫學、自我與社會中心（Centre for Biomedicine, Self and Society）；Edinburgh Neuroscience、愛丁堡心理健康網絡
+> **主要領域**：孤獨譜系社交認知、健康不平等、轉化神經科學、雙向同理心
+> **代表著作**：[[CromptonEtAl2020]]、[[CromptonEtAl2025]]、[[KilgallonEtAl2026]]
+> **職稱**：高級研究員（Senior Research Fellow）
+> **學位**：Ph.D. 心理學（2017），MA 心理學（2011）
+> **主頁**：[research.ed.ac.uk/en/persons/catherine-crompton](https://www.research.ed.ac.uk/en/persons/catherine-crompton/)
+> **備註**：接受 PhD 學生
+
+Catherine J. Crompton 是愛丁堡大學 Usher 研究所高級研究員（Ph.D.），Edinburgh Neuroscience 成員，雙向同理心問題最重要的實證研究者之一，以擴散鏈實驗首次證明孤獨譜系者間信息傳遞高效、跨神經類型互動融洽度差異著稱，獲 Autistica 公衆參與獎（2018）。
 
 ## 學術定位
 

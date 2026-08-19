@@ -1,16 +1,29 @@
 ---
 title: Sara Jane Webb
 description: Sara Jane Webb 是華盛頓大學精神病學與行爲科學系研究員，參與性別多樣性與孤獨譜系交叉的多學科合作研究，聚焦孤獨譜系早期識別與生物標誌物
-aliases: [Sara Jane Webb, Webb]
-tags: [author, autism, neurodiversity]
-sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
+aliases:
+  - Sara Jane Webb
+  - Webb
+tags:
+  - stub
+  - author
+  - autism
+  - neurodiversity
+sources:
+  - 2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Sara-Jane-Webb]]
 needs-review: true
 ---
 
 # Sara Jane Webb
+
+> [!infobox] Sara Jane Webb
+> **職業**：研究員
+> **機構**：University of Washington（西雅圖）精神病學與行爲科學系
+> **主要領域**：孤獨譜系早期識別與生物標誌物、性別多樣性與孤獨譜系交叉
+> **代表著作**：[[ReaEtAl2024]]
 
 Sara Jane Webb 是 University of Washington（西雅圖）精神病學與行爲科學系的研究員。
 
@@ -30,3 +43,4 @@ Sara Jane Webb 是 University of Washington（西雅圖）精神病學與行爲�
 
 - [[Hannah-Rea]] — 同機構合作者，該綜述第一作者
 - [[John-Strang]] — 合著者，綜述共同領導
+

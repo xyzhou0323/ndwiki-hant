@@ -1,16 +1,32 @@
 ---
 title: Emily Hughes
 description: Emily Hughes 是麥考瑞大學哲學系 ARC DECRA 研究員，研究孤獨譜系女性孤獨的親身經歷，方向爲存在現象學與精神病學哲學的交叉領域
-aliases: [Emily Hughes, Hughes]
-tags: [author, philosophy, autism, phenomenology, psychiatry, emotion, loneliness]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Emily Hughes
+  - Hughes
+tags:
+  - author
+  - philosophy
+  - autism
+  - phenomenology
+  - psychiatry
+  - emotion
+  - loneliness
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Emily-Hughes]]
 needs-review: true
 ---
 
 # Emily Hughes
+
+> [!infobox] Emily Hughes
+> **職業**：ARC DECRA 研究員 × 哲學家
+> **機構**：麥考瑞大學（Macquarie University）哲學系
+> **主要領域**：存在現象學、精神病學哲學與心理學哲學、情感與孤獨
+> **代表著作**：[[HakeHughes2026]]
 
 Emily Hughes 是麥考瑞大學（Macquarie University）哲學系的澳大利亞研究理事會發現早期職業研究獎（ARC DECRA）研究員，負責一個題爲"A lone or lonely life: Lived experiences of loneliness in Autistic women"（孤獨或孤單的生活：孤獨譜系女性孤獨的親身經歷）的項目。她此前是英國約克大學哲學博士後研究助理。
 

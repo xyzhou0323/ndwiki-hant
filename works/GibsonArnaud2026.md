@@ -1,11 +1,25 @@
 ---
 title: Gibson & Arnaud (2026) - 孤獨譜系、照護與去污名化的邊界
 description: Quinn Hiroshi Gibson 與 Sarah Arnaud 識別神經多樣性運動去污名化目標面臨的四類反彈（無害論、模糊科學、喪失幫助、過度診斷）並逐一駁斥，進而論證去污名化旗幟下所能取得的成就有其邊界——運動易受精英俘獲和美德信號侵蝕，主張以 Joan Tronto 的照護倫理根據每個個體的特定需求塑造所需照護來應對這一危險
-aliases: ["Gibson(2026)", GibsonArnaud2026, Autism, Care, and the Limits of Destigmatization]
-tags: [work, chapter, autism, neurodiversity, ethics-of-care, destigmatization, elite-capture, virtue-signaling]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Gibson(2026)
+  - GibsonArnaud2026
+  - Autism
+  - Care
+  - and the Limits of Destigmatization
+tags:
+  - work
+  - chapter
+  - autism
+  - neurodiversity
+  - ethics-of-care
+  - destigmatization
+  - elite-capture
+  - virtue-signaling
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Gibson, Q. H., & Arnaud, S. (2026). Autism, care, and the limits of destigmatization. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 93–111). Routledge."
 zh-hans: [[wiki/works/GibsonArnaud2026]]
 needs-review: true
@@ -13,17 +27,19 @@ needs-review: true
 
 # Gibson & Arnaud (2026) — 孤獨譜系、照護與去污名化的邊界
 
+> [!infobox] Gibson (2026)
+> **作者**：[[Quinn-Hiroshi-Gibson|Quinn Hiroshi Gibson]]（Clemson University）、[[Sarah-Arnaud|Sarah Arnaud]]（Édouard Montpetit College）
+> **出版年份**：2026
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 6 章
+> **類型**：書章
+
 引用：Gibson, Q. H., & Arnaud, S. (2026). Autism, care, and the limits of destigmatization. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 93–111). Routledge.
 
-**作者**：[[Quinn-Hiroshi-Gibson|Quinn Hiroshi Gibson]]（Clemson University）、[[Sarah-Arnaud|Sarah Arnaud]]（Édouard Montpetit College）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 6 章
-
-**類型**：論文集章節
+Gibson 與 Arnaud 識別並逐一駁斥神經多樣性運動去污名化目標面臨的四類反彈，進而論證去污名化的成就有其邊界——運動易受精英俘獲和美德信號侵蝕，主張以 Joan Tronto 的照護倫理根據每個個體的特定需求塑造照護來應對這一危險。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 Gibson 與 Arnaud 在兩條戰線上作戰：
 

@@ -1,18 +1,31 @@
 ---
 title: Anna Stenning
 description: Anna Stenning 是利茲大學 Wellcome Trust 研究員，首部《神經多樣性研究》（Neurodiversity Studies）編輯卷的聯合主編，以孤獨譜系生命書寫分析揭示神經殊異道德敏感性而聞名
-aliases: [Anna Stenning]
-tags: [author, neurodiversity, autism, literature, ethics]
+aliases:
+  - Anna Stenning
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - literature
+  - ethics
 created: 2026-05-09
-updated: 2026-05-09
-sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
+updated: 2026-08-12
+sources:
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
 zh-hans: [[wiki/authors/Anna-Stenning]]
 needs-review: true
 ---
 
 # Anna Stenning
 
-英國利茲大學 Wellcome Trust 人文與社會科學研究員。當前研究聚焦孤獨譜系的文學表徵，以及殘障研究與環境正義的交叉。與 David Borthwick 和 Pippa Marland 合編 _Walking, Landscape and Environment_（2019）。
+> [!infobox] Anna Stenning
+> **職業**：Wellcome Trust 人文與社會科學研究員 × 神經多樣性研究編輯卷聯合主編
+> **機構**：利茲大學（University of Leeds）
+> **主要領域**：孤獨譜系的文學與文化表徵、殘障研究與環境人文學、神經殊異道德與生命書寫
+> **代表著作**：[[RosqvistEtAl2020]]、[[StenningRosqvist2021]]
+
+Anna Stenning 是英國利茲大學 Wellcome Trust 人文與社會科學研究員，當前研究聚焦孤獨譜系的文學表徵，以及殘障研究與環境正義的交叉。與 David Borthwick 和 Pippa Marland 合編 _Walking, Landscape and Environment_（2019）。
 
 ## 相關研究
 

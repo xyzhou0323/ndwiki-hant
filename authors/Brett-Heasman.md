@@ -1,16 +1,30 @@
 ---
 title: Brett Heasman
 description: Brett Heasman 是倫敦政治經濟學院（LSE）心理與行爲科學系研究員，以孤獨譜系社交互動的雙向性實證研究著稱，爲雙向同理心問題提供了關鍵的實驗證據
-aliases: [Brett-Heasman, Heasman, 佈雷特·希斯曼]
-tags: [author, neurodiversity, autism, social-interaction]
-sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]
+aliases:
+  - Brett-Heasman
+  - Heasman
+  - 佈雷特·希斯曼
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - social-interaction
+sources:
+  - 2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Brett-Heasman]]
 needs-review: true
 ---
 
 # Brett Heasman
+
+> [!infobox] Brett Heasman
+> **職業**：心理與行爲科學研究員 × 孤獨譜系社交互動研究者
+> **機構**：倫敦政治經濟學院（LSE）心理與行爲科學系
+> **主要領域**：孤獨譜系社交互動、觀點採擇、雙向同理心
+> **代表著作**：[[HeasmanGillespie2019]]
 
 Brett Heasman（佈雷特·希斯曼）是倫敦政治經濟學院（LSE）心理與行爲科學系的研究員。他的研究核心關注**孤獨譜系者的社交互動**——不是在神經典型規範框架下將其視爲"缺陷"，而是以交互主體性（intersubjectivity）理論爲分析工具，探索孤獨譜系者之間社交的**獨特特徵和組織邏輯**。
 

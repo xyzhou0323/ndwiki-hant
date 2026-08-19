@@ -1,16 +1,31 @@
 ---
 title: Ruby Hake
 description: Ruby Hake 是伯明翰大學哲學博士生，研究孤獨譜系跨女性僞裝的現象學，涵蓋孤獨譜系、性別多樣性、女性主義和批判現象學
-aliases: [Ruby Hake, Hake]
-tags: [author, philosophy, autism, gender, phenomenology, feminism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Ruby Hake
+  - Hake
+tags:
+  - author
+  - philosophy
+  - autism
+  - gender
+  - phenomenology
+  - feminism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Ruby-Hake]]
 needs-review: true
 ---
 
 # Ruby Hake
+
+> [!infobox] Ruby Hake
+> **職業**：哲學博士生
+> **機構**：伯明翰大學（University of Birmingham）
+> **主要領域**：孤獨譜系跨女性僞裝的現象學、性別多樣性、女性主義與批判現象學
+> **代表著作**：[[HakeHughes2026]]
 
 Ruby Hake 是英國伯明翰大學（University of Birmingham）的哲學博士生，研究方向爲孤獨譜系跨女性僞裝（autistic transfeminine camouflaging）的現象學。她的研究興趣包括孤獨譜系、性別多樣性、女權主義、批判現象學以及存在主義。她曾合著 *Labour's Love's Lost* 一書，探討英國的愛國主義。她是一名孤獨譜系者，同時也是一名音樂家。
 

@@ -1,23 +1,35 @@
 ---
 title: Uta Frith
 description: Dame Uta Frith 是倫敦大學學院（UCL）認知神經科學研究所榮譽退休教授，英國皇家學會院士，Theory of Mind 缺陷假說的提出者，1991 年將 Asperger 1944 年論文譯爲英文從而將 Asperger 綜合徵引入國際學界
-aliases: [Uta Frith, Frith, Dame Uta Frith]
-tags: [author, autism, foundational, historical]
-sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
+aliases:
+  - Uta Frith
+  - Frith
+  - Dame Uta Frith
+tags:
+  - author
+  - autism
+  - foundational
+  - historical
+sources:
+  - 2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf
 created: 2026-05-09
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Uta-Frith]]
 needs-review: true
 ---
 
 # Dame Uta Frith
 
-**身份**：發展認知神經科學先驅，Dame Commander of the Order of the British Empire（DBE）
-**機構**：倫敦大學學院（University College London），認知神經科學研究所（Institute of Cognitive Neuroscience）
-**職稱**：榮譽退休教授（Emeritus Professor of Cognitive Development）
-**學位**：PhD（精神病學研究所，1968），Vordiplom（薩爾大學，1964）
-**網站**：[frithmind.org](https://frithmind.org/)
-**主頁**：[profiles.ucl.ac.uk/9294-uta-frith](https://profiles.ucl.ac.uk/9294-uta-frith)
+> [!infobox] Dame Uta Frith
+> **職業**：發展認知神經科學先驅、榮譽退休教授、Dame Commander of the Order of the British Empire（DBE）
+> **機構**：倫敦大學學院（University College London）認知神經科學研究所（Institute of Cognitive Neuroscience）
+> **主要領域**：孤獨譜系認知、Theory of Mind 缺陷假說、閱讀障礙
+> **代表著作**：[[HappeFrith2020]]、[[Frith2026]]
+> **職稱**：榮譽退休教授（Emeritus Professor of Cognitive Development）
+> **學位**：PhD（精神病學研究所，1968），Vordiplom（薩爾大學，1964）
+> **主頁**：[frithmind.org](https://frithmind.org/)；[profiles.ucl.ac.uk/9294-uta-frith](https://profiles.ucl.ac.uk/9294-uta-frith)
+
+Dame Uta Frith 是倫敦大學學院（UCL）認知神經科學研究所榮譽退休教授、英國皇家學會院士，Theory of Mind 缺陷假說的提出者，1991 年將 Asperger 1944 年論文譯爲英文從而將 Asperger 綜合徵引入國際學界。
 
 ## 學術定位
 

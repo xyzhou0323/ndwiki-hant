@@ -1,11 +1,21 @@
 ---
 title: Sonuga-Barke & Thapar (2021) - 神經多樣性概念對臨牀醫生和科學家是否有幫助？
 description: Sonuga-Barke 與 Thapar 在 Lancet Psychiatry 發表的主流派臨牀視角評論——拒絕 ND 的"激進"解釋，但主張將 ND 概念納入主流研究與實踐並行的整合路徑
-aliases: ["Sonuga-Barke(2021)", SonugaBarkeThapar2021, Neurodiversity concept clinicians scientists, ND概念臨牀效用]
-tags: [work, neurodiversity, adhd, autism, methodology]
-sources: [2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf]
+aliases:
+  - Sonuga-Barke(2021)
+  - SonugaBarkeThapar2021
+  - Neurodiversity concept clinicians scientists
+  - ND概念臨牀效用
+tags:
+  - work
+  - neurodiversity
+  - adhd
+  - autism
+  - methodology
+sources:
+  - 2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561."
 zh-hans: [[wiki/works/SonugaBarkeThapar2021]]
 needs-review: true
@@ -13,16 +23,16 @@ needs-review: true
 
 # Sonuga-Barke & Thapar (2021) — 神經多樣性概念對臨牀醫生和科學家是否有幫助？
 
+> [!infobox] Sonuga-Barke (2021)
+> **作者**：Edmund Sonuga-Barke（倫敦國王學院精神病學、心理學與神經科學研究所）、Anita Thapar（卡迪夫大學醫學院心理醫學與臨牀神經科學部；ADHD Foundation 董事會成員）
+> **出版年份**：2021
+> **類型**：Comment（評論/立場聲明）
+
 引用：Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: Is it helpful for clinicians and scientists? The Lancet Psychiatry, 8(7), 559-561.
 
+Sonuga-Barke & Thapar (2021) 在 *The Lancet Psychiatry* 發表的臨牀視角評論拒絕 ND 的“激進”解釋，但主張將 ND 概念納入主流研究與實踐並行的整合路徑。
 
-**完整引用**：Sonuga-Barke, E., & Thapar, A. (2021). The neurodiversity concept: is it helpful for clinicians and scientists? *The Lancet Psychiatry*, 8(7), 559–561.
-
-**作者**：Edmund Sonuga-Barke（倫敦國王學院精神病學、心理學與神經科學研究所）、Anita Thapar（卡迪夫大學醫學院心理醫學與臨牀神經科學部；ADHD Foundation 董事會成員）
-
-**類型**：Comment（評論/立場聲明）
-
-## 核心立場
+## 主要立場
 
 這是一篇來自**主流臨牀研究界**的立場聲明。兩位作者均爲 ADHD/神經發育障礙領域的資深臨牀研究者（Thapar 爲 *JCPP* 前主編，Sonuga-Barke 爲現任主編）。論文拒絕 ND 的"激進"解釋，但主張將 ND 概念**納入**主流研究框架和臨牀實踐——兩者並行不悖、互爲補充。
 

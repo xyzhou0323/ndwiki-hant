@@ -1,16 +1,28 @@
 ---
 title: Sue Fletcher-Watson
 description: Sue Fletcher-Watson 是愛丁堡大學發展心理學教授、包容與社羣平等學院院長，Salvesen Mindroom 研究中心與 EdInMIND 實驗室負責人，LEANS 與 NEST 等神經多樣性教育/同伴支持項目的首席研究員，與 Robert Chapman 合著《神經多樣性簡論》並提出"肯定複雜性"和"將神經規範性政治化"兩條 ND 範式核心原則
-aliases: [蘇·弗萊徹-沃森, Fletcher-Watson]
-tags: [author, neurodiversity, academic]
-sources: [2026-05-07/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)機翻DeepSeek.epub]
+aliases:
+  - 蘇·弗萊徹-沃森
+  - Fletcher-Watson
+tags:
+  - author
+  - neurodiversity
+  - academic
+sources:
+  - 2026-05-07/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)機翻DeepSeek.epub
 created: 2026-05-07
-updated: 2026-06-23
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Sue-Fletcher-Watson]]
 needs-review: true
 ---
 
 # Sue Fletcher-Watson
+
+> [!infobox] Sue Fletcher-Watson
+> **職業**：發展心理學教授、包容與社羣平等學院院長
+> **機構**：愛丁堡大學（University of Edinburgh）
+> **主要領域**：神經多樣性教育（LEANS）、同伴支持（NEST）、參與式研究、孤獨譜系生活質量
+> **代表著作**：[[ChapmanFletcherWatson2026]]
 
 Sue Fletcher-Watson（蘇·弗萊徹-沃森）是愛丁堡大學（University of Edinburgh）發展心理學教授、包容與社羣平等學院院長（College Dean of Equity, Inclusion and Community）。她隸屬於生物醫學自我與社會中心（Centre for Biomedicine, Self and Society）和 Salvesen Mindroom 研究中心，領導 EdInMIND 實驗室。
 

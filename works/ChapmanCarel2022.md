@@ -1,8 +1,8 @@
 ---
 title: Chapman & Carel (2022) — 神經多樣性、知識不正義與美好人生
 description: Chapman & Carel (2022) 將 Fricker 的知識不正義框架應用於孤獨譜系，論證證言不正義和詮釋不正義如何交叉鎖定爲 catch-22，系統性抹除孤獨譜系者繁榮的可能性
-aliases: ["Chapman(2022)"]
 aliases:
+  - Chapman(2022)
   - ChapmanCarel2022
   - Neurodiversity
   - epistemic injustice
@@ -16,7 +16,7 @@ tags:
 sources:
   - 2026-05-09/josp.12456.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: Chapman, R., & Carel, H. (2022). Neurodiversity, epistemic injustice, and the good human life. Journal of Social Philosophy, 00, 1–18. https://doi.org/10.1111/josp.12456
 zh-hans: [[wiki/works/ChapmanCarel2022]]
 needs-review: true
@@ -24,15 +24,17 @@ needs-review: true
 
 # Chapman & Carel (2022) — 神經多樣性、知識不正義與美好人生
 
+> [!infobox] Chapman (2022)
+> **作者**：[[Robert-Chapman]]
+> **出版年份**：2022
+> **類型**：期刊論文
+> **備註**：理論論文；作者單位：Robert Chapman（Sheffield Hallam University）、Havi Carel（University of Bristol）
+
 引用：Chapman, R., & Carel, H. (2022). Neurodiversity, epistemic injustice, and the good human life. *Journal of Social Philosophy*, 00, 1–18. [https://doi.org/10.1111/josp.12456](https://doi.org/10.1111/josp.12456)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、Havi Carel（University of Bristol）
+Chapman & Carel (2022) 將 Fricker 的知識不正義框架應用於孤獨譜系，論證證言不正義與詮釋不正義如何交叉鎖定爲"catch-22"悖論，系統性抹除孤獨譜系者繁榮的可能性。
 
-**發表**：*Journal of Social Philosophy* (2022)
-
-**類型**：理論論文
-
-## 核心論點
+## 主要論點
 
 本文運用 [[Miranda-Fricker|Miranda Fricker]] 的[[知識不正義]]（epistemic injustice）框架分析孤獨譜系：**證言不正義**（testimonial injustice）導致孤獨譜系者關於自身幸福的主張被系統性駁回；**詮釋不正義**（hermeneutical injustice）使得神經殊異式繁榮從美好人生的概念中被結構性排除。兩者交叉鎖定爲 **"catch-22"悖論**——孤獨譜系者若聲稱自己幸福，則被認爲是"不夠孤獨譜系"；若確實在受苦，則痛苦被自動歸因於孤獨譜系本身。
 

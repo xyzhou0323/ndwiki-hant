@@ -1,11 +1,20 @@
 ---
 title: Stenning & Bertilsdotter Rosqvist (2021) - 神經多樣性研究：繪製新批判範式的可能性
 description: 在 Rosqvist et al. (2020) 編輯卷基礎上進一步闡述神經多樣性研究作爲批判範式的理論框架——提出對神經多樣性的三種理解取向並倡導超越它們，批判生物多樣性類比，呼籲去殖民化研究方法論
-aliases: ["Stenning(2021)", StenningRosqvist2021, "Neurodiversity studies: mapping out possibilities of a new critical paradigm"]
-tags: [work, neurodiversity, foundational, critique, methodology]
-sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
+aliases:
+  - Stenning(2021)
+  - StenningRosqvist2021
+  - Neurodiversity studies: mapping out possibilities of a new critical paradigm
+tags:
+  - work
+  - neurodiversity
+  - foundational
+  - critique
+  - methodology
+sources:
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. https://doi.org/10.1080/09687599.2021.1919503"
 doi: 10.1080/09687599.2021.1919503
 zh-hans: [[wiki/works/StenningRosqvist2021]]
@@ -14,15 +23,20 @@ needs-review: true
 
 # Stenning & Bertilsdotter Rosqvist (2021) — 神經多樣性研究：繪製新批判範式的可能性
 
+> [!infobox] Stenning (2021)
+> **作者**：Stenning
+> **出版年份**：2021
+> **類型**：期刊論文
+
 引用：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. Disability & Society, 36(9), 1532-1537. [https://doi.org/10.1080/09687599.2021.1919503](https://doi.org/10.1080/09687599.2021.1919503)
 
-**完整引用**：Stenning, A., & Bertilsdotter Rosqvist, H. (2021). Neurodiversity studies: mapping out possibilities of a new critical paradigm. _Disability & Society_, _36_(9), 1532–1537. https://doi.org/10.1080/09687599.2021.1919503
+Stenning & Bertilsdotter Rosqvist (2021) 在 Rosqvist et al. (2020) 編輯卷基礎上進一步闡述神經多樣性研究作爲批判範式的理論框架，提出對神經多樣性的三種理解取向並倡導超越它們，批判生物多樣性類比，呼籲去殖民化研究方法論。
 
 ## 定位
 
 發表於 _Disability & Society_ 的"Current Issue"（當前議題）文章，是 [[RosqvistEtAl2020]] 編輯卷的後續理論闡述。兩位作者——[[Anna-Stenning]] 和 [[Hanna-Bertilsdotter-Rosqvist]]——在該編輯卷出版後，進一步澄清"神經多樣性研究"（neurodiversity studies）作爲批判範式的理論基礎和方法論方向。開放獲取（CC BY-NC-ND 4.0），截至 2021 年已有 29,000+ 瀏覽量、72+ 引用。
 
-## 核心主張
+## 主要主張
 
 ### 神經發育分類作爲"移動目標"
 

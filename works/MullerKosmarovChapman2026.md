@@ -16,7 +16,7 @@ tags:
 sources:
   - 2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md
 created: 2026-07-05
-updated: 2026-07-06
+updated: 2026-08-12
 citation_apa: "Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and philosophy. In Oxford Research Encyclopedia of Disability Studies. Oxford University Press. https://doi.org/10.1093/9780197852668.003.0035"
 zh-hans: [[wiki/works/MullerKosmarovChapman2026]]
 needs-review: true
@@ -24,14 +24,17 @@ needs-review: true
 
 # Müller-Kosmarov & Chapman (2026) — 神經多樣性與哲學
 
+> [!infobox] Müller-Kosmarov (2026)
+> **作者**：[[Clarissa-Muller-Kosmarov]]、[[Robert-Chapman]]
+> **出版年份**：2026
+> **類型**：百科全書條目（Reference Article）
+> **出版日期**：2026 年 6 月 15 日
+> **DOI**：[10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
+> **學科歸屬**：Disability Studies
+
 引用：Müller-Kosmarov, C., & Chapman, R. (2026). Neurodiversity and philosophy. In *Oxford Research Encyclopedia of Disability Studies*. Oxford University Press. [https://doi.org/10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
 
-**作者**：[[Clarissa-Muller-Kosmarov|Clarissa Müller-Kosmarov]]、[[Robert-Chapman]]
-**出版日期**：2026 年 6 月 15 日
-**出版機構**：Oxford University Press（Oxford Research Encyclopedias 系列）
-**DOI**：[10.1093/9780197852668.003.0035](https://doi.org/10.1093/9780197852668.003.0035)
-**類型**：百科全書條目（Reference Article）
-**學科歸屬**：Disability Studies
+Müller-Kosmarov 與 Chapman 的牛津殘障研究百科全書條目是首部系統梳理神經多樣性哲學這一新興子領域的綜述性文獻，涵蓋範式、殘障模型、神經規範性、認識論與政治倫理哲學，兼具學科導論與解放政治雙重目的。
 
 ## 定位與雙重目的
 
@@ -109,7 +112,7 @@ needs-review: true
 - **[[Patrick-Dwyer|Dwyer (2022)]]**：建議將其重新概念化爲**框架**（framework）而非範式，以減少哲學包袱——但這可能無法準確捕捉神經多樣性倡權者的目標深度
 - 作者立場：範式框架在準確捕捉運動深度與廣度方面仍具獨特價值
 
-## 核心概念：神經典型性、神經殊異性、神經少數
+## 基本概念：神經典型性、神經殊異性、神經少數
 
 這三個核心概念的發展旨在識別：在人類神經變異中，某些具身心智或認知風格由於社會中運作的與心智、認知或情感功能及相關行爲特徵有關的社會規範，而佔據不同的特權社會位置。
 
@@ -185,7 +188,7 @@ needs-review: true
 
 神經多樣性認識論大量運用女性主義認識論中的概念——最顯著的是 Miranda Fricker (2007) 的[[知識不正義]]（epistemic injustice）及其兩類形式——**證言不正義**（testimonial injustice）與**詮釋不正義**（hermeneutical injustice）。此後，Kristie Dotson (2011) 識別了兩種認識論消聲（epistemic silencing）形式——證言噤聲（testimonial quieting）與證言壓制（testimonial smothering）。
 
-### 核心應用
+### 主要應用
 
 - **Moore (2024)**：探索"孤獨譜系否認經歷"中如何涉及多種相互引發和加劇的知識不正義——普遍的有意詮釋無知導致證言壓制：當孤獨譜系個體感到不安全以溝通其孤獨譜系身份、經驗或需求時——對方既無法理解其證言，又不願意獲取理解其證言所需的詮釋資源
 - **Milton & Moon (2012)**：批判 ABA"治療"模型背後的規範化社會科學原則，展示醫療保健實踐中形式化的"正常化議程"如何導致孤獨譜系聲音在知識生產中被消聲

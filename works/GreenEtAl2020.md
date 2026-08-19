@@ -1,7 +1,8 @@
 ---
 title: Green et al. (2020) - 帶着精神健康診斷進行教學與研究：學術健全中心主義的實踐與視角
 description: 九位有精神健康診斷的學者以對話形式探討診斷獲取、披露決策、症狀的利弊、合理調整的侷限，揭示學術健全中心主義如何滲透學術體系的日常運作
-aliases: ["Green(2020)"]
+aliases:
+  - Green(2020)
 aliases:
   - GreenEtAl2020
   - Green et al. (2020)
@@ -14,7 +15,7 @@ tags:
 sources:
   - 2026-06-12/Teaching and Researching with a Mental Health Diagnosis.md
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-12
 citation_apa: "Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. Rhetoric of Health & Medicine, 3(2), Article 1."
 zh-hans: [[wiki/works/GreenEtAl2020]]
 needs-review: true
@@ -22,12 +23,14 @@ needs-review: true
 
 # Green et al. (2020) — 帶着精神健康診斷進行教學與研究：學術健全中心主義的實踐與視角
 
+> [!infobox] Green (2020)
+> **作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
+> **出版年份**：2020
+> **學科**：修辭學、殘障研究、健康傳播
+
 引用：Green, A., _, A., Dura, L., Harris, P., Heilig, L., Kirby, B., McClintick, J., Pfender, E., & Carrasco, R. (2020). Teaching and researching with a mental health diagnosis: Practices and perspectives on academic ableism. _Rhetoric of Health & Medicine_, _3_(2), Article 1.
 
-**作者**：Ann E. Green、[[Alyssa-Hillary|Alyssa Hillary]]（以 "Alyssa _" 署名）、Lucía Durá、Patrick Harris、Leah Heilig、Bailey Kirby、Jay McClintick、Emily Pfender、Rebecca Carrasco
-**年份**：2020
-**來源**：Rhetoric of Health & Medicine
-**學科**：修辭學、殘障研究、健康傳播
+九位有精神健康診斷的學者以多人對話形式探討診斷獲取、披露決策與症狀的利弊，揭示了學術健全中心主義如何滲透學術體系的日常運作。
 
 ## 定位
 

@@ -14,10 +14,9 @@ tags:
   - neurodiversity
   - foundational
 sources:
-  - 2026-05-07/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman
-  - Sue Fletcher-Watson)機翻DeepSeek.epub
+  - 2026-05-07/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)機翻DeepSeek.epub
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Chapman, R., & Fletcher-Watson, S. (2026). Neurodiversity: A very short introduction. Oxford University Press."
 zh-hans: [[wiki/works/ChapmanFletcherWatson2026]]
 needs-review: true
@@ -25,19 +24,22 @@ needs-review: true
 
 # Chapman & Fletcher-Watson (2026) — 神經多樣性簡論
 
+> [!infobox] Chapman & Fletcher-Watson (2026)
+> **作者**：[[Robert-Chapman]]、[[Sue-Fletcher-Watson]]
+> **出版年份**：2026
+> **類型**：專著/編著
+> **系列**：Oxford Very Short Introduction（第 773 卷）
+> **雙語版**：[Z-Library]([神經多樣性:牛津通識讀本(雙語版)(Neurodiversity) | Robert Chapman & Sue Fletcher-Watson | download on Z-Library](https://z-lib.sk/book/XqGXa3ro5m/%E7%A5%9E%E7%BB%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E7%89%9B%E6%B4%A5%E9%80%9A%E8%AF%86%E8%AF%BB%E6%9C%AC%E5%8F%8C%E8%AF%AD%E7%89%88neurodiversity.html))
+
 引用：Chapman, R., & Fletcher-Watson, S. (2026). Neurodiversity: A very short introduction. Oxford University Press.
 
-
-**作者**：[[Robert-Chapman]] 和 [[Sue-Fletcher-Watson]]
-**系列**：Oxford Very Short Introduction（第 773 卷）
-**年份**：2026
-**雙語版**：[Z-Library]([神經多樣性:牛津通識讀本(雙語版)(Neurodiversity) | Robert Chapman & Sue Fletcher-Watson | download on Z-Library](https://z-lib.sk/book/XqGXa3ro5m/%E7%A5%9E%E7%BB%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E7%89%9B%E6%B4%A5%E9%80%9A%E8%AF%86%E8%AF%BB%E6%9C%AC%E5%8F%8C%E8%AF%AD%E7%89%88neurodiversity.html))
+本書是牛津通識讀本系列第 773 卷，由 Robert Chapman 與 Sue Fletcher-Watson 合著，是目前最系統的神經多樣性範式入門讀物——兼具科學範式轉變與文化範式轉變的綱領性論述。
 
 ## 定位
 
 本書是目前關於神經多樣性運動最系統、最權威的入門讀物。作者將其定位爲一場**科學範式轉變**和**文化範式轉變**的雙重運動——不僅旨在改變科學研究與臨牀實踐，更從根本上改變社會對神經認知差異的理解與回應方式。
 
-## 核心概念創新
+## 概念創新
 
 ### 常態範式（Normalcy Paradigm）
 
@@ -59,7 +61,7 @@ Chapman 與 Fletcher-Watson 用 **"[[常態範式]]"（normalcy paradigm）** �
 - Francis Galton 借鑑 Quetelet，將人類心智功能按"正常"範圍排名——Galton 同時是白人至上主義者，著有按認知能力對種族排名的書籍
 - 這一框架自此支撐了心理學和神經科學的主導思維，"正常"與資本主義和工業化對標準化身體/心智的需求深度綁定
 
-## 兩條核心原則
+## 兩條基本原則
 
 1. **肯定複雜性（Affirm Complexity）**：承認神經發育差異的複雜多維性——摒棄"正常"大腦的單一理想模型，將異質性視爲理所當然
 2. **將神經規範性政治化（Politicize Neuronormativity）**：揭示"正常"標準的建構性和壓迫性——神經規範性不是自然秩序，而是政治產物，需要被納入政治分析

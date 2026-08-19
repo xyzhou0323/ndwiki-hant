@@ -1,11 +1,23 @@
 ---
 title: Cheng et al. (2023) - 神經多樣性與社區主導的權利運動：全球研究合作的障礙與機遇
 description: Cheng、Tekola、Balasubramanian、Crane 與 Leadbitter 在 Autism 期刊發表的社論，指出神經多樣性運動的西方中心性，以埃塞俄比亞、印度和香港爲例分析全球南方社區的獨特社會文化條件，呼籲避免將 ND 框架不加批判地移植至非歐美語境，倡導多向知識交流與本土化權利運動
-aliases: ["Cheng(2023)", ChengEtAl2023, Neurodiversity global research partnerships, ND運動全球南方]
-tags: [work, neurodiversity, autism, political, intersectionality, methodology]
-sources: [2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf, 2026-06-10/full.md]
+aliases:
+  - Cheng(2023)
+  - ChengEtAl2023
+  - Neurodiversity global research partnerships
+  - ND運動全球南方
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - political
+  - intersectionality
+  - methodology
+sources:
+  - 2026-05-09/Crane_Editorial 06.02.23 - SUBMITTED.pdf
+  - 2026-06-10/ChengEtAl2023-full.md
 created: 2026-05-09
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. Autism, 27(3), 573–577. https://doi.org/10.1177/13623613231159165"
 zh-hans: [[wiki/works/ChengEtAl2023]]
 needs-review: true
@@ -13,15 +25,17 @@ needs-review: true
 
 # Cheng et al. (2023) — 神經多樣性與社區主導的權利運動：全球研究合作的障礙與機遇
 
+> [!infobox] Cheng (2023)
+> **作者**：[[Yulin-Cheng]]、[[Bethlehem-Tekola]]、[[Laura-Crane]]、[[Kathy-Leadbitter]]
+> **出版年份**：2023
+> **類型**：期刊論文
+> **備註**：作者單位：Yulin Cheng（香港大學，孤獨譜系自我倡權者）；Bethlehem Tekola（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）；Anand Balasubramanian；Laura Crane（UCL 孤獨譜系研究與教育中心）；Kathy Leadbitter（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）；社論（Editorial）
+
 引用：Cheng, Y., Tekola, B., Balasubramanian, A., Crane, L., & Leadbitter, K. (2023). Neurodiversity and community-led rights-based movements: Barriers and opportunities for global research partnerships. *Autism*, 27(3), 573–577. [https://doi.org/10.1177/13623613231159165](https://doi.org/10.1177/13623613231159165)
 
-**作者**：[[Yulin-Cheng|Yulin Cheng]]（香港大學，孤獨譜系自我倡權者）、[[Bethlehem-Tekola]]（King's College London，埃塞俄比亞孤獨譜系與發育障礙研究者）、Anand Balasubramanian、[[Laura-Crane|Laura Crane]]（UCL 孤獨譜系研究與教育中心）、[[Kathy-Leadbitter]]（曼徹斯特大學，神經多樣性肯定式干預與參與式研究）
-**年份**：2023
-**期刊**：*Autism*, Vol. 27, No. 03, pp. 573–577
-**DOI**：10.1177/13623613231159165
-**類型**：Editorial（社論）
+Cheng et al. (2023) 在 *Autism* 期刊發表的社論指出神經多樣性運動的西方中心性，以埃塞俄比亞、印度和香港爲例分析全球南方社區的獨特社會文化條件，呼籲避免將神經多樣性框架不加批判地移植至非歐美語境，倡導多向知識交流與本土化權利運動。
 
-## 核心論點
+## 主要論點
 
 神經多樣性運動主要由**英語國家的白人孤獨譜系者及盟友**在歐美特定社會文化條件下推動，反映了這些社羣的具體關切。其核心價值觀——平等、尊嚴、尊重——具有普遍性，但**不加批判地將 ND 框架整體移植至亞洲和非洲社羣必須避免**。全球研究合作需要多向知識交流，尊重本土理論框架和權利運動。
 

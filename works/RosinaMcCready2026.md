@@ -1,8 +1,8 @@
 ---
 title: Rosina & McCready (2026) - 作爲人格靈活性的僞裝
 description: Emil Eva Rosina 與 Elin McCready 拒絕將僞裝視爲隱藏孤獨譜系特質的傳統觀點，以 Burnett 的人格解析（persona resolution）和貝葉斯信號博弈建模孤獨譜系溝通，論證僞裝的核心是人格面具靈活性超出自身標準而"過多"——孤獨譜系者具有更高的社會真誠和話語真誠標準，使得神經典型式的角色差異在孤獨譜系者中感知爲不誠實和自我解體，進而解釋去僞裝/僞裝/社交退縮三分法及"被全世界煤氣燈操控"的體驗
-aliases: ["Rosina(2026)"]
 aliases:
+  - Rosina(2026)
   - RosinaMcCready2026
   - Masking as Persona Flexibility
 tags:
@@ -18,7 +18,7 @@ tags:
 sources:
   - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: Rosina, E. E., & McCready, E. (2026). Masking as persona flexibility. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 168–184). Routledge.
 zh-hans: [[wiki/works/RosinaMcCready2026]]
 needs-review: true
@@ -26,17 +26,18 @@ needs-review: true
 
 # Rosina & McCready (2026) — 作爲人格靈活性的僞裝
 
+> [!infobox] Rosina (2026)
+> **作者**：[[Emil-Eva-Rosina]]、[[Elin-McCready]]
+> **出版年份**：2026
+> **類型**：書章
+> **機構**：Emil Eva Rosina（Ruhr-University Bochum）；Elin McCready（ICREA / UAB）
+> **收錄於**：[[AndersonCushingEds2026]]，第 9 章
+
 引用：Rosina, E. E., & McCready, E. (2026). Masking as persona flexibility. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 168–184). Routledge.
 
-**作者**：[[Emil-Eva-Rosina|Emil Eva Rosina]]（Ruhr-University Bochum）、[[Elin-McCready|Elin McCready]]（ICREA / UAB）
+Rosina 與 McCready 拒絕將僞裝視爲隱藏孤獨譜系特質的傳統觀點，以人格解析（persona resolution）和貝葉斯信號博弈建模孤獨譜系溝通，論證僞裝的核心是人格面具靈活性超出自身真誠標準而"過多"。
 
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 9 章
-
-**類型**：論文集章節
-
----
-
-## 核心論證結構
+## 論證結構
 
 Rosina 與 McCready 將僞裝從傳統病理框架中徹底解放出來，以形式語用學（貝葉斯信號博弈）重構僞裝爲**人格面具靈活性問題**。核心論證鏈條：
 
@@ -75,7 +76,7 @@ Rosina 與 McCready 的核心主張：
 
 > **僞裝的核心是根據社會語境展示不同人格面具來模仿神經典型溝通——扮演多種社會角色，其兼容性存疑。對神經典型而言這是預期行爲，但對孤獨譜系者而言，因對真誠自我呈現有更高標準，這感覺像是不誠實。**
 
-### 兩個核心原則
+### 兩個主要原則
 
 | 原則 | 定義 | 孤獨譜系特徵 |
 |------|------|------------|

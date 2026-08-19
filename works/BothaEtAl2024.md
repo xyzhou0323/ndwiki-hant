@@ -1,12 +1,21 @@
 ---
 title: Botha et al. (2024) - 神經多樣性的集體起源
 description: 一項遲來的學術修正——通過檔案研究證實神經多樣性概念和理論由孤獨譜系社羣集體發展，而非歸功於任何單一作者
-aliases: ["Botha(2024)", Botha et al. 2024, 神經多樣性的誕生, The neurodiversity concept was developed collectively]
-tags: [work, neurodiversity, historical]
-sources: [2026-05-07/Botha-et-al-2024-神經多樣性集體起源.md, 2026-05-07/神經多樣性的誕生-社羣歷史.md]
+aliases:
+  - Botha(2024)
+  - Botha et al. 2024
+  - 神經多樣性的誕生
+  - The neurodiversity concept was developed collectively
+tags:
+  - work
+  - neurodiversity
+  - historical
+sources:
+  - 2026-05-07/Botha-et-al-2024-神經多樣性集體起源.md
+  - 2026-05-07/神經多樣性的誕生-社羣歷史.md
 doi: 10.1177/13623613241237871
 created: 2026-05-07
-updated: 2026-05-08
+updated: 2026-08-12
 citation_apa: "Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. https://doi.org/10.1177/13623613241237871"
 zh-hans: [[wiki/works/BothaEtAl2024]]
 needs-review: true
@@ -14,15 +23,17 @@ needs-review: true
 
 # Botha et al. (2024) — 神經多樣性的集體起源
 
+> [!infobox] Botha (2024)
+> **作者**：Botha
+> **出版年份**：2024
+> **類型**：期刊論文
+> **中文科普**：["神經多樣性"的誕生：一段被遺忘的社羣歷史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ）
+
 引用：Botha, M., Chapman, R., Giwa Onaiwu, M., Kapp, S. K., Stannard Ashley, A., & Walker, N. (2024). The neurodiversity concept was developed collectively: An overdue correction on the origins of neurodiversity theory. Autism, 28(6), 1591-1594. [https://doi.org/10.1177/13623613241237871](https://doi.org/10.1177/13623613241237871)
 
+這封由國際孤獨譜系學者聯名發表的學術通訊糾正了一個流傳甚廣的錯誤敘事：神經多樣性概念並非由 Judy Singer 一人創造，而是由孤獨譜系行動者社羣在 1990 年代中期集體理論化和發展。
 
-**作者**（按字母順序）：Monique Botha, [[Robert-Chapman]], Morénike Giwa Onaiwu, [[Steven-Kapp]], Abs Stannard Ashley, [[Nick-Walker]]
-**發表**：2024年，*Autism* 期刊（SAGE）
-**原文**：https://journals.sagepub.com/doi/full/10.1177/13623613241237871
-**中文科普**：["神經多樣性"的誕生：一段被遺忘的社羣歷史](https://neurobridge.cn/docs/neurodiversity/collectiveorigin/)（作者：XyZ，基於 Botha et al. 2024 撰寫的科普文章）
-
-## 核心論點
+## 主要論點
 
 這封由國際孤獨譜系學者聯名發表的學術通訊，糾正了一個已流傳甚廣但**錯誤且有害**的敘事：神經多樣性概念並非由 Judy Singer 一人創造，而是由**孤獨譜系行動者社羣在1990年代中期集體理論化和發展**的。
 

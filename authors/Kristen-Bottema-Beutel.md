@@ -1,22 +1,38 @@
 ---
 title: Kristen Bottema-Beutel
 description: Kristen Bottema-Beutel 是波士頓學院 Lynch 教育學院教授（Ph.D., UC Berkeley），Autism in Adulthood 副主編，Autism 副編輯，孤獨譜系教育碩士證書項目主任，以 Project AIM 孤獨譜系干預元分析、反健全中心主義方法論批判與學校融合教育中的對話分析研究著稱，獲 ASAN 孤獨譜系社羣盟友獎（2023）
-aliases: [Kristen Bottema-Beutel, Bottema-Beutel, 克里斯滕·博特馬-博伊特爾]
-tags: [author, neurodiversity, autism, education, methodology, intervention-research, ableism]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Kristen Bottema-Beutel
+  - Bottema-Beutel
+  - 克里斯滕·博特馬-博伊特爾
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - education
+  - methodology
+  - intervention-research
+  - ableism
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Kristen-Bottema-Beutel]]
 needs-review: true
 ---
 
 # Kristen Bottema-Beutel
 
-**身份**：特殊教育教授 × 孤獨譜系干預元科學家 × 反健全中心主義方法論者
-**機構**：波士頓學院（Boston College），Carolyn A. and Peter S. Lynch 教育學院，教學、課程與社會學系（TCS）
-**職稱**：教授（Professor），2013 年至今
-**資歷**：Ph.D.（UC Berkeley），M.A.（San Francisco State University），B.S.（University of Michigan）
-**主頁**：[bc.edu/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel](https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel.html)
+> [!infobox] Kristen Bottema-Beutel
+> **職業**：特殊教育教授、孤獨譜系干預元科學家、反健全中心主義方法論者
+> **機構**：波士頓學院（Boston College）Carolyn A. and Peter S. Lynch 教育學院，教學、課程與社會學系（TCS）
+> **主要領域**：孤獨譜系干預研究倫理、反健全中心主義方法論、融合教育
+> **代表著作**：[[KilgallonEtAl2026]]
+> **職稱**：教授（Professor），2013 年至今
+> **學位**：Ph.D.（UC Berkeley），M.A.（San Francisco State University），B.S.（University of Michigan）
+> **主頁**：[bc.edu/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel](https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/kristen-bottema-beutel.html)
+
+Kristen Bottema-Beutel 是波士頓學院 Lynch 教育學院教授（Ph.D., UC Berkeley），Autism in Adulthood 副主編，以 Project AIM 孤獨譜系干預元分析、反健全中心主義方法論批判與學校融合教育中的對話分析研究著稱，獲 ASAN 孤獨譜系社羣盟友獎（2023）。
 
 ## 學術定位
 
@@ -36,7 +52,7 @@ Bottema-Beutel 以**定性與定量混合方法**研究孤獨譜系溝通、語�
 - 孤獨譜系教育碩士證書項目主任
 - 課程與教學博士諮詢委員會主席
 
-## 核心研究貢獻
+## 主要研究貢獻
 
 ### Project AIM：孤獨譜系干預元分析
 

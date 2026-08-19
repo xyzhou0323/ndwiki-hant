@@ -12,9 +12,11 @@ tags:
   - neurodiversity
   - applied
   - burnout
+sources:
+  - 2026-07-22/Raymaker et al 2026 - AASPIRE Autistic Burnout Scale Creation Pilot Testing.docx
 doi: 10.31234/osf.io/uqvtc_v1
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-12
 citation_apa: 'Raymaker, D. M., Maslak, J., Steckler, N. A., Moura, I., Teo, A. R., Hunter, M., Yang, L. Q., Kapp, S. K., Scharer, M., & Nicolaidis, C. (2026). The AASPIRE Autistic Burnout Scale: Creation, pilot testing, and psychometric properties of a new measure of autistic burnout. PsyArXiv. https://doi.org/10.31234/osf.io/uqvtc_v1'
 zh-hans: [[wiki/works/RaymakerEtAl2026]]
 needs-review: true
@@ -22,13 +24,16 @@ needs-review: true
 
 # Raymaker et al. (2026) — AASPIRE 孤獨譜系耗竭量表的創建與試點驗證
 
+> [!infobox] Raymaker (2026)
+> **作者**：[[Dora-Raymaker]]、[[Steven-Kapp]]、[[Christina-Nicolaidis]]
+> **出版年份**：2026
+> **預印本**：PsyArXiv，發佈於 2026 年 4 月 2 日
+> **方法**：社區參與式研究（CBPR）× 在線問卷試點測試
+> **樣本**：80 名美國孤獨譜系成年人
+
 引用：Raymaker, D. M., Maslak, J., Steckler, N. A., Moura, I., Teo, A. R., Hunter, M., Yang, L. Q., Kapp, S. K., Scharer, M., & Nicolaidis, C. (2026). The AASPIRE Autistic Burnout Scale: Creation, pilot testing, and psychometric properties of a new measure of autistic burnout. *PsyArXiv*. [https://doi.org/10.31234/osf.io/uqvtc_v1](https://doi.org/10.31234/osf.io/uqvtc_v1)
 
-**作者**：[[Dora-Raymaker|Dora M. Raymaker]]、Joelle Maslak、Nicole A. Steckler、Ian Moura、Alan R. Teo、Morrigan Hunter、Liu-Qin Yang、[[Steven-Kapp|Steven K. Kapp]]、Mirah Scharer、[[Christina-Nicolaidis|Christina Nicolaidis]]
-**預印本**：PsyArXiv，發佈於 2026 年 4 月 2 日
-**DOI**：[10.31234/osf.io/uqvtc_v1](https://doi.org/10.31234/osf.io/uqvtc_v1)
-**方法**：社區參與式研究（CBPR）× 在線問卷試點測試
-**樣本**：80 名美國孤獨譜系成年人
+Raymaker 等以 CBPR 方法創建了 AASPIRE 孤獨譜系耗竭量表（27 題原始版）並完成試點驗證——80 名美國孤獨譜系成年人的測試顯示內部一致性 α=0.95、ROC AUC=0.85，且掩飾行爲（CAT-Q）與耗竭無顯著相關。
 
 ## 研究團隊
 

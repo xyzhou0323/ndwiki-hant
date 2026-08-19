@@ -1,12 +1,22 @@
 ---
 title: Hughes (2021) - 孤獨譜系的異質性是否削弱了神經多樣性範式？
 description: Jonathan Hughes (2021) 在 Bioethics 發表的論文，論證孤獨譜系的行爲和因果異質性對神經多樣性範式"非病症"核心主張構成嚴峻挑戰
-aliases: ["Hughes(2021)", Does the heterogeneity of autism undermine the neurodiversity paradigm?, Hughes 2021, 異質性與神經多樣性]
-tags: [work, neurodiversity, autism, critique, foundational]
-sources: [2026-05-07/Hughes - 2021 - Does the heterogeneity of autism undermine the neurodiversity paradigm_zh-CN_dual.pdf]
+aliases:
+  - Hughes(2021)
+  - Does the heterogeneity of autism undermine the neurodiversity paradigm?
+  - Hughes 2021
+  - 異質性與神經多樣性
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - critique
+  - foundational
+sources:
+  - 2026-05-07/Hughes - 2021 - Does the heterogeneity of autism undermine the neurodiversity paradigm_zh-CN_dual.pdf
 doi: 10.1111/bioe.12780
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. https://doi.org/10.1111/bioe.12780"
 zh-hans: [[wiki/works/Hughes2021]]
 needs-review: true
@@ -14,18 +24,20 @@ needs-review: true
 
 # Hughes (2021) — 孤獨譜系的異質性是否削弱了神經多樣性範式？
 
+> [!infobox] Hughes (2021)
+> **作者**：Jonathan A. Hughes（基爾大學法學院）
+> **出版年份**：2021
+> **類型**：開放獲取原創論文（英文-中文雙語版）
+
 引用：Hughes, J. A. (2021). Does the heterogeneity of autism undermine the neurodiversity paradigm? Bioethics, 35(1), 47-60. [https://doi.org/10.1111/bioe.12780](https://doi.org/10.1111/bioe.12780)
 
+Jonathan Hughes 論證神經多樣性範式的核心主張——孤獨譜系不是病症——因孤獨譜系的行爲與因果異質性而無法成立。
 
-**作者**：Jonathan A. Hughes（基爾大學法學院）
-**發表**：*Bioethics* (2021), 35:47–60
-**類型**：開放獲取原創論文（英文-中文雙語版）
-
-## 核心論點
+## 主要論點
 
 Hughes 論證：神經多樣性範式的核心主張——即孤獨譜系不是病症（non-disorder claim）——因孤獨譜系的異質性而無法成立。
 
-## 神經多樣性範式的三個核心主張
+## 神經多樣性範式的三個主要主張
 
 Hughes 識別出神經多樣性範式文獻中三個核心主張，認爲第一個最爲關鍵：
 

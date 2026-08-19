@@ -1,12 +1,21 @@
 ---
 title: Milton et al. (2022) - 雙向同理心問題：十年回顧
 description: Damian Milton、Emine Gurbuz 和 Beatriz López 在 Autism 期刊發表的十年回顧，總結了雙向同理心問題概念提出十年來的研究證據與未來方向
-aliases: ["Milton(2022)", "The double empathy problem: Ten years on", Milton 2022, DEP十年回顧]
-tags: [work, neurodiversity, autism, foundational]
-sources: [Milton 等 - 2022 - The 'double empathy problem' Ten years on.pdf]
+aliases:
+  - Milton(2022)
+  - The double empathy problem: Ten years on
+  - Milton 2022
+  - DEP十年回顧
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+sources:
+  - papers/Milton 等 - 2022 - The ‘double empathy problem’ Ten years on.pdf
 doi: 10.1177/13623613221129123
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. https://doi.org/10.1177/13623613221129123"
 zh-hans: [[wiki/works/Milton2022]]
 needs-review: true
@@ -14,18 +23,21 @@ needs-review: true
 
 # Milton et al. (2022) — 雙向同理心問題：十年回顧
 
+> [!infobox] Milton (2022)
+> **作者**：Milton
+> **出版年份**：2022
+> **類型**：期刊論文（編輯部文章）
+> **機構**：Damian Milton（肯特大學 Tizard 中心）、Emine Gurbuz（朴茨茅斯大學心理學系）、Beatriz López（朴茨茅斯大學心理學系）
+
 引用：Milton, D., Gurbuz, E., & Lopez, B. (2022). The double empathy problem: Ten years on. Autism, 26(8), 1901-1903. [https://doi.org/10.1177/13623613221129123](https://doi.org/10.1177/13623613221129123)
 
+Milton、Gurbuz 和 López 在雙向同理心問題提出十週年之際回顧該概念的研究證據與未來方向。
 
-**作者**：Damian Milton（肯特大學 Tizard 中心）、Emine Gurbuz（朴茨茅斯大學心理學系）、Beatriz López（朴茨茅斯大學心理學系）
-**發表**：*Autism* (2022), Vol. 26(8), 1901–1903
-**類型**：編輯部文章
-
-## 核心內容
+## 主要內容
 
 Milton 等在[[雙向同理心問題]]（DEP）首次發表於學術期刊（Milton, 2012）十週年之際，回顧該概念的研究進展與未來方向。
 
-## DEP 的核心定義
+## DEP 的主要定義
 
 DEP 指**相互理解的中斷**——可能發生在任意兩個人之間，因此是雙方都需要應對的問題，但當生活經驗差異很大的人試圖互動時更可能發生。在孤獨譜系者與非孤獨譜系者的交流中，問題的焦點傳統上被置於孤獨譜系者的大腦，導致孤獨譜系被建構爲"社交溝通病症"，而非一種**雙向的人際關係問題**。
 

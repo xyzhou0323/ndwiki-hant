@@ -1,15 +1,31 @@
 ---
 title: ACOS
 description: ADHD 臨牀結果量表（ACOS, ADHD Clinical Outcome Scale）用於評估 ADHD 核心症狀、共現心理健康困難及日常功能挑戰，適用於長期追蹤
-aliases: [ACOS, ACOS ADHD臨牀結果量表, ADHD臨牀結果量表, ADHD Clinical Outcome Scale]
-tags: [test, ADHD, neurodiversity]
+aliases:
+  - ACOS
+  - ACOS ADHD臨牀結果量表
+  - ADHD臨牀結果量表
+  - ADHD Clinical Outcome Scale
+tags:
+  - test
+  - ADHD
+  - neurodiversity
+sources:
+  - Adamis et al. 2024
+  - Baker et al. 2024
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/ACOS]]
 needs-review: true
 ---
 
 # ACOS ADHD 臨牀結果量表
+
+> [!infobox] ACOS ADHD 臨牀結果量表
+> **測量對象**：ADHD 核心症狀、共現心理健康困難及日常功能挑戰
+> **題數**：15 題
+> **適用年齡**：成人（自評版）；醫師版由臨牀醫師評定
+> **開發者**：Adamis et al. (2024)
 
 **ACOS**（ADHD Clinical Outcome Scale）是一份用於評估和追蹤**ADHD**個體臨牀困難和功能表現的工具，適用於長期追蹤。
 

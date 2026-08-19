@@ -1,12 +1,23 @@
 ---
 title: Mandy (2025) - 如今，孤獨譜系究竟是什麼？
 description: Will Mandy 論證孤獨譜系診斷率70倍增長並非"大流行"也非過度診斷，而是晚期現代社會環境對神經殊異者的致殘效應
-aliases: ["Mandy(2025)", Mandy 2025, What is Autism Now?, 孤獨譜系診斷擴展, 超社交性時代]
-tags: [work, neurodiversity, autism, political, capitalism]
-sources: [2026-05-07/Mandy2025-如今孤獨譜系究竟是什麼.md]
+aliases:
+  - Mandy(2025)
+  - Mandy 2025
+  - What is Autism Now?
+  - 孤獨譜系診斷擴展
+  - 超社交性時代
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - political
+  - capitalism
+sources:
+  - 2026-05-07/Mandy-2025-如今孤獨譜系究竟是什麼.md
 doi: 10.5281/zenodo.17989621
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. https://doi.org/10.5281/zenodo.17989621"
 zh-hans: [[wiki/works/Mandy2025]]
 needs-review: true
@@ -14,15 +25,16 @@ needs-review: true
 
 # Mandy (2025) — 如今，孤獨譜系究竟是什麼？
 
+> [!infobox] Mandy (2025)
+> **作者**：Mandy
+> **出版年份**：2025
+> **翻譯**：腦腦空間 NeuroBridge 翻譯志願者團隊譯，發佈於 neurobridge.cn
+
 引用：Mandy, W. (2025). What is autism now? Proceedings of the Paris Institute for Advanced Study, 21. [https://doi.org/10.5281/zenodo.17989621](https://doi.org/10.5281/zenodo.17989621)
 
+Will Mandy 論證孤獨譜系診斷率約 70 倍的增長既非"大流行"也非過度診斷，而是晚期現代社會環境對神經殊異者的致殘效應。
 
-**作者**：Will Mandy
-**發表**：2025年，*Proceedings of the Paris Institute for Advanced Study*（Vol. 21）
-**原文**：https://doi.org/10.5281/zenodo.17989621
-**中文版**：腦腦空間 NeuroBridge 翻譯志願者團隊譯，發佈於 neurobridge.cn
-
-## 核心論點
+## 主要論點
 
 自20世紀90年代以來，英國孤獨譜系診斷數量增長約70倍，美國 CDC 統計達每31名兒童中1名。Mandy 論證：
 
@@ -73,7 +85,7 @@ needs-review: true
 - 孤獨譜系青少年在心理健康問題、社會排斥、同伴欺凌、學業不足、被排斥出校、自我傷害等方面發生率持續較高
 - 向成年過渡面臨顯著困難：心理健康風險、失業/不充分就業、孤獨、貧困、過早死亡風險升高
 
-## 核心論證：環境轉變導致了診斷標準拓寬
+## 主要論證：環境轉變導致了診斷標準拓寬
 
 Mandy 的核心命題：
 

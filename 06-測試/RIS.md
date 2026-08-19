@@ -1,15 +1,30 @@
 ---
 title: RIS
 description: 雷根斯堡失眠量表（RIS, Regensburg Insomnia Scale）是一份簡短的自評量表，用於評估失眠的心理症狀與睡眠參數，特別適用於失眠認知行爲療法（CBT-I）的效果評估
-aliases: [RIS, RIS 雷根斯堡失眠量表, 雷根斯堡失眠量表, Regensburg Insomnia Scale]
-tags: [test, sleep, insomnia, neurodiversity]
+aliases:
+  - RIS
+  - RIS 雷根斯堡失眠量表
+  - 雷根斯堡失眠量表
+  - Regensburg Insomnia Scale
+tags:
+  - test
+  - sleep
+  - insomnia
+  - neurodiversity
+sources:
+  - Cronlein et al. 2013
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/RIS]]
 needs-review: true
 ---
 
 # RIS 雷根斯堡失眠量表
+
+> [!infobox] RIS 雷根斯堡失眠量表
+> **測量對象**：失眠的心理症狀與睡眠參數
+> **題數**：10 題
+> **開發者**：Cronlein et al. (2013)
 
 **RIS**（Regensburg Insomnia Scale）是一份簡短的自評量表，用於評估**失眠**的心理症狀和睡眠參數，特別適用於評估**失眠認知行爲療法**（CBT-I）的效果。
 

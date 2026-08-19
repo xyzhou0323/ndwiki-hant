@@ -1,10 +1,21 @@
 ---
 title: Sonuga-Barke (2023) - 範式"翻轉"以重振轉化科學
 description: JCPP 主編 Sonuga-Barke 的社論——論證神經多樣性視角的本體論假設可從意識形態主張中分離，提出從"障礙範式"到"分歧範式"的範式翻轉，以"個人成長弧"重新定義干預目標，以 RE-STAR 青年研究者小組（Y-RP）作爲參與式研究典範
-aliases: ["Sonuga-Barke(2023)", Paradigm flipping to reinvigorate translational science, SonugaBarke2023]
-tags: [work, neurodiversity, ADHD, translational-science, paradigm, participatory-research]
+aliases:
+  - Sonuga-Barke(2023)
+  - Paradigm flipping to reinvigorate translational science
+  - SonugaBarke2023
+tags:
+  - work
+  - neurodiversity
+  - ADHD
+  - translational-science
+  - paradigm
+  - participatory-research
+sources:
+  - 2026-06-10/SonugaBarke2023.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. Journal of Child Psychology and Psychiatry, 64(10), 1405–1408. https://doi.org/10.1111/jcpp.13886"
 zh-hans: [[wiki/works/SonugaBarke2023]]
 needs-review: true
@@ -12,13 +23,15 @@ needs-review: true
 
 # Sonuga-Barke (2023) — 範式"翻轉"以重振轉化科學
 
+> [!infobox] Sonuga-Barke (2023)
+> **作者**：[[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主編）
+> **出版年份**：2023
+> **類型**：Editorial（社論）
+> **DOI**：10.1111/jcpp.13886
+
 引用：Sonuga-Barke, E. J. S. (2023). Paradigm 'flipping' to reinvigorate translational science: Outlining a neurodevelopmental science framework from a 'neurodiversity' perspective. *Journal of Child Psychology and Psychiatry, 64*(10), 1405–1408. [https://doi.org/10.1111/jcpp.13886](https://doi.org/10.1111/jcpp.13886)
 
-**作者**：[[Edmund-Sonuga-Barke|Edmund J. S. Sonuga-Barke]]（King's College London，JCPP 主編）
-**年份**：2023
-**期刊**：*Journal of Child Psychology and Psychiatry*, Vol. 64, No. 10, pp. 1405–1408
-**DOI**：10.1111/jcpp.13886
-**類型**：Editorial（社論）
+Sonuga-Barke (2023) 作爲 JCPP 主編發表社論，論證神經多樣性視角的本體論假設可從意識形態主張中分離，提出從“障礙範式”到“分歧範式”的範式翻轉，以“個人成長弧”重新定義干預目標，並以 RE-STAR 青年研究者小組（Y-RP）作爲參與式研究典範。
 
 ## 定位
 
@@ -26,7 +39,7 @@ JCPP 主編 Sonuga-Barke 以 Kuhn 的範式理論爲框架，論證當前神經�
 
 Sonuga-Barke 的貢獻在於：他拒絕將神經多樣性僅視爲**意識形態**（如果這樣，它將使轉化科學變得無關而非更新），而是論證 ND 概念包含**可分離的本體論假設**——即使你拒絕其更激進的意識形態主張（善意的人們可以這樣做），你仍可利用這些本體論假設來"翻轉"障礙範式。
 
-## 核心論證
+## 主要論證
 
 ### 障礙範式的三重危機
 

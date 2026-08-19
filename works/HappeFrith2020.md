@@ -1,11 +1,21 @@
 ---
 title: Happé & Frith (2020) - 回顧以展望：孤獨譜系概念的七大變遷
 description: Happé 與 Frith 以個人回顧視角梳理近三十年孤獨譜系研究的七大概念變遷——從狹窄定義到寬泛標準、從罕見到常見、從童年到終身、從離散到維度、從統一到可分解、從純粹到複雜共現、從發育障礙到神經殊異性——及其對後續研究的深遠影響
-aliases: ["Happe(2020)", HappeFrith2020, Changes in the concept of autism]
-tags: [work, autism, neurodiversity, foundational, historical, methodology]
-sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf]
+aliases:
+  - Happe(2020)
+  - HappeFrith2020
+  - Changes in the concept of autism
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - foundational
+  - historical
+  - methodology
+sources:
+  - 2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Happe, F., & Frith, U. (2020). Annual Research Review: Looking back to look forward: Changes in the concept of autism, and implications for future research. Journal of Child Psychology and Psychiatry, 61(3), 218-232."
 zh-hans: [[wiki/works/HappeFrith2020]]
 needs-review: true
@@ -13,10 +23,14 @@ needs-review: true
 
 # Happé & Frith (2020) — 回顧以展望：孤獨譜系概念的七大變遷
 
+> [!infobox] Happe (2020)
+> **作者**：Happe
+> **出版年份**：2020
+> **類型**：期刊論文
+
 引用：Happe, F., & Frith, U. (2020). Annual Research Review: Looking back to look forward: Changes in the concept of autism, and implications for future research. Journal of Child Psychology and Psychiatry, 61(3), 218-232.
 
-
-**完整引用**：Happé, F., & Frith, U. (2020). Annual Research Review: Looking back to look forward: Changes in the concept of autism, and implications for future research. *Journal of Child Psychology and Psychiatry*, 61(3), 218–232.
+Happé 與 Frith 以個人回顧視角梳理近三十年孤獨譜系研究的七大概念變遷，並分析每項變遷對後續研究的深遠影響。
 
 ## 方法與定位
 

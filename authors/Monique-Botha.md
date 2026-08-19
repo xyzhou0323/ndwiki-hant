@@ -1,22 +1,41 @@
 ---
 title: Monique Botha
 description: Monique Botha 是杜倫大學心理學系副教授（Ph.D., MSc），社區心理學家，Leverhulme 研究員，主持"脆弱知識：孤獨譜系研究中的去人化與解釋偏差"項目，以將少數壓力模型應用於孤獨譜系羣體和參與式行動研究著稱
-aliases: [莫妮克·博塔, Botha]
-tags: [author, neurodiversity, autism, community-psychology, minority-stress, dehumanization, participatory-research]
-sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf, 2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf, 2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf, 2026-05-21/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf, 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - 莫妮克·博塔
+  - Botha
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - community-psychology
+  - minority-stress
+  - dehumanization
+  - participatory-research
+sources:
+  - 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf
+  - 2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf
+  - 2026-05-21/Journal Community Psychology - 2021 - Botha - Critical realism  community psychology  and the curious case of autism  A.pdf
+  - papers/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-05-11
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Monique-Botha]]
 needs-review: true
 ---
 
 # Monique Botha
 
-**身份**：社區心理學家 × 孤獨譜系學者 × 參與式行動研究者
-**機構**：杜倫大學（Durham University），心理學系
-**職稱**：副教授（Associate Professor）
-**資歷**：Ph.D., MSc, BA(hons)
-**主頁**：[durham.ac.uk/staff/monique-d-botha](https://www.durham.ac.uk/staff/monique-d-botha/)
+> [!infobox] Monique Botha
+> **職業**：社區心理學家、副教授、孤獨譜系學者、參與式行動研究者
+> **機構**：杜倫大學心理學系
+> **主要領域**：少數壓力模型、去人化與知識生產批判、參與式行動研究
+> **代表著作**：[[BothaEtAl2024]]、[[Botha2021]]、[[Botha2025]]、[[ChapmanBotha2023]]、[[PearsonEtAl2026]]
+> **職稱**：副教授（Associate Professor）
+> **學位**：Ph.D., MSc, BA(hons)
+> **主頁**：[durham.ac.uk/staff/monique-d-botha](https://www.durham.ac.uk/staff/monique-d-botha/)
+
+Monique Botha 是杜倫大學心理學系副教授、社區心理學家，Leverhulme 研究員，主持"脆弱知識：孤獨譜系研究中的去人化與解釋偏差"項目，以將少數壓力模型應用於孤獨譜系羣體和參與式行動研究著稱。
 
 ## 學術背景
 
@@ -39,7 +58,7 @@ Botha 的社會照護實踐背景爲其心理學研究提供了跨學科視角�
 
 Botha 主持 Leverhulme 研究獎學金項目 **"Fragile Knowledge: Dehumanisation and Interpretation Bias in Autism Research"**，以混合實驗與計算方法考察孤獨譜系研究者在使用**去人化與物化語言**討論孤獨譜系者時的系統性偏差——旨在糾正學術界對孤獨譜系者的修辭暴力。
 
-## 核心研究貢獻
+## 主要研究貢獻
 
 ### 少數壓力模型與孤獨譜系
 

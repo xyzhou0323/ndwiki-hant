@@ -1,8 +1,8 @@
 ---
 title: Botha et al. (2023) - 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用
 description: Botha、Hanlon 與 Williams 在 JADD 發表的對 Vivanti (2020) 的回應——論證語言選擇對孤獨譜系者具有污名化、去人化和暴力的實質性後果，身份在前語言（"孤獨譜系障礙者"）反映自我倡權者自主權，人稱在前語言（"有孤獨症的人"）驅動"人與孤獨症可分離"的危險隱喻
-aliases: ["Botha(2023)"]
 aliases:
+  - Botha(2023)
   - Does Language Matter? Identity-First Versus Person-First Language Use in Autism Research
   - BothaHanlonWilliams2023
 tags:
@@ -12,8 +12,10 @@ tags:
   - language
   - stigma
   - identity
+sources:
+  - 2026-06-10/BothaHanlonWilliams2023.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. Journal of Autism and Developmental Disorders, 53(2), 870–878. https://doi.org/10.1007/s10803-020-04858-w"
 zh-hans: [[wiki/works/BothaHanlonWilliams2023]]
 needs-review: true
@@ -21,14 +23,16 @@ needs-review: true
 
 # Botha et al. (2023) — 語言重要嗎？孤獨譜系研究中身份在前與人稱在前語言的使用
 
+> [!infobox] Botha (2023)
+> **作者**：[[Monique-Botha]]、[[Gemma-Williams]]
+> **出版年份**：2023
+> **類型**：期刊論文
+> **備註**：Commentary（對 Vivanti (2020) 的回應），在線發表 2021 年 1 月
+> **許可**：CC BY 4.0（開放獲取）
+
 引用：Botha, M., Hanlon, J., & Williams, G. L. (2023). Does language matter? Identity-first versus person-first language use in autism research: A response to Vivanti. *Journal of Autism and Developmental Disorders, 53*(2), 870–878. [https://doi.org/10.1007/s10803-020-04858-w](https://doi.org/10.1007/s10803-020-04858-w)
 
-**作者**：[[Monique-Botha|Monique Botha]]（University of Stirling）、Jacqueline Hanlon、[[Gemma-Williams|Gemma Louise Williams]]（Brighton and Sussex Medical School / University of Portsmouth，孤獨譜系自我倡權者）
-**年份**：2023（在線發表 2021 年 1 月）
-**期刊**：*Journal of Autism and Developmental Disorders*, Vol. 53, No. 02, pp. 870–878
-**DOI**：10.1007/s10803-020-04858-w
-**許可**：CC BY 4.0（開放獲取）
-**類型**：Commentary（對 Vivanti (2020) 的回應）
+Botha et al. (2023) 是對 Vivanti (2020) 的回應，從孤獨譜系自我倡權者和批判孤獨譜系研究學者的立場論證語言選擇對孤獨譜系者具有污名化、去人化和暴力的實質性後果——身份在前語言反映自我倡權者自主權，人稱在前語言驅動"人與孤獨症可分離"的危險隱喻。
 
 ## 定位
 
@@ -39,7 +43,7 @@ needs-review: true
 - **人稱在前語言**（person-first language, PFL）："有孤獨症的人"（person with autism）——將人置於診斷之前
 - **身份在前語言**（identity-first language, IFL）："孤獨譜系障礙者"（autistic person）——將身份作爲賦權的表達
 
-## 核心論證
+## 論證
 
 ### 1. PFL 的最低共識是它最不受歡迎
 

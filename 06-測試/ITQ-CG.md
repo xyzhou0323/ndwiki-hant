@@ -1,15 +1,34 @@
 ---
 title: ITQ-CG
 description: 國際創傷問卷照護者版（ITQ-CG, International Trauma Questionnaire – Caregiver Version）是一份由照護者填寫的他評工具，用於評估7-17歲兒童青少年的 PTSD 與 CPTSD 症狀，照護者報告本身不能直接產生診斷
-aliases: [ITQ-CG, 國際創傷問卷照護者版, ITQ Caregiver, International Trauma Questionnaire Caregiver Version]
-tags: [test, trauma, PTSD, CPTSD, children, caregiver, neurodiversity]
+aliases:
+  - ITQ-CG
+  - 國際創傷問卷照護者版
+  - ITQ Caregiver
+  - International Trauma Questionnaire Caregiver Version
+tags:
+  - test
+  - trauma
+  - PTSD
+  - CPTSD
+  - children
+  - caregiver
+  - neurodiversity
+sources:
+  - Lueger-Schuster et al. 2023
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/ITQ-CG]]
 needs-review: true
 ---
 
 # ITQ-CG 國際創傷問卷照護者版
+
+> [!infobox] ITQ-CG 國際創傷問卷照護者版
+> **測量對象**：7-17 歲兒童青少年的 PTSD 與 CPTSD 症狀（照護者他評）
+> **題數**：22 題（12 症狀 + 10 功能影響）
+> **適用年齡**：7-17 歲兒童青少年（由照護者填寫）
+> **開發者**：Lueger-Schuster et al. (2023)
 
 > **ITQ 系列**：[[ITQ|ITQ 標準版]] | [[ITQ#ITQ with Clinical Checks (ITQ-CC)|ITQ-CC 臨牀覈實版]] | [[ITQ-CA|ITQ-CA 兒童版]] | [[ITQ-CG|ITQ-CG 照護者版]]
 

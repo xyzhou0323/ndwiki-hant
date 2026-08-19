@@ -1,22 +1,35 @@
 ---
 title: Noah Sasson
 description: Noah J. Sasson 是德克薩斯大學達拉斯分校心理學教授（Ph.D.），以孤獨譜系社交互動與雙向同理心問題的實證研究著稱，包括第一印象、融洽度和跨神經類型互動研究
-aliases: [Noah Sasson, Noah J. Sasson, Sasson, 諾亞·薩森]
-tags: [author, neurodiversity, autism]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Noah Sasson
+  - Noah J. Sasson
+  - Sasson
+  - 諾亞·薩森
+tags:
+  - author
+  - neurodiversity
+  - autism
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Noah-Sasson]]
 needs-review: true
 ---
 
 # Noah Sasson
 
-**身份**：孤獨譜系社交互動研究者
-**機構**：德克薩斯大學達拉斯分校（University of Texas at Dallas），行爲與腦科學學院
-**資歷**：Ph.D.
+> [!infobox] Noah Sasson
+> **職業**：心理學教授、孤獨譜系社交互動研究者
+> **機構**：德克薩斯大學達拉斯分校（University of Texas at Dallas）行爲與腦科學學院
+> **主要領域**：孤獨譜系社交互動、雙向同理心問題
+> **代表著作**：[[KilgallonEtAl2026]]
+> **學位**：Ph.D.
 
-## 核心研究貢獻
+Noah J. Sasson 是德克薩斯大學達拉斯分校心理學教授（Ph.D.），以孤獨譜系社交互動與雙向同理心問題的實證研究著稱，包括第一印象、融洽度和跨神經類型互動研究。
+
+## 主要研究貢獻
 
 Sasson 的研究聚焦於孤獨譜系成人的真實社交互動，爲 [[雙向同理心問題]]（DEP）提供了關鍵的實證基礎。
 

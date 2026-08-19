@@ -1,11 +1,20 @@
 ---
 title: Ne'eman (2021) - 當殘障由行爲定義時，結果測量不應鼓勵“扮裝”
 description: Ari Ne'eman 在 AMA Journal of Ethics 發表的倫理學分析——以孤獨譜系爲案例，論證以消除診斷特質爲目標的結果測量存在嚴重倫理問題：扮裝的內化傷害、內在傷害標準的提出、舉證責任的反轉、CYBOCS-ASD 的具體批判
-aliases: ["Ne'eman(2021)", Ne'eman 2021, When Disability Is Defined by Behavior]
-tags: [work, neurodiversity, autism, ethics, applied]
-sources: [2026-05-09/nihms-1785456.pdf]
+aliases:
+  - Ne'eman(2021)
+  - Ne'eman 2021
+  - When Disability Is Defined by Behavior
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - ethics
+  - applied
+sources:
+  - 2026-05-09/nihms-1785456.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote 'passing'. AMA Journal of Ethics, 23(7), E569-E575. https://doi.org/10.1001/amajethics.2021.569"
 doi: 10.1001/amajethics.2021.569
 zh-hans: [[wiki/works/Neeman2021]]
@@ -14,13 +23,17 @@ needs-review: true
 
 # Ne'eman (2021) — 當殘障由行爲定義時，結果測量不應鼓勵“扮裝”
 
+> [!infobox] Ne'eman (2021)
+> **作者**：[[Ari-Ne'eman]]
+> **出版年份**：2021
+> **類型**：倫理學分析
+> **機構**：哈佛大學健康政策博士候選人
+
 引用：Ne'eman, A. (2021). When disability is defined by behavior, outcome measures should not promote "passing". AMA Journal of Ethics, 23(7), E569-E575. [https://doi.org/10.1001/amajethics.2021.569](https://doi.org/10.1001/amajethics.2021.569)
 
-**作者**：[[Ari-Ne'eman|Ari Ne'eman]]（哈佛大學健康政策博士候選人）
-**發表**：*AMA Journal of Ethics* (2021), 23(7), E569-E575
-**類型**：倫理學分析
+Ne'eman 在 AMA Journal of Ethics 發表的倫理學分析中以孤獨譜系爲案例，論證以消除診斷特質爲目標的結果測量存在嚴重倫理問題——從扮裝的內化傷害到內在傷害標準的提出與舉證責任的反轉，並對 CYBOCS-ASD 等具體測量工具提出批判。
 
-## 核心論證
+## 主要論證
 
 當殘障由行爲定義時，臨牀工作者和研究者面臨如何評估臨牀進展的難題。一些人選擇將診斷特質的減少或消除作爲成功標準——這暗含將典型外觀作爲服務的終極目標。Ne'eman 以孤獨譜系和神經多樣性運動爲案例，系統論證了這一做法的倫理問題，並提出了替代性的評估框架。
 
@@ -53,7 +66,7 @@ needs-review: true
 
 ## 內在傷害標準
 
-### 核心區分
+### 主要區分
 
 當一個行爲具有**內在傷害性**（如自傷）時，尋求解決它是適當的。但許多被幹預瞄準的孤獨譜系特質並不符合內在傷害的高標準：
 

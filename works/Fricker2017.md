@@ -1,8 +1,8 @@
 ---
 title: Fricker (2017) - 知識不正義概念的演變
 description: Fricker 在 Routledge Handbook of Epistemic Injustice 中細化了知識不正義的概念邊界，區分了歧視性知識不正義與分配性知識不正義，強調見證不正義與詮釋不正義均以非故意的誤判爲特徵，並重申"從被邊緣化的生活出發思考"的方法論立場
-aliases: ["Fricker(2017)"]
 aliases:
+  - Fricker(2017)
   - Fricker (2017)
   - Fricker2017
 tags:
@@ -13,14 +13,21 @@ sources:
   - 2026-07-06/Fricker2017-EvolvingConceptsEpistemicInjustice.md
 citation_apa: "Fricker, M. (2017). Evolving concepts of epistemic injustice. In I. J. Kidd, J. Medina, & G. Pohlhaus Jr. (Eds.), Routledge handbook of epistemic injustice (pp. 53–60). Routledge."
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-12
 zh-hans: [[wiki/works/Fricker2017]]
 needs-review: true
 ---
 
 # Fricker (2017) — 知識不正義概念的演變
 
+> [!infobox] Fricker (2017)
+> **作者**：Fricker
+> **出版年份**：2017
+> **類型**：書章
+
 引用：Fricker, M. (2017). Evolving concepts of epistemic injustice. In I. J. Kidd, J. Medina, & G. Pohlhaus Jr. (Eds.), *Routledge handbook of epistemic injustice* (pp. 53–60). Routledge.
+
+Fricker (2017) 在 *Routledge Handbook of Epistemic Injustice* 中細化了知識不正義的概念邊界，區分歧視性知識不正義與分配性知識不正義，強調見證不正義與詮釋不正義均以非故意的誤判爲特徵，並重申"從被邊緣化的生活出發思考"的方法論立場。
 
 ## 概述
 

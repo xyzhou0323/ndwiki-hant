@@ -1,11 +1,21 @@
 ---
 title: Rosqvist et al. (2020) - 神經多樣性研究：一種新的批判範式
 description: 首部提出"神經多樣性研究"作爲新學術領域的編輯卷——彙集社會學、批判心理學、批判醫學人文、殘障研究和批判孤獨譜系研究，16 章跨 6 大主題
-aliases: ["Rosqvist(2020)", "Neurodiversity Studies: A New Critical Paradigm", RosqvistEtAl2020, RosqvistEtAl2020-神經多樣性研究]
-tags: [work, neurodiversity, foundational, critique, methodology]
-sources: [2026-05-09/0051276.pdf]
+aliases:
+  - Rosqvist(2020)
+  - Neurodiversity Studies: A New Critical Paradigm
+  - RosqvistEtAl2020
+  - RosqvistEtAl2020-神經多樣性研究
+tags:
+  - work
+  - neurodiversity
+  - foundational
+  - critique
+  - methodology
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge."
 doi: 
 isbn: 978-0-367-33831-2
@@ -15,10 +25,15 @@ needs-review: true
 
 # Rosqvist et al. (2020) — 神經多樣性研究：一種新的批判範式
 
+> [!infobox] Rosqvist (2020)
+> **作者**：Bertilsdotter Rosqvist
+> **出版年份**：2020
+> **類型**：專著/編著
+> **叢書**：Routledge Advances in Sociology（第 285 卷）
+
 引用：Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge.
 
-
-**完整引用**：Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). _Neurodiversity Studies: A New Critical Paradigm_. Routledge. Routledge Advances in Sociology (Vol. 285).
+這部編輯卷是首部以"神經多樣性研究"（neurodiversity studies）命名新學術領域的著作，彙集社會學、批判心理學、批判醫學人文、殘障研究和批判孤獨譜系研究的 16 章原創作品，跨 6 大主題。
 
 ## 定位
 

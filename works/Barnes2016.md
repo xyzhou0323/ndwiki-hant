@@ -1,23 +1,34 @@
 ---
 title: Barnes (2016) - 少數身體：一種殘障理論
 description: Barnes 提出以殘障權利運動的團結判斷規則爲基礎的社會建構論殘障定義，取消損傷/殘障區分，與肯定模型兼容
-aliases: ["Barnes(2016)", The Minority Body, Barnes 2016]
-tags: [work, disability]
+aliases:
+  - Barnes(2016)
+  - The Minority Body
+  - Barnes 2016
+tags:
+  - work
+  - disability
 citation_apa: "Barnes, E. (2016). The Minority Body: A Theory of Disability. Oxford: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198732587.001.0001"
-sources: [2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md]
+sources:
+  - 2026-05-12/Disability Definitions and Models (Stanford Encyclopedia of Philosophy).md
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 zh-hans: [[wiki/works/Barnes2016]]
 needs-review: true
 ---
 
 # Barnes (2016) — 少數身體：一種殘障理論
 
+> [!infobox] Barnes (2016)
+> **作者**：Barnes
+> **出版年份**：2016
+> **類型**：專著/編著
+
 引用：Barnes, E. (2016). *The Minority Body: A Theory of Disability*. Oxford: Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780198732587.001.0001](https://doi.org/10.1093/acprof:oso/9780198732587.001.0001)
 
 Elizabeth Barnes 在本書中提出了一個影響深遠的殘障定義——以**殘障權利運動的團結判斷規則**（而非生物醫學標準或個體不利益）爲基礎的社會建構論。
 
-## 核心定義
+## 定義
 
 > *S* 具有（身體）殘障，當且僅當：
 > 1. *S* 處於某種身體狀態 *x*

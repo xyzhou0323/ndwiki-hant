@@ -1,12 +1,20 @@
 ---
 title: Pellicano & den Houting (2022) - 從"常規科學"轉向孤獨譜系科學中的神經多樣性
 description: Elizabeth Pellicano 和 Jacquiline den Houting (2022) 在 JCPP 發表的年度研究綜述，論證孤獨譜系科學應從常規醫學範式轉向神經多樣性範式
-aliases: ["Pellicano(2022)", Pellicano & den Houting 2022, Shifting from normal science to neurodiversity]
-tags: [work, neurodiversity, autism, foundational]
-sources: [2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf]
+aliases:
+  - Pellicano(2022)
+  - Pellicano & den Houting 2022
+  - Shifting from normal science to neurodiversity
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+sources:
+  - 2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf
 doi: 10.1111/jcpp.13534
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. https://doi.org/10.1111/jcpp.13534"
 zh-hans: [[wiki/works/PellicanodenHouting2022]]
 needs-review: true
@@ -14,14 +22,17 @@ needs-review: true
 
 # Pellicano & den Houting (2022) — 從"常規科學"轉向孤獨譜系科學中的神經多樣性
 
+> [!infobox] Pellicano (2022)
+> **作者**：[[Elizabeth-Pellicano]]、[[Jacquiline-den-Houting]]
+> **出版年份**：2022
+> **類型**：年度研究綜述（Annual Research Review），英中雙語版
+> **機構**：麥考瑞大學教育學院 / 孤獨譜系生活合作研究中心（兩位作者）
+
 引用：Pellicano, E., & den Houting, J. (2022). Annual Research Review: Shifting from 'normal science' to neurodiversity in autism science. Journal of Child Psychology and Psychiatry, 63(4), 381-396. [https://doi.org/10.1111/jcpp.13534](https://doi.org/10.1111/jcpp.13534)
 
+Pellicano 與 den Houting 在 JCPP 發表的年度研究綜述中，以庫恩的科學範式理論爲框架，論證孤獨譜系科學正處於從"常規科學"（醫學範式）向神經多樣性範式的轉型期。
 
-**作者**：[[Elizabeth-Pellicano|Elizabeth Pellicano]]（麥考瑞大學教育學院 / 孤獨譜系生活合作研究中心）和 [[Jacquiline-den-Houting|Jacquiline den Houting]]（同上）
-**發表**：*Journal of Child Psychology and Psychiatry* (2022), 63(4): 381–396
-**類型**：年度研究綜述（Annual Research Review），英中雙語版
-
-## 核心論證
+## 主要論證
 
 論文以庫恩的科學範式理論爲框架，論證孤獨譜系科學正處於從"常規科學"（醫學範式）向神經多樣性範式的轉型期。作者系統梳理了常規醫學範式的三大侷限，並說明神經多樣性範式如何回應這些侷限。
 

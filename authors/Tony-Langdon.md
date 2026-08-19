@@ -1,16 +1,27 @@
 ---
 title: Tony Langdon
 description: Tony Langdon 是 InLv 郵件列表的早期參與者，1996 年 10 月 29 日在社羣討論中首次完整使用了"neurological diversity of people"——這是已知最早的神經多樣性概念表述，早於 Singer 和 Blume 約兩年
-aliases: [Tony Langdon, Langdon]
-tags: [author, neurodiversity, autism, historical]
-sources: [2026-07-12/Dekker2023-NeurodiversityOrigin.md]
+aliases:
+  - Tony Langdon
+  - Langdon
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Dekker2023-NeurodiversityOrigin.md
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Tony-Langdon]]
 needs-review: true
 ---
 
 # Tony Langdon
+
+> [!infobox] Tony Langdon
+> **職業**：InLv 郵件列表早期參與者
+> **主要領域**：神經多樣性概念史（1996 年"neurological diversity of people"最早完整表述）
 
 Tony Langdon 是 InLv（Independent Living Listserv）郵件列表的早期參與者。他在 1996 年 10 月 29 日的一篇討論帖中，**首次完整使用了"neurological diversity of people"這一概念**——這是目前已知最早的神經多樣性概念書面表述，比 Judy Singer 的 1998 年論文和 Harvey Blume 的 1998 年 *The Atlantic* 文章均早了約兩年。
 

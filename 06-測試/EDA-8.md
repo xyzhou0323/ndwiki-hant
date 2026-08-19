@@ -1,16 +1,32 @@
 ---
 title: EDA-8
 description: 兒童要求迴避（EDA-8, Extreme Demand Avoidance 8）是一份適用於5-17歲兒童青少年的8題 PDA 特徵快速篩查工具，由父母或主要照護者根據觀察填寫
-aliases: [EDA-8, 兒童要求迴避, 兒童PDA篩查, Extreme Demand Avoidance 8]
-tags: [test, autism, PDA, children, neurodiversity]
-sources: [2026-05-14/What-is-PDA-booklet-website-v2.1.pdf]
+aliases:
+  - EDA-8
+  - 兒童要求迴避
+  - 兒童PDA篩查
+  - Extreme Demand Avoidance 8
+tags:
+  - test
+  - autism
+  - PDA
+  - children
+  - neurodiversity
+sources:
+  - 2026-05-14/What-is-PDA-booklet-website-v2.1.pdf
 created: 2026-05-08
-updated: 2026-05-14
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/EDA-8]]
 needs-review: true
 ---
 
 # EDA-8 兒童要求迴避
+
+> [!infobox] EDA-8 兒童要求迴避
+> **測量對象**：兒童青少年的極端/廣泛性要求迴避（PDA）特徵
+> **題數**：8 題
+> **適用年齡**：5-17 歲（由父母或主要照護者填寫）
+> **開發者**：O'Nions et al. (2021)（基於 EDA-Q 優化）
 
 **EDA-8** 是一份適用於5-17歲兒童青少年的**極端/廣泛性要求迴避**（PDA）快速篩查工具，由父母或主要照護者根據觀察填寫。
 

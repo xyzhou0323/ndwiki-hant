@@ -1,16 +1,32 @@
 ---
 title: Elin McCready
 description: Elin McCready 是 ICREA 研究教授（UAB），研究語言學與語言哲學，專注社會意義包括仇恨言論、政治狗哨和性別化語言，合著Signaling Without Saying
-aliases: [Elin McCready, McCready]
-tags: [author, linguistics, philosophy-of-language, pragmatics, dogwhistle, social-meaning, autism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Elin McCready
+  - McCready
+tags:
+  - author
+  - linguistics
+  - philosophy-of-language
+  - pragmatics
+  - dogwhistle
+  - social-meaning
+  - autism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Elin-McCready]]
 needs-review: true
 ---
 
 # Elin McCready
+
+> [!infobox] Elin McCready
+> **職業**：ICREA 研究教授 × 語言學家
+> **機構**：巴塞羅那自治大學（UAB）
+> **主要領域**：語言學與語言哲學、社會意義（仇恨言論、政治狗哨、性別化語言）
+> **代表著作**：[[RosinaMcCready2026]]
 
 Elin McCready 是 ICREA 的研究教授，任職於巴塞羅那自治大學（UAB）。她的學術工作主要集中在語言學與語言哲學領域，並就此出版了多部書籍和大量論文。她目前的研究方向是社會意義，包括仇恨言論、政治狗哨和性別化語言。
 

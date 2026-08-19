@@ -1,23 +1,37 @@
 ---
 title: Luodi Yu
 description: 於洛迪（Luodi Yu）是廣州大學教育學院特殊教育系"百人計劃"副教授、孤獨譜系研究中心主任，研究方向爲漢語孤獨譜系兒童的聽覺語言認知發展和感知覺問題，同時致力於孤獨譜系公共知識宣導及社區整合
-aliases: [Luodi Yu, 於洛迪, Yu Luodi, Yu, Luodi]
-tags: [author, autism, neurodiversity, education]
-sources: [2026-07-17/LinEtAl2026.md]
+aliases:
+  - Luodi Yu
+  - 於洛迪
+  - Yu Luodi
+  - Yu
+  - Luodi
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - education
+sources:
+  - 2026-07-17/LinEtAl2026.md
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Luodi-Yu]]
 needs-review: true
 ---
 
 # Luodi Yu
 
-**身份**：孤獨譜系研究者 × 特殊教育學者 × 認知神經科學研究者
-**機構**：廣州大學（Guangzhou University），教育學院，特殊教育系
-**職稱**：廣州大學"百人計劃"副教授
-**職務**：廣州大學教育學院孤獨譜系研究中心（Center for Autism Research, CAR）主任
-**資歷**：Ph.D. 言語、語言及聽力科學，明尼蘇達大學雙城分校
-**主頁**：[jyxy.gzhu.edu.cn/info/1151/2979.htm](https://jyxy.gzhu.edu.cn/info/1151/2979.htm)
+> [!infobox] Luodi Yu
+> **職業**：孤獨譜系研究者、特殊教育學者、認知神經科學研究者
+> **機構**：廣州大學教育學院特殊教育系
+> **主要領域**：漢語孤獨譜系兒童聽覺語言認知發展與感知覺問題
+> **代表著作**：[[LinEtAl2026]]
+> **職稱**：廣州大學"百人計劃"副教授、教育學院孤獨譜系研究中心（Center for Autism Research, CAR）主任
+> **學位**：Ph.D. 言語、語言及聽力科學，明尼蘇達大學雙城分校
+> **主頁**：[jyxy.gzhu.edu.cn/info/1151/2979.htm](https://jyxy.gzhu.edu.cn/info/1151/2979.htm)
+
+Luodi Yu（於洛迪）是廣州大學教育學院特殊教育系"百人計劃"副教授、孤獨譜系研究中心主任，研究方向爲漢語孤獨譜系兒童的聽覺語言認知發展和感知覺問題，同時致力於孤獨譜系公共知識宣導及社區整合。
 
 ## 研究方向
 

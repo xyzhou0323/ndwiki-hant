@@ -1,19 +1,33 @@
 ---
 title: AQ-Child
 description: 兒童版孤獨譜系商數（AQ-Child, Autism Spectrum Quotient Children's Version）是 Auyeung 等人於2008年開發的50題教育者報告量表，用於評估4-11歲兒童的孤獨譜系特徵，改編自成人版和青少年版AQ，涵蓋五個子維度
-aliases: [AQ-Child, 孤獨譜系商數兒童版, AQ兒童版, AQ-兒童, Autism Spectrum Quotient Children's Version]
-tags: [test, autism, neurodiversity]
+aliases:
+  - AQ-Child
+  - 孤獨譜系商數兒童版
+  - AQ兒童版
+  - AQ-兒童
+  - Autism Spectrum Quotient Children's Version
+tags:
+  - test
+  - autism
+  - neurodiversity
 sources:
   - Auyeung et al. 2008
   - Baker et al. 2025
   - Jacobson & Truax 1991
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/AQ-Child]]
 needs-review: true
 ---
 
 # AQ-Child
+
+> [!infobox] AQ-Child
+> **測量對象**：4-11 歲兒童的孤獨譜系相關特徵
+> **題數**：50 題
+> **適用年齡**：4-11 歲
+> **開發者**：Auyeung et al. (2008)
 
 **兒童版孤獨譜系商數**（Autism Spectrum Quotient Children's Version，AQ-Child）是由 Auyeung 等人於2008年開發的 50 題**教育者報告**量表，用於評估 4-11 歲兒童的[[孤獨譜系障礙]]相關特徵。AQ-Child 改編自 [[AQ|成人版 AQ]]（Baron-Cohen et al., 2001）和 [[AQ-Adol|青少年版 AQ]]（Baron-Cohen et al., 2006），題目改寫爲教育者報告格式並適配兒童語境。
 

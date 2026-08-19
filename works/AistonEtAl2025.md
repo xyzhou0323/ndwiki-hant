@@ -1,25 +1,41 @@
 ---
 title: Aiston et al. (2025) - 基於話語的孤獨譜系專注興趣研究路徑
 description: Aiston、Koteyko 與 van Driel (2025) 在 Applied Linguistics 發表立場論文，首次將信息大放送（info-dumping）和興趣爲本社交系統引入應用語言學——論證未來研究須以參與式、神經多樣性肯定的方式通過話語分析理解和改善孤獨譜系溝通
-aliases: ["Aiston(2025)", Aiston et al. (2025), AistonKoteykoVanDriel2025]
-tags: [work, autism, neurodiversity, communication, methodology, applied]
+aliases:
+  - Aiston(2025)
+  - Aiston et al. (2025)
+  - AistonKoteykoVanDriel2025
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - communication
+  - methodology
+  - applied
 citation_apa: "Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. Applied Linguistics, amaf006. https://doi.org/10.1093/applin/amaf006"
-sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
+sources:
+  - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 zh-hans: [[wiki/works/AistonEtAl2025]]
 needs-review: true
 ---
 
 # Aiston et al. (2025) - 基於話語的孤獨譜系專注興趣研究路徑
 
+> [!infobox] Aiston (2025)
+> **作者**：Aiston
+> **出版年份**：2025
+
 引用：Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based approaches to autistic focussed interests: Understanding shared focus, mutual accommodation, and multimodal expression. *Applied Linguistics*, amaf006. [https://doi.org/10.1093/applin/amaf006](https://doi.org/10.1093/applin/amaf006)
+
+Aiston、Koteyko 與 van Driel (2025) 在 *Applied Linguistics* 發表立場論文，首次將信息大放送（info-dumping）和興趣爲本社交系統引入應用語言學，論證未來研究須以參與式、神經多樣性肯定的方式，通過話語分析理解和改善孤獨譜系溝通。
 
 ## 摘要
 
 本文是一篇立場論文（position paper），批判檢視了現有孤獨譜系溝通話語研究路徑，主張未來研究必須是**參與式、神經多樣性肯定**的，並服務於解決[[雙向同理心問題]]。論文特別論證應用語言學者應更多關注**專注興趣**在孤獨譜系溝通中的角色，並展示話語分析如何揭示興趣驅動互動的價值——既包括孤獨譜系者之間的互動，也包括孤獨譜系者與非孤獨譜系者之間的跨神經類型互動。
 
-## 核心論證框架
+## 論證框架
 
 ### 理論基礎
 

@@ -1,12 +1,22 @@
 ---
 title: Botha (2021) - 學者、行動者還是倡導者？關於孤獨譜系知識生產的批判性反思
 description: Monique Botha 的自傳式民族誌——作爲孤獨譜系研究者在學術界的經歷，揭示實證主義"客觀性"如何庇護非人化研究並邊緣化孤獨譜系者的專業見解
-aliases: ["Botha(2021)", Botha 2021, Academic Activist or Advocate, 孤獨譜系知識生產批判]
-tags: [work, neurodiversity, autism, critique, methodology]
-sources: [2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf]
+aliases:
+  - Botha(2021)
+  - Botha 2021
+  - Academic Activist or Advocate
+  - 孤獨譜系知識生產批判
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - critique
+  - methodology
+sources:
+  - 2026-05-07/Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf
 doi: 10.3389/fpsyg.2021.727542
 created: 2026-05-07
-updated: 2026-05-08
+updated: 2026-08-12
 citation_apa: "Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. https://doi.org/10.3389/fpsyg.2021.727542"
 zh-hans: [[wiki/works/Botha2021]]
 needs-review: true
@@ -14,13 +24,14 @@ needs-review: true
 
 # Botha (2021) — 學者、行動者還是倡導者？關於孤獨譜系知識生產的批判性反思
 
+> [!infobox] Botha (2021)
+> **作者**：[[Monique-Botha]]
+> **出版年份**：2021
+> **中文版**：雙語對照 PDF
+
 引用：Botha, M. (2021). Academic, activist, or advocate? Angry, entangled, and emerging: A critical reflection on autism knowledge production. Frontiers in Psychology, 12, Article 727542. [https://doi.org/10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
 
-
-**作者**：[[Monique-Botha]]，英國斯特靈大學心理學系
-**發表**：2021年9月28日，*Frontiers in Psychology* 12:727542
-**DOI**：[10.3389/fpsyg.2021.727542](https://doi.org/10.3389/fpsyg.2021.727542)
-**中文版**：雙語對照 PDF
+Botha (2021) 以自傳式民族誌研究審視自己作爲孤獨譜系研究者在學術界的經歷，揭示實證主義"客觀性"如何庇護非人化研究並邊緣化孤獨譜系者的專業見解。
 
 ## 背景
 
@@ -28,7 +39,7 @@ needs-review: true
 
 Botha 以自傳式民族誌（autoethnography）的方法，審視自己作爲孤獨譜系研究者在學術界的經歷，揭示了學術知識生產中的結構性暴力。
 
-## 核心論點
+## 主要論點
 
 ### 1. "客觀性"如何庇護非人化研究
 

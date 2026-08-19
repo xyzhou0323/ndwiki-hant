@@ -1,16 +1,27 @@
 ---
 title: Harvey Blume
 description: Harvey Blume 是記者與作家，第一位在印刷媒體中使用"神經多樣性"一詞的人，並將概念的起源明確歸於孤獨譜系在線社羣，其角色已由 2024 年檔案研究重新確認爲社羣思想的忠實傳遞者而非記錄者
-aliases: [Harvey Blume]
-tags: [author, neurodiversity, autism, historical]
-sources: [2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf, 2026-05-07/神經多樣性的誕生-社羣歷史.md]
+aliases:
+  - Harvey Blume
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
+  - 2026-05-07/神經多樣性的誕生-社羣歷史.md
 created: 2026-05-08
-updated: 2026-06-16
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Harvey-Blume]]
 needs-review: true
 ---
 
 # Harvey Blume
+
+> [!infobox] Harvey Blume
+> **職業**：記者、作家
+> **主要領域**：神經多樣性概念的早期公開傳播
 
 Harvey Blume 是記者與作家，以其作爲連接孤獨譜系在線社羣內部思想與外部公共世界的關鍵橋樑而載入神經多樣性運動史。他是第一位在印刷媒體中使用"神經多樣性"（neurodiversity）一詞的人。
 

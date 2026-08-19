@@ -10,14 +10,18 @@ tags:
 sources:
   - 2026-05-07/神經多樣性的誕生-社羣歷史.md
 created: 2026-05-08
-updated: 2026-06-16
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Laura-Tisoncik]]
 needs-review: true
 ---
 
 # Laura Tisoncik
 
-孤獨譜系行動者，神經多樣性運動早期的創造性抗爭者。1998 年聯合創建諷刺網站"[神經典型研究所](http://web.archive.org/web/20101225092135/http://isnt.autistics.org/index.html)"（Institute for the Study of the Neurologically Typical, ISNT），以臨牀工作者和研究者慣用的病理學語言描述"神經典型障礙"——將醫學凝視反向投向那些被視爲"正常"的人。
+> [!infobox] Laura Tisoncik
+> **職業**：孤獨譜系行動者
+> **主要領域**：神經多樣性運動早期的文化抗爭（ISNT 諷刺網站）
+
+Laura Tisoncik 是孤獨譜系行動者和神經多樣性運動早期的創造性抗爭者，1998 年聯合創建諷刺網站"[神經典型研究所](http://web.archive.org/web/20101225092135/http://isnt.autistics.org/index.html)"（Institute for the Study of the Neurologically Typical, ISNT），以臨牀工作者和研究者慣用的病理學語言描述"神經典型障礙"——將醫學凝視反向投向那些被視爲"正常"的人。
 
 ## ISNT：顛倒凝視的創造性抗爭
 

@@ -1,16 +1,28 @@
 ---
 title: Elizabeth Pellicano
 description: Elizabeth Pellicano 是麥考瑞大學教育學院教授，以庫恩範式理論爲框架系統論證孤獨譜系科學正處於從醫學範式向神經多樣性範式轉型的關鍵時刻，是參與式孤獨譜系研究方法的主要推動者
-aliases: [Liz Pellicano, 伊麗莎白·佩利卡諾]
-tags: [author, neurodiversity, autism]
-sources: ["2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf"]
+aliases:
+  - Liz Pellicano
+  - 伊麗莎白·佩利卡諾
+tags:
+  - author
+  - neurodiversity
+  - autism
+sources:
+  - 2026-05-09/Child Psychology Psychiatry - 2021 - Pellicano - Annual Research Review  Shifting from  normal science  to neurodiversity_dual_Kimi+DeepSeek.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Elizabeth-Pellicano]]
 needs-review: true
 ---
 
 # Elizabeth Pellicano
+
+> [!infobox] Elizabeth Pellicano
+> **職業**：孤獨譜系發展心理學與特殊教育研究者 × 教授
+> **機構**：麥考瑞大學（Macquarie University）教育學院
+> **主要領域**：孤獨譜系科學的方法論轉型、參與式研究方法、孤獨譜系社羣福祉
+> **代表著作**：[[PellicanodenHouting2022]]、[[NeemanPellicano2022]]
 
 孤獨譜系發展心理學和特殊教育研究者，麥考瑞大學教育學院教授，孤獨譜系生活合作研究中心（Autism CRC）核心成員。學術工作聚焦於**孤獨譜系科學的方法論轉型**——從常規醫學範式轉向神經多樣性範式，以及**參與式研究方法**在孤獨譜系研究中的應用。
 

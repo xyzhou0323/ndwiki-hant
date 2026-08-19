@@ -1,11 +1,21 @@
 ---
 title: Heasman & Gillespie (2019) - 神經殊異交互主體性：孤獨譜系者創造共享理解的獨特特徵
 description: 首次以交互主體性框架實證研究孤獨譜系者之間的社交互動——發現兩個核心特徵：對共同基礎的慷慨假設與對協調的低需求，這兩者構成一套功能性系統，使孤獨譜系者能夠在無神經典型規範約束下創造豐富的共享理解
-aliases: ["Heasman(2019)", Heasman Gillespie 2019, Neurodivergent Intersubjectivity, 神經殊異交互主體性]
-tags: [work, neurodiversity, autism, methodology, social-interaction]
-sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]
+aliases:
+  - Heasman(2019)
+  - Heasman Gillespie 2019
+  - Neurodivergent Intersubjectivity
+  - 神經殊異交互主體性
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - methodology
+  - social-interaction
+sources:
+  - 2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 citation_apa: "Heasman, B., & Gillespie, A. (2019). Neurodivergent intersubjectivity: Distinctive features of how autistic people create shared understanding. Autism, 23(4), 910–921. https://doi.org/10.1177/1362361318785172"
 authors:
   - Brett-Heasman
@@ -16,11 +26,15 @@ needs-review: true
 
 # Heasman & Gillespie (2019) — 神經殊異交互主體性
 
+> [!infobox] Heasman (2019)
+> **作者**：[[Brett-Heasman|Brett Heasman]]、[[Alex-Gillespie|Alex Gillespie]]（倫敦政治經濟學院心理與行爲科學系）
+> **出版年份**：2019
+> **類型**：期刊論文
+> **發表**：2018 年在線首發，2019 年於 *Autism* 第 23 卷第 4 期刊出
+
 引用：Heasman, B., & Gillespie, A. (2019). Neurodivergent intersubjectivity: Distinctive features of how autistic people create shared understanding. *Autism*, *23*(4), 910–921. [https://doi.org/10.1177/1362361318785172](https://doi.org/10.1177/1362361318785172)
 
-**作者**：[[Brett-Heasman|Brett Heasman]] & [[Alex-Gillespie|Alex Gillespie]]，倫敦政治經濟學院（LSE）心理與行爲科學系
-**發表**：2018 年在線首發，2019 年於 *Autism* 第 23 卷第 4 期刊出
-**DOI**：[10.1177/1362361318785172](https://doi.org/10.1177/1362361318785172)
+本研究首次以交互主體性框架實證研究孤獨譜系者之間的社交互動，發現"對共同基礎的慷慨假設"與"對協調的低需求"兩個核心特徵構成一套功能性系統，使孤獨譜系者能夠在無神經典型規範約束下創造豐富的共享理解。
 
 ## 背景
 
@@ -58,7 +72,7 @@ Heasman 和 Gillespie 填補了這一方法論空白：他們以**交互主體�
 
 Cohen's Kappa：連貫性 0.592、情感 0.786、對稱性 0.583（中等至高信度）
 
-## 核心發現
+## 主要發現
 
 ### 總體模式
 
@@ -68,7 +82,7 @@ Cohen's Kappa：連貫性 0.592、情感 0.786、對稱性 0.583（中等至高�
 - **所有二人組都有 20 輪對齊度 ≥ +0.4 的片段，也有 20 輪對齊度 ≤ +0.1 的片段**——顯示交互主體性在互動內高度動態變化
 - 積極情感展示普遍（平均 +0.24）：笑、鼓勵、開玩笑廣泛存在——挑戰了孤獨譜系社交"過於邏輯化"的刻板印象
 
-### 兩個核心特徵
+### 兩個主要特徵
 
 #### 1. 對共同基礎的慷慨假設（Generous Assumption of Common Ground）
 

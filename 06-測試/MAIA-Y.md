@@ -1,15 +1,32 @@
 ---
 title: MAIA-Y
 description: 少年版多維內感覺評估（MAIA-Y, MAIA Youth）是 MAIA-2 的少年版本，適用於7-17歲兒童青少年，用於評估內感覺的覺察、調節與信任水平
-aliases: [MAIA-Y, 少年版內感覺評估, 少年內感覺評估, MAIA Youth]
-tags: [test, interoception, children, autism, neurodiversity]
+aliases:
+  - MAIA-Y
+  - 少年版內感覺評估
+  - 少年內感覺評估
+  - MAIA Youth
+tags:
+  - test
+  - interoception
+  - children
+  - autism
+  - neurodiversity
+sources:
+  - Jones et al. 2021
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/MAIA-Y]]
 needs-review: true
 ---
 
 # MAIA-Y 少年版多維內感覺評估
+
+> [!infobox] MAIA-Y 少年版多維內感覺評估
+> **測量對象**：7-17 歲兒童青少年內感覺的覺察、調節與信任水平
+> **題數**：32 題
+> **適用年齡**：7-17 歲
+> **開發者**：Jones et al. (2021)
 
 **MAIA-Y**（MAIA – Youth）是[[MAIA-2]]的少年版本，適用於7-17歲兒童青少年。評估與[[MAIA-2]]相同的核心構念——**內感覺**的覺察、調節和信任，但題目語言調整爲適合少兒理解的水平。
 

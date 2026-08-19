@@ -1,16 +1,29 @@
 ---
 title: Anna N. de Hooge
 description: Anna N. de Hooge（1996年生）是殘障研究領域的寫作者、媒體工作者與研究者，以首篇阿斯至上主義（Aspie Supremacy）系統學術分析（2019）著稱，採用情境知識認識論和酷殘理論框架研究孤獨譜系社羣中的權力與身份政治
-aliases: [de Hooge, Anna de Hooge, Anna N. de Hooge]
-tags: [author, autism, critique, intersectionality]
-sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]
+aliases:
+  - de Hooge
+  - Anna de Hooge
+  - Anna N. de Hooge
+tags:
+  - author
+  - autism
+  - critique
+  - intersectionality
+sources:
+  - 2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md
 created: 2026-05-10
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Anna-N-de-Hooge]]
 needs-review: true
 ---
 
 # Anna N. de Hooge
+
+> [!infobox] Anna N. de Hooge
+> **職業**：殘障研究寫作者 × 媒體工作者 × 研究者
+> **主要領域**：神經酷兒、阿斯至上主義、殘障研究
+> **代表著作**：[[deHooge2019]]
 
 Anna N. de Hooge（1996 年生）是殘障研究領域的寫作者、媒體工作者與研究者。以[[deHooge2019|《Binary Boys》]]（2019）一文發表了[[阿斯至上主義]]（Aspie Supremacy）的首篇系統性學術分析，發表於 _Disability Studies Quarterly_。
 

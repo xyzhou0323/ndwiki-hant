@@ -1,26 +1,34 @@
 ---
 title: Alex Gillespie
 description: Alex Gillespie 是倫敦政治經濟學院（LSE）心理與行爲科學系教授，《Journal for the Theory of Social Behaviour》編輯，交互主體性理論的權威闡述者，其"協調"與"交互主體性"的區分爲不以神經典型規範爲標準研究孤獨譜系社交互動提供了分析框架
-aliases: [Gillespie, 亞歷克斯·吉萊斯皮]
-tags: [author, psychology, social-interaction, theory]
-sources: [2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf]
+aliases:
+  - Gillespie
+  - 亞歷克斯·吉萊斯皮
+tags:
+  - author
+  - psychology
+  - social-interaction
+  - theory
+sources:
+  - 2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf
 created: 2026-05-21
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Alex-Gillespie]]
 needs-review: true
 ---
 
 # Alex Gillespie
 
-**身份**：社會心理學家 × 交互主體性理論家
-**機構**：倫敦政治經濟學院（London School of Economics and Political Science, LSE），心理與行爲科學系（Department of Psychological and Behavioural Science）
-**職稱**：教授（Professor of Psychological and Behavioural Science）
-**學術角色**：
+> [!infobox] Alex Gillespie
+> **職業**：社會心理學家 × 交互主體性理論家
+> **機構**：倫敦政治經濟學院（London School of Economics and Political Science, LSE），心理與行爲科學系（Department of Psychological and Behavioural Science）
+> **主要領域**：交互主體性理論、溝通與觀點採擇、社會互動
+> **代表著作**：[[HeasmanGillespie2019]]
+> **職稱**：教授（Professor of Psychological and Behavioural Science）
+> **學術角色**：《Journal for the Theory of Social Behaviour》編輯；奧斯陸新大學（Oslo New University）訪問教授 II；文化與風險研究單元（Culture and Risk Research Unit）創始人
+> **主頁**：[lse.ac.uk/people/alex-gillespie](https://www.lse.ac.uk/people/alex-gillespie)
 
-- **《Journal for the Theory of Social Behaviour》** 編輯
-- **奧斯陸新大學（Oslo New University）** 訪問教授 II
-- **文化與風險研究單元（Culture and Risk Research Unit）** 創始人
-**主頁**：[lse.ac.uk/people/alex-gillespie](https://www.lse.ac.uk/people/alex-gillespie)
+Alex Gillespie 是倫敦政治經濟學院（LSE）心理與行爲科學系教授，《Journal for the Theory of Social Behaviour》編輯，交互主體性理論的權威闡述者，其"協調"與"交互主體性"的區分爲不以神經典型規範爲標準研究孤獨譜系社交互動提供了分析框架。
 
 ## 學術定位
 

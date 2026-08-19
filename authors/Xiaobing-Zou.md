@@ -1,21 +1,33 @@
 ---
 title: Xiaobing Zou
 description: 鄒小兵（ZOU Xiaobing）是中山大學附屬第三醫院兒童發育行爲中心主任醫師、博士生導師、著名兒童發育行爲專家，率先將西方發育行爲兒科學模式引入中國，Lao et al. (2024) 和 Lao et al. (2026) 通訊作者，率先提出孤獨症穩態失衡致病機制及孤獨症兼具發育障礙與神經多樣性雙重特徵的新觀念，創立了基於孤獨症文化的 BSR 干預模式
-aliases: [Xiaobing Zou, Zou, 鄒小兵, ZOU Xiaobing]
-tags: [author, autism, neurodiversity]
-sources: []
+aliases:
+  - Xiaobing Zou
+  - Zou
+  - 鄒小兵
+  - ZOU Xiaobing
+tags:
+  - author
+  - autism
+  - neurodiversity
+sources:
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Xiaobing-Zou]]
 needs-review: true
 ---
 
 # Xiaobing Zou
 
-**中文名**：鄒小兵
-**任職**：中山大學附屬第三醫院兒童發育行爲中心（廣州）主任醫師、博士生導師
-**角色**：臨牀醫生、科研工作者、孤獨症/神經多樣性倡導者
-**官方主頁**：https://www.zssy.com.cn/node/15313
+> [!infobox] Xiaobing Zou
+> **職業**：主任醫師、博士生導師、兒童發育行爲專家、臨牀醫生、科研工作者、孤獨症/神經多樣性倡導者
+> **機構**：中山大學附屬第三醫院兒童發育行爲中心（廣州）
+> **主要領域**：兒童發育行爲障礙診斷與治療、孤獨症穩態失衡機制、BSR 干預模式
+> **代表著作**：[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：鄒小兵
+> **主頁**：https://www.zssy.com.cn/node/15313
+
+鄒小兵（Zou Xiaobing）是中山大學附屬第三醫院兒童發育行爲中心主任醫師、博士生導師，率先將西方發育行爲兒科學模式引入中國，提出孤獨症穩態失衡致病機制及孤獨症兼具發育障礙與神經多樣性雙重特徵的新觀念，創立了基於孤獨症文化的 BSR 干預模式。
 
 ## 專業領域
 
@@ -28,7 +40,7 @@ needs-review: true
 - 兒童學習困難
 - 兒童早期教育和高危嬰幼兒早期干預
 
-## 核心學術貢獻
+## 主要學術貢獻
 
 ### 孤獨症穩態失衡致病機制
 

@@ -1,20 +1,33 @@
 ---
 title: Huilin Zhu
 description: 朱繪霖（ZHU Huilin）是中山大學附屬第三醫院兒童發育行爲中心副研究員、碩士生導師，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 通訊作者，研究方向爲孤獨譜系障礙及神經發育障礙的心理健康、認知特徵與神經機制，兼任科普號主編與心理諮詢師
-aliases: [Huilin Zhu, Zhu, 朱繪霖, ZHU Huilin]
-tags: [author, autism, neurodiversity]
-sources: [2026-06-24/LaoZhu2024-AutismTerminologyReview.md]
+aliases:
+  - Huilin Zhu
+  - Zhu
+  - 朱繪霖
+  - ZHU Huilin
+tags:
+  - author
+  - autism
+  - neurodiversity
+sources:
+  - 2026-06-24/LaoZhu2024-AutismTerminologyReview.md
 created: 2026-06-24
-updated: 2026-07-03
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Huilin-Zhu]]
 needs-review: true
 ---
 
 # Huilin Zhu
 
-**中文名**：朱繪霖
-**任職**：中山大學附屬第三醫院兒童發育行爲中心（廣州）副研究員、碩士生導師
-**角色**：科研工作者、科普號主編、心理諮詢師
+> [!infobox] Huilin Zhu
+> **職業**：副研究員、碩士生導師、科研工作者、科普號主編、心理諮詢師
+> **機構**：中山大學附屬第三醫院兒童發育行爲中心（廣州）
+> **主要領域**：孤獨譜系障礙及相關神經發育障礙的心理健康、認知特徵與神經機制
+> **代表著作**：[[LaoZhu2024]]、[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：朱繪霖
+
+朱繪霖（ZHU Huilin）是中山大學附屬第三醫院兒童發育行爲中心副研究員、碩士生導師，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 通訊作者，研究方向爲孤獨譜系障礙及神經發育障礙的心理健康、認知特徵與神經機制，兼任科普號主編與心理諮詢師。
 
 ## 教育背景
 

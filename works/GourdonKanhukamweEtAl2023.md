@@ -1,10 +1,18 @@
 ---
 title: Gourdon-Kanhukamwe et al. (2023) - 拓寬對神經多樣性的理解：應用參與式和開放科學實踐的呼籲
 description: FORRT 神經多樣性團隊在 BPS Cognitive Psychology Bulletin 發表的短篇呼籲——論證神經殊異視角在行爲與認知科學中被系統性忽視，呼籲將參與式研究與開放科學實踐結合以解決權力失衡
-aliases: ["Gourdon-Kanhukamwe(2023)", "Opening up Understanding of Neurodiversity: A Call for Applying Participatory and Open Scholarship Practices", GourdonKanhukamweEtAl2023]
-tags: [work, neurodiversity, participatory-research, open-scholarship, FORRT]
+aliases:
+  - Gourdon-Kanhukamwe(2023)
+  - Opening up Understanding of Neurodiversity: A Call for Applying Participatory and Open Scholarship Practices
+  - GourdonKanhukamweEtAl2023
+tags:
+  - work
+  - neurodiversity
+  - participatory-research
+  - open-scholarship
+  - FORRT
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Gourdon-Kanhukamwe, A., Kalandadze, T., Yeung, S. K., Azevedo, F., Iley, B., Phan, J. M., Ramji, A. V., Shaw, J. J., Zaneva, M., Dokovova, M., Hartmann, H., Kapp, S. K., Warrington, K. L., FORRT, & Elsherif, M. M. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. The Cognitive Psychology Bulletin, 1(8), 23–27. https://doi.org/10.53841/bpscog.2023.1.8.23"
 zh-hans: [[wiki/works/GourdonKanhukamweEtAl2023]]
 needs-review: true
@@ -12,19 +20,21 @@ needs-review: true
 
 # Gourdon-Kanhukamwe et al. (2023) — 拓寬對神經多樣性的理解
 
+> [!infobox] Gourdon-Kanhukamwe (2023)
+> **作者**：[[Amelie-Gourdon-Kanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[Mirela-Zaneva]]、Marie Dokovova、Helena Hartmann、[[Steven-Kapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[Mahmoud-M-Elsherif]]（通訊作者）
+> **出版年份**：2023
+> **類型**：期刊論文
+> **篇幅**：約 985 詞（短篇評論）
+
 引用：Gourdon-Kanhukamwe, A., et al. (2023). Opening up understanding of neurodiversity: A call for applying participatory and open scholarship practices. *The Cognitive Psychology Bulletin, 1*(8), 23–27. [https://doi.org/10.53841/bpscog.2023.1.8.23](https://doi.org/10.53841/bpscog.2023.1.8.23)
 
-**作者**：[[Amelie-Gourdon-Kanhukamwe]]（第一作者）、Tamara Kalandadze、Siu Kit Yeung、Flavio Azevedo、Bethan Iley、Jenny Mai Phan、Anusha V. Ramji、John J. Shaw、[[Mirela-Zaneva]]、Marie Dokovova、Helena Hartmann、[[Steven-Kapp|Steven K. Kapp]]、Kayleigh L. Warrington、FORRT、[[Mahmoud-M-Elsherif]]（通訊作者）
-**年份**：2023
-**期刊**：*The Cognitive Psychology Bulletin*（英國心理學會），Vol. 1, No. 08
-**DOI**：10.53841/bpscog.2023.1.8.23
-**篇幅**：約 985 詞（短篇評論）
+FORRT 神經多樣性團隊在本篇短篇呼籲中論證神經殊異視角在行爲與認知科學中被系統性忽視，呼籲將參與式研究與開放科學實踐結合以解決研究中的權力失衡。
 
 ## 定位
 
 本文是 FORRT 神經多樣性團隊發表的一篇短篇呼籲，刊於英國心理學會 *Cognitive Psychology Bulletin*。核心論點是：神經殊異視角在行爲與認知科學中被系統性忽視——偏離神經典型的表現往往被視爲需要"修正"的缺陷或被當作異常數據排除——這一現狀阻礙了對人類行爲與認知的全面理解。被 [[ZanevaEtAl2024|Zaneva et al. (2024)]] 收錄爲主題 9（穩健方法與參與式開放科學）的精選文獻。
 
-## 核心論證
+## 論證
 
 ### 代表性問題：神經殊異者被當作研究對象而非研究貢獻者
 

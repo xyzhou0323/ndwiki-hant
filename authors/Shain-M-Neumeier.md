@@ -12,12 +12,16 @@ tags:
 sources:
   - 2026-05-07/Neurodiversity lite is still evolving.md
 created: 2026-05-08
-updated: 2026-06-16
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Shain-M-Neumeier]]
 needs-review: true
 ---
 
 # Shain M. Neumeier
+
+> [!infobox] Shain M. Neumeier
+> **職業**：孤獨譜系倡權者、作家、殘障權利行動者
+> **主要領域**：神經多樣性批判（"神經多樣性-lite"概念）、殘障權利運動
 
 Shain M. Neumeier 是孤獨譜系倡權者、作家與殘障權利行動者。其兩項核心貢獻深刻地塑造了神經多樣性運動的批判維度。
 

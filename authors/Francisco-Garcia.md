@@ -1,16 +1,33 @@
 ---
 title: Francisco García
 description: Francisco García 是布宜諾斯艾利斯大學的研究生，研究後認知主義心靈哲學、4E 認知與社會認識論，以孤獨譜系者身份寫作並捍衛第二人稱視角作爲社會認知的基本機制
-aliases: [Francisco García, Francisco Garcia, García, Garcia]
-tags: [author, philosophy, cognition, 4E-cognition, autism, second-person-perspective]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Francisco García
+  - Francisco Garcia
+  - García
+  - Garcia
+tags:
+  - author
+  - philosophy
+  - cognition
+  - 4E-cognition
+  - autism
+  - second-person-perspective
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Francisco-Garcia]]
 needs-review: true
 ---
 
 # Francisco García
+
+> [!infobox] Francisco García
+> **職業**：哲學研究生 × 孤獨譜系研究者
+> **機構**：布宜諾斯艾利斯大學（University of Buenos Aires）
+> **主要領域**：後認知主義心靈哲學、4E 認知、社會認識論
+> **代表著作**：[[Garcia2026]]
 
 Francisco García 是布宜諾斯艾利斯大學（University of Buenos Aires）的研究生，目前正在撰寫關於後認知主義心靈哲學的論文。他的研究興趣包括 4E 認知（尤其是生成認知）、語義規範性（尤其是意義的起源）以及社會認識論（尤其是深度分歧）。他喜歡電子遊戲。
 

@@ -1,11 +1,25 @@
 ---
 title: Maxwell (2026) - 孤獨譜系智力傲慢脆弱性
 description: Sydney Maxwell 以孤獨譜系說話者身份分析孤獨譜系者頻繁被誤解的現象——將誤解原因歸咎於非孤獨譜系對話者教條式依賴的"常識"背景假設，論證這是一種智力傲慢形式，並主張非孤獨譜系者應主動發起第三話輪會話修復來避免對孤獨譜系者的持續傷害
-aliases: ["Maxwell(2026)", Maxwell2026, Autistic Vulnerability to Intellectual Arrogance]
-tags: [work, chapter, autism, philosophy, epistemology, communication, pragmatics, presupposition, intellectual-humility, blame]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Maxwell(2026)
+  - Maxwell2026
+  - Autistic Vulnerability to Intellectual Arrogance
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - epistemology
+  - communication
+  - pragmatics
+  - presupposition
+  - intellectual-humility
+  - blame
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Maxwell, S. (2026). Autistic vulnerability to intellectual arrogance. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 10–28). Routledge."
 zh-hans: [[wiki/works/Maxwell2026]]
 needs-review: true
@@ -13,13 +27,16 @@ needs-review: true
 
 # Maxwell (2026) — 孤獨譜系智力傲慢脆弱性
 
+> [!infobox] Maxwell (2026)
+> **作者**：[[Sydney-Maxwell]]
+> **出版年份**：2026
+> **類型**：書章
+> **機構**：Sydney Maxwell（Northwestern University，博士生，研究方向爲語言哲學、分析形而上學和古代哲學）
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 1 章
+
 引用：Maxwell, S. (2026). Autistic vulnerability to intellectual arrogance. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 10–28). Routledge.
 
-**作者**：[[Sydney-Maxwell|Sydney Maxwell]]（Northwestern University，博士生，研究方向爲語言哲學、分析形而上學和古代哲學）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 1 章
-
-**類型**：論文集章節
+Maxwell 以孤獨譜系說話者身份分析孤獨譜系者頻繁被誤解的現象，將誤解歸因於非孤獨譜系對話者教條式依賴"常識"背景假設的智力傲慢，並主張非孤獨譜系者應主動發起第三話輪會話修復。
 
 ---
 

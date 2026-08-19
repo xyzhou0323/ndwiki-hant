@@ -1,16 +1,30 @@
 ---
 title: PAQ
 description: 珀斯述情障礙問卷（PAQ, Perth Alexithymia Questionnaire）是一份由 Preece et al. (2018) 開發的24題自填工具，用於評估情緒識別與描述困難，區分正性與負性情緒維度
-aliases: [PAQ, PAQ 珀斯述情障礙問卷, 珀斯述情障礙問卷, Perth Alexithymia Questionnaire]
-tags: [test, alexithymia, autism, neurodiversity]
-sources: [Preece et al. 2018]
+aliases:
+  - PAQ
+  - PAQ 珀斯述情障礙問卷
+  - 珀斯述情障礙問卷
+  - Perth Alexithymia Questionnaire
+tags:
+  - test
+  - alexithymia
+  - autism
+  - neurodiversity
+sources:
+  - Preece et al. 2018
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/PAQ]]
 needs-review: true
 ---
 
 # PAQ 珀斯述情障礙問卷
+
+> [!infobox] PAQ 珀斯述情障礙問卷
+> **測量對象**：述情障礙——情緒識別與描述困難（區分正性與負性情緒）
+> **題數**：24 題
+> **開發者**：Preece et al. (2018)
 
 **PAQ**（Perth Alexithymia Questionnaire）是一份評估**述情障礙**（Alexithymia）的自填工具，由 Preece 等人於2018年開發。
 

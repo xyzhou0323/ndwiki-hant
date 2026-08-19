@@ -1,11 +1,25 @@
 ---
 title: Hake & Hughes (2026) - 孤獨譜系與性別
 description: Ruby Hake 與 Emily Hughes 梳理孤獨譜系與性別自 Kanner 和 Asperger 以來的複雜歷史——從極端男性大腦理論到女性孤獨譜系表型的本質主義困境，再到反本質主義文獻中性別作爲表演/幽靈的排他性趨勢，論證神經多樣性運動以策略性本質主義和交叉性規避了本質主義悖論，並呼籲以批判現象學整合神經多樣性與性別多樣性的交叉研究
-aliases: ["Hake(2026)", HakeHughes2026, Autism and Gender]
-tags: [work, chapter, autism, gender, essentialism, neurodiversity, phenomenology, EMB-theory, neuroqueer, intersectionality]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Hake(2026)
+  - HakeHughes2026
+  - Autism and Gender
+tags:
+  - work
+  - chapter
+  - autism
+  - gender
+  - essentialism
+  - neurodiversity
+  - phenomenology
+  - EMB-theory
+  - neuroqueer
+  - intersectionality
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Hake, R., & Hughes, E. (2026). Autism and gender. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 79–92). Routledge."
 zh-hans: [[wiki/works/HakeHughes2026]]
 needs-review: true
@@ -13,17 +27,19 @@ needs-review: true
 
 # Hake & Hughes (2026) — 孤獨譜系與性別
 
+> [!infobox] Hake (2026)
+> **作者**：[[Ruby-Hake|Ruby Hake]]（University of Birmingham）、[[Emily-Hughes|Emily Hughes]]（Macquarie University）
+> **出版年份**：2026
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 5 章
+> **類型**：書章
+
 引用：Hake, R., & Hughes, E. (2026). Autism and gender. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 79–92). Routledge.
 
-**作者**：[[Ruby-Hake|Ruby Hake]]（University of Birmingham）、[[Emily-Hughes|Emily Hughes]]（Macquarie University）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 5 章
-
-**類型**：論文集章節
+Hake 與 Hughes 梳理孤獨譜系與性別自 Kanner 和 Asperger 以來的複雜歷史，論證神經多樣性運動以策略性本質主義和交叉性規避本質主義悖論，並呼籲以批判現象學整合神經多樣性與性別多樣性的交叉研究。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 Hake 與 Hughes 論證：孤獨譜系自 Kanner 和 Asperger 的時代起就被性別化，但現有文獻中的本質主義與反本質主義範式都遵循了一種有害的排他性趨勢。她們提出一條中間路徑——神經多樣性運動以策略性本質主義和交叉性規避了本質主義悖論，同時包容所有性別認同（包括以二元或本質主義術語體驗自身性別的跨性別孤獨譜系者）。她們最後呼籲以誕生於梅洛-龐蒂、波伏娃和法農著作中的批判現象學整合神經多樣性與性別多樣性的交叉點，並以參與式共創研究彌合神經多樣性運動與主流孤獨譜系科學之間的鴻溝。
 

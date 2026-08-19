@@ -1,24 +1,42 @@
 ---
 title: Dwyer et al. (2023) - 建設神經多樣性包容高校：給高等教育領導者的建議
 description: Patrick Dwyer 等神經殊異學生與研究者共同撰寫的系統建議——三項領域13條建議，獲加州大學學術評議會認可，發表於 Autism in Adulthood
-aliases: [Dwyer et al. (2023), Building Neurodiversity-Inclusive Postsecondary Campuses]
-tags: [work, neurodiversity, education, applied, DEI]
-aliases: ["Dwyer(2023)"]
-authors: [Patrick Dwyer, Erica Mineo, Kristin Mifsud, Chris Lindholm, Ava Gurba, T.C. Waisman]
-sources: [2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf]
+aliases:
+  - Dwyer et al. (2023)
+  - Building Neurodiversity-Inclusive Postsecondary Campuses
+  - Dwyer(2023)
+tags:
+  - work
+  - neurodiversity
+  - education
+  - applied
+  - DEI
+authors:
+  - Patrick Dwyer
+  - Erica Mineo
+  - Kristin Mifsud
+  - Chris Lindholm
+  - Ava Gurba
+  - T.C. Waisman
+sources:
+  - 2026-05-18/Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-12
 zh-hans: [[wiki/works/DwyerEtAl2023]]
 needs-review: true
 ---
 
 # Dwyer et al. (2023) - 建設神經多樣性包容高校
 
-**引用**：Dwyer, P., Mineo, E., Mifsud, K., Lindholm, C., Gurba, A., & Waisman, T. C. (2023). Building Neurodiversity-Inclusive Postsecondary Campuses: Recommendations for Leaders in Higher Education. *Autism in Adulthood*, 5(1), 1–14.
+> [!infobox] Dwyer et al. (2023)
+> **類型**：Perspective（觀點/建議文章）
+> **開放獲取**：CC-BY-NC
 
-**類型**：Perspective（觀點/建議文章）| **開放獲取**：CC-BY-NC
+引用：Dwyer, P., Mineo, E., Mifsud, K., Lindholm, C., Gurba, A., & Waisman, T. C. (2023). Building Neurodiversity-Inclusive Postsecondary Campuses: Recommendations for Leaders in Higher Education. *Autism in Adulthood*, 5(1), 1–14.
 
-## 核心論點
+Dwyer et al. (2023) 由神經殊異學生與研究者共同撰寫，提出建設神經多樣性包容高校的三項領域 13 條系統建議，並獲加州大學學術評議會（UC Academic Senate）正式支持。
+
+## 主要論點
 
 神經殊異者在高校中面臨雙重障礙——不僅是功能障礙與便利需求，更包括**污名與偏見**。作者團隊（均爲神經殊異者或家長盟友，多數來自UC Davis的神經殊異者領導社羣Aggie Neurodiversity Community）提出**系統層面的變革方案**，其原始建議獲加州大學學術評議會（UC Academic Senate）正式支持。
 

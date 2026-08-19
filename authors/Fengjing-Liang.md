@@ -1,20 +1,30 @@
 ---
 title: Fengjing Liang
 description: 梁鳳晶（Fengjing Liang）是中山大學附屬第三醫院團隊成員，具有精神病學教育背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，參與了中國孤獨症術語感知調查與中文自閉症話語解構研究
-aliases: [Fengjing Liang, Liang, 梁鳳晶]
-tags: [author, autism]
-sources: []
+aliases:
+  - Fengjing Liang
+  - Liang
+  - 梁鳳晶
+tags:
+  - stub
+  - author
+  - autism
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Fengjing-Liang]]
 needs-review: true
 ---
 
 # Fengjing Liang
 
-**中文名**：梁鳳晶
-**任職**：中山大學附屬第三醫院兒童發育行爲中心（廣州）
-**角色**：科研工作者
+> [!infobox] Fengjing Liang
+> **職業**：科研工作者
+> **機構**：中山大學附屬第三醫院兒童發育行爲中心（廣州）
+> **主要領域**：中文孤獨症術語感知、自閉症話語研究
+> **代表著作**：[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：梁鳳晶
+
+梁鳳晶（Fengjing Liang）是中山大學附屬第三醫院團隊成員，具有精神病學教育背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，參與了中國孤獨症術語感知調查與中文自閉症話語解構研究。
 
 ## Related
 
@@ -27,3 +37,4 @@ needs-review: true
 
 - [[Uchong-Lao|劉宇翀]] — 合作者
 - [[Huilin-Zhu|朱繪霖]] — 合作者
+

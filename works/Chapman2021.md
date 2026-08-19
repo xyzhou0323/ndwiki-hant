@@ -1,11 +1,21 @@
 ---
 title: Chapman (2021) - 神經多樣性與心智功能的社會生態學
 description: Robert Chapman 在 Perspectives on Psychological Science 發表的論文——提出生態模型替代進化/生物統計模型，以社會生態系統類比重新理解心智功能與障礙
-aliases: ["Chapman(2021)", Chapman2021, Neurodiversity and the Social Ecology of Mental Functions, 生態模型, 社會生態學模型]
-tags: [work, neurodiversity, foundational, methodology]
-sources: [2026-05-09/Neurodiversity and the Social Ecology.pdf]
+aliases:
+  - Chapman(2021)
+  - Chapman2021
+  - Neurodiversity and the Social Ecology of Mental Functions
+  - 生態模型
+  - 社會生態學模型
+tags:
+  - work
+  - neurodiversity
+  - foundational
+  - methodology
+sources:
+  - 2026-05-09/Neurodiversity and the Social Ecology.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. Perspectives on Psychological Science, 16(6), 1360–1372. https://doi.org/10.1177/1745691620959833"
 zh-hans: [[wiki/works/Chapman2021]]
 needs-review: true
@@ -13,15 +23,16 @@ needs-review: true
 
 # Chapman (2021) — 神經多樣性與心智功能的社會生態學
 
+> [!infobox] Chapman (2021)
+> **作者**：[[Robert-Chapman]]
+> **出版年份**：2021
+> **類型**：期刊論文
+
 引用：Chapman, R. (2021). Neurodiversity and the social ecology of mental functions. *Perspectives on Psychological Science, 16*(6), 1360–1372. [https://doi.org/10.1177/1745691620959833](https://doi.org/10.1177/1745691620959833)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Durham University）
+Chapman (2021) 提出心智功能的生態模型，以社會生態系統類比替代進化/生物統計模型，重新理解心智功能與障礙，爲神經多樣性範式提供科學理論基礎。
 
-**發表**：*Perspectives on Psychological Science* (2021), 16(6):1360–1372
-
-**類型**：理論論文
-
-## 核心論證
+## 論證
 
 Chapman 提出**心智功能的生態模型**（ecological model of mental functions），作爲對正統精神障礙理論（Boorse 的生物統計理論、Wakefield 的有害功能障礙分析）的替代方案，爲神經多樣性範式提供科學理論基礎。
 

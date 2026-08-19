@@ -1,16 +1,30 @@
 ---
 title: Ira Kraemer
 description: Ira Kraemer 擁有神經科學碩士學位，數據分析師兼殘障倡權者，自我認同爲孤獨譜系者對感覺超敏極爲熟悉
-aliases: [Ira Kraemer, I. Kraemer]
-tags: [author, neuroscience, autism, disability-advocacy, sensory]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Ira Kraemer
+  - I. Kraemer
+tags:
+  - stub
+  - author
+  - neuroscience
+  - autism
+  - disability-advocacy
+  - sensory
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Ira-Kraemer]]
 needs-review: true
 ---
 
 # Ira Kraemer
+
+> [!infobox] Ira Kraemer
+> **職業**：數據分析師、殘障倡權者
+> **主要領域**：孤獨譜系感覺敏感性、感官煤氣燈效應
+> **代表著作**：[[KraemerKraemer2026]]
 
 Ira Kraemer 擁有神經科學碩士學位，目前是一名數據分析師，並參與殘障倡權工作。其自我認同爲孤獨譜系者，對感覺超敏極爲熟悉，爲 [[KraemerKraemer2026|Kraemer & Kraemer (2026)]] 帶來了基於親身經歷的第一人稱視角。
 
@@ -27,3 +41,4 @@ Ira Kraemer 擁有神經科學碩士學位，目前是一名數據分析師，�
 - [[Eric-Kraemer]] — 合著者
 - [[AndersonCushingEds2026]] — 收錄卷
 - [[感覺處理差異]]
+

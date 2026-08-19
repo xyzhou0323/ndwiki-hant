@@ -1,15 +1,35 @@
 ---
 title: ITQ
 description: 國際創傷問卷（ITQ, International Trauma Questionnaire）是一份基於 ICD-11 創傷診斷模型的自評工具，用於評估 PTSD 與 CPTSD 的症狀及功能影響，經廣泛驗證具有良好的信效度與跨文化適用性
-aliases: [ITQ, ITQ 國際創傷問卷, 國際創傷問卷, International Trauma Questionnaire]
-tags: [test, trauma, PTSD, CPTSD, neurodiversity]
+aliases:
+  - ITQ
+  - ITQ 國際創傷問卷
+  - 國際創傷問卷
+  - International Trauma Questionnaire
+tags:
+  - test
+  - trauma
+  - PTSD
+  - CPTSD
+  - neurodiversity
+sources:
+  - 2026-07-21/ITQ Clinical Checks (Shevlin et al 2025).docx
+  - Cloitre et al. 2018
+  - Shevlin et al. 2025
+  - Baker et al. 2025
 created: 2026-05-08
-updated: 2026-07-21
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/ITQ]]
 needs-review: true
 ---
 
 # ITQ 國際創傷問卷
+
+> [!infobox] ITQ 國際創傷問卷
+> **測量對象**：ICD-11 定義的 PTSD 與 CPTSD 的症狀表現及功能損害
+> **題數**：18 題（12 症狀 + 6 功能）
+> **適用年齡**：成人
+> **開發者**：Cloitre et al. (2018)
 
 > **ITQ 系列**：[[ITQ|ITQ 標準版]] | [[ITQ#ITQ with Clinical Checks (ITQ-CC)|ITQ-CC 臨牀覈實版]] | [[ITQ-CA|ITQ-CA 兒童版]] | [[ITQ-CG|ITQ-CG 照護者版]]
 

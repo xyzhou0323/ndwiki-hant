@@ -1,18 +1,32 @@
 ---
 title: Wenn Lawson
 description: Wenn Lawson 是澳大利亞科廷大學孤獨譜系心理學家與研究者，2005 年與 Murray 和 Lesser 共同提出單一聚焦（Monotropism）理論，2025 年出版該理論 20 年來最全面的單卷處理
-aliases: [Wenn B. Lawson, Wenn Lawson, Lawson]
-tags: [person, researcher, autism, monotropism]
-sources: ["2026-07-12/DwyerEtAl2026.md"]
+aliases:
+  - Wenn B. Lawson
+  - Wenn Lawson
+  - Lawson
+tags:
+  - person
+  - researcher
+  - autism
+  - monotropism
+sources:
+  - 2026-07-12/DwyerEtAl2026.md
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Wenn-Lawson]]
 needs-review: true
 ---
 
 # Wenn Lawson
 
-孤獨譜系心理學家、研究者、講師、倡導者。1952 年出生於英國，現爲澳大利亞科廷大學（Curtin University）兼職副教授和高級研究員，美國孤獨譜系研究所（ARI）董事會成員。與 [[Dinah-Murray]] 和 Mike Lesser 於 2005 年在 *Autism* 期刊共同提出**[[單一聚焦]]**（Monotropism）理論——主張孤獨譜系心智以高度聚焦、狹窄集中的注意力模式爲基本特徵。
+> [!infobox] Wenn Lawson
+> **職業**：孤獨譜系心理學家、研究者、講師、倡導者
+> **機構**：澳大利亞科廷大學（Curtin University）
+> **主要領域**：單一聚焦（Monotropism）理論、孤獨譜系認知架構
+> **代表著作**：[[Lawson2025]]、[[DwyerEtAl2026]]
+
+Wenn Lawson 是孤獨譜系心理學家、研究者、講師和倡導者，1952 年出生於英國，現爲澳大利亞科廷大學（Curtin University）兼職副教授和高級研究員，美國孤獨譜系研究所（ARI）董事會成員。與 [[Dinah-Murray]] 和 Mike Lesser 於 2005 年在 *Autism* 期刊共同提出**[[單一聚焦]]**（Monotropism）理論——主張孤獨譜系心智以高度聚焦、狹窄集中的注意力模式爲基本特徵。
 
 Lawson 本人爲孤獨譜系者，是單一聚焦理論的核心理論家之一。著有 30 餘部著作，研究聚焦於單一聚焦認知架構如何解釋孤獨譜系的各種特徵——從感官處理、內感覺、物體恆常性到心流狀態和任務切換困難。
 

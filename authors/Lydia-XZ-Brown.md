@@ -6,18 +6,26 @@ aliases:
   - Lydia X. Z. Brown
   - Lydia-Brown
 tags:
+  - stub
   - person
   - activist
   - neurodiversity
   - disability-rights
+sources:
+  - 2026-05-07/Autistic Community and the Neurodiversity Movement機翻雙語.pdf
 created: 2026-05-08
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Lydia-XZ-Brown]]
 needs-review: true
 ---
 
 # Lydia X. Z. Brown
 
-孤獨譜系自我倡權者、殘障權利律師、行動者。與 Shain M. Neumeier 共同領導了反對 Judge Rotenberg Center（JRC）電擊"治療"的廢除運動（Kapp 2020 第14章）。
+> [!infobox] Lydia X. Z. Brown
+> **職業**：孤獨譜系自我倡權者、殘障權利律師、行動者
+> **主要領域**：殘障權利、反對 JRC 電擊"治療"的廢除運動
+
+Lydia X. Z. Brown 是孤獨譜系自我倡權者、殘障權利律師和行動者，與 Shain M. Neumeier 共同領導了反對 Judge Rotenberg Center（JRC）電擊"治療"的廢除運動（Kapp 2020 第14章）。
 
 ## 相關活動
 
@@ -36,3 +44,4 @@ JRC 使用電擊裝置對殘障學生（包括兒童）實施行爲控制。Brow
 - [[神經多樣性運動]] — JRC 廢除運動
 - [[Shain-M-Neumeier]] — JRC 廢除運動的共同領導者
 - [[Steven-Kapp]] — 運動史記錄者（Kapp 2020 第14章）
+

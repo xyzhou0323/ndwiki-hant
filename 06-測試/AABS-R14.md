@@ -1,23 +1,42 @@
 ---
 title: AABS-R14
 description: AASPIRE 孤獨譜系耗竭量表修訂版（AABS-R14, AASPIRE Autistic Burnout Scale – Revised）是一份經 CBPR 方法開發的標準化工具，用於識別和測量慢性孤獨譜系耗竭，含 14 道症狀題及附加項目，經 AASPIRE 授權在本站發佈
-aliases: [AABS-R14, 孤獨譜系耗竭量表修訂版, AASPIRE Autistic Burnout Scale – Revised, Autistic Burnout Scale, AASPIRE 耗竭量表]
-tags: [test, burnout, autism, neurodiversity, AASPIRE]
+aliases:
+  - AABS-R14
+  - 孤獨譜系耗竭量表修訂版
+  - AASPIRE Autistic Burnout Scale – Revised
+  - Autistic Burnout Scale
+  - AASPIRE 耗竭量表
+tags:
+  - test
+  - burnout
+  - autism
+  - neurodiversity
+  - AASPIRE
+sources:
+  - Nicolaidis et al. 2025
+  - Raymaker et al. 2026
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/AABS-R14]]
 needs-review: true
 ---
 
 # AASPIRE 孤獨譜系耗竭量表修訂版 (AABS-R14)
 
+> [!infobox] AASPIRE 孤獨譜系耗竭量表修訂版 (AABS-R14)
+> **測量對象**：慢性孤獨譜系耗竭
+> **題數**：14 道症狀題（另有附加項目不計入總分）
+> **適用年齡**：孤獨譜系成年人（伴或不伴智力障礙）
+> **開發者**：AASPIRE 成果項目團隊（CBPR 方法）
+
 **AABS-R14**（AASPIRE Autistic Burnout Scale – Revised，14 項）是由 [[AASPIRE]] 成果項目團隊採用社區參與式研究（CBPR）方法開發的標準化量表，用於識別和測量慢性[[孤獨譜系耗竭]]。該量表有直接報告版本（自評）和照護者報告版本（他評）兩種形式，適用於伴有或不伴有智力障礙的孤獨譜系成年人，也可用於其他需要認知無障礙調查工具的人羣。
 
 > **本站測試**：[AABS-R14 中文免費測試](https://neuroxyz.cn/tests/aabsr14.html)
 > 
 > **版權聲明**：[AASPIRE](https://aaspire.org/) 孤獨譜系耗竭量表修訂版可在非商業、臨牀和研究場合免費使用，使用時需註明出處。修改、改編或盈利性使用需經 AASPIRE 授權。許可諮詢請聯繫 [[Christina-Nicolaidis]] 和 AASPIRE：info@aaspire.org。本站已取得 AASPIRE 授權翻譯和發佈完整量表內容。
->
->   **中文版提示**：頁面中文由XyZ依據2025年AASPIRE文件翻譯，尚未經過獨立信效度驗證。本站不保存您的數據，因此未納入不計分的研究附加題，若您願意參加研究，請訪問微信小程序“NeuroXYZ”。
+> 
+>  **中文版提示**：頁面中文由XyZ依據2025年AASPIRE文件翻譯，尚未經過獨立信效度驗證。本站不保存您的數據，因此未納入不計分的研究附加題，若您願意參加研究，請訪問微信小程序“NeuroXYZ”。
 
 ## 開發背景
 

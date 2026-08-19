@@ -17,7 +17,7 @@ sources:
   - 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf
 doi: 10.1159/000523723
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 zh-hans: [[wiki/works/Dwyer2022]]
 needs-review: true
@@ -25,21 +25,23 @@ needs-review: true
 
 # Dwyer (2022) — 神經多樣性方法羣
 
+> [!infobox] Dwyer (2022)
+> **作者**：[[Patrick-Dwyer]]
+> **出版年份**：2022
+> **類型**：期刊論文
+> **許可**：CC BY-NC，PMCID: PMC9261839
+> **翻譯**：腦腦空間 NeuroBridge（Admin、Guillotine、XyZ 翻譯，Rossa、Alexander 審校）
+> **備註**：作者單位：Patrick Dwyer（加州大學戴維斯分校，心智與大腦中心 & 心理學系）；2022 年 2 月 22 日在線發表（2021 年 8 月收稿，12 月接受）
+
 引用：Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. [https://doi.org/10.1159/000523723](https://doi.org/10.1159/000523723)
 
-
-**作者**：[[Patrick-Dwyer|Patrick Dwyer]]（加州大學戴維斯分校，心智與大腦中心 & 心理學系）
-**期刊**：*Human Development*，第 66 卷，第 2 期，第 73–92 頁
-**DOI**：[10.1159/000523723](https://doi.org/10.1159/000523723)
-**發表**：2022 年 2 月 22 日在線發表（2021 年 8 月收稿，12 月接受）
-**開放獲取**：CC BY-NC，PMCID: PMC9261839
-**翻譯**：腦腦空間 NeuroBridge（Admin、Guillotine、XyZ 翻譯，Rossa、Alexander 審校）
+Dwyer (2022) 在 *Human Development* 發表的理論論文首次系統梳理"神經多樣性方法羣"（複數）的內涵、與強社會模型的爭論及適用範圍爭議，並基於互動主義/生態殘障觀爲發展研究者提供實踐建議。
 
 ## 作者立場
 
 Dwyer 自我認同爲孤獨譜系者（已獲正式診斷），並認同自己是神經多樣性運動的一員。這一身份立場對本文所表達的觀點產生了影響。作者特別感謝 [[Robert-Chapman]] 審閱本文並提出使用複數形式 "neurodiversity approaches" 的建議。
 
-## 核心論點
+## 主要論點
 
 本文是神經多樣性研究從社羣話語進入學術領域的關鍵過渡文獻。Dwyer 主張：**不存在單一的“神經多樣性方法”，而是存在多個方法組成的“神經多樣性方法羣”（neurodiversity approaches）**——不同倡導者和研究者對其內涵有實質性分歧，應當被理解爲庫恩意義上的“範式”：難以定義、通過範例相似性來識別、行動導向且規範性。
 
@@ -53,7 +55,7 @@ Dwyer 自我認同爲孤獨譜系者（已獲正式診斷），並認同自己�
 | **神經多樣性方法羣（範式）** | 關於如何對待人類神經認知多樣性的理論視角與規範性主張——**本文的核心討論對象** |
 | **神經多樣性運動** | 倡導神經殊異有障人士權利與福祉的行動主義運動 |
 
-## 核心立場：互動主義/生態的中間道路
+## 立場：互動主義/生態的中間道路
 
 ### 問題：強社會模型的死衚衕
 

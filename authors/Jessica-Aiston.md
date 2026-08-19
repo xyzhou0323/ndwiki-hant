@@ -1,16 +1,30 @@
 ---
 title: Jessica Aiston
 description: Jessica Aiston 是倫敦瑪麗女王大學藝術學院博士後研究員，研究興趣驅動的孤獨譜系溝通、批評話語分析與社交媒體，參與 Wellcome Trust 資助的"親和空間中的孤獨譜系"項目
-aliases: [Jessica Aiston, Aiston]
-tags: [author, autism, neurodiversity, communication, methodology]
-sources: [2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md]
+aliases:
+  - Jessica Aiston
+  - Aiston
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - communication
+  - methodology
+sources:
+  - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Jessica-Aiston]]
 needs-review: true
 ---
 
 # Jessica Aiston
+
+> [!infobox] Jessica Aiston
+> **職業**：博士後研究助理
+> **機構**：倫敦瑪麗女王大學藝術學院
+> **主要領域**：孤獨譜系溝通、批評話語分析與社交媒體
+> **代表著作**：[[AistonEtAl2025]]
 
 Jessica Aiston 是倫敦瑪麗女王大學（Queen Mary University of London）藝術學院的博士後研究助理，參與 Wellcome Trust 資助項目"親和空間中的孤獨譜系"（Autism in Affinity Spaces）。她的研究涵蓋批評話語研究、社交媒體、在線厭女症以及孤獨譜系興趣驅動溝通。其工作發表於 *Critical Discourse Studies*、*Journal for Discourse Studies*、*Modern Languages Open* 等期刊。
 

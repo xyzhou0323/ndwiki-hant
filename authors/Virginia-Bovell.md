@@ -1,16 +1,27 @@
 ---
 title: Virginia Bovell
 description: Virginia Bovell 是英國孤獨譜系倫理學者，牛津大學博士，以對預防與治癒孤獨譜系是否具有道德合法性的系統性倫理分析著稱，超越"治療 vs 接受"的抽象對峙
-aliases: [Virginia Bovell]
-tags: [author, neurodiversity, autism, ethics]
-sources: ["2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md"]
+aliases:
+  - Virginia Bovell
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - ethics
+sources:
+  - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Virginia-Bovell]]
 needs-review: true
 ---
 
 # Virginia Bovell
+
+> [!infobox] Virginia Bovell
+> **職業**：孤獨譜系倫理學者、社會政策研究者
+> **主要領域**：孤獨譜系預防與治癒的倫理分析、干預倫理
+> **代表著作**：[[ChapmanBovell2022]]、[[RosqvistEtAl2020]]
 
 英國社會政策研究者（原倫敦政治經濟學院），因照顧孤獨譜系兒子而放棄有薪工作後轉而從事孤獨譜系倫理研究。2015 年獲牛津大學博士學位，論文題目爲《預防和/或治癒孤獨譜系是否是道德上合法的追求？》。
 

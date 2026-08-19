@@ -1,11 +1,24 @@
 ---
 title: 廣泛性要求迴避
 description: 廣泛性要求迴避（Pervasive Demand Avoidance, PDA）是孤獨譜系中的一個特徵剖面，以對日常要求的極端迴避和以社交策略作爲迴避手段爲標誌——其核心驅動因素被認爲是高度焦慮，而非蓄意違抗
-aliases: [PDA, Pathological Demand Avoidance, 廣泛性要求迴避, 極端需求迴避, 需求迴避剖面, PDA剖面, EDA, Extreme Demand Avoidance, 廣泛性要求迴避，病理性需求迴避]
-tags: [concept, autism, neurodiversity]
-sources: [2026-05-14/What-is-PDA-booklet-website-v2.1.pdf]
+aliases:
+  - PDA
+  - Pathological Demand Avoidance
+  - 廣泛性要求迴避
+  - 極端需求迴避
+  - 需求迴避剖面
+  - PDA剖面
+  - EDA
+  - Extreme Demand Avoidance
+  - 廣泛性要求迴避，病理性需求迴避
+tags:
+  - concept
+  - autism
+  - neurodiversity
+sources:
+  - 2026-05-14/What-is-PDA-booklet-website-v2.1.pdf
 created: 2026-05-14
-updated: 2026-06-18
+updated: 2026-08-12
 zh-hans: [[wiki/05-诊断与现象/PDA]]
 needs-review: true
 ---
@@ -20,7 +33,7 @@ PDA 的概念最早由英國發展心理學家 Elizabeth Newson 在 1980 年代�
 
 PDA Society 將 PDA 描述爲孤獨譜系的一種特徵，意味着 PDA 個體共享孤獨譜系障礙的核心特徵（持續性社交溝通困難和受限/重複行爲模式），同時額外呈現一系列與要求迴避相關的獨特特徵。
 
-## 核心特徵
+## 主要特徵
 
 根據 PDA Society 的定義，PDA 剖面的關鍵特徵包括：
 

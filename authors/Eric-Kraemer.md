@@ -1,16 +1,30 @@
 ---
 title: Eric Kraemer
 description: Eric Kraemer 在耶魯獲哲學學士、布朗大學獲哲學博士，曾任教於內布拉斯加大學林肯分校和威斯康星大學拉克羅斯分校，研究心靈哲學、認識論和醫學倫理學
-aliases: [Eric Kraemer, E. Kraemer]
-tags: [author, philosophy, epistemology, philosophy-of-mind, medical-ethics, autism]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Eric Kraemer
+  - E. Kraemer
+tags:
+  - author
+  - philosophy
+  - epistemology
+  - philosophy-of-mind
+  - medical-ethics
+  - autism
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Eric-Kraemer]]
 needs-review: true
 ---
 
 # Eric Kraemer
+
+> [!infobox] Eric Kraemer
+> **職業**：哲學家
+> **主要領域**：心靈哲學、認識論、醫學倫理學
+> **代表著作**：[[KraemerKraemer2026]]
 
 Eric Kraemer 在耶魯大學（Yale University）獲得哲學學士學位，在布朗大學（Brown University）獲得哲學博士學位。他曾任教於內布拉斯加大學林肯分校（University of Nebraska-Lincoln）和威斯康星大學拉克羅斯分校（University of Wisconsin-La Crosse）。他在多個領域發表過文章，目前的研究領域包括心靈哲學、認識論和醫學倫理學。
 

@@ -1,12 +1,19 @@
 ---
 title: Kefallinou, Symeonidou & Meijer (2020) - 理解融合教育的價值與實施：文獻綜述
 description: Kefallinou 等發表於 Prospects 的綜述——梳理融合教育對學生學業成就、社會融合和長期發展的積極影響，識別學校變革、課堂實踐和社區參與三層面的成功實施策略
-aliases: ["Kefallinou(2020)", Kefallinou Symeonidou Meijer 2020, KefallinouSymeonidouMeijer2020]
-tags: [work, education, disability]
-sources: [2026-05-12/Kefallinou_Symeonidou_Meijer_2020.pdf]
+aliases:
+  - Kefallinou(2020)
+  - Kefallinou Symeonidou Meijer 2020
+  - KefallinouSymeonidouMeijer2020
+tags:
+  - work
+  - education
+  - disability
+sources:
+  - 2026-05-12/Kefallinou_Symeonidou_Meijer_2020.pdf
 doi: 10.1007/s11125-020-09500-2
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 citation_apa: "Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. Prospects, 49, 135-152. https://doi.org/10.1007/s11125-020-09500-2"
 zh-hans: [[wiki/works/KefallinouSymeonidouMeijer2020]]
 needs-review: true
@@ -14,14 +21,18 @@ needs-review: true
 
 # Kefallinou, Symeonidou & Meijer (2020) — 理解融合教育的價值與實施
 
+> [!infobox] Kefallinou (2020)
+> **作者**：Anthoula Kefallinou、Simoni Symeonidou、Cor J. W. Meijer（歐洲特殊需要與融合教育發展署；塞浦路斯大學教育系）
+> **出版年份**：2020
+> **類型**：期刊論文
+> **發表**：2020 年 9 月在線發表
+> **關鍵詞**：inclusive education; academic outcomes; social inclusion; inclusive practice
+
 引用：Kefallinou, A., Symeonidou, S., & Meijer, C. J. W. (2020). Understanding the value of inclusive education and its implementation: A review of the literature. *Prospects*, 49, 135-152. [https://doi.org/10.1007/s11125-020-09500-2](https://doi.org/10.1007/s11125-020-09500-2)
 
-**作者**：Anthoula Kefallinou、Simoni Symeonidou、Cor J. W. Meijer（歐洲特殊需要與融合教育發展署；塞浦路斯大學教育系）
-**期刊**：*Prospects*（UNESCO IBE），第 49 卷，135–152 頁
-**發表**：2020 年 9 月在線發表
-**關鍵詞**：inclusive education; academic outcomes; social inclusion; inclusive practice
+Kefallinou et al. (2020) 綜述梳理融合教育對學生學業成就、社會融合和長期發展的積極影響，並識別學校變革、課堂實踐和社區參與三個層面的成功實施策略。
 
-## 核心論證
+## 主要論證
 
 本文旨在彌合融合教育的**人權話語與實施證據**之間的鴻溝。作者指出：融合教育的倫理和道德正當性已穩固確立，但"人權的論述尚未找到其在融合實施中的明確含義"——關於融合教育價值的論證往往依賴道德和規範原則，而非實證證據。
 

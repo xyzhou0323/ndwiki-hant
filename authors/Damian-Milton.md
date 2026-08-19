@@ -1,22 +1,38 @@
 ---
 title: Damian Milton
 description: Damian E. M. Milton 是肯特大學 Tizard 中心智力與發展殘障高級講師，雙向同理心問題（Double Empathy Problem）原創者，參與式孤獨譜系研究集體（PARC）主席，National Autistic Society 顧問，Routledge 批判孤獨譜系研究手冊聯合主編，250 篇出版物
-aliases: [Damian Milton, Damian E. M. Milton, Milton, 戴米安·米爾頓]
-tags: [author, neurodiversity, autism, foundational, double-empathy, participatory-research]
-sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf, 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Damian Milton
+  - Damian E. M. Milton
+  - Milton
+  - 戴米安·米爾頓
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - foundational
+  - double-empathy
+  - participatory-research
+sources:
+  - 2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Damian-Milton]]
 needs-review: true
 ---
 
 # Damian Milton
 
-**身份**：孤獨譜系學者 × [[雙向同理心問題]]原創者 × 參與式研究倡導者 × PARC 主席
-**機構**：肯特大學（University of Kent），Tizard 中心（SSPSSR）
-**職稱**：智力與發展殘障高級講師（Senior Lecturer in Intellectual and Developmental Disabilities），2017 年至今
-**兼任**：National Autistic Society（NAS）孤獨譜系知識與專長顧問
-**主頁**：[kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian](https://www.kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian)
+> [!infobox] Damian Milton
+> **職業**：孤獨譜系學者 × [[雙向同理心問題]]原創者 × 參與式研究倡導者 × PARC 主席
+> **機構**：肯特大學（University of Kent）Tizard 中心（SSPSSR）
+> **主要領域**：雙向同理心問題、參與式孤獨譜系研究、批判孤獨譜系研究
+> **代表著作**：[[Milton2012]]、[[Milton2022]]、[[KilgallonEtAl2026]]
+> **職稱**：智力與發展殘障高級講師（Senior Lecturer in Intellectual and Developmental Disabilities），2017 年至今；National Autistic Society（NAS）孤獨譜系知識與專長顧問
+> **主頁**：[kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian](https://www.kent.ac.uk/school-of-psychology/tizard/people/1419/milton-damian)
+
+Damian E. M. Milton 是肯特大學 Tizard 中心智力與發展殘障高級講師，雙向同理心問題（Double Empathy Problem）原創者，參與式孤獨譜系研究集體（PARC）主席，National Autistic Society 顧問，Routledge 批判孤獨譜系研究手冊聯合主編，250 篇出版物。
 
 ## 學術定位
 

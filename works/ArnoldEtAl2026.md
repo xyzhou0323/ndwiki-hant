@@ -1,12 +1,21 @@
 ---
 title: Arnold et al. (2026) - 掩飾的概念化與方法論問題
 description: 對孤獨譜系掩飾研究的系統性批判綜述，揭示概念混亂和方法論缺陷——術語不一致、CAT-Q 效度存疑、樣本代表性有限
-aliases: ["Arnold(2026)", Arnold et al. 2026, "Camouflaging and autism: Conceptualisation and methodological issues"]
-tags: [work, neurodiversity, autism, methodology, critique]
-sources: [2026-05-09/arnold-et-al-2026-camouflaging-and-autism-conceptualisation-and-methodological-issues.pdf]
+aliases:
+  - Arnold(2026)
+  - Arnold et al. 2026
+  - Camouflaging and autism: Conceptualisation and methodological issues
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - methodology
+  - critique
+sources:
+  - 2026-05-09/arnold-et-al-2026-camouflaging-and-autism-conceptualisation-and-methodological-issues.pdf
 doi: 10.1177/13623613261420085
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflaging and autism: Conceptualisation and methodological issues. Autism, 30(5), 1131–1146. https://doi.org/10.1177/13623613261420085"
 zh-hans: [[wiki/works/ArnoldEtAl2026]]
 needs-review: true
@@ -14,14 +23,18 @@ needs-review: true
 
 # Arnold et al. (2026) — 掩飾的概念化與方法論問題
 
+> [!infobox] Arnold (2026)
+> **作者**：Arnold
+> **出版年份**：2026
+> **類型**：期刊論文
+> **性質**：Review（綜述）
+> **立場聲明**：第一作者爲孤獨譜系人士，常在日常生活中進行掩飾
+
 引用：Arnold, W. M., Bitsika, V., & Sharpley, C. F. (2026). Camouflaging and autism: Conceptualisation and methodological issues. *Autism, 30*(5), 1131–1146. [https://doi.org/10.1177/13623613261420085](https://doi.org/10.1177/13623613261420085)
 
-**作者**：Wayne M Arnold, Vicki Bitsika, Christopher F Sharpley（University of New England, Australia）
-**發表**：2026年，*Autism* 期刊（SAGE）
-**性質**：Review（綜述）
-**立場聲明**：第一作者爲孤獨譜系人士，常在日常生活中進行掩飾
+Arnold et al. (2026) 是對孤獨譜系掩飾研究的系統性批判綜述，揭示該領域在概念化和方法論兩個層面的系統性缺陷——術語不一致、CAT-Q 效度存疑、樣本代表性有限。
 
-## 核心問題
+## 主要問題
 
 對 389 篇掩飾研究（2000–2025）進行批判性綜述，揭示該領域在**概念化**和**方法論**兩個層面的系統性缺陷——"一個領域在用不同的詞研究不同的事"。
 

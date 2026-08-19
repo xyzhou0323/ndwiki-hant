@@ -16,7 +16,7 @@ tags:
 sources:
   - 2026-07-03/UNICEF-Innocenti-2026-Learning-is-For-Everyone.md
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 citation_apa: "Hinostroza Castillo, U., Vindrola, S., Ghawi, G., & Guillou, H. (2026). Learning is for everyone: Paving the pathway for inclusive education for children with disabilities. UNICEF Office of Strategy and Evidence – Innocenti."
 zh-hans: [[wiki/works/UNICEF2026]]
 needs-review: true
@@ -24,12 +24,16 @@ needs-review: true
 
 # UNICEF (2026) — Learning is For Everyone
 
+> [!infobox] UNICEF (2026)
+> **作者**：Ursula Hinostroza Castillo、Stefania Vindrola、Ghalia Ghawi、Hélène Guillou（UNICEF Innocenti）
+> **出版年份**：2026
+> **類型**：全球綜合研究報告（混合方法）
+> **研究項目**：Learning is For Everyone（LiFE）
+> **國家**：柬埔寨、吉布提、吉爾吉斯斯坦、莫桑比克、尼泊爾、尼日爾、巴拉圭
+
 引用：Hinostroza Castillo, U., Vindrola, S., Ghawi, G., & Guillou, H. (2026). *Learning is for everyone: Paving the pathway for inclusive education for children with disabilities.* UNICEF Office of Strategy and Evidence – Innocenti.
 
-**作者**：Ursula Hinostroza Castillo、Stefania Vindrola、Ghalia Ghawi、Hélène Guillou（UNICEF Innocenti）
-**類型**：全球綜合研究報告（混合方法）
-**研究項目**：Learning is For Everyone（LiFE）
-**國家**：柬埔寨、吉布提、吉爾吉斯斯坦、莫桑比克、尼泊爾、尼日爾、巴拉圭
+本報告是 UNICEF Innocenti 的 LiFE 全球研究報告，綜合七國證據，圍繞 Recognize-Reform-Resource 三大支柱提出融合教育系統性改革建議，強調理解殘障的社會模型和人權模型、通用學習設計、教師培訓變革和可及性基礎設施投入。
 
 ## 定位
 

@@ -1,11 +1,21 @@
 ---
 title: Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學
 description: Jami L. Anderson 與 Simon Cushing 合編的哲學論文集，收錄 11 篇分析哲學傳統的論文，探討孤獨譜系在社會政治理論、倫理學、認識論、形而上學和法學等領域引發的問題——每篇論文至少有一位作者具備孤獨譜系直接個人經驗
-aliases: ["Anderson(2026)", Contemporary Philosophy of Autism, AndersonCushingEds2026, CPA 2026]
-tags: [work, edited-volume, neurodiversity, autism, philosophy]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Anderson(2026)
+  - Contemporary Philosophy of Autism
+  - AndersonCushingEds2026
+  - CPA 2026
+tags:
+  - work
+  - edited-volume
+  - neurodiversity
+  - autism
+  - philosophy
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Anderson, J. L., & Cushing, S. (Eds.). (2026). Contemporary Philosophy of Autism. Routledge."
 zh-hans: [[wiki/works/AndersonCushingEds2026]]
 needs-review: true
@@ -13,13 +23,14 @@ needs-review: true
 
 # Anderson & Cushing Eds. (2026) — 當代孤獨譜系哲學
 
+> [!infobox] Anderson (2026)
+> **作者**：Anderson
+> **出版年份**：2026
+> **類型**：專著/編著
+
 引用：Anderson, J. L., & Cushing, S. (Eds.). (2026). *Contemporary Philosophy of Autism*. Routledge.
 
-**編者**：[[Jami-L-Anderson|Jami L. Anderson]]（University of Michigan-Flint）、[[Simon-Cushing|Simon Cushing]]（University of Michigan-Flint）
-
-**出版**：Routledge (2026)
-
-**類型**：編輯論文集
+本卷是 Anderson 與 Cushing 編集的第二部孤獨譜系哲學論文集，收錄 11 篇分析哲學傳統的論文，探討孤獨譜系在社會政治理論、倫理學、認識論、形而上學和法學等領域引發的問題。
 
 ## 簡介
 

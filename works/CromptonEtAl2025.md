@@ -1,8 +1,8 @@
 ---
 title: Crompton et al. (2025) - 孤獨譜系與非孤獨譜系者內及跨羣體信息傳遞
 description: Crompton 等人以更大樣本（N=311）三站點預註冊複製研究重新檢驗神經類型匹配對信息傳遞和融洽度的影響，複製了孤獨譜系與非孤獨譜系鏈信息傳遞無差異的結果，但未發現跨神經類型信息傳遞的選擇性衰減，非孤獨譜系鏈融洽度更高、診斷告知改善融洽度
-aliases: ["Crompton(2025)"]
 aliases:
+  - Crompton(2025)
   - CromptonEtAl2025
   - Information transfer within and between autistic and non-autistic people
   - 孤獨譜系與非孤獨譜系者內及跨羣體信息傳遞
@@ -16,7 +16,7 @@ tags:
 sources:
   - 2026-06-24/CromptonEtAl2025-InformationTransferWithinAndBetween.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 citation_apa: "Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthimiou, T. N., Ropar, D., Sasson, N. J., Lages, M., & Fletcher-Watson, S. (2025). Information transfer within and between autistic and non-autistic people. Autism. Advance online publication."
 zh-hans: [[wiki/works/CromptonEtAl2025]]
 needs-review: true
@@ -24,12 +24,16 @@ needs-review: true
 
 # Crompton et al. (2025) — 孤獨譜系與非孤獨譜系者內及跨羣體信息傳遞
 
+> [!infobox] Crompton (2025)
+> **作者**：[[Catherine-Crompton]]、[[Noah-Sasson]]、[[Sue-Fletcher-Watson]]
+> **出版年份**：2025
+> **類型**：預註冊複製與擴展研究（Registered Report）
+> **站點**：愛丁堡大學、諾丁漢大學、得克薩斯大學達拉斯分校
+> **備註**：Registered Report，Stage 1 於 2022-08-23 原則接收；在線發表 2025-05-14
+
 引用：Crompton, C. J., Foster, S. J., Wilks, C. E. H., Dodd, M., Efthimiou, T. N., Ropar, D., Sasson, N. J., Lages, M., & Fletcher-Watson, S. (2025). Information transfer within and between autistic and non-autistic people. *Autism*. Advance online publication.
 
-**作者**：[[Catherine-Crompton]]、Sarah J. Foster、Charlotte E. H. Wilks、Michelle Dodd、Themis N. Efthimiou、Danielle Ropar、[[Noah-Sasson]]、Martin Lages、[[Sue-Fletcher-Watson]]
-**發表**：*Autism*（Registered Report，Stage 1 於 2022-08-23 原則接收；在線發表 2025-05-14）
-**類型**：預註冊複製與擴展研究（Registered Report）
-**站點**：愛丁堡大學、諾丁漢大學、得克薩斯大學達拉斯分校
+Crompton et al. (2025) 以更大樣本（N=311）在三個站點進行預註冊複製研究，重新檢驗神經類型匹配對信息傳遞和融洽度的影響：複製了孤獨譜系與非孤獨譜系鏈信息傳遞無差異的結果，但未發現跨神經類型信息傳遞的選擇性衰減，且非孤獨譜系鏈融洽度更高、診斷告知改善融洽度。
 
 ## 定位
 
@@ -79,7 +83,7 @@ needs-review: true
 3. **代際效應**：2025 年參與者更年輕，孤獨譜系年輕一代可能更常進行掩飾（masking），從而在跨神經類型互動中表現更好
 4. **交叉性**：多種身份的匹配/錯配（性別、種族等）可能同時影響互動，單一操控神經類型不足以捕捉完整圖景
 
-### 核心貢獻
+### 主要貢獻
 
 - 在更大、更多樣化的樣本中**再次否定**孤獨譜系者存在普遍性溝通缺陷的診斷假設
 - 揭示跨神經類型互動的複雜性——神經類型匹配並非唯一影響變量

@@ -1,21 +1,36 @@
 ---
 title: de Hooge (2019)
 description: "Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity — 以情境知識認識論系統分析阿斯至上主義意識形態，揭示其與白人男性氣質、經濟價值論和 Lyotard 後現代主義的深層關聯"
-aliases: ["de Hooge(2019)", de Hooge (2019), Binary Boys, deHooge2019]
-tags: [work, autism, critique, intersectionality]
+aliases:
+  - de Hooge(2019)
+  - de Hooge (2019)
+  - Binary Boys
+  - deHooge2019
+tags:
+  - work
+  - autism
+  - critique
+  - intersectionality
 citation_apa: "de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. Disability Studies Quarterly, 39(1). https://doi.org/10.18061/dsq.v39i1.6461"
-sources: [2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md]
+sources:
+  - 2026-05-10/Binary Boys Autism, Aspie Supremacy and PostHumanist Normativity.md
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-12
 zh-hans: [[wiki/works/deHooge2019]]
 needs-review: true
 ---
 
 # de Hooge (2019)—二元男孩：孤獨譜系、阿斯至上主義與後/人文主義規範性
 
+> [!infobox] de Hooge (2019)
+> **作者**：de Hooge
+> **出版年份**：2019
+
 引用：de Hooge, A. N. (2019). Binary Boys: Autism, Aspie Supremacy and Post/Humanist Normativity. _Disability Studies Quarterly_, _39_(1). [https://doi.org/10.18061/dsq.v39i1.6461](https://doi.org/10.18061/dsq.v39i1.6461)
 
-## 核心論點
+de Hooge (2019) 以情境知識認識論對阿斯至上主義（Aspie Supremacy）進行首篇系統性學術分析，揭示其與白人男性氣質、經濟價值論和 Lyotard 後現代主義的深層關聯。
+
+## 主要論點
 
 本文是[[阿斯至上主義]]（Aspie Supremacy）的首篇系統性學術分析。de Hooge 採用情境知識（situated knowledges）認識論，論證阿斯至上主義由兩個相互交織的面向構成：**反孤獨譜系的健全中心主義**（anti-autistic ableism）和**阿斯主體的優越性建構**——後者以白人氣質（whiteness）、男性氣質（masculinity）和經濟價值（economic worthiness）爲定義標準。
 

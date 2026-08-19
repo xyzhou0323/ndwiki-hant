@@ -1,11 +1,26 @@
 ---
 title: Anderson (2026) - 大象與犰狳：反孤獨譜系意識形態形成反孤獨譜系世界
 description: Jami L. Anderson 追溯應用行爲分析（ABA）意識形態從 Løvaas 到當代 EIBI 的譜系——論證 ABA 行業通過妖魔化孤獨譜系兒童、傳播反孤獨譜系敘事（糞便塗抹、暴力自傷、調節行爲污名化），積極構建了它聲稱要保護孤獨譜系兒童免受的反孤獨譜系世界；最終追溯至 JRC 電擊裝置（GED）的法律鬥爭，並以 RFK Jr. 2025 年的言論說明同一反孤獨譜系修辭至今仍在循環
-aliases: ["Anderson(2026)", Anderson2026, "Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World"]
-tags: [work, chapter, autism, ABA, ideology, Løvaas, EIBI, ableism, GED, JRC, critique]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Anderson(2026)
+  - Anderson2026
+  - Elephants and Armadillos: Anti-Autistic Ideology Forms an Anti-Autistic World
+tags:
+  - work
+  - chapter
+  - autism
+  - ABA
+  - ideology
+  - Løvaas
+  - EIBI
+  - ableism
+  - GED
+  - JRC
+  - critique
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Anderson, J. L. (2026). Elephants and armadillos: Anti-autistic ideology forms an anti-autistic world. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 112–143). Routledge."
 zh-hans: [[wiki/works/Anderson2026]]
 needs-review: true
@@ -13,17 +28,19 @@ needs-review: true
 
 # Anderson (2026) — 大象與犰狳：反孤獨譜系意識形態形成反孤獨譜系世界
 
+> [!infobox] Anderson (2026)
+> **作者**：[[Jami-L-Anderson]]
+> **出版年份**：2026
+> **類型**：書章
+> **收錄於**：[[AndersonCushingEds2026]]，第 7 章
+
 引用：Anderson, J. L. (2026). Elephants and armadillos: Anti-autistic ideology forms an anti-autistic world. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 112–143). Routledge.
 
-**作者**：[[Jami-L-Anderson|Jami L. Anderson]]（University of Michigan-Flint）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 7 章
-
-**類型**：論文集章節
+本章追溯應用行爲分析（ABA）意識形態從 Løvaas 到當代 EIBI 的譜系，論證 ABA 行業通過妖魔化孤獨譜系兒童、傳播反孤獨譜系敘事（糞便塗抹、暴力自傷、調節行爲污名化），積極構建了它聲稱要保護孤獨譜系兒童免受的反孤獨譜系世界，並追溯至 JRC 電擊裝置（GED）的法律鬥爭。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 Anderson 使用 **"大象與犰狳"類比**（源自 ABA 批評者 Frank Klein）作爲貫穿全章的分析框架：
 

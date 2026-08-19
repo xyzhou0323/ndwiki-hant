@@ -1,11 +1,20 @@
 ---
 title: Srinivasan (2025) - 神經多樣性 2.0
 description: Hari Srinivasan 發表於 Research in Autism 的框架論文——整合殘障研究、社會正義與政策的跨學科洞見，提出"神經多樣性 2.0"框架，反對社會 vs 醫學、自主 vs 依賴、優勢 vs 缺陷的虛假二元，倡導從被動便利措施轉向主動系統設計
-aliases: ["Srinivasan(2025)", Srinivasan 2025, Neurodiversity 2.0, ND 2.0]
-tags: [work, neurodiversity, disability, foundational, framework]
+aliases:
+  - Srinivasan(2025)
+  - Srinivasan 2025
+  - Neurodiversity 2.0
+  - ND 2.0
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - foundational
+  - framework
 doi: 10.1016/j.reia.2025.202652
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-12
 citation_apa: "Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. https://doi.org/10.1016/j.reia.2025.202652"
 zh-hans: [[wiki/works/Srinivasan2025]]
 needs-review: true
@@ -13,13 +22,16 @@ needs-review: true
 
 # Srinivasan (2025) — 神經多樣性 2.0
 
+> [!infobox] Srinivasan (2025)
+> **作者**：[[Hari-Srinivasan|Hari Srinivasan]]（範德堡大學神經科學博士生，孤獨譜系自我倡權者）
+> **出版年份**：2025
+> **發表**：2025 年 9 月，*Research in Autism* 第 127 卷，202652
+> **DOI**：10.1016/j.reia.2025.202652
+> **開放獲取**：Creative Commons
+
 引用：Srinivasan, H. (2025). Neurodiversity 2.0: Harnessing cross-disciplinary disability insights. Research in Autism, 127, Article 202652. [https://doi.org/10.1016/j.reia.2025.202652](https://doi.org/10.1016/j.reia.2025.202652)
 
-
-**作者**：[[Hari-Srinivasan|Hari Srinivasan]]（範德堡大學神經科學博士生，孤獨譜系自我倡權者）
-**發表**：2025年9月，*Research in Autism* 第 127 卷，202652
-**DOI**：[10.1016/j.reia.2025.202652](https://doi.org/10.1016/j.reia.2025.202652)
-**開放獲取**：Creative Commons
+Srinivasan (2025) 在 *Research in Autism* 發表的框架論文整合殘障研究、社會正義與政策的跨學科洞見，提出“神經多樣性 2.0”框架，反對社會 vs 醫學、自主 vs 依賴、優勢 vs 缺陷的虛假二元，倡導從被動便利措施轉向主動系統設計。
 
 ## 本文要點
 

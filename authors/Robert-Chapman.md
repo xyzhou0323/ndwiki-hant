@@ -1,16 +1,34 @@
 ---
 title: Robert Chapman
 description: Robert Chapman 是 Sheffield Hallam 大學教育與孤獨譜系高級講師、神經殊異哲學家，《正常帝國》和《神經多樣性簡論》的作者，神經殊異馬克思主義（Neurodivergent Marxism）的提出者，知名博客 Critical Neurodiversity 的作者
-aliases: [羅伯特·查普曼, Chapman]
-tags: [author, neurodiversity, foundational, political]
-sources: [books/正常帝國-Empire of Normality (Robert Chapman).epub, books/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)機翻DeepSeek.epub, 2026-05-09/josp.12456.pdf, 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf, 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md, 2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md]
+aliases:
+  - 羅伯特·查普曼
+  - Chapman
+tags:
+  - author
+  - neurodiversity
+  - foundational
+  - political
+sources:
+  - books/正常帝國-Empire of Normality (Robert Chapman).epub
+  - books/神經多樣性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)機翻DeepSeek.epub
+  - 2026-05-09/josp.12456.pdf
+  - 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf
+  - 2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md
+  - 2026-07-05/MullerKosmarovChapman2026-NeurodiversityAndPhilosophy.md
 created: 2026-05-07
-updated: 2026-07-05
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Robert-Chapman]]
 needs-review: true
 ---
 
 # Robert Chapman
+
+> [!infobox] Robert Chapman
+> **職業**：神經殊異哲學家、神經多樣性研究學者、教育與孤獨譜系高級講師
+> **機構**：Sheffield Hallam 大學
+> **主要領域**：神經多樣性哲學、神經殊異馬克思主義、常態範式批判
+> **代表著作**：[[Chapman2023]]、[[ChapmanFletcherWatson2026]]、[[Chapman2021]]
 
 Robert Chapman（羅伯特·查普曼）是神經殊異哲學家、神經多樣性研究學者，以將馬克思主義分析與神經多樣性運動結合而聞名。他是[[神經殊異馬克思主義]]（Neurodivergent Marxism）的提出者，現任 Sheffield Hallam 大學教育與孤獨譜系高級講師（Senior Lecturer in Education and Autism）。此前曾任教於布里斯托大學（University of Bristol）、倫敦國王學院（King's College London）和埃塞克斯大學（University of Essex）。
 

@@ -1,22 +1,35 @@
 ---
 title: Anita Thapar
 description: Anita Thapar 是卡迪夫大學醫學院榮譽教授（MBBCh PhD, FMedSci, FLSW, CBE），臨牀科學家，Rutter's Child and Adolescent Psychiatry 聯合主編，曾任 NHS England ADHD 工作組主席與威爾士政府神經多樣性部長諮詢組聯合主席，ADHD 與神經發育障礙遺傳流行病學權威
-aliases: [Anita Thapar, Thapar]
-tags: [author, adhd, neurodiversity, child-psychiatry, policy]
-sources: ["2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf"]
+aliases:
+  - Anita Thapar
+  - Thapar
+tags:
+  - author
+  - adhd
+  - neurodiversity
+  - child-psychiatry
+  - policy
+sources:
+  - 2026-05-09/SonugaBarke_Thapar_2021_Neurodiversity_concept_clinicians_scientists.pdf
 created: 2026-05-09
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Anita-Thapar]]
 needs-review: true
 ---
 
 # Anita Thapar
 
-**身份**：臨牀科學家 × 兒童青少年精神病學家 × ADHD 遺傳流行病學權威 × 神經多樣性政策顧問
-**機構**：卡迪夫大學（Cardiff University），醫學院（School of Medicine）
-**職稱**：榮譽教授（Honorary Professor）
-**資歷**：MBBCh PhD, FMedSci, FLSW, CBE
-**主頁**：[profiles.cardiff.ac.uk/honorary/thapar](https://profiles.cardiff.ac.uk/honorary/thapar)
+> [!infobox] Anita Thapar
+> **職業**：臨牀科學家 × 兒童青少年精神病學家 × ADHD 遺傳流行病學權威 × 神經多樣性政策顧問
+> **機構**：卡迪夫大學（Cardiff University），醫學院（School of Medicine）
+> **主要領域**：ADHD 與神經發育障礙遺傳流行病學、青少年心理健康
+> **代表著作**：[[SonugaBarkeThapar2021]]
+> **職稱**：榮譽教授（Honorary Professor）
+> **學位**：MBBCh PhD, FMedSci, FLSW, CBE
+> **主頁**：[profiles.cardiff.ac.uk/honorary/thapar](https://profiles.cardiff.ac.uk/honorary/thapar)
+
+Anita Thapar 是卡迪夫大學醫學院榮譽教授（MBBCh PhD, FMedSci, FLSW, CBE），臨牀科學家，Rutter's Child and Adolescent Psychiatry 聯合主編，曾任 NHS England ADHD 工作組主席與威爾士政府神經多樣性部長諮詢組聯合主席，ADHD 與神經發育障礙遺傳流行病學權威。
 
 ## 學術定位
 

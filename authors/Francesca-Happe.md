@@ -1,19 +1,33 @@
 ---
 title: Francesca Happé
 description: Francesca Happé 是倫敦國王學院 SGDP 中心教授，英國孤獨譜系認知神經科學權威，弱中央統合假說的提出者與可分解三元假說的共同提出者
-aliases: [Francesca Happé, Happé, Francesca Happe, Happe]
-tags: [author, autism, foundational]
-sources: [2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf, 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
+aliases:
+  - Francesca Happé
+  - Happé
+  - Francesca Happe
+  - Happe
+tags:
+  - author
+  - autism
+  - foundational
+sources:
+  - 2026-05-09/Frith_HappeFrith Changes in autism concept.Prefinal.pdf
+  - 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf
 created: 2026-05-09
-updated: 2026-05-17
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Francesca-Happe]]
 needs-review: true
 ---
 
 # Francesca Happé
 
-**身份**：King's College London 社會、遺傳與發展精神病學中心（SGDP Centre）教授，英國國家衛生研究院（NIHR）生物醫學研究中心研究員
-**研究領域**：孤獨譜系認知神經科學、發展精神病理學
+> [!infobox] Francesca Happé
+> **職業**：孤獨譜系認知神經科學研究者 × 教授 × 英國國家衛生研究院（NIHR）生物醫學研究中心研究員
+> **機構**：倫敦國王學院（King's College London）社會、遺傳與發展精神病學中心（SGDP Centre）
+> **主要領域**：孤獨譜系認知神經科學、發展精神病理學
+> **代表著作**：[[HappeFrith2020]]、[[SarrEtAl2024]]
+
+Francesca Happé 是倫敦國王學院 SGDP 中心教授，英國孤獨譜系認知神經科學權威，弱中央統合假說的提出者與可分解三元假說的共同提出者。
 
 ## 主要理論貢獻
 

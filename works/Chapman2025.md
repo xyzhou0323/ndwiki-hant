@@ -1,25 +1,33 @@
 ---
 title: Chapman (2025) - 是的，每個人都可以是神經殊異者
 description: Robert Chapman 在 Neurodiversity and Capitalism 博客的概念分析——"神經殊異"不存在人數上限，"如果人人都是ND那就沒有人是"的論調缺乏原則性依據
-aliases: [Yes it really is possible for everyone to be neurodivergent, Chapman 2025 blog]
-tags: [work, neurodiversity, critique]
-aliases: ["Chapman(2025)"]
-sources: [blog-posts/Yes, it really is possible for everyone to be neurodivergent.md]
+aliases:
+  - Chapman(2025)
+  - Yes it really is possible for everyone to be neurodivergent
+  - Chapman 2025 blog
+tags:
+  - work
+  - neurodiversity
+  - critique
+sources:
+  - blog-posts/Yes, it really is possible for everyone to be neurodivergent.md
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-12
 zh-hans: [[wiki/works/Chapman2025]]
 needs-review: true
 ---
 
 # Chapman (2025) — 是的，每個人都可以是神經殊異者
 
+> [!infobox] Chapman (2025)
+> **作者**：[[Robert-Chapman]]
+> **類型**：博客文章
+
 引用：Chapman, R. (2025, April 4). Yes, it really is possible for everyone to be neurodivergent. *Neurodiversity and Capitalism*. [https://substack.com/@neurodiversityandcapitalism/p-160531383](https://substack.com/@neurodiversityandcapitalism/p-160531383)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]
-**發表**：*Neurodiversity and Capitalism* (Substack), 2025-04-04
-**類型**：博客文章
+Chapman (2025) 論證"神經殊異"概念不存在人數上限——"如果人人都是 ND 那就沒有人是"的論調缺乏原則性依據，且"語義稀釋"批評本質上是意識形態性的。
 
-## 核心論證
+## 論證
 
 Chapman 直接回應近年來對神經多樣性的一項常見批評：隨着越來越多人自我認同爲神經殊異者，"神經殊異"這個概念被認爲正在失去意義。批評者常說"如果人人都是神經殊異，那就沒有人是"，彷彿這是一個自明的概念真理。Chapman 論證這一直覺是錯誤的。
 

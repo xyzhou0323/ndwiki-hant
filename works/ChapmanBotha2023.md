@@ -1,12 +1,22 @@
 ---
 title: Chapman & Botha (2023) — 神經殊異知情治療
 description: 將神經多樣性範式首次形式化應用於心理治療框架——提出去病理化的神經殊異知情治療三原則：功能障礙的關係性重構、神經殊異接納與自尊、治療師的認識謙遜
-aliases: ["Chapman(2023)", ChapmanBotha2023, Neurodivergence-informed therapy, 神經多樣性知情治療]
-tags: [work, neurodiversity, autism, clinical, foundational]
-sources: [2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf]
+aliases:
+  - Chapman(2023)
+  - ChapmanBotha2023
+  - Neurodivergence-informed therapy
+  - 神經多樣性知情治療
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - clinical
+  - foundational
+sources:
+  - 2026-05-11/Develop Med Child Neuro - 2022 - Chapman.pdf
 doi: 10.1111/dmcn.15384
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-12
 citation_apa: "Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. Developmental Medicine & Child Neurology, 65(3), 310–317. https://doi.org/10.1111/dmcn.15384"
 zh-hans: [[wiki/works/ChapmanBotha2023]]
 needs-review: true
@@ -14,19 +24,21 @@ needs-review: true
 
 # Chapman & Botha (2023) — 神經殊異知情治療
 
+> [!infobox] Chapman (2023)
+> **作者**：[[Robert-Chapman]]、[[Monique-Botha]]
+> **出版年份**：2023
+> **類型**：期刊論文
+> **備註**：受邀綜述，在線發表於 2022 年；敘事綜述/理論論文；作者單位：Robert Chapman（Sheffield Hallam University）、Monique Botha（University of Stirling）
+
 引用：Chapman, R., & Botha, M. (2023). Neurodivergence-informed therapy. *Developmental Medicine & Child Neurology, 65*(3), 310–317. [https://doi.org/10.1111/dmcn.15384](https://doi.org/10.1111/dmcn.15384)
 
-**作者**：[[Robert-Chapman|Robert Chapman]]（Sheffield Hallam University）、[[Monique-Botha|Monique Botha]]（University of Stirling）
+Chapman & Botha (2023) 首次將神經多樣性範式形式化地應用於心理治療框架，提出去病理化的神經殊異知情治療（neurodivergence-informed therapy）三原則：功能障礙的關係性重構、神經殊異接納與自尊，以及治療師的認識謙遜。
 
-**發表**：*Developmental Medicine & Child Neurology* (2023), 65(3):310–317（受邀綜述，在線發表於 2022 年）
-
-**類型**：敘事綜述 / 理論論文
-
-## 核心論點
+## 主要論點
 
 本文首次嘗試將**神經多樣性範式**形式化地應用於心理治療框架，提出**神經殊異知情治療**（neurodivergence-informed therapy）的概念藍圖。作者綜合行動者文獻與多學科學術文獻（哲學、心理學、社會學、殘障研究），聚焦孤獨譜系但不限於孤獨譜系，爲將神經多樣性範式納入臨牀實踐提供三條核心原則。
 
-## 三條核心原則
+## 三條基本原則
 
 ### 一、功能障礙的關係性重構
 

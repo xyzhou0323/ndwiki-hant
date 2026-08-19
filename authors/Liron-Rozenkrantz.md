@@ -1,19 +1,32 @@
 ---
 title: Liron Rozenkrantz
 description: Liron Rozenkrantz 是 MIT 腦與認知科學系研究者，孤獨譜系增強理性系統綜述的第一作者——發現孤獨譜系者比神經典型者更少受七類認知偏誤影響，將增強理性定位爲認知優勢
-aliases: [Liron Rozenkrantz, Rozenkrantz]
-tags: [author, autism, neurodiversity, review]
-sources: [2026-05-14/Enhanced rationality in autism spectrum disorder.pdf]
+aliases:
+  - Liron Rozenkrantz
+  - Rozenkrantz
+tags:
+  - stub
+  - author
+  - autism
+  - neurodiversity
+  - review
+sources:
+  - 2026-05-14/Enhanced rationality in autism spectrum disorder.pdf
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Liron-Rozenkrantz]]
 needs-review: true
 ---
 
 # Liron Rozenkrantz
 
-**身份**：MIT 腦與認知科學系 / McGovern 腦研究所研究者
-**研究領域**：孤獨譜系決策與推理、認知偏誤、增強理性
+> [!infobox] Liron Rozenkrantz
+> **職業**：研究者
+> **機構**：MIT 腦與認知科學系 / McGovern 腦研究所
+> **主要領域**：孤獨譜系決策與推理、認知偏誤、增強理性
+> **代表著作**：[[RozenkrantzEtAl2021]]
+
+Liron Rozenkrantz 是 MIT 腦與認知科學系研究者，孤獨譜系增強理性系統綜述的第一作者，發現孤獨譜系者比神經典型者更少受七類認知偏誤影響，將增強理性定位爲認知優勢。
 
 ## Related
 
@@ -27,3 +40,4 @@ needs-review: true
 - [[CastenEtAl2023|Casten et al. (2023)]] — 增強理性的另一面：高認知能力在 ASD 中可能增加自殺意念風險
 - [[神經多樣性]] — 論文采納的理論框架：將增強理性定位爲認知優勢而非"更少的非理性"
 - [[神經多樣性範式]] — 將認知差異視爲變異而非缺陷的理論基礎
+

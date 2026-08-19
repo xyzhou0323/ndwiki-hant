@@ -1,11 +1,19 @@
 ---
 title: Dekker (2023) - 對"神經多樣性"術語起源的更正
 description: Martijn Dekker 於 2023 年發佈的博客文章，撤回此前對 Judy Singer 爲術語創造者的認可，並公佈 Tony Langdon 1996 年 10 月在 InLv 中使用"neurological diversity"的檔案證據——這是已知最早的完整表述
-aliases: ["Dekker(2023)", A correction on the origin of the term neurodiversity, Dekker 2023]
-tags: [work, neurodiversity, autism, historical]
-sources: [2026-07-12/Dekker2023-NeurodiversityOrigin.md]
+aliases:
+  - Dekker(2023)
+  - A correction on the origin of the term neurodiversity
+  - Dekker 2023
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Dekker2023-NeurodiversityOrigin.md
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-08-12
 citation_apa: "Dekker, M. (2023, July 13). A correction on the origin of the term 'neurodiversity'. InLv. https://www.inlv.org/2023/07/13/neurodiversity-origin.html"
 zh-hans: [[wiki/works/Dekker2023]]
 needs-review: true
@@ -13,17 +21,20 @@ needs-review: true
 
 # Dekker (2023) — 對"神經多樣性"術語起源的更正
 
+> [!infobox] Dekker (2023)
+> **作者**：[[Martijn-Dekker]]
+> **類型**：博客文章 / 個人歷史證詞
+> **備註**：Martijn "McDutchie" Dekker，InLv 創始人
+
 引用：Dekker, M. (2023, July 13). A correction on the origin of the term 'neurodiversity'. InLv. [https://www.inlv.org/2023/07/13/neurodiversity-origin.html](https://www.inlv.org/2023/07/13/neurodiversity-origin.html)
 
-**作者**：Martijn "McDutchie" [[Martijn-Dekker|Dekker]]（InLv 創始人）
-**發表**：2023 年 7 月 13 日，發佈於 inlv.org
-**類型**：博客文章 / 個人歷史證詞
+Dekker (2023) 的博客文章撤回此前對 Judy Singer 爲"神經多樣性"術語創造者的認可，並公佈 Tony Langdon 於 1996 年 10 月在 InLv 郵件列表中使用"neurological diversity"的檔案證據——這是已知最早的完整表述。
 
 ## 概述
 
 2023 年 7 月，InLv（Independent Living Listserv）創始人 Martijn Dekker 發表博客文章，公開撤回了他此前在 [[Kapp2020|Kapp (2020)]] 中認可 Judy Singer 爲"神經多樣性"術語創造者的說法。Dekker 公佈了其 InLv 私人存檔中的決定性證據：Tony Langdon 於 **1996 年 10 月 29 日** 在 InLv 郵件列表中使用並完整闡述了"neurological diversity of people"概念——比 [[Singer2017|Singer 的 1998 年論文]]早約兩年。
 
-## 核心證據：Langdon 1996 年帖子
+## 證據：Langdon 1996 年帖子
 
 Dekker 在文章中全文轉載了 Tony Langdon 1996 年 10 月 29 日發送至 InLv 郵件列表的帖子（經 Langdon 和討論參與者 Phil Schwarz 授權）。該帖子的關鍵段落爲：
 

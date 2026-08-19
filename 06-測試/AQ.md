@@ -1,16 +1,34 @@
 ---
 title: AQ
 description: 孤獨譜系商數（AQ, Autism Spectrum Quotient）是 Baron-Cohen 等人於2001年開發的50題自填篩查工具，用於評估成人及16歲以上個體的孤獨譜系特徵，涵蓋五個子維度
-aliases: [AQ, Autism Spectrum Quotient, 孤獨譜系商數, 孤獨譜系商數問卷, AQ量表]
-tags: [test, autism, neurodiversity]
-sources: [Baron-Cohen et al. 2001, Ruzich et al. 2015, Jacobson & Truax 1991, Baker et al. 2024]
+aliases:
+  - AQ
+  - Autism Spectrum Quotient
+  - 孤獨譜系商數
+  - 孤獨譜系商數問卷
+  - AQ量表
+tags:
+  - test
+  - autism
+  - neurodiversity
+sources:
+  - Baron-Cohen et al. 2001
+  - Ruzich et al. 2015
+  - Jacobson & Truax 1991
+  - Baker et al. 2024
 created: 2026-05-11
-updated: 2026-05-14
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/AQ]]
 needs-review: true
 ---
 
 # AQ
+
+> [!infobox] AQ
+> **測量對象**：成人及 16 歲以上個體的孤獨譜系相關特徵程度
+> **題數**：50 題
+> **適用年齡**：16 歲及以上
+> **開發者**：Baron-Cohen et al. (2001)
 
 **孤獨譜系商數**（Autism Spectrum Quotient，AQ）是由 Simon Baron-Cohen 等人於2001年開發的 50 題自填式篩查問卷，用於量化成人及 16 歲以上個體與[[孤獨譜系障礙]]相關的特徵程度。AQ 是應用最廣泛的孤獨譜系特質自評量表之一，能有效捕捉類孤獨譜系特徵水平，有助於區分孤獨譜系個體與非孤獨譜系個體，但最佳劃界分尚未達成一致的共識（Baron-Cohen et al., 2001; Broadbent et al., 2013; Woodbury-Smith et al., 2005）。
 

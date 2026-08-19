@@ -1,12 +1,21 @@
 ---
 title: Rozenkrantz et al. (2021) - 孤獨譜系中的增強理性
 description: 綜述孤獨譜系者在推理、判斷和決策中表現出的"增強理性"——更客觀、更少偏誤的信息加工，涵蓋七類認知偏誤的實證證據及候選機制
-aliases: ["Rozenkrantz(2021)", Rozenkrantz 2021, Rozenkrantz et al. 2021, Enhanced rationality in ASD]
-tags: [work, autism, neurodiversity, review]
-sources: [2026-05-14/Enhanced rationality in autism spectrum disorder.pdf]
+aliases:
+  - Rozenkrantz(2021)
+  - Rozenkrantz 2021
+  - Rozenkrantz et al. 2021
+  - Enhanced rationality in ASD
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - review
+sources:
+  - 2026-05-14/Enhanced rationality in autism spectrum disorder.pdf
 doi: 10.1016/j.tics.2021.05.004
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-12
 citation_apa: "Rozenkrantz, L., D'Mello, A. M., & Gabrieli, J. D. E. (2021). Enhanced rationality in autism spectrum disorder. Trends in Cognitive Sciences, 25(8), 685–696. https://doi.org/10.1016/j.tics.2021.05.004"
 zh-hans: [[wiki/works/RozenkrantzEtAl2021]]
 needs-review: true
@@ -14,12 +23,16 @@ needs-review: true
 
 # Rozenkrantz et al. (2021) — 孤獨譜系中的增強理性
 
+> [!infobox] Rozenkrantz (2021)
+> **作者**：Rozenkrantz
+> **出版年份**：2021
+> **類型**：期刊論文
+> **機構**：MIT 腦與認知科學系 / McGovern 腦研究所
+> **方法**：綜述
+
 引用：Rozenkrantz, L., D'Mello, A. M., & Gabrieli, J. D. E. (2021). Enhanced rationality in autism spectrum disorder. *Trends in Cognitive Sciences*, 25(8), 685–696. [https://doi.org/10.1016/j.tics.2021.05.004](https://doi.org/10.1016/j.tics.2021.05.004)
 
-**作者**：Liron Rozenkrantz、Anila M. D'Mello、John D. E. Gabrieli（MIT 腦與認知科學系 / McGovern 腦研究所）
-**期刊**：*Trends in Cognitive Sciences*，第 25 卷，第 8 期，第 685–696 頁
-**DOI**：[10.1016/j.tics.2021.05.004](https://doi.org/10.1016/j.tics.2021.05.004)
-**方法**：綜述
+Rozenkrantz 等綜述了孤獨譜系者在推理、判斷和決策中表現出的"增強理性"——比神經典型者更客觀、更少受認知偏誤影響的信息加工，涵蓋七類認知偏誤的實證證據及候選機制。
 
 ## 本文要點
 

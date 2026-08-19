@@ -1,15 +1,35 @@
 ---
 title: AQ-EQ-SQ10
 description: 聯合量表（AQ-EQ-SQ10，也稱 Q30）整合了 AQ10 孤獨譜系商數、EQ10 同理心商數與 SQ10 系統化商數三個簡短量表，用於快速評估個體的大腦類型
-aliases: [Q30, 簡版聯合量表, AQ-EQ-SQ, SQ10-EQ10-AQ10, Q30聯合量表, AQ10-EQ10-SQ10]
-tags: [test, autism, empathy, systemizing, neurodiversity]
+aliases:
+  - Q30
+  - 簡版聯合量表
+  - AQ-EQ-SQ
+  - SQ10-EQ10-AQ10
+  - Q30聯合量表
+  - AQ10-EQ10-SQ10
+tags:
+  - test
+  - autism
+  - empathy
+  - systemizing
+  - neurodiversity
+sources:
+  - Allison et al. 2012
+  - Greenberg et al. 2018
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/AQ-EQ-SQ10]]
 needs-review: true
 ---
 
 # AQ-EQ-SQ10 聯合量表
+
+> [!infobox] AQ-EQ-SQ10 聯合量表
+> **測量對象**：個體的大腦類型（綜合 AQ10、EQ10 與 SQ10 三個量表）
+> **題數**：30 題（各子量表 10 題）
+> **適用年齡**：16 歲及以上
+> **開發者**：劍橋大學孤獨譜系研究中心 (ARC)
 
 **Q30 聯合量表**整合了三個簡短量表——**AQ10**（孤獨譜系商數）、**EQ10**（同理心商數）和 **SQ10**（系統化商數）——綜合評估個體的**大腦類型**。
 

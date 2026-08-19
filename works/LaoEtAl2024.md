@@ -1,12 +1,18 @@
 ---
 title: Lao et al. (2024) - 中文孤獨症術語的社羣感知調查
 description: Lao 等人的實證研究通過 1016 名中文使用者的在線調查，測量了 13 個孤獨症相關術語的偏好、冒犯度和熟悉度，發現神經多樣性、譜系和孤獨症譜系障礙最受偏好，而閉娃、高/低功能和自閉症最不受偏好，不同身份羣體間及羣體內部均無統一態度
-aliases: ["Lao(2024)", Lao et al. 2024, Unveiling the Perceptions of Autism-Related Chinese Language]
-tags: [work, autism, neurodiversity, methodology]
-sources: []
+aliases:
+  - Lao(2024)
+  - Lao et al. 2024
+  - Unveiling the Perceptions of Autism-Related Chinese Language
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - methodology
 doi: 10.1089/aut.2024.0001
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 citation_apa: "Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X., & Zhu, H. (2024). Unveiling the perceptions of autism-related Chinese language among the autism community and the general public. Autism in Adulthood. https://doi.org/10.1089/aut.2024.0001"
 zh-hans: [[wiki/works/LaoEtAl2024]]
 needs-review: true
@@ -14,12 +20,16 @@ needs-review: true
 
 # Lao et al. (2024) — 中文孤獨症術語的社羣感知調查
 
+> [!infobox] Lao (2024)
+> **作者**：[[Uchong-Lao]]、[[Jiamin-Dai]]、[[Fengjing-Liang]]、[[Qian-Chen]]、[[Wei-Cao]]、[[Yueran-Pan]]、[[Xiaobing-Zou]]、[[Huilin-Zhu]]
+> **出版年份**：2024
+> **類型**：實證研究（在線調查 + 聚類分析）
+> **發表**：2024 年 11 月 21 日，*Autism in Adulthood*（Mary Ann Liebert / SAGE）
+> **預註冊**：Open Science Framework
+
 引用：Lao, U., Dai, J., Liang, F., Chen, Q., Cao, W., Pan, Y., Zou, X., & Zhu, H. (2024). Unveiling the perceptions of autism-related Chinese language among the autism community and the general public. *Autism in Adulthood*. [https://doi.org/10.1089/aut.2024.0001](https://doi.org/10.1089/aut.2024.0001)
 
-**作者**：[[Uchong-Lao|Uchong Lao (劉宇翀)]]、[[Jiamin-Dai|Jiamin Dai (戴嘉敏)]]、[[Fengjing-Liang|Fengjing Liang (梁鳳晶)]]、[[Qian-Chen|Qian Chen (陳謙)]]、[[Wei-Cao|Wei Cao (曹偉)]]、[[Yueran-Pan|Yueran Pan (潘悅然)]]、[[Xiaobing-Zou|Xiaobing Zou (鄒小兵)]]（通訊作者）、[[Huilin-Zhu|Huilin Zhu (朱繪霖)]]（通訊作者）
-**發表**：2024 年 11 月 21 日，*Autism in Adulthood*（Mary Ann Liebert / SAGE）
-**類型**：實證研究（在線調查 + 聚類分析）
-**預註冊**：Open Science Framework
+Lao 等人的實證研究通過 1016 名中文使用者的在線調查，測量了 13 個孤獨症相關術語的偏好、冒犯度和熟悉度，發現神經多樣性、譜系和孤獨症譜系障礙最受偏好，閉娃、高/低功能和自閉症最不受偏好，且不同身份羣體間及羣體內部均無統一態度。
 
 ## 定位
 
@@ -55,7 +65,7 @@ needs-review: true
 
 總體四分類：10.4% 爲孤獨譜系障礙者（n = 106）、30.6% 爲孤獨症雙親（n = 311）、43.4% 爲非孤獨譜系障礙者（n = 441）、13.9% 爲專業人員（n = 141），另有 3.8% 未定義身份（n = 38）。
 
-## 3. 核心發現
+## 3. 主要發現
 
 ### 整體偏好
 

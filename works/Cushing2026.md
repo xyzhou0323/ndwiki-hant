@@ -1,11 +1,24 @@
 ---
 title: Cushing (2026) - 事情的本質並非如此：爲孤獨譜系消除主義辯護
 description: Simon Cushing 從反本質主義出發得出消除主義結論，逐一考察三種反本質主義但反消除主義的選項（MPC 種類、共享政治身份、序列集體），論證根據現有證據消除"孤獨譜系"這一概念是最合理的立場，並揭示 Chapman 實爲長期消除主義者
-aliases: ["Cushing(2026)", Cushing2026, "The Thing of It Isn't: Defending Eliminativism About Autism"]
-tags: [work, chapter, autism, metaphysics, eliminativism, anti-essentialism, natural-kinds, social-construction, self-diagnosis]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Cushing(2026)
+  - Cushing2026
+  - The Thing of It Isn't: Defending Eliminativism About Autism
+tags:
+  - work
+  - chapter
+  - autism
+  - metaphysics
+  - eliminativism
+  - anti-essentialism
+  - natural-kinds
+  - social-construction
+  - self-diagnosis
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Cushing, S. (2026). The thing of it isn't: Defending eliminativism about autism. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 206–225). Routledge."
 zh-hans: [[wiki/works/Cushing2026]]
 needs-review: true
@@ -13,17 +26,20 @@ needs-review: true
 
 # Cushing (2026) — 事情的本質並非如此：爲孤獨譜系消除主義辯護
 
+> [!infobox] Cushing (2026)
+> **作者**：[[Simon-Cushing]]
+> **出版年份**：2026
+> **類型**：書章
+> **備註**：Simon Cushing（University of Michigan-Flint）
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 11 章
+
 引用：Cushing, S. (2026). The thing of it isn't: Defending eliminativism about autism. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 206–225). Routledge.
 
-**作者**：[[Simon-Cushing|Simon Cushing]]（University of Michigan-Flint）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 11 章
-
-**類型**：論文集章節
+Cushing (2026) 從反本質主義出發得出消除主義結論：Cushing 逐一考察三種反本質主義但反消除主義的選項（MPC 種類、共享政治身份、序列集體），論證根據現有證據消除"孤獨譜系"這一概念是最合理的立場，並揭示 Chapman 實爲長期消除主義者。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 Cushing 從對孤獨譜系的反本質主義出發，得出消除主義結論：**沒有本質，孤獨譜系作爲診斷就毫無意義**。他以兩個 Reddit 帖子中的自我診斷爭論開篇——雙方都是關於孤獨譜系的實在論者，分歧僅在於誰最有資格識別其出現——這指向了一個更深層的問題：哪些現象是相關的還不明確。
 

@@ -1,12 +1,20 @@
 ---
 title: Ne'eman & Pellicano (2022) - 神經多樣性作爲政治
 description: Ari Ne'eman 和 Elizabeth Pellicano (2022) 在 Human Development 發表的評論，分析神經多樣性運動內部的分歧、術語爭議及政治風險
-aliases: ["Ne'eman(2022)", Neurodiversity as Politics, Ne'eman & Pellicano 2022]
-tags: [work, neurodiversity, disability, political]
-sources: [2026-05-07/Ne'eman和Pellicano - 2022 - Neurodiversity as Politics.pdf]
+aliases:
+  - Ne'eman(2022)
+  - Neurodiversity as Politics
+  - Ne'eman & Pellicano 2022
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - political
+sources:
+  - 2026-05-07/Ne’eman和Pellicano - 2022 - Neurodiversity as Politics.pdf
 doi: 10.1159/000524277
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Ne'eman, A., & Pellicano, E. (2022). Neurodiversity as politics. Human Development, 66(2), 149-157. https://doi.org/10.1159/000524277"
 zh-hans: [[wiki/works/NeemanPellicano2022]]
 needs-review: true
@@ -14,14 +22,17 @@ needs-review: true
 
 # Ne'eman & Pellicano (2022) — 神經多樣性作爲政治
 
+> [!infobox] Ne'eman (2022)
+> **作者**：Ne'eman
+> **出版年份**：2022
+> **類型**：評論文章（英文-中文雙語版）
+> **機構**：Ari Ne'eman（哈佛大學健康政策博士項目）；Elizabeth Pellicano（麥考瑞大學/倫敦大學學院）
+
 引用：Ne'eman, A., & Pellicano, E. (2022). Neurodiversity as politics. Human Development, 66(2), 149-157. [https://doi.org/10.1159/000524277](https://doi.org/10.1159/000524277)
 
+Ne'eman 與 Pellicano 在 Human Development 發表的評論分析神經多樣性運動內部的分歧、術語爭議及政治風險，論證神經多樣性首先是一場政治運動，其術語、邊界和操作化都應服務於這一定位。
 
-**作者**：Ari Ne'eman（哈佛大學健康政策博士項目）和 Elizabeth Pellicano（麥考瑞大學/倫敦大學學院）
-**發表**：*Human Development* (2022), 66:149–157
-**類型**：評論文章（英文-中文雙語版）
-
-## 核心論證
+## 主要論證
 
 Ne'eman 和 Pellicano 分析神經多樣性運動內部的重要分歧，並提出解決路徑。他們強調：神經多樣性首先是一場政治運動——其術語、邊界和操作化都應服務於這一政治定位。
 

@@ -1,20 +1,32 @@
 ---
 title: Jiamin Dai
 description: 戴嘉敏（Jiamin Dai）具有精神病學教育背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，參與了中國孤獨症術語感知調查與中文自閉症話語解構研究
-aliases: [Jiamin Dai, Dai, 戴嘉敏]
-tags: [author, autism]
-sources: []
+aliases:
+  - Jiamin Dai
+  - Dai
+  - 戴嘉敏
+tags:
+  - stub
+  - author
+  - autism
+sources:
+  - papers/2026-LaoEtAl-DialoguingWithAutism.md
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Jiamin-Dai]]
 needs-review: true
 ---
 
 # Jiamin Dai
 
-**中文名**：戴嘉敏
-**任職**：廣東省醫學科學院、廣東省人民醫院心身醫學科（廣州），南方醫科大學
-**角色**：科研工作者
+> [!infobox] Jiamin Dai
+> **職業**：科研工作者
+> **機構**：廣東省醫學科學院、廣東省人民醫院心身醫學科（廣州）、南方醫科大學
+> **主要領域**：中文孤獨症話語研究
+> **代表著作**：[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：戴嘉敏
+
+戴嘉敏（Jiamin Dai）具有精神病學教育背景，Lao et al. (2024) 和 Lao et al. (2026) 合著者，參與了中國孤獨症術語感知調查與中文自閉症話語解構研究。
 
 ## Related
 
@@ -27,3 +39,4 @@ needs-review: true
 
 - [[Uchong-Lao|劉宇翀]] — 合作者
 - [[Huilin-Zhu|朱繪霖]] — 合作者
+

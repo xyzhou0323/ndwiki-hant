@@ -1,24 +1,44 @@
 ---
 title: Lawson (2025) - 孤獨譜系與單一聚焦：醫療及其他從業者須知
 description: Wenn Lawson 2025 年專著——以注意力隧道、三條支流、六大認知優勢系統闡述單一聚焦理論，並以內部視角對比其他孤獨譜系理論，附從業者實用工具清單
-aliases: ["Lawson(2025)", Lawson (2025), Autism and Being Monotropic, 單一聚焦從業者指南]
-tags: [work, autism, monotropism, neurodiversity, practitioners, applied, book]
-authors: [Wenn B. Lawson]
-sources: [2026-05-20/books/Lawson - 2025 - Autism and Being Monotropic - What Medical and Other Practitioners Need to Know.pdf]
+aliases:
+  - Lawson(2025)
+  - Lawson (2025)
+  - Autism and Being Monotropic
+  - 單一聚焦從業者指南
+tags:
+  - work
+  - autism
+  - monotropism
+  - neurodiversity
+  - practitioners
+  - applied
+  - book
+authors:
+  - Wenn B. Lawson
+sources:
+  - 2026-05-20/books/Lawson - 2025 - Autism and Being Monotropic - What Medical and Other Practitioners Need to Know.pdf
 citation_apa: "Lawson, W. B. (2025). *Autism and being monotropic: What medical and other practitioners need to know*. Springer Nature Singapore."
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-12
 zh-hans: [[wiki/works/Lawson2025]]
 needs-review: true
 ---
 
 # Lawson (2025) - 孤獨譜系與單一聚焦：醫療及其他從業者須知
 
-**引用**：Lawson, W. B. (2025). *Autism and Being Monotropic: What Medical and Other Practitioners Need to Know*. Springer Nature Singapore.
+> [!infobox] Lawson (2025)
+> **作者**：Lawson
+> **出版年份**：2025
+> **類型**：專著（Monograph）
+> **系列**：SpringerBriefs in Modern Perspectives on Disability Research
+> **頁數**：141 頁，15 張插圖
 
-**類型**：專著（Monograph）| **系列**：SpringerBriefs in Modern Perspectives on Disability Research | **頁數**：141 頁，15 張插圖
+引用：Lawson, W. B. (2025). *Autism and Being Monotropic: What Medical and Other Practitioners Need to Know*. Springer Nature Singapore.
 
-## 核心主旨
+Wenn Lawson 的專著以注意力隧道、三條支流與六大認知優勢系統闡述單一聚焦理論，並從孤獨譜系內部視角對比其他主流理論，爲醫療及聯合健康從業者附上實用工具清單。
+
+## 主要主旨
 
 本書由[[單一聚焦]]理論的共同提出者[[Wenn-Lawson|Wenn Lawson]]撰寫，爲醫療及聯合健康從業者提供單一聚焦（Monotropism）理論的系統概述。作爲唯一由孤獨譜系者**從內部提出**的孤獨譜系認知理論，單一聚焦將孤獨譜系重新定義爲一種**注意力分配方式的根本差異**——而非缺陷集合。
 

@@ -1,11 +1,20 @@
 ---
 title: Walker (2021) - 神經酷兒異端
 description: Nick Walker (2021) 的文集——神經多樣性範式、孤獨譜系賦權與後常態可能性的筆記，收錄了影響深遠的2014年術語定義及"神經酷兒"概念的首次提出
-aliases: ["Walker(2021)", Neuroqueer Heresies, 神經酷兒異端, "Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities"]
-tags: [work, neurodiversity, autism, foundational]
-sources: [2026-05-07/神經酷兒-Neuroqueer Heresies (Nick Walker).epub]
+aliases:
+  - Walker(2021)
+  - Neuroqueer Heresies
+  - 神經酷兒異端
+  - Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+sources:
+  - 2026-05-07/神經酷兒-Neuroqueer Heresies (Nick Walker).epub
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-12
 citation_apa: "Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press."
 zh-hans: [[wiki/works/Walker2021]]
 needs-review: true
@@ -13,13 +22,15 @@ needs-review: true
 
 # Walker (2021) — 神經酷兒異端
 
+> [!infobox] Walker (2021)
+> **作者**：[[Nick-Walker]]（California Institute of Integral Studies）
+> **出版年份**：2021
+> **類型**：文集——收錄並評註此前在 Neurocosmopolitanism 網站上發表的文章
+> **中譯**：中文-英文雙語 EPUB
+
 引用：Walker, N. (2021). Neuroqueer heresies: Notes on the neurodiversity paradigm, autistic empowerment, and postnormal possibilities. Autonomous Press.
 
-
-**作者**：[[Nick-Walker]]（California Institute of Integral Studies）
-**發表**：2021 年，Autonomous Press
-**類型**：文集——收錄並評註此前在 Neurocosmopolitanism 網站上發表的文章
-**中譯**：中文-英文雙語 EPUB
+《神經酷兒異端》是 Nick Walker (2021) 的文集，彙集其關於神經多樣性範式、孤獨譜系賦權與後常態可能性的筆記，收錄了影響深遠的 2014 年術語定義及“神經酷兒”概念的首次提出。
 
 ## 概述
 

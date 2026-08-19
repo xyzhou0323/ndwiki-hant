@@ -1,23 +1,38 @@
 ---
 title: Anders Nordahl-Hansen
 description: Anders Nordahl-Hansen 是挪威 Østfold University College 教育、ICT 與學習系教授，DeveLeP 研究組組長，特殊教育學科負責人，研究孤獨譜系、早期發展、虛擬現實幹預與替代溝通，擔任多家國際期刊編委，性別多樣性與孤獨譜系交叉研究先驅
-aliases: [Anders Nordahl-Hansen, Nordahl-Hansen, Anders Johan Nordahl-Hansen]
-tags: [author, autism, neurodiversity, gender-diversity, methodology, open-science, special-education]
-sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
+aliases:
+  - Anders Nordahl-Hansen
+  - Nordahl-Hansen
+  - Anders Johan Nordahl-Hansen
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - gender-diversity
+  - methodology
+  - open-science
+  - special-education
+sources:
+  - 2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md
 created: 2026-06-06
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Anders-Nordahl-Hansen]]
 needs-review: true
 ---
 
 # Anders Nordahl-Hansen
 
-**身份**：孤獨譜系研究者 × 特殊教育學者 × 研究組組長 × 期刊編委
-**機構**：Østfold University College（挪威哈爾登），教育、ICT 與學習系（Institutt for pedagogikk, IKT og læring），隸屬於教師教育與語言學院
-**職稱**：教授（Professor）
-**主頁**：[hiof.no/lusp/pil/personer/und-forsk-ansatte/anh](https://www.hiof.no/lusp/pil/personer/und-forsk-ansatte/anh/index.html)
-**研究組**：DeveLeP（Development Learning and Psychological Processes）——組長
-**學術管理**：特殊教育學科負責人（Fagkoordinator for Spesialpedagogikk）
+> [!infobox] Anders Nordahl-Hansen
+> **職業**：孤獨譜系研究者 × 特殊教育學者 × 研究組組長 × 期刊編委
+> **機構**：Østfold University College（挪威哈爾登），教育、ICT 與學習系（Institutt for pedagogikk, IKT og læring），隸屬於教師教育與語言學院
+> **主要領域**：孤獨譜系、早期發展、虛擬現實幹預、替代溝通、性別多樣性與孤獨譜系交叉研究
+> **代表著作**：[[ReaEtAl2024]]
+> **職稱**：教授（Professor）；特殊教育學科負責人（Fagkoordinator for Spesialpedagogikk）
+> **主頁**：[hiof.no/lusp/pil/personer/und-forsk-ansatte/anh](https://www.hiof.no/lusp/pil/personer/und-forsk-ansatte/anh/index.html)
+> **研究組**：DeveLeP（Development Learning and Psychological Processes）——組長
+
+Anders Nordahl-Hansen 是挪威 Østfold University College 教育、ICT 與學習系教授，DeveLeP 研究組組長，特殊教育學科負責人，研究孤獨譜系、早期發展、虛擬現實幹預與替代溝通，擔任多家國際期刊編委，性別多樣性與孤獨譜系交叉研究先驅。
 
 ## 學術定位
 

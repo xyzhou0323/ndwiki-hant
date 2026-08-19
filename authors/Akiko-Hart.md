@@ -1,28 +1,33 @@
 ---
 title: Akiko Hart
 description: Akiko Hart 是英國國家倖存者用戶網絡（NSUN）CEO，杜倫大學醫學人文研究所（IMH）實務教授，ISPS UK 主席，以倡導聽聲運動與神經多樣性運動建立聯盟而聞名
-aliases: [Akiko Hart]
-tags: [author, neurodiversity, hearing-voices, mental-health, mad-studies]
-sources: ["2026-05-09/0051276.pdf"]
+aliases:
+  - Akiko Hart
+tags:
+  - author
+  - neurodiversity
+  - hearing-voices
+  - mental-health
+  - mad-studies
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Akiko-Hart]]
 needs-review: true
 ---
 
 # Akiko Hart
 
-**身份**：精神健康領域的實務領導者 × 倖存者運動倡導者
-**機構**：杜倫大學（Durham University）醫學人文研究所（Institute for Medical Humanities, IMH）
-**職稱**：實務教授（Professor in Practice），2022 年 8 月起任職
-**核心角色**：
+> [!infobox] Akiko Hart
+> **職業**：精神健康領域的實務領導者 × 倖存者運動倡導者
+> **機構**：杜倫大學（Durham University）醫學人文研究所（Institute for Medical Humanities, IMH）
+> **主要領域**：聽聲運動與瘋狂研究、精神健康用戶/倖存者運動、神經多樣性與精神健康的邊界
+> **代表著作**：[[RosqvistEtAl2020]]
+> **職稱**：實務教授（Professor in Practice），2022 年 8 月起任職
+> **核心角色**：國家倖存者用戶網絡（National Survivor User Network, NSUN）CEO——2020 年上任以來將年收入和人員擴容三倍；國際精神健康歐洲（Mental Health Europe）前主任；國際心理與社會取向精神病學會（ISPS）UK 主席；National Voices 理事；英國聽聲網絡（Hearing Voices Network UK）前理事；《Lancet Psychiatry》全球精神病學委員會、NIHR BRACE 快速評估中心等機構的顧問與專家組成員
 
-- **國家倖存者用戶網絡（National Survivor User Network, NSUN）** CEO——2020年上任以來將年收入和人員擴容三倍，使 NSUN 成爲精神健康領域的主導聲音
-- **國際精神健康歐洲（Mental Health Europe）** 前主任
-- **國際心理與社會取向精神病學會（ISPS）UK** 主席
-- **National Voices** 理事
-- **英國聽聲網絡（Hearing Voices Network UK）** 前理事
-- **《Lancet Psychiatry》全球精神病學委員會**、**NIHR BRACE 快速評估中心**等機構的顧問與專家組成員
+Akiko Hart 是英國國家倖存者用戶網絡（NSUN）CEO，杜倫大學醫學人文研究所（IMH）實務教授，ISPS UK 主席，以倡導聽聲運動與神經多樣性運動建立聯盟而聞名。
 
 ## 學術與實務橋樑
 

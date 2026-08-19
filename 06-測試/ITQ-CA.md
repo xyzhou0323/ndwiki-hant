@@ -1,15 +1,34 @@
 ---
 title: ITQ-CA
 description: 國際創傷問卷兒童青少年版（ITQ-CA, International Trauma Questionnaire – Child and Adolescent）基於 ICD-11 標準，用於評估7-17歲兒童青少年的 PTSD 與 CPTSD 症狀及功能影響
-aliases: [ITQ-CA, 國際創傷問卷兒童版, 兒童創傷問卷, International Trauma Questionnaire Child and Adolescent]
-tags: [test, trauma, PTSD, CPTSD, children, neurodiversity]
+aliases:
+  - ITQ-CA
+  - 國際創傷問卷兒童版
+  - 兒童創傷問卷
+  - International Trauma Questionnaire Child and Adolescent
+tags:
+  - test
+  - trauma
+  - PTSD
+  - CPTSD
+  - children
+  - neurodiversity
+sources:
+  - Cloitre et al. 2018
+  - Ho et al. 2022
 created: 2026-05-08
-updated: 2026-07-21
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/ITQ-CA]]
 needs-review: true
 ---
 
 # ITQ-CA 創傷問卷兒童青少年版
+
+> [!infobox] ITQ-CA 創傷問卷兒童青少年版
+> **測量對象**：7-17 歲兒童青少年的 PTSD 與 CPTSD 症狀及功能影響
+> **題數**：22 題（12 症狀 + 10 功能影響）
+> **適用年齡**：7-17 歲
+> **開發者**：Cloitre et al. (2018)
 
 > **ITQ 系列**：[[ITQ|ITQ 標準版]] | [[ITQ#ITQ with Clinical Checks (ITQ-CC)|ITQ-CC 臨牀覈實版]] | [[ITQ-CA|ITQ-CA 兒童版]] | [[ITQ-CG|ITQ-CG 照護者版]]
 

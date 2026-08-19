@@ -1,12 +1,22 @@
 ---
 title: Szechy et al. (2024) - 孤獨譜系與就業挑戰：職場情境中的雙向同理心問題
 description: Szechy、Turk 與 O'Donnell 首次將雙向同理心問題（DEP）應用於職場情境，實證比較 ToM 缺陷假說與 DEP 對孤獨譜系員工行爲的解釋力——結果支持 DEP：孤獨譜系者比非孤獨譜系者更準確地理解孤獨譜系員工
-aliases: ["Szechy(2024)", SzechyEtAl2024, Autism and Employment Challenges, DEP workplace study]
-tags: [work, autism, neurodiversity, applied, methodology]
-sources: [2026-05-09/aut.2023.0046.pdf]
+aliases:
+  - Szechy(2024)
+  - SzechyEtAl2024
+  - Autism and Employment Challenges
+  - DEP workplace study
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - applied
+  - methodology
+sources:
+  - 2026-05-09/aut.2023.0046.pdf
 doi: 10.1089/aut.2023.0046
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and employment challenges: The double empathy problem and perceptions of an autistic employee in the workplace. Autism in Adulthood, 6(2), 205-217. https://doi.org/10.1089/aut.2023.0046"
 zh-hans: [[wiki/works/SzechyEtAl2024]]
 needs-review: true
@@ -14,12 +24,14 @@ needs-review: true
 
 # Szechy et al. (2024) — 孤獨譜系與就業挑戰：職場情境中的雙向同理心問題
 
+> [!infobox] Szechy (2024)
+> **作者**：[[Kathryn-Szechy|Kathryn A. Szechy]]（溫莎大學社會工作學院）、Pamela D. Turk（密歇根州衛生與公衆服務部）、Lisa A. O'Donnell（韋恩州立大學社會工作學院）
+> **出版年份**：2024
+> **類型**：期刊論文
+
 引用：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and employment challenges: The double empathy problem and perceptions of an autistic employee in the workplace. Autism in Adulthood, 6(2), 205-217. [https://doi.org/10.1089/aut.2023.0046](https://doi.org/10.1089/aut.2023.0046)
 
-
-**完整引用**：Szechy, K. A., Turk, P. D., & O'Donnell, L. A. (2024). Autism and Employment Challenges: The Double Empathy Problem and Perceptions of an Autistic Employee in the Workplace. *Autism in Adulthood*, 6(2), 205–217.
-
-**作者**：[[Kathryn-Szechy|Kathryn A. Szechy]]（溫莎大學社會工作學院）、Pamela D. Turk（密歇根州衛生與公衆服務部）、Lisa A. O'Donnell（韋恩州立大學社會工作學院）
+Szechy et al. (2024) 首次將雙向同理心問題（DEP）應用於職場情境，實證比較 ToM 缺陷假說與 DEP 對孤獨譜系員工行爲的解釋力，結果顯示孤獨譜系者比非孤獨譜系者更準確地理解孤獨譜系員工，從而支持 DEP。
 
 ## 本文要點
 
@@ -42,7 +54,7 @@ needs-review: true
 - 孤獨譜系組：RAADS-12 均值 23.8（SD=7.13），非孤獨譜系組：9.64（SD=8.42），差異顯著
 - 孤獨譜系參與者就業率顯著更低（70.4% vs 81.5%）、收入更低、教育程度更低
 
-## 核心發現
+## 主要發現
 
 ### 1. 行爲解讀準確率：DEP 預測勝出
 

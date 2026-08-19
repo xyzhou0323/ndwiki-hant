@@ -1,8 +1,8 @@
 ---
 title: Lao et al. (2026) - 與孤獨譜系對話：中文自閉症話語的解構與敘事能動性的重建
 description: Lao 等人的混合方法研究通過語料分析、問卷調查和深度訪談，運用反思性主題分析揭示中文孤獨譜系術語的社會建構過程——“自閉症”概念在中文語境中被類型化爲“自閉”（自我封閉），而孤獨譜系障礙者通過術語解構醫學標籤並重建個人敘事能動性與文化自主性
-aliases: ["Lao(2026)"]
 aliases:
+  - Lao(2026)
   - Lao et al. 2026
   - Dialoguing with autism
 tags:
@@ -12,10 +12,10 @@ tags:
   - methodology
   - discourse-analysis
 sources:
-  - sources/papers/2026-LaoEtAl-DialoguingWithAutism.md
+  - papers/2026-LaoEtAl-DialoguingWithAutism.md
 doi: 10.1057/s41599-026-07772-1
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-12
 citation_apa: "Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X., & Zhu, H. (2026). Dialoguing with autism: Deconstruction of autism discourse and reconstruction of narrative agency in Chinese. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-026-07772-1"
 zh-hans: [[wiki/works/LaoEtAl2026]]
 needs-review: true
@@ -23,11 +23,15 @@ needs-review: true
 
 # Lao et al. (2026) — 與孤獨譜系對話：中文自閉症話語的解構與敘事能動性的重建
 
+> [!infobox] Lao (2026)
+> **作者**：[[Uchong-Lao]]、[[Fengjing-Liang]]、[[Jiamin-Dai]]、[[Wei-Cao]]、[[Qian-Chen]]、[[Min-Wang]]、[[Xiaobing-Zou]]、[[Huilin-Zhu]]
+> **出版年份**：2026
+> **類型**：混合方法研究（語料分析 + 文獻綜述 + 在線調查 + 深度訪談 + 反思性主題分析）
+> **發表**：2026 年 6 月 29 日，*Humanities and Social Sciences Communications*（Springer Nature）
+
 引用：Lao, U., Liang, F., Dai, J., Cao, W., Chen, Q., Wang, M., Zou, X., & Zhu, H. (2026). Dialoguing with autism: Deconstruction of autism discourse and reconstruction of narrative agency in Chinese. *Humanities and Social Sciences Communications*. [https://doi.org/10.1057/s41599-026-07772-1](https://doi.org/10.1057/s41599-026-07772-1)
 
-**作者**：[[Uchong-Lao|Uchong Lao (劉宇翀)]]、[[Fengjing-Liang|Fengjing Liang (梁鳳晶)]]、[[Jiamin-Dai|Jiamin Dai (戴嘉敏)]]、[[Wei-Cao|Wei Cao (曹偉)]]、[[Qian-Chen|Qian Chen (陳謙)]]、[[Min-Wang|Min Wang (王敏)]]、[[Xiaobing-Zou|Xiaobing Zou (鄒小兵)]]、[[Huilin-Zhu|Huilin Zhu (朱繪霖)]]
-**發表**：2026 年 6 月 29 日，*Humanities and Social Sciences Communications*（Springer Nature）
-**類型**：混合方法研究（語料分析 + 文獻綜述 + 在線調查 + 深度訪談 + 反思性主題分析）
+Lao 等人的混合方法研究通過語料分析、問卷調查和深度訪談，運用反思性主題分析揭示中文孤獨譜系術語的社會建構過程，探討孤獨譜系障礙者如何通過解構醫學標籤重建敘事能動性與文化自主性。
 
 ## 定位
 
@@ -54,7 +58,7 @@ needs-review: true
 - **社區協作**：邀請線上孤獨譜系社羣成員評估初步發現；每次訪談後參與者審閱自己的轉錄稿並對主題地圖提供反饋
 - **主題生成**：第二階段生成了兩個新主題——“術語是社會建構的”和“社羣每一個人都需要共同努力”
 
-## 3. 核心發現
+## 3. 主要發現
 
 ### 官方、公衆與學術術語使用的分歧
 

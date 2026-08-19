@@ -14,17 +14,22 @@ tags:
 sources:
   - 2026-05-21/nihms359888.pdf
 created: 2026-05-21
-updated: 2026-07-22
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Christina-Nicolaidis]]
 needs-review: true
 ---
 
 # Christina Nicolaidis
 
-**身份**：內科醫師 × 健康服務研究者
-**機構**：波特蘭州立大學（Portland State University），社會服務學院（School of Social Work）教授；俄勒岡健康與科學大學（OHSU）內科醫師
-**學位**：MD（哥倫比亞大學），MPH（華盛頓大學），BA（布朗大學）
-**主頁**：[pdx.edu/profile/christina-nicolaidis](https://www.pdx.edu/profile/christina-nicolaidis)
+> [!infobox] Christina Nicolaidis
+> **職業**：內科醫師 × 健康服務研究者
+> **機構**：波特蘭州立大學（Portland State University）社會服務學院（School of Social Work）教授；俄勒岡健康與科學大學（OHSU）內科醫師
+> **主要領域**：成年孤獨譜系、殘障正義、健康公平、社區參與式研究（CBPR）
+> **代表著作**：[[NicolaidisEtAl2011]]、[[RaymakerEtAl2026]]
+> **學位**：MD（哥倫比亞大學），MPH（華盛頓大學），BA（布朗大學）
+> **主頁**：[pdx.edu/profile/christina-nicolaidis](https://www.pdx.edu/profile/christina-nicolaidis)
+
+Christina Nicolaidis 是波特蘭州立大學社會服務學院教授，SDHI 主任，AASPIRE 聯合創始人與學術聯合主任，將社區參與式研究（CBPR）方法系統適配於孤獨譜系自我倡權者社羣，並創辦了《Autism in Adulthood》期刊。
 
 ## 學術定位
 
@@ -48,7 +53,7 @@ Nicolaidis 主持了一系列 NIMH 資助的孤獨譜系成人健康照顧研究
 
 Nicolaidis 領導 PSU 的 SDHI，聯合來自 PSU、OHSU、社區組織、政府機構和地方衛生系統的多方力量推進健康公平。ta 主導或合作參與了數十項外部資助項目，涉及**親密伴侶暴力、種族健康公平、慢性疼痛、物質使用障礙、健康系統轉型**等領域。
 
-### 核心研究主題
+### 主要研究主題
 
 - 孤獨譜系成人健康照顧體驗與差異
 - 互聯網使用、聯結感與福祉

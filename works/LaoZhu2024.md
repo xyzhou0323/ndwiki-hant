@@ -15,7 +15,7 @@ tags:
 sources:
   - 2026-06-24/LaoZhu2024-AutismTerminologyReview.md
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-12
 citation_apa: "劉宇翀, 朱繪霖. (2024). Autism 及相關術語的概念更迭和感知研究綜述. 新醫學, 55(12). https://doi.org/10.3969/j.issn.0253-9802.2024.12.012"
 zh-hans: [[wiki/works/LaoZhu2024]]
 needs-review: true
@@ -23,11 +23,16 @@ needs-review: true
 
 # Lao & Zhu (2024) — Autism 及相關術語的概念更迭和感知研究綜述
 
+> [!infobox] Lao (2024)
+> **作者**：[[Uchong-Lao]]、[[Huilin-Zhu]]
+> **出版年份**：2024
+> **類型**：綜述
+> **機構**：中山大學附屬第三醫院兒童發育行爲中心
+> **備註**：通訊作者：朱繪霖（zhuhlin6@mail.sysu.edu.cn）
+
 引用：劉宇翀, 朱繪霖. (2024). Autism 及相關術語的概念更迭和感知研究綜述. *新醫學*, *55*(12). [https://doi.org/10.3969/j.issn.0253-9802.2024.12.012](https://doi.org/10.3969/j.issn.0253-9802.2024.12.012)
 
-**作者**：[[Uchong-Lao|劉宇翀]]、[[Huilin-Zhu|朱繪霖]]（通訊作者，zhuhlin6@mail.sysu.edu.cn），中山大學附屬第三醫院兒童發育行爲中心
-**發表**：*新醫學*（Journal of New Medicine）
-**類型**：綜述
+劉宇翀和朱繪霖從語言建構角度系統綜述了孤獨症概念在中西語境中的演變，分析中文術語的翻譯、污名化與本土化重塑，並基於神經多樣性視角、殘障社會模型和聯合國殘障包容傳播指南提出中文語境下的術語使用建議。
 
 ## 定位
 

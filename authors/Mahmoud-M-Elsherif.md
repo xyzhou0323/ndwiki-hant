@@ -1,16 +1,29 @@
 ---
 title: Mahmoud M. Elsherif
 description: Mahmoud M. Elsherif 是伯明翰大學與萊斯特大學研究員，FORRT 神經多樣性團隊領導者，Zaneva et al.（2024）神經多樣性導論注讀清單的共同資深作者，聚焦閱讀障礙與口吃的加工機制
-aliases: [Mahmoud-M-Elsherif, Mahmoud Elsherif, Elsherif]
-tags: [author, neurodiversity]
-sources: ["2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md"]
+aliases:
+  - Mahmoud-M-Elsherif
+  - Mahmoud Elsherif
+  - Elsherif
+tags:
+  - stub
+  - author
+  - neurodiversity
+sources:
+  - 2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Mahmoud-M-Elsherif]]
 needs-review: true
 ---
 
 # Mahmoud M. Elsherif
+
+> [!infobox] Mahmoud M. Elsherif
+> **職業**：研究員、FORRT 神經多樣性團隊領導者
+> **機構**：伯明翰大學與萊斯特大學
+> **主要領域**：閱讀障礙與口吃的加工機制、開放與可重複科學、參與式研究
+> **代表著作**：[[ZanevaEtAl2024]]
 
 伯明翰大學與萊斯特大學研究員，FORRT（Framework for Open and Reproducible Research Training）神經多樣性團隊領導者。研究聚焦閱讀障礙與口吃的加工機制，同時推動參與式與開放科學實踐。
 
@@ -31,3 +44,4 @@ needs-review: true
 ### 其他相關頁面
 
 暫無
+

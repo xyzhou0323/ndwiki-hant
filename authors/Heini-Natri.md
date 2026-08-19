@@ -5,19 +5,27 @@ aliases:
   - Heini M. Natri
   - Natri
 tags:
+  - stub
   - author
   - neurodiversity
   - autism
   - genomics
   - bioethics
-sources: ["2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md"]
+sources:
+  - 2026-06-10/ZanevaEtAl2024-Introduction-to-Neurodiversity-An-Annotated-Reading-List.md
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Heini-Natri]]
 needs-review: true
 ---
 
 # Heini Natri
+
+> [!infobox] Heini Natri
+> **職業**：計算基因組學研究者、研究助理教授
+> **機構**：Translational Genomics Research Institute（TGen）
+> **主要領域**：計算基因組學、孤獨譜系研究倫理與反健全中心主義
+> **代表著作**：[[NatriEtAl2023]]
 
 **Heini M. Natri, PhD**，計算科學家與基因組學研究者，Translational Genomics Research Institute（TGen）研究助理教授。全球孤獨譜系研究工作組（GATFAR）成員。
 
@@ -39,3 +47,4 @@ needs-review: true
 - [[ZanevaEtAl2024|Zaneva et al. (2024)]] — FORRT 閱讀清單（本文爲主題 8 精選文獻）
 - [[去病理化]] — Natri 的反健全中心主義語言論證的核心立場
 - [[神經多樣性範式]] — 本文論證的理論框架基礎
+

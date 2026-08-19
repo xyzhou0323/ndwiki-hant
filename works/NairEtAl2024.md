@@ -1,11 +1,23 @@
 ---
 title: Nair et al. (2024) - 神經多樣性是一個全球北方白人的範式嗎？
 description: Nair、Farah 與 Boveda 對神經多樣性學術的去殖民化批判——揭示全球南方認識論的邊緣化與種族化神經殊異者的交叉性排斥，呼籲 ND 從"北方獨白"走向全球知識連續體
-aliases: ["Nair(2024)", NairEtAl2024, Is neurodiversity a Global Northern White paradigm?, 神經多樣性去殖民化, ND White paradigm]
-tags: [work, neurodiversity, critique, intersectionality, political, methodology]
-sources: [2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf]
+aliases:
+  - Nair(2024)
+  - NairEtAl2024
+  - Is neurodiversity a Global Northern White paradigm?
+  - 神經多樣性去殖民化
+  - ND White paradigm
+tags:
+  - work
+  - neurodiversity
+  - critique
+  - intersectionality
+  - political
+  - methodology
+sources:
+  - 2026-05-09/nair-et-al-2024-is-neurodiversity-a-global-northern-white-paradigm.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? Autism, 30(2), 544–551. https://doi.org/10.1177/13623613241280835"
 zh-hans: [[wiki/works/NairEtAl2024]]
 needs-review: true
@@ -13,15 +25,18 @@ needs-review: true
 
 # Nair et al. (2024) — 神經多樣性是一個全球北方白人的範式嗎？
 
+> [!infobox] Nair (2024)
+> **作者**：[[Vishnu-KK-Nair]]、[[Warda-Farah]]、[[Mildred-Boveda]]
+> **出版年份**：2024
+> **類型**：期刊論文（Commentary 評論文章）
+> **機構**：Vishnu KK Nair（University of Reading）、Warda Farah（University of Greenwich）、Mildred Boveda（Penn State University）
+> **作者立場**：三位學者均機構性地位於全球北方，但具有與全球南方的親緣和身體紐帶（familial and embodied ties）。作者 1 和 2 認同爲神經殊異者。文章立場根植於當代神經多樣性學術，拒絕基於 Galton 式意識形態的病理化。
+
 引用：Nair, V. K. K., Farah, W., & Boveda, M. (2024). Is neurodiversity a Global Northern White paradigm? *Autism, 30*(2), 544–551. [https://doi.org/10.1177/13623613241280835](https://doi.org/10.1177/13623613241280835)
 
-**作者**：[[Vishnu-KK-Nair|Vishnu KK Nair]]（University of Reading，神經殊異者）、[[Warda-Farah|Warda Farah]]（University of Greenwich，神經殊異者）、[[Mildred-Boveda|Mildred Boveda]]（Penn State University）
+Nair、Farah 與 Boveda 對神經多樣性學術提出去殖民化批判，揭示全球南方認識論的邊緣化與種族化神經殊異者的交叉性排斥，呼籲神經多樣性從"北方獨白"走向全球知識連續體。
 
-**類型**：Commentary（評論文章），發表於 *Autism* 期刊
-
-**作者立場**：三位學者均機構性地位於全球北方，但具有與全球南方的親緣和身體紐帶（familial and embodied ties）。作者 1 和 2 認同爲神經殊異者。文章立場根植於當代神經多樣性學術，拒絕基於 Galton 式意識形態的病理化。
-
-## 兩條核心批判
+## 兩條主要批判
 
 ### 一、地理維度：全球南方認識論的邊緣化
 

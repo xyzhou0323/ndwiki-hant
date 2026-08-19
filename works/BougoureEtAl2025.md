@@ -16,7 +16,7 @@ doi: 10.1177/13623613251355255
 sources:
   - "2026-07-22/Bougoure et al 2025 - Measuring Autistic Burnout psychometric validation of ABM (bilingual).md"
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-12
 citation_apa: 'Bougoure, M., Zhuang, S., Brett, J. D., Maybery, M. T., English, M. C., Tan, D. W., & Magiati, I. (2025). Measuring autistic burnout: A psychometric validation of the AASPIRE Autistic Burnout Measure in autistic adults. Autism, Advance online publication. https://doi.org/10.1177/13623613251355255'
 zh-hans: [[wiki/works/BougoureEtAl2025]]
 needs-review: true
@@ -24,14 +24,16 @@ needs-review: true
 
 # Bougoure et al. (2025) — AASPIRE 孤獨譜系耗竭量表的獨立心理測量驗證
 
+> [!infobox] Bougoure (2025)
+> **作者**：Bougoure
+> **出版年份**：2025
+> **方法**：在線問卷調查 + 驗證性因子分析（CFA）+ 探索性因子分析（EFA）+ 雙因子探索性分析（BEFA）+ ROC 分析
+> **樣本**：379 名孤獨譜系成人（46.4% 男性, 44.1% 女性, 8.7% 其他性別；年齡 18–77 歲，M=33.47）
+> **社區參與**：三位孤獨譜系顧問就研究概念化和調查適當性提供意見；第一作者爲神經殊異者（非孤獨譜系）
+
 引用：Bougoure, M., Zhuang, S., Brett, J. D., Maybery, M. T., English, M. C., Tan, D. W., & Magiati, I. (2025). Measuring autistic burnout: A psychometric validation of the AASPIRE Autistic Burnout Measure in autistic adults. *Autism*, Advance online publication. [https://doi.org/10.1177/13623613251355255](https://doi.org/10.1177/13623613251355255)
 
-**作者**：Mackenzie Bougoure、Sici Zhuang、Jack D. Brett、Murray T. Maybery、Michael C. English、Diana Weiting Tan、Iliana Magiati（西澳大學心理科學學院；麥考瑞大學）
-**期刊**：*Autism*（SAGE），2025 年在線發表
-**DOI**：[10.1177/13623613251355255](https://doi.org/10.1177/13623613251355255)
-**方法**：在線問卷調查 + 驗證性因子分析（CFA）+ 探索性因子分析（EFA）+ 雙因子探索性分析（BEFA）+ ROC 分析
-**樣本**：379 名孤獨譜系成人（46.4% 男性, 44.1% 女性, 8.7% 其他性別；年齡 18–77 歲，M=33.47）
-**社區參與**：三位孤獨譜系顧問就研究概念化和調查適當性提供意見；第一作者爲神經殊異者（非孤獨譜系）
+Bougoure et al. (2025) 對 AASPIRE 孤獨譜系耗竭量表（ABM）進行大規模獨立心理測量驗證——N=379 名孤獨譜系成人，CFA、EFA 與 BEFA 支持單維結構（ω=0.98），12 個月重測 ICC=0.59，ROC AUC=0.92 顯著優於 PHQ-9。
 
 ## 本文要點
 

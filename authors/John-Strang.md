@@ -1,16 +1,29 @@
 ---
 title: John F. Strang
 description: John F. Strang 是 Children's National Hospital（華盛頓特區）性別與孤獨譜系項目主任，性別多樣性與孤獨譜系交叉領域的核心臨牀研究者，開發了 Gender Self-Report 測量工具並領導 WPATH 神經多樣性培訓
-aliases: [John Strang, Strang]
-tags: [author, autism, neurodiversity, applied]
-sources: [2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md]
+aliases:
+  - John Strang
+  - Strang
+tags:
+  - author
+  - autism
+  - neurodiversity
+  - applied
+sources:
+  - 2026-06-06/Rea 等 - 2024 - Gender Diversity, Gender Dysphoria Incongruence, and the Intersection with ASD An Updated Scoping Review.md
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-08-12
 zh-hans: [[wiki/authors/John-Strang]]
 needs-review: true
 ---
 
 # John F. Strang
+
+> [!infobox] John F. Strang
+> **職業**：臨牀研究者、項目主任
+> **機構**：Children's National Hospital（華盛頓特區）性別與孤獨譜系項目
+> **主要領域**：性別多樣性與孤獨譜系的交叉
+> **代表著作**：[[ReaEtAl2024]]
 
 John F. Strang 是 Children's National Hospital（華盛頓特區）性別與孤獨譜系項目（Gender and Autism Program）主任，性別多樣性與孤獨譜系交叉領域的核心臨牀研究者。
 

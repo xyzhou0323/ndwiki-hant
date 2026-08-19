@@ -1,8 +1,8 @@
 ---
 title: Natri et al. (2023) - 反健全中心主義語言與高質量孤獨譜系研究完全兼容
 description: 超過60位孤獨譜系與非孤獨譜系研究者、臨牀工作者、倡導者聯名回應 Singer et al. (2023)——論證反健全中心主義語言並非科學精確性的阻礙，而是更精確、更包容、更去人化的科學傳播必要條件
-aliases: ["Natri(2023)"]
 aliases:
+  - Natri(2023)
   - Anti-ableist language is fully compatible with high-quality autism research
   - NatriEtAl2023
 tags:
@@ -12,7 +12,7 @@ tags:
   - anti-ableism
   - language
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-12
 citation_apa: "Natri, H. M., Abubakare, O., Asasumasu, K., Basargekar, A., Beaud, F., Botha, M., Bottema-Beutel, K., Brea, M. R., Brown, L. X. Z., Burr, D. A., Cobbaert, L., Dabbs, C., Denome, D., Des Roches Rosa, S., Doherty, M., Edwards, B., Edwards, C., Liszk, S. E., Elise, F., Fletcher-Watson, S., Flower, R. L., Fuller, S., Gassner, D., Giwa Onaiwu, M., Good, J., Grant, A., Haddix, V. L., Heraty, S., Hundt, A., Kapp, S. K., Keates, N., Kulshan, T., Lampi, A. J., Latimer, O., Leadbitter, K., Litton Tidd, J., Manalili, M., Martin, M., Millichamp, A., Morton, H., Nair, V., Pavlopoulou, G., Pearson, A., Pellicano, L., Porter, H., Poulsen, R., Robertson, Z. S., Rodriguez, K., Roux, A., Russell, M., Ryan, J., Sasson, N., Smith Grier, H., Somerville, M., Sorensen, C., Stockwell, K. M., Szymanski, T., Thompson-Hodgetts, S., van Driel, M., VanUitert, V., Waldock, K., Walker, N., Watts, C., Williams, Z., Woods, R., Yu, B., Zadow, M., Zimmerman, J., & Zisk, A. H. (2023). Anti-ableist language is fully compatible with high-quality autism research: Response to Singer et al. (2023). Autism Research, 16(4), 673–676. https://doi.org/10.1002/aur.2928"
 zh-hans: [[wiki/works/NatriEtAl2023]]
 needs-review: true
@@ -20,19 +20,21 @@ needs-review: true
 
 # Natri et al. (2023) — 反健全中心主義語言與高質量孤獨譜系研究完全兼容
 
+> [!infobox] Natri (2023)
+> **作者**：[[Heini-Natri]]、[[Monique-Botha]]、[[Sue-Fletcher-Watson]]、[[Steven-Kapp]]、[[Amy-Pearson]]、[[Nick-Walker]]、[[Alyssa-Hillary]]
+> **出版年份**：2023
+> **類型**：期刊論文（Letter / Commentary）
+> **DOI**：10.1002/aur.2928
+
 引用：Natri, H. M., et al. (2023). Anti-ableist language is fully compatible with high-quality autism research: Response to Singer et al. (2023). *Autism Research, 16*(4), 673–676. [https://doi.org/10.1002/aur.2928](https://doi.org/10.1002/aur.2928)
 
-**作者**：[[Heini-Natri]]（第一作者）、Olumide Abubakare、Kassiane Asasumasu、[[Monique-Botha|Monique Botha]]、Kristen Bottema-Beutel、[[Sue-Fletcher-Watson]]、Morénike Giwa Onaiwu、[[Steven-Kapp|Steven K. Kapp]]、Marie Manalili、[[Amy-Pearson]]、Liz Pellicano、[[Nick-Walker]]、[[Alyssa-Hillary|Alyssa Hillary Zisk]] 等 68 位聯名作者
-**年份**：2023
-**期刊**：*Autism Research*, Vol. 16, No. 04
-**DOI**：10.1002/aur.2928
-**類型**：Letter / Commentary（對 Singer et al. (2023) 的回應）
+Natri 等人聯合超過 60 位孤獨譜系與非孤獨譜系研究者、臨牀工作者與倡導者回應 Singer et al. (2023)，論證反健全中心主義語言並非科學精確性的阻礙，而是更精確、更包容、更去人化的科學傳播的必要條件。
 
 ## 定位
 
 Singer et al. (2023) 主張孤獨譜系研究中的術語轉向（向更中性語言）阻礙了對孤獨譜系經驗的準確科學描述，尤其是在臨牀和醫學語境中。本文由 68 位孤獨譜系與非孤獨譜系研究者、臨牀工作者、倡導者聯名回應，系統反駁這一主張。被 [[ZanevaEtAl2024|Zaneva et al. (2024)]] 收錄爲主題 8（反健全中心主義）的精選文獻。
 
-## 核心論證
+## 主要論證
 
 ### 1. 包容性語言是科學精確性的增益而非阻礙
 

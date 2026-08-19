@@ -1,12 +1,21 @@
 ---
 title: Lin et al. (2026) - 從孤獨譜系知識到復原力：理解中國融合教育教師自我效能感與神經多樣性態度的作用
 description: Lin 等人（2026）以 272 名中國融合教育教師爲樣本，使用有調節的中介模型發現 ASD 知識通過提升融合教學自我效能感減少職業倦怠，且神經多樣性肯定態度正向調節知識對自我效能感的影響，爲基於優勢的教師發展提供了實證依據
-aliases: ["Lin(2026)", LinEtAl2026, Lin et al. (2026), From Autism Knowledge to Resilience]
-tags: [work, autism, neurodiversity, education]
-sources: [2026-07-17/LinEtAl2026.md]
+aliases:
+  - Lin(2026)
+  - LinEtAl2026
+  - Lin et al. (2026)
+  - From Autism Knowledge to Resilience
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - education
+sources:
+  - 2026-07-17/LinEtAl2026.md
 doi: 10.1080/13603116.2026.2645187
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-12
 citation_apa: "Lin, R., Yu, L., Wu, X., & Ren, J. (2026). From autism knowledge to resilience: Understanding the role of self-efficacy and neurodiversity attitudes of inclusive teachers in China. International Journal of Inclusive Education. https://doi.org/10.1080/13603116.2026.2645187"
 zh-hans: [[wiki/works/LinEtAl2026]]
 needs-review: true
@@ -14,12 +23,15 @@ needs-review: true
 
 # Lin et al. (2026) — 從孤獨譜系知識到復原力
 
+> [!infobox] Lin (2026)
+> **作者**：[[Ruiqin-Lin]]、[[Luodi-Yu]]
+> **出版年份**：2026
+> **備註**：收稿：2025-08-04 | 錄用：2026-03-10 | 在線發表：2026-03-19
+> **DOI**：[10.1080/13603116.2026.2645187](https://doi.org/10.1080/13603116.2026.2645187)
+
 引用：Lin, R., Yu, L., Wu, X., & Ren, J. (2026). From autism knowledge to resilience: Understanding the role of self-efficacy and neurodiversity attitudes of inclusive teachers in China. *International Journal of Inclusive Education*. [https://doi.org/10.1080/13603116.2026.2645187](https://doi.org/10.1080/13603116.2026.2645187)
 
-**作者**：[[Ruiqin-Lin|Ruiqin Lin]]（林瑞琴）, [[Luodi-Yu|Luodi Yu]]（於洛迪）, Xiaowen Wu（吳曉雯）, Jie Ren（任潔）
-**發表**：*International Journal of Inclusive Education*（國際包容性教育雜誌）
-**收稿**：2025-08-04 | **錄用**：2026-03-10 | **在線發表**：2026-03-19
-**DOI**：[10.1080/13603116.2026.2645187](https://doi.org/10.1080/13603116.2026.2645187)
+Lin 等人以 272 名中國融合教育教師爲樣本，通過有調節的中介模型發現 ASD 知識經由融合教學自我效能感減少職業倦怠，且神經多樣性肯定態度正向調節知識對自我效能感的影響。
 
 ## 研究背景
 
@@ -31,7 +43,7 @@ needs-review: true
 - **分析框架**：有調節的中介模型（moderated mediation model）
 - **核心變量**：ASD 知識、融合教育自我效能感、神經多樣性態度、職業倦怠
 
-## 核心發現
+## 主要發現
 
 ### 一、ASD 知識 → 自我效能感 → 減少倦怠
 

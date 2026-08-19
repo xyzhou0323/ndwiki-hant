@@ -1,20 +1,33 @@
 ---
 title: Uchong Lao
 description: 劉宇翀（Dr. Uchong Lao）是神經多元人士、中山大學附屬第三醫院博士後、《神經多樣性工具包》主編、神多宇研（神經多樣性宇宙研究所）創始人，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 第一作者，致力於神經多樣性的嚴肅推廣、研究與社羣實踐
-aliases: [Uchong Lao, Lao, 劉宇翀, LAO Uchong]
-tags: [author, autism, neurodiversity]
-sources: [2026-06-24/LaoZhu2024-AutismTerminologyReview.md]
+aliases:
+  - Uchong Lao
+  - Lao
+  - 劉宇翀
+  - LAO Uchong
+tags:
+  - author
+  - autism
+  - neurodiversity
+sources:
+  - 2026-06-24/LaoZhu2024-AutismTerminologyReview.md
 created: 2026-06-24
-updated: 2026-07-03
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Uchong-Lao]]
 needs-review: true
 ---
 
 # Uchong Lao
 
-**中文名**：劉宇翀
-**背景**：中山大學附屬第三醫院兒童發育行爲中心（廣州）博士後
-**角色**：神經多元人士、科研工作者、神經多樣性工具包主編、自我倡權者、神多宇研創始人
+> [!infobox] Uchong Lao
+> **職業**：神經多元人士、博士後、主編、自我倡權者、神多宇研創始人
+> **機構**：中山大學附屬第三醫院兒童發育行爲中心（廣州）
+> **主要領域**：中文孤獨症術語研究、神經多樣性推廣與研究
+> **代表著作**：[[LaoZhu2024]]、[[LaoEtAl2024]]、[[LaoEtAl2026]]
+> **中文名**：劉宇翀
+
+劉宇翀（Uchong Lao）是神經多元人士、中山大學附屬第三醫院博士後、《神經多樣性工具包》主編、神多宇研（神經多樣性宇宙研究所）創始人，Lao & Zhu (2024)、Lao et al. (2024) 和 Lao et al. (2026) 的第一作者，致力於神經多樣性的嚴肅推廣、研究與社羣實踐。
 
 ## 神多宇研
 

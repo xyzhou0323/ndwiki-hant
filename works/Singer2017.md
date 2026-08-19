@@ -1,11 +1,19 @@
 ---
 title: Singer (2017) - 神經多樣性的誕生
 description: Judy Singer 於 2017 年自出版的著作，將其 1998 年 Honours 論文擴展再版——旨在確立 Singer 作爲"神經多樣性"一詞創造者的歷史地位，但 Botha 等（2024）的檔案研究已將其角色修正爲"最早學術使用者之一"
-aliases: ["Singer(2017)", "NeuroDiversity: The Birth of an Idea", Singer 2017]
-tags: [work, neurodiversity, autism, historical]
-sources: [2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md]
+aliases:
+  - Singer(2017)
+  - NeuroDiversity: The Birth of an Idea
+  - Singer 2017
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md
 created: 2026-05-07
-updated: 2026-07-12
+updated: 2026-08-12
 citation_apa: "Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published."
 zh-hans: [[wiki/works/Singer2017]]
 needs-review: true
@@ -13,11 +21,14 @@ needs-review: true
 
 # Singer (2017) — 神經多樣性的誕生
 
+> [!infobox] Singer (2017)
+> **作者**：[[Judy-Singer]]（澳大利亞社會學者）
+> **出版年份**：2017
+> **類型**：自傳式學術論述——1998 年 Honours 論文的自出版擴寫
+
 引用：Singer, J. (2017). NeuroDiversity: The birth of an idea. Self-published.
 
-**作者**：[[Judy-Singer]]（澳大利亞社會學者）
-**發表**：2017 年（自出版）
-**類型**：自傳式學術論述——1998 年 Honours 論文的自出版擴寫
+本書是 Judy Singer 於 2017 年自出版的著作，將其 1998 年 Honours 論文擴展再版，旨在確立 Singer 作爲“神經多樣性”一詞創造者的歷史地位，但 Botha 等（2024）的檔案研究已將其角色修正爲“最早學術使用者之一”。
 
 ## 概述
 
@@ -49,7 +60,7 @@ Singer 在 2017 年引言中回顧了 1990 年代參與孤獨譜系網絡社羣�
 - **時代成因**：女性主義與身份政治、醫學權威衰落、心理治療的失敗、神經科學的成功、互聯網的信息民主化
 - **計算機隱喻與賽博格**：計算機作爲孤獨譜系者的發明/假肢、NT 正在被計算機"孤獨譜系化"？、Haraway 賽博格神話
 
-## 核心主張
+## 主要主張
 
 ### 術語"創造"
 

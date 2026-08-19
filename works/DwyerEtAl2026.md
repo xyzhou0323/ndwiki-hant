@@ -1,10 +1,22 @@
 ---
 title: Dwyer et al. (2026) - 跨診斷視角下的注意力與聽覺過度反應
 description: Patrick Dwyer、Zachary J. Williams、Wenn Lawson 和 Susan M. Rivera 發表於 Journal of Attention Disorders 的跨診斷實證研究，探討孤獨譜系、ADHD 及一般人羣中注意力與聽覺過度反應的多樣化表型之間的關係
-aliases: ["Dwyer(2026)", Dwyer et al. 2026, 跨診斷注意力聽覺過度反應, Trans-Diagnostic Auditory Hyperreactivity]
-tags: [work, neurodiversity, autism, ADHD, sensory, attention]
-sources: [2026-07-12/DwyerEtAl2026.md]
+aliases:
+  - Dwyer(2026)
+  - Dwyer et al. 2026
+  - 跨診斷注意力聽覺過度反應
+  - Trans-Diagnostic Auditory Hyperreactivity
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - ADHD
+  - sensory
+  - attention
+sources:
+  - 2026-07-12/DwyerEtAl2026.md
 created: 2026-07-12
+updated: 2026-08-12
 citation_apa: "Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of \"auditory hyperreactivity\" in autism, ADHD, and the general population. Journal of Attention Disorders, 30(1), 57–81. https://doi.org/10.1177/10870547251361226"
 doi: 10.1177/10870547251361226
 zh-hans: [[wiki/works/DwyerEtAl2026]]
@@ -13,11 +25,15 @@ needs-review: true
 
 # Dwyer et al. (2026) — 跨診斷視角下的注意力與聽覺過度反應
 
+> [!infobox] Dwyer (2026)
+> **作者**：[[Patrick-Dwyer]]、[[Wenn-Lawson]]、[[Susan-M-Rivera]]
+> **出版年份**：2026
+> **類型**：期刊論文
+> **備註**：在線首發 2025 年 9 月 18 日；橫截面實證研究，開放獲取
+
 引用：Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of "auditory hyperreactivity" in autism, ADHD, and the general population. *Journal of Attention Disorders*, *30*(1), 57–81. [https://doi.org/10.1177/10870547251361226](https://doi.org/10.1177/10870547251361226)
 
-**作者**：[[Patrick-Dwyer]]、Zachary J. Williams、[[Wenn-Lawson]]、[[Susan-M-Rivera]]
-**發表**：2026 年（在線首發 2025 年 9 月 18 日），*Journal of Attention Disorders*
-**類型**：橫截面實證研究，開放獲取
+Dwyer et al. (2026) 在 *Journal of Attention Disorders* 發表的跨診斷實證研究探討孤獨譜系、ADHD 及一般人羣中注意力與聽覺過度反應的多樣化表型之間的關係。
 
 ## 概述
 
@@ -46,7 +62,7 @@ needs-review: true
 | 僅孤獨譜系 | 130 |
 | 孤獨譜系 + ADHD | 141 |
 
-### 核心測量工具
+### 測量工具
 
 - **MIST-A**（多維聲音耐受量表-成人版）：26 條目，四個維度——厭聲障礙、聽覺過敏（響度聽覺過敏和聽覺過載）、恐懼/恐慌、疼痛
 - **VADQ**（範德堡聽覺分心問卷）：7 條目單維度聽覺分心測量

@@ -1,12 +1,22 @@
 ---
 title: Sarr et al. (2024) - 孤獨譜系、依戀障礙、CPTSD與EUPD的鑑別診斷
 description: 首項採用共制Delphi法系統建立孤獨譜系、依戀障礙、複雜性創傷後應激障礙與情緒不穩定人格障礙鑑別診斷共識的研究——106位國際專家就275條陳述達成共識
-aliases: ["Sarr(2025)", Sarr 2024, Sarr et al. 2024, 鑑別診斷Delphi]
-tags: [work, autism, neurodiversity, methodology, applied]
-sources: [2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf]
+aliases:
+  - Sarr(2025)
+  - Sarr 2024
+  - Sarr et al. 2024
+  - 鑑別診斷Delphi
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - methodology
+  - applied
+sources:
+  - 2026-05-17/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf
 doi: 10.1111/bjop.12731
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-08-12
 citation_apa: "Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. British Journal of Psychology, 116(1), 1–33. https://doi.org/10.1111/bjop.12731"
 zh-hans: [[wiki/works/SarrEtAl2024]]
 needs-review: true
@@ -14,13 +24,20 @@ needs-review: true
 
 # Sarr et al. (2024) — 鑑別診斷Delphi研究
 
+> [!infobox] Sarr (2025)
+> **作者**：[[Francesca-Happe]]
+> **出版年份**：2025
+> **類型**：期刊論文
+> **機構**：主要來自 King's College London IoPPN
+> **備註**：在線首發 2024 年 9 月 20 日
+> **PMID**：39300915
+> **方法**：共制三輪 Delphi 法
+> **樣本**：106 位國際專業人員（R1）→ 59（R2, 56%）→ 55（R3, 52%）
+> **資金**：King's College London、Medical Research Council、NIHR Maudsley Biomedical Research Centre
+
 引用：Sarr, R., Spain, D., Quinton, A. M. G., Happé, F., Brewin, C. R., Radcliffe, J., Jowett, S., Miles, S., González, R. A., Albert, I., Scholwin, A., Stirling, M., Markham, S., Strange, S., & Rumball, F. (2025). Differential diagnosis of autism, attachment disorders, complex post-traumatic stress disorder and emotionally unstable personality disorder: A Delphi study. *British Journal of Psychology*, 116(1), 1–33. [https://doi.org/10.1111/bjop.12731](https://doi.org/10.1111/bjop.12731)
 
-**作者**：Rachel Sarr、Debbie Spain、Alice M. G. Quinton、[[Francesca-Happe|Francesca Happé]]、Chris R. Brewin、Jonathan Radcliffe、Sally Jowett、Sarah Miles、Rafael A. González、Idit Albert、Alix Scholwin、Marguerite Stirling、Sarah Markham、Sally Strange、Freya Rumball（主要來自 King's College London IoPPN）
-**期刊**：*British Journal of Psychology*，第 116 卷，第 1 期，第 1–33 頁（在線首發 2024 年 9 月 20 日）
-**DOI**：[10.1111/bjop.12731](https://doi.org/10.1111/bjop.12731) | **PMID**：39300915
-**方法**：共制三輪 Delphi 法 | **樣本**：106 位國際專業人員（R1）→ 59（R2, 56%）→ 55（R3, 52%）
-**資金**：King's College London、Medical Research Council、NIHR Maudsley Biomedical Research Centre
+Sarr 等採用共制 Delphi 法，基於 106 位國際專家就 275 條陳述達成的共識，首次系統建立孤獨譜系、依戀障礙、複雜性創傷後應激障礙（CPTSD）與情緒不穩定人格障礙（EUPD）之間的鑑別診斷框架。
 
 ## 本文要點
 

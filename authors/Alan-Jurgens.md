@@ -1,22 +1,35 @@
 ---
 title: Alan Jurgens
 description: Alan Jurgens 是澳大利亞伍倫貢大學教育學院講師、孤獨譜系與神經殊異研究碩士項目聯合召集人，將生成主義（enactivism）與神經多樣性範式整合應用於殘障與孤獨譜系研究，批判傳統認知主義的神經規範性預設
-aliases: [Alan Jurgens, Alan W. Jurgens]
-tags: [author, neurodiversity, autism, philosophy, enactivism]
-sources: ["2026-05-09/0051276.pdf"]
+aliases:
+  - Alan Jurgens
+  - Alan W. Jurgens
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - philosophy
+  - enactivism
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Alan-Jurgens]]
 needs-review: true
 ---
 
 # Alan W. Jurgens
 
-**身份**：哲學家 × 教師教育者
-**機構**：澳大利亞伍倫貢大學（University of Wollongong），教育學院（School of Education）
-**職稱**：講師（Lecturer），孤獨譜系與神經殊異研究碩士項目（Masters of Autism and Neurodivergent Studies）聯合召集人
-**學位**：PhD 哲學（伍倫貢大學），MA 哲學（哥本哈根大學，專攻現象學，導師：Dan Zahavi 教授）
-**主頁**：[alanjurgens.com](https://alanjurgens.com/)
+> [!infobox] Alan W. Jurgens
+> **職業**：哲學家 × 教師教育者
+> **機構**：澳大利亞伍倫貢大學（University of Wollongong）教育學院
+> **主要領域**：生成主義社會認知、生態心理學、殘障哲學與敘事理論
+> **代表著作**：[[RosqvistEtAl2020]]
+> **職稱**：講師（Lecturer），孤獨譜系與神經殊異研究碩士項目（Masters of Autism and Neurodivergent Studies）聯合召集人
+> **學位**：PhD 哲學（伍倫貢大學），MA 哲學（哥本哈根大學，專攻現象學，導師：Dan Zahavi 教授）
+> **主頁**：[alanjurgens.com](https://alanjurgens.com/)
+
+Alan Jurgens 是澳大利亞伍倫貢大學教育學院講師、孤獨譜系與神經殊異研究碩士項目聯合召集人，將生成主義（enactivism）與神經多樣性範式整合應用於殘障與孤獨譜系研究，批判傳統認知主義的神經規範性預設。
 
 ## 學術定位
 

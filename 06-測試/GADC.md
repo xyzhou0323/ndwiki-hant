@@ -1,15 +1,32 @@
 ---
 title: GADC
 description: 天才/阿斯伯格對照表（GADC, Gifted/Asperger's Disorder Checklist）基於 Amend 等研究，幫助教育者系統評估學齡期兒童的天賦特徵與阿斯伯格特徵，爲鑑別二者提供對照框架
-aliases: [GADC, 天才/阿斯伯格對照表, Gifted/Asperger's Disorder Checklist]
-tags: [test, autism, giftedness, education, children, neurodiversity]
+aliases:
+  - GADC
+  - 天才/阿斯伯格對照表
+  - Gifted/Asperger's Disorder Checklist
+tags:
+  - test
+  - autism
+  - giftedness
+  - education
+  - children
+  - neurodiversity
+sources:
+  - Amend et al. 2009
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/GADC]]
 needs-review: true
 ---
 
 # GADC 天才/阿斯伯格對照表
+
+> [!infobox] GADC 天才/阿斯伯格對照表
+> **測量對象**：學齡期兒童的天賦特徵與阿斯伯格特徵對照
+> **題數**：33 題
+> **適用年齡**：學齡期兒童（由教育者或家長填寫）
+> **開發者**：Amend et al. (2009)
 
 **GADC**（Gifted/Asperger's Disorder Checklist）是一份幫助教育者判斷學齡期孩子的特徵更偏向**天賦（giftedness）**還是**孤獨譜系（阿斯伯格特徵）**的對照工具。
 

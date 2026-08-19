@@ -1,8 +1,8 @@
 ---
 title: Raymaker et al. (2020) - 孤獨譜系耗竭的學術定義
 description: 首篇對"孤獨譜系耗竭"進行學術定義的論文——以社羣參與式研究方法（CBPR），基於19位孤獨譜系成人的深度訪談，提煉出耗竭的特徵、觸發因素、恢復障礙與恢復路徑
-aliases: ["Raymaker(2020)"]
 aliases:
+  - Raymaker(2020)
   - Raymaker 2020
   - Raymaker et al. 2020
   - Autistic Burnout 2020
@@ -16,7 +16,7 @@ sources:
   - 2026-05-14/raymaker-et-al-2020-having-all-of-your-internal-resources-exhausted-beyond-measure-and-being-left-with-no-clean-up-crew.pdf
 doi: 10.1089/aut.2019.0079
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-12
 citation_apa: 'Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. Autism in Adulthood, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079'
 zh-hans: [[wiki/works/Raymaker2020]]
 needs-review: true
@@ -24,14 +24,17 @@ needs-review: true
 
 # Raymaker et al. (2020) — 孤獨譜系耗竭的學術定義
 
+> [!infobox] Raymaker (2020)
+> **作者**：[[Dora-Raymaker]]、[[Steven-Kapp]]
+> **出版年份**：2020
+> **類型**：期刊論文
+> **發表**：2020 年 6 月 10 日在線發表
+> **方法**：紮根理論 × 社羣參與式研究（CBPR）
+> **樣本**：19 位孤獨譜系成人
+
 引用：Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. *Autism in Adulthood*, 2(2), 132-143. [https://doi.org/10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
 
-**作者**：[[Dora-Raymaker|Dora M. Raymaker]]、Alan R. Teo、Nicole A. Steckler、Brandy Lentz、Mirah Scharer、Austin Delos Santos、[[Steven-Kapp|Steven K. Kapp]]、Morrigan Hunter、Andee Joyce、Christina Nicolaidis
-**期刊**：*Autism in Adulthood*，第 2 卷，第 2 期，第 132–143 頁
-**DOI**：[10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
-**發表**：2020 年 6 月 10 日在線發表
-**方法**：紮根理論 × 社羣參與式研究（CBPR）
-**樣本**：19 位孤獨譜系成人
+Raymaker 等以社羣參與式研究（CBPR）方法，基於 19 位孤獨譜系成人的深度訪談，首次對"孤獨譜系耗竭"進行學術定義，提煉出耗竭的特徵、觸發因素、恢復障礙與恢復路徑。
 
 ## 研究團隊
 
@@ -50,7 +53,7 @@ needs-review: true
 
 ## 四組主題
 
-### 主題 1：耗竭的核心特徵
+### 主題 1：耗竭的主要特徵
 
 | 特徵 | 描述 |
 |------|------|

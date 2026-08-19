@@ -1,8 +1,8 @@
 ---
 title: Nicolaidis et al. (2011) - 非傳統CBPR合作策略：與孤獨譜系自我倡權者的學術-社羣合作經驗
 description: AASPIRE 創始論文——首次系統記錄如何將社區參與式研究（CBPR）方法適配於孤獨譜系自我倡權者社羣，包括遠程文本協作、五項共識法、結構化郵件格式等關鍵策略
-aliases: ["Nicolaidis(2011)"]
 aliases:
+  - Nicolaidis(2011)
   - Nicolaidis 2011
   - AASPIRE CBPR
   - 孤獨譜系CBPR
@@ -15,7 +15,7 @@ tags:
 sources:
   - 2026-05-21/nihms359888.pdf
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-12
 citation_apa: "Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, E., Boisclair, C., Robertson, S., & Baggs, A. (2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons from an academic–community partnership with autistic self-advocates. Progress in Community Health Partnerships, 5(2), 143–150. https://doi.org/10.1353/cpr.2011.0022"
 authors:
   - Christina-Nicolaidis
@@ -26,11 +26,15 @@ needs-review: true
 
 # Nicolaidis et al. (2011) — 非傳統 CBPR 合作策略
 
+> [!infobox] Nicolaidis (2011)
+> **作者**：[[Christina-Nicolaidis]]、[[Dora-Raymaker]]
+> **出版年份**：2011
+> **類型**：期刊論文
+> **機構**：Christina Nicolaidis（OHSU）、Dora Raymaker（ASAN/AASPIRE）、Katherine McDonald（Portland State）
+
 引用：Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, E., Boisclair, C., Robertson, S., & Baggs, A. (2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons from an academic–community partnership with autistic self-advocates. *Progress in Community Health Partnerships*, *5*(2), 143–150. [https://doi.org/10.1353/cpr.2011.0022](https://doi.org/10.1353/cpr.2011.0022)
 
-**作者**：[[Christina-Nicolaidis|Christina Nicolaidis]]（OHSU）、[[Dora-Raymaker]]（ASAN/AASPIRE）、Katherine McDonald（Portland State）、Sebastian Dern、Elesia Ashkenazy、Cody Boisclair、Scott Robertson、Amanda Baggs
-**發表**：2011 年，*Progress in Community Health Partnerships* 第 5 卷第 2 期
-**DOI**：[10.1353/cpr.2011.0022](https://doi.org/10.1353/cpr.2011.0022)
+Nicolaidis et al. (2011) 是 AASPIRE 的創始論文，首次系統記錄如何將社區參與式研究（CBPR）方法適配於孤獨譜系自我倡權者社羣，包括遠程文本協作、五項共識法、結構化郵件格式等關鍵策略。
 
 ## 背景
 
@@ -40,7 +44,7 @@ AASPIRE（Academic Autistic Spectrum Partnership in Research and Education, [www
 
 本文是 [AASPIRE](https://aaspire.org/) 的首篇方法論文獻，系統記錄了這一合作的前四年經驗教訓。
 
-## 核心經驗
+## 主要經驗
 
 ### 1. 誰是“社羣”？
 

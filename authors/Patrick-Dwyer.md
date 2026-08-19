@@ -1,20 +1,33 @@
 ---
 title: Patrick Dwyer
 description: Patrick Dwyer 是加州大學戴維斯分校至拉籌伯大學的孤獨譜系學者，神經多樣性方法羣（neurodiversity approaches）理論框架的奠基人，以互動主義/生態殘障觀和 AIAS-G 干預態度量表的系統實證研究著稱
-aliases: [Patrick Dwyer, Dwyer, 帕特里克·德懷爾]
-tags: [author, neurodiversity, autism, disability]
-sources: [2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md]
+aliases:
+  - Patrick Dwyer
+  - Dwyer
+  - 帕特里克·德懷爾
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - disability
+sources:
+  - 2026-06-24/KilgallonEtAl2026-WhatTheDEPIsAndIsNot.md
 created: 2026-05-08
-updated: 2026-06-24
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Patrick-Dwyer]]
 needs-review: true
 ---
 
 # Patrick Dwyer
 
-**身份**：孤獨譜系學者 × 神經多樣性運動成員
-**機構**：加州大學戴維斯分校（UC Davis）心智與大腦中心 & 心理學系 → 拉籌伯大學（La Trobe University）
-**關鍵位置**：神經多樣性方法羣（neurodiversity approaches）理論框架的奠基人
+> [!infobox] Patrick Dwyer
+> **職業**：孤獨譜系學者、神經多樣性運動成員
+> **機構**：加州大學戴維斯分校（UC Davis）心智與大腦中心 & 心理學系 → 拉籌伯大學（La Trobe University）
+> **主要領域**：神經多樣性方法羣理論框架、互動主義/生態殘障觀、干預態度測量
+> **代表著作**：[[Dwyer2022]]、[[Dwyer2025]]、[[DwyerEtAl2023]]
+> **關鍵位置**：神經多樣性方法羣（neurodiversity approaches）理論框架的奠基人
+
+Patrick Dwyer 是加州大學戴維斯分校至拉籌伯大學的孤獨譜系學者，神經多樣性方法羣理論框架的奠基人，以互動主義/生態殘障觀和 AIAS-G 干預態度量表的系統實證研究著稱。
 
 ## 學術定位
 

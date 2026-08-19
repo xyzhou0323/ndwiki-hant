@@ -1,21 +1,37 @@
 ---
 title: Zachary J. Williams
 description: Zachary J. Williams 是範德堡大學醫學院的孤獨譜系研究者，多維聲音耐受量表-成人版（MIST-A）和範德堡聽覺分心問卷（VADQ）的開發者，專攻聲音耐受下降的測量與分類
-aliases: [Zachary J. Williams, Zachary Williams, ZJW, Williams]
-tags: [author, autism, sensory, audiology]
-sources: ["2026-07-12/DwyerEtAl2026.md"]
+aliases:
+  - Zachary J. Williams
+  - Zachary Williams
+  - ZJW
+  - Williams
+tags:
+  - author
+  - autism
+  - sensory
+  - audiology
+sources:
+  - 2026-07-12/DwyerEtAl2026.md
 created: 2026-07-12
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Zachary-J-Williams]]
 needs-review: true
 ---
 
 # Zachary J. Williams
 
+> [!infobox] Zachary J. Williams
+> **職業**：孤獨譜系研究者
+> **機構**：範德堡大學醫學院（Vanderbilt University School of Medicine）及範德堡大學醫學中心
+> **主要領域**：感覺體驗測量、聲音耐受下降的精確分類與評估
+> **代表著作**：[[DwyerEtAl2026]]、[[SchuckEtAl2022]]
+
 孤獨譜系研究者，範德堡大學醫學院（Vanderbilt University School of Medicine）及範德堡大學醫學中心任職，兼任加州大學洛杉磯分校（UCLA）研究職位。
 
 Williams 的研究集中於感覺體驗測量，特別是聲音耐受下降的精確分類與評估。他是 ANSWER（孤獨譜系與神經殊異學者研究公平委員會）成員，隸屬於 AIR-P（孤獨譜系身體干預研究網絡）。
 
-## 核心工具開發
+## 工具開發
 
 ### MIST-A（多維聲音耐受量表-成人版）
 

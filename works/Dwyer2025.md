@@ -1,12 +1,23 @@
 ---
 title: Dwyer et al. (2025) - 社區對神經多樣性、殘障模式與孤獨譜系干預的看法
 description: Patrick Dwyer、Steven Kapp、Kristen Gillespie-Lynch 等發表於 Autism 期刊的混合方法研究——504 名社羣成員實證調查，揭示"強"社會模型修辭與實際干預態度之間的系統性差異，以及孤獨譜系與非孤獨譜系 NDM 支持者的關鍵張力
-aliases: ["Dwyer(2025)", Dwyer2025-社區看法, Dwyer et al. 2025, Community views of neurodiversity]
-tags: [work, neurodiversity, disability, autism, methodology, empirical]
-sources: [Dwyer 等 - 2025 - Community views of neurodiversity, models of disability and autism intervention Mixed methods revea.pdf]
+aliases:
+  - Dwyer(2025)
+  - Dwyer2025-社區看法
+  - Dwyer et al. 2025
+  - Community views of neurodiversity
+tags:
+  - work
+  - neurodiversity
+  - disability
+  - autism
+  - methodology
+  - empirical
+sources:
+  - 2026-05-07/Dwyer 等 - 2025 - Community views of neurodiversity, models of disability and autism intervention Mixed methods revea.pdf
 doi: 10.1177/13623613241273029
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-12
 citation_apa: "Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. https://doi.org/10.1177/13623613241273029"
 zh-hans: [[wiki/works/Dwyer2025]]
 needs-review: true
@@ -14,15 +25,17 @@ needs-review: true
 
 # Dwyer et al. (2025) — 社區對神經多樣性、殘障模式與孤獨譜系干預的看法
 
+> [!infobox] Dwyer (2025)
+> **作者**：[[Patrick-Dwyer]]、[[Steven-Kapp]]
+> **出版年份**：2025
+> **類型**：期刊論文
+> **特刊**：The Social Model in Autism Research（孤獨譜系研究中的社會模型）
+> **研究團隊**：所有主要編碼者（P.D.、E.K.、S.K.K.、A.N.G.）均爲孤獨譜系人士——神經多元性極高的研究團隊
+> **備註**：作者單位：Patrick Dwyer（UC Davis / La Trobe）；Ava N Gurba、Steven K Kapp、Elizabeth Kilgallon 爲共同第二作者；Susan M Rivera、Kristen Gillespie-Lynch 爲共同資深作者；2024 年收稿，2025 年出版
+
 引用：Dwyer, P., Gurba, A. N., Kapp, S. K., Kilgallon, E., Hersh, L. H., Chang, D. S., Rivera, S. M., & Gillespie-Lynch, K. (2025). Community views of neurodiversity, models of disability and autism intervention: Mixed methods reveal mixed views. Autism, 29(9), 2297-2314. [https://doi.org/10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
 
-
-**作者**：[[Patrick-Dwyer|Patrick Dwyer]] (UC Davis / La Trobe), Ava N Gurba*, [[Steven-Kapp|Steven K Kapp]]*, Elizabeth Kilgallon*, Lynnette H Hersh, David S Chang, Susan M Rivera†, Kristen Gillespie-Lynch†（*共同第二作者，†共同資深作者）
-**期刊**：*Autism*，第 29 卷，第 9 期，第 2297–2314 頁
-**特刊**：The Social Model in Autism Research（孤獨譜系研究中的社會模型）
-**DOI**：[10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
-**發表**：2024 年收稿，2025 年出版
-**研究團隊**：所有主要編碼者（P.D.、E.K.、S.K.K.、A.N.G.）均爲孤獨譜系人士——神經多元性極高的研究團隊
+Dwyer et al. (2025) 在 *Autism* 期刊發表的混合方法研究基於 504 名社羣成員的實證調查，揭示"強"社會模型修辭與實際干預態度之間的系統性差異，以及孤獨譜系與非孤獨譜系神經多樣性方法支持者之間的關鍵張力。
 
 ## 研究定位
 
@@ -47,13 +60,13 @@ needs-review: true
 | **AIAS-G**（孤獨譜系干預態度量表） | 35 條目，經 Hersh 等 (2024) 探索性圖分析確定爲 **5 個子量表**：正常化（9 項）、適應技能（8 項）、幸福感（6 項）、社會改革（5 項）、支持性環境（5 項） |
 | **開放式問題** | 定義神經多樣性、NDM、SM、MM；比較各模型間的相似性與差異 |
 
-### 三個核心假設
+### 三個研究假設
 
 1. NDM 支持與降低正常化目標認同相關，但與適應技能/幸福感目標不相關
 2. 孤獨譜系 NDM 支持者比非孤獨譜系更關注環境/社會障礙（更不易受"庸俗版神經多樣性"影響）
 3. 許多自稱支持"強"社會模型的參與者會表達與之不一致的干預觀點——**強 SM 修辭與實際態度之間存在系統差異**
 
-## 核心發現
+## 主要發現
 
 ### 發現 1：NDM 支持的相關因素
 

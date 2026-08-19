@@ -1,11 +1,24 @@
 ---
 title: Kapp et al. (2012) - 缺陷、差異，還是兩者兼具？孤獨譜系與神經多樣性
 description: Kapp, Gillespie-Lynch, Sherman & Hutman (2012) 對 657 人的在線調查，提出"缺陷即差異"概念，揭示醫學模型與神經多樣性運動並非二元對立
-aliases: ["Kapp(2013)", Deficit, Difference, or Both? Autism and Neurodiversity, Kapp et al. 2012, KappEtAl2012, 缺陷差異或兩者兼具]
-tags: [work, neurodiversity, autism, empirical, foundational]
-sources: [2026-05-09/Deficit_Difference_or_Both_Autism_and_Ne.pdf]
+aliases:
+  - Kapp(2013)
+  - Deficit
+  - Difference
+  - or Both? Autism and Neurodiversity
+  - Kapp et al. 2012
+  - KappEtAl2012
+  - 缺陷差異或兩者兼具
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - empirical
+  - foundational
+sources:
+  - 2026-05-09/Deficit_Difference_or_Both_Autism_and_Ne.pdf
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-12
 citation_apa: "Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. Developmental Psychology, 49(1), 59–71. https://doi.org/10.1037/a0028353"
 doi: 10.1037/a0028353
 zh-hans: [[wiki/works/KappEtAl2012]]
@@ -14,13 +27,16 @@ needs-review: true
 
 # Kapp et al. (2012) — 缺陷、差異，還是兩者兼具？孤獨譜系與神經多樣性
 
+> [!infobox] Kapp (2013)
+> **作者**：[[Steven-Kapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均來自 UCLA）
+> **出版年份**：2013
+> **類型**：期刊論文（定量實證研究，在線調查）
+> **發表**：2012 年 4 月 30 日在線首發，*Developmental Psychology* 2013 年第 49 卷第 1 期
+> **樣本**：N = 657（孤獨譜系者、親友、無關聯者）
+
 引用：Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, or both? Autism and neurodiversity. *Developmental Psychology, 49*(1), 59–71. [https://doi.org/10.1037/a0028353](https://doi.org/10.1037/a0028353)
 
-**作者**：[[Steven-Kapp|Steven K. Kapp]]、Kristen Gillespie-Lynch、Lauren E. Sherman、Ted Hutman（均來自 UCLA）
-**發表**：2012 年 4 月 30 日在線首發，*Developmental Psychology* 2013 年第 49 卷第 1 期
-**類型**：定量實證研究（在線調查）
-**樣本**：N = 657（孤獨譜系者、親友、無關聯者）
-**DOI**：10.1037/a0028353
+Kapp et al. (2012) 基於對 657 人的在線調查提出"缺陷即差異"概念，揭示醫學模型與神經多樣性運動並非二元對立。
 
 ## 貢獻
 

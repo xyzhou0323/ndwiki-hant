@@ -1,19 +1,32 @@
 ---
 title: AQ-Adol
 description: 青少年版孤獨譜系商數（AQ-Adolescent）是 Baron-Cohen 等人於2006年開發的50題教育者報告量表，用於評估12-15歲青少年的孤獨譜系特徵，涵蓋五個子維度
-aliases: [AQ-Adolescent, 孤獨譜系商數青少年版, AQ青少年版, AQ-青少年版]
-tags: [test, autism, neurodiversity]
+aliases:
+  - AQ-Adolescent
+  - 孤獨譜系商數青少年版
+  - AQ青少年版
+  - AQ-青少年版
+tags:
+  - test
+  - autism
+  - neurodiversity
 sources:
   - Baron-Cohen et al. 2006
   - Baker et al. 2025
   - Jacobson & Truax 1991
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/AQ-Adol]]
 needs-review: true
 ---
 
 # AQ-Adol
+
+> [!infobox] AQ-Adol
+> **測量對象**：12-15 歲青少年的孤獨譜系相關特徵
+> **題數**：50 題
+> **適用年齡**：12-15 歲
+> **開發者**：Baron-Cohen et al. (2006)
 
 **青少年版孤獨譜系商數**（Autism Spectrum Quotient Adolescent Version，AQ-Adolescent）是由 Simon Baron-Cohen 等人於2006年開發的 50 題**教育者報告**量表，用於評估 12-15 歲青少年的[[孤獨譜系障礙]]相關特徵。AQ-Adol 改編自 [[AQ|成人版 AQ]]（Baron-Cohen et al., 2001），題目改寫爲教育者報告格式並適配青少年語境。
 

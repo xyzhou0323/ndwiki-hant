@@ -1,12 +1,21 @@
 ---
 title: Retief & Letsosa (2018) - 殘障模型概述
 description: Retief 與 Letsosa 發表於 HTS Teologiese Studies 的分類論文——系統梳理 9 種主流殘障模型的基本特徵與神學意義
-aliases: ["Retief(2018)", Retief & Letsosa 2018, RetiefLetsosa2018, "Models of disability: A brief overview"]
-tags: [work, disability, foundational, theology]
-sources: [2026-05-12/RetiefLetsosa2018-Models of disability A brief overview.pdf]
+aliases:
+  - Retief(2018)
+  - Retief & Letsosa 2018
+  - RetiefLetsosa2018
+  - Models of disability: A brief overview
+tags:
+  - work
+  - disability
+  - foundational
+  - theology
+sources:
+  - 2026-05-12/RetiefLetsosa2018-Models of disability A brief overview.pdf
 doi: 10.4102/hts.v74i1.4738
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-12
 citation_apa: "Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. HTS Teologiese Studies/Theological Studies, 74(1), a4738. https://doi.org/10.4102/hts.v74i1.4738"
 zh-hans: [[wiki/works/RetiefLetsosa2018]]
 needs-review: true
@@ -14,13 +23,16 @@ needs-review: true
 
 # Retief & Letsosa (2018) — 殘障模型概述
 
+> [!infobox] Retief (2018)
+> **作者**：Retief
+> **出版年份**：2018
+> **機構**：西北大學神學院（南非）
+> **發表**：2018 年 3 月 6 日發表（2017 年 7 月收稿，12 月接受）
+> **許可**：CC BY
+
 引用：Retief, M. & Letsosa, R. (2018). Models of disability: A brief overview. *HTS Teologiese Studies/Theological Studies*, 74(1), a4738. [https://doi.org/10.4102/hts.v74i1.4738](https://doi.org/10.4102/hts.v74i1.4738)
 
-**作者**：Marno Retief & Rantoa Letsosa（西北大學神學院，南非）
-**期刊**：*HTS Teologiese Studies/Theological Studies*，第 74 卷，第 1 期，a4738
-**DOI**：[10.4102/hts.v74i1.4738](https://doi.org/10.4102/hts.v74i1.4738)
-**發表**：2018 年 3 月 6 日發表（2017 年 7 月收稿，12 月接受）
-**開放獲取**：CC BY
+Retief 與 Letsosa 在 HTS Teologiese Studies 發表的分類論文系統梳理了 9 種主流殘障模型的基本特徵及其神學意義。
 
 ## 背景與方法
 
@@ -61,7 +73,7 @@ needs-review: true
 ### 9. 極限模型（Limits Model）
 殘障 = 具身體驗。Creamer (2009) 提出的獨特神學模型。核心概念：具身體現（embodiment）和"極限性"（limit-ness）。所有人類都經歷限制——殘障只是人類普遍具身體驗光譜上的一部分。拒絕"殘障/健全"二元分類，同時承認社會模型的核心洞見。
 
-## 核心論點
+## 主要論點
 
 模型的重要性（Smart 2004）在於它們：
 - 提供殘障的定義

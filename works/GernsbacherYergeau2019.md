@@ -1,12 +1,22 @@
 ---
 title: Gernsbacher & Yergeau (2019) - 孤獨譜系者缺乏心理理論主張的實證失敗
 description: Gernsbacher 與 Yergeau 系統性地檢驗並駁斥了"孤獨譜系者缺乏心理理論"這一心理學界流傳甚廣的斷言，揭示該主張在特異性、普遍性、可重複性、聚合效度和預測效度五個維度上均存在實證失敗，並明確指出了其社會危害
-aliases: ["Gernsbacher(2019)", Gernsbacher & Yergeau 2019, GernsbacherYergeau2019, 心理理論批判]
-tags: [work, autism, neurodiversity, critique, methodology]
-sources: [2026-06-16/APA PsycNet 全文 HTML 頁面 --- APA PsycNet FullTextHTML page.md]
+aliases:
+  - Gernsbacher(2019)
+  - Gernsbacher & Yergeau 2019
+  - GernsbacherYergeau2019
+  - 心理理論批判
+tags:
+  - work
+  - autism
+  - neurodiversity
+  - critique
+  - methodology
+sources:
+  - 2026-06-16/APA PsycNet 全文 HTML 頁面 --- APA PsycNet FullTextHTML page.md
 doi: 10.1037/arc0000067
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-12
 citation_apa: "Gernsbacher, M. A., & Yergeau, M. (2019). Empirical failures of the claim that autistic people lack a theory of mind. Archives of Scientific Psychology, 7(1), 102–118. https://doi.org/10.1037/arc0000067"
 zh-hans: [[wiki/works/GernsbacherYergeau2019]]
 needs-review: true
@@ -14,14 +24,18 @@ needs-review: true
 
 # Gernsbacher & Yergeau (2019) — 孤獨譜系者缺乏心理理論主張的實證失敗
 
+> [!infobox] Gernsbacher (2019)
+> **作者**：Morton Ann Gernsbacher（University of Wisconsin—Madison）、[[Melanie-Yergeau]]（University of Michigan）
+> **出版年份**：2019
+> **類型**：期刊論文
+> **被引**：123+ 次（截至 2026 年）
+> **原文**：https://psycnet.apa.org/fulltext/2019-75285-001.html
+
 引用：Gernsbacher, M. A., & Yergeau, M. (2019). Empirical failures of the claim that autistic people lack a theory of mind. Archives of Scientific Psychology, 7(1), 102–118. [https://doi.org/10.1037/arc0000067](https://doi.org/10.1037/arc0000067)
 
-**作者**：Morton Ann Gernsbacher（University of Wisconsin—Madison）、[[Melanie-Yergeau]]（University of Michigan）
-**發表**：2019 年，*Archives of Scientific Psychology*（APA 期刊），第 7 卷第 1 期
-**被引**：123+ 次（截至 2026 年）
-**原文**：https://psycnet.apa.org/fulltext/2019-75285-001.html
+Gernsbacher 與 Yergeau 系統性地檢驗並駁斥了"孤獨譜系者缺乏心理理論"這一流傳甚廣的斷言，揭示該主張在特異性、普遍性、可重複性、聚合效度和預測效度五個維度上均存在實證失敗，並指出其社會危害。
 
-## 核心論點
+## 主要論點
 
 本文系統性地檢驗並駁斥了"孤獨譜系者缺乏心理理論（Theory of Mind）"這一在心理學界流傳甚廣的斷言。作者指出，該主張在**五個維度上均存在實證失敗**——特異性、普遍性、可重複性、聚合效度和預測效度——並論證其不僅科學上站不住腳，且對社會有害。
 

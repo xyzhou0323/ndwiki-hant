@@ -1,15 +1,28 @@
 ---
 title: NSAC-30
 description: 神經殊異自理與啓動表（NSAC-30）是一份賦權型自填工具，幫助神經殊異個體識別日常功能中的優勢與挑戰，涵蓋六大維度
-aliases: [NSAC-30, Admin神經殊異自理與啓動表, 神經殊異自理與啓動表, NSAC30]
-tags: [test, neurodiversity, self-care, executive-function]
+aliases:
+  - NSAC-30
+  - Admin神經殊異自理與啓動表
+  - 神經殊異自理與啓動表
+  - NSAC30
+tags:
+  - test
+  - neurodiversity
+  - self-care
+  - executive-function
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/06-测试/NSAC-30]]
 needs-review: true
 ---
 
 # NSAC-30 神經殊異自理與啓動表
+
+> [!infobox] NSAC-30 神經殊異自理與啓動表
+> **測量對象**：神經殊異個體日常功能中的優勢與挑戰（六大維度）
+> **題數**：30 題（六個維度各 5 題）
+> **開發者**：admin（小紅書@admin 原創設計）
 
 **NSAC-30** 是一份賦權型的自我探索工具，幫助[[神經殊異]]個體識別日常功能中的**優勢**和**挑戰**，從而更有效地規劃支持和調整策略。非診斷用途。
 

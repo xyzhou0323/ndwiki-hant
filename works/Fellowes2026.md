@@ -1,11 +1,25 @@
 ---
 title: Fellowes (2026) - 孤獨譜系、雙向同理心問題與感受他人情緒
 description: Sam Fellowes 以孤獨譜系哲學家身份，在 Coplan 六維同理心框架下論證：雙向同理心問題主要適用於認知同理心維度且大體正確，但在"感受他人所感"這一特定情感同理心維度上，孤獨譜系者可能確實存在內在的、能力降低的差異——這種差異本身就是一種病症（使人生貧瘠），但並不影響道德主體地位
-aliases: ["Fellowes(2026)", Fellowes2026, Autism, the Double Empathy Problem and Feeling the Emotions of Another Person]
-tags: [work, chapter, autism, philosophy, empathy, double-empathy-problem, affective-empathy, alexithymia, morality]
-sources: [books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md]
+aliases:
+  - Fellowes(2026)
+  - Fellowes2026
+  - Autism
+  - the Double Empathy Problem and Feeling the Emotions of Another Person
+tags:
+  - work
+  - chapter
+  - autism
+  - philosophy
+  - empathy
+  - double-empathy-problem
+  - affective-empathy
+  - alexithymia
+  - morality
+sources:
+  - books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-12
 citation_apa: "Fellowes, S. (2026). Autism, the double empathy problem and feeling the emotions of another person. In J. L. Anderson & S. Cushing (Eds.), Contemporary Philosophy of Autism (pp. 49–66). Routledge."
 zh-hans: [[wiki/works/Fellowes2026]]
 needs-review: true
@@ -13,17 +27,20 @@ needs-review: true
 
 # Fellowes (2026) — 孤獨譜系、雙向同理心問題與感受他人情緒
 
+> [!infobox] Fellowes (2026)
+> **作者**：[[Sam-Fellowes]]
+> **出版年份**：2026
+> **類型**：書章
+> **備註**：Sam Fellowes（Lancaster University，孤獨譜系精神病學哲學家，著有《爲精神病診斷辯護》）
+> **收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 3 章
+
 引用：Fellowes, S. (2026). Autism, the double empathy problem and feeling the emotions of another person. In J. L. Anderson & S. Cushing (Eds.), *Contemporary Philosophy of Autism* (pp. 49–66). Routledge.
 
-**作者**：[[Sam-Fellowes|Sam Fellowes]]（Lancaster University，孤獨譜系精神病學哲學家，著有《爲精神病診斷辯護》）
-
-**收錄於**：[[AndersonCushingEds2026|Anderson & Cushing Eds. (2026) - 當代孤獨譜系哲學]]，第 3 章
-
-**類型**：論文集章節
+孤獨譜系哲學家 Sam Fellowes 在 Coplan 的六維同理心框架下論證：雙向同理心問題主要適用於認知同理心維度且大體正確，但在"感受他人所感"這一特定情感同理心維度上，孤獨譜系者可能確實存在內在的、能力降低的差異——這種差異本身就是一種病症（使人生貧瘠），但並不影響道德主體地位。
 
 ---
 
-## 核心論證結構
+## 論證結構
 
 Fellowes 作爲孤獨譜系哲學家的個人立場使本章格外獨特：他**同時**接受[[雙向同理心問題]]（DEP）的大部分內容，又論證孤獨譜系者在"感受他人所感"這一特定維度上可能確實存在內在能力降低。
 

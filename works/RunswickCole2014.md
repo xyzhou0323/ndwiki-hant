@@ -1,11 +1,21 @@
 ---
 title: Runswick-Cole (2014) - "我們"與"他們"：neoliberal時代神經多樣性政治的限度與可能
 description: Katherine Runswick-Cole 在 Disability & Society 發表的論文，分析神經多樣性運動作爲身份政治在 neoliberal 語境下的侷限性——"我們 vs 他們"的二元邏輯如何被 neoliberal 社會同構性地利用
-aliases: ["Runswick-Cole(2014)", RunswickCole2014, "'Us' and 'them' neurodiversity neoliberal", 神經多樣性政治與新自由主義]
-tags: [work, neurodiversity, political, capitalism, critique]
-sources: [2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pdf]
+aliases:
+  - Runswick-Cole(2014)
+  - RunswickCole2014
+  - 'Us' and 'them' neurodiversity neoliberal
+  - 神經多樣性政治與新自由主義
+tags:
+  - work
+  - neurodiversity
+  - political
+  - capitalism
+  - critique
+sources:
+  - 2026-05-09/runswick-cole-2014-us-and-them-neurodiversity-neoliberal.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. Disability & Society, 29(7), 1117–1129. https://doi.org/10.1080/09687599.2014.910107"
 zh-hans: [[wiki/works/RunswickCole2014]]
 needs-review: true
@@ -13,15 +23,17 @@ needs-review: true
 
 # Runswick-Cole (2014) — "我們"與"他們"：neoliberal 時代神經多樣性政治的限度與可能
 
+> [!infobox] Runswick-Cole (2014)
+> **作者**：[[Katherine-Runswick-Cole]]
+> **出版年份**：2014
+> **類型**：期刊論文
+> **機構**：Manchester Metropolitan University
+
 引用：Runswick-Cole, K. (2014). 'Us' and 'them': the limits and possibilities of a 'politics of neurodiversity' in neoliberal times. *Disability & Society, 29*(7), 1117–1129. [https://doi.org/10.1080/09687599.2014.910107](https://doi.org/10.1080/09687599.2014.910107)
 
-**作者**：[[Katherine-Runswick-Cole]]（Manchester Metropolitan University）
+Runswick-Cole 在 Disability & Society 發表的論文分析神經多樣性運動作爲身份政治在 neoliberal 語境下的限度與可能——"我們 vs 他們"的二元邏輯如何被 neoliberal 社會同構性地利用。
 
-**發表**：*Disability & Society* (2014), 29(7):1117–1129
-
-**類型**：研究論文
-
-## 核心論證
+## 主要論證
 
 Runswick-Cole 系統分析了"神經多樣性政治"（politics of neurodiversity）在 neoliberal 社會政策語境下的**限度與可能性**。核心論點：神經多樣性運動雖然尋求在 neoliberal 社會政策框架內爭取對孤獨譜系-as-差異（autism-as-difference）的承認與接納，但這一成就**只能有限**——因爲依賴身份政治的社會運動不可避免地會複製 neoliberal 社會賴以運作的"我們 vs 他們"二元邏輯。
 
@@ -42,7 +54,7 @@ Runswick-Cole 系統分析了"神經多樣性政治"（politics of neurodiversit
 - 運動不僅主張權利和反歧視，更主張對（有價值）差異的**承認和接受**
 - Orsini & Smith (2010) 的區分："孤獨譜系 activism"（關注治療與治癒）vs "孤獨譜系者 activism"（關注權利與承認）
 
-## 三個核心侷限
+## 三個主要侷限
 
 ### 1. 身份政治的悖論
 

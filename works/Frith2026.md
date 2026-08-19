@@ -1,26 +1,34 @@
 ---
 title: Frith (2026) - 爲什麼我不再認爲孤獨譜系是一個譜系
 description: Uta Frith 在 2026 年 3 月 TES 雜誌的訪談——孤獨譜系研究奠基人公開主張"譜系已崩潰"，挑戰掩飾概念和感官便利措施的科學基礎
-aliases: [Uta Frith 2026 interview, Frith 2026]
-tags: [work, autism, critique]
-aliases: ["Frith(2026)"]
-sources: [articles/Uta Frith why I no longer think autism is a spectrum.md]
+aliases:
+  - Uta Frith 2026 interview
+  - Frith 2026
+  - Frith(2026)
+tags:
+  - work
+  - autism
+  - critique
+sources:
+  - articles/Uta Frith why I no longer think autism is a spectrum.md
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-12
 zh-hans: [[wiki/works/Frith2026]]
 needs-review: true
 ---
 
 # Frith (2026) — 爲什麼我不再認爲孤獨譜系是一個譜系
 
+> [!infobox] Frith (2026)
+> **作者**：Dame Uta Frith（倫敦大學學院認知神經科學研究所榮休教授，孤獨譜系認知理論的奠基人）
+> **採訪者**：Helen Amass
+> **類型**：訪談
+
 引用：Frith, U. (2026, March 4). Uta Frith: why I no longer think autism is a spectrum (H. Amass, Interviewer). *TES Magazine*. [https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum](https://www.tes.com/magazine/teaching-learning/general/uta-frith-interview-autism-not-spectrum)
 
-**作者**：Dame Uta Frith（倫敦大學學院認知神經科學研究所榮休教授，孤獨譜系認知理論的奠基人）
-**採訪者**：Helen Amass
-**發表**：*TES Magazine* (2026-03-04)
-**類型**：訪談
+Uta Frith 在 2026 年 3 月接受《TES 雜誌》專訪，公開主張"譜系已崩潰"，並挑戰掩飾概念與感官便利措施的科學基礎。
 
-## 核心論點
+## 主要論點
 
 Uta Frith 在長達 150 行的訪談中提出了對神經多樣性範式中若干核心概念的正面挑戰：
 

@@ -1,12 +1,24 @@
 ---
 title: Milton (2012) - 論孤獨譜系的本體論地位：雙向同理心問題
 description: Damian Milton 2012 年在 Disability & Society 發表的原初論文，首次在學術文獻中提出"雙向同理心問題"概念，批判心智理論缺陷說，將孤獨譜系的社交差異重新定義爲雙向的人際關係問題
-aliases: ["Milton(2012)", Milton2012, Milton (2012), "On the Ontological Status of Autism: the 'Double Empathy Problem'", DEP原初論文, 雙向同理心問題原初論文]
-tags: [work, neurodiversity, autism, foundational, critique]
-sources: [2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf]
+aliases:
+  - Milton(2012)
+  - Milton2012
+  - Milton (2012)
+  - On the Ontological Status of Autism: the 'Double Empathy Problem'
+  - DEP原初論文
+  - 雙向同理心問題原初論文
+tags:
+  - work
+  - neurodiversity
+  - autism
+  - foundational
+  - critique
+sources:
+  - 2026-05-07/Double empathy problem_dual_Kimi+DeepSeek.pdf
 doi: 10.1080/09687599.2012.710008
 created: 2026-05-07
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. https://doi.org/10.1080/09687599.2012.710008"
 zh-hans: [[wiki/works/Milton2012]]
 needs-review: true
@@ -14,13 +26,16 @@ needs-review: true
 
 # Milton (2012) — 論孤獨譜系的本體論地位：雙向同理心問題
 
+> [!infobox] Milton (2012)
+> **作者**：Milton
+> **出版年份**：2012
+> **類型**：期刊論文（Current Issues 短論）
+> **機構**：Damian Milton（伯明翰大學）
+> **DOI**：[10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
+
 引用：Milton, D. E. M. (2012). On the ontological status of autism: The 'double empathy problem'. Disability & Society, 27(6), 883-887. [https://doi.org/10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
 
-
-**作者**：Damian E M Milton（伯明翰大學）
-**發表**：*Disability & Society* (2012), Vol. 27(6), pp. 883–887
-**類型**：Current Issues 短論
-**DOI**：[10.1080/09687599.2012.710008](https://doi.org/10.1080/09687599.2012.710008)
+Milton 首次在學術文獻中提出"雙向同理心問題"概念，批判心智理論缺陷說，將孤獨譜系的社交差異重新定義爲雙向的人際關係問題。
 
 ## 歷史地位
 
@@ -32,7 +47,7 @@ DEP 自提出以來已成爲神經多樣性研究的核心理論框架之一，�
 
 Milton 以**孤獨譜系內親歷者**身份寫作。本文采用身份優先語言（"autistic people"），引用 [[Sinclair1993|Sinclair (1993)]] 作爲命名慣例依據。
 
-## 核心論點
+## 主要論點
 
 ### 一、對認知-行爲範式的批判
 

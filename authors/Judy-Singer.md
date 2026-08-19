@@ -1,16 +1,30 @@
 ---
 title: Judy Singer
 description: Judy Singer 是澳大利亞社會學者，1998 年首次在學術語境中使用"神經多樣性"一詞，因 Botha 等（2024）的檔案發現其"術語創造者"地位已被學術修正爲"最早學術使用者之一"
-aliases: [Judy Singer, Singer]
-tags: [author, neurodiversity, autism, historical]
-sources: [2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md, 2026-07-12/Dekker2023-NeurodiversityOrigin.md, 2026-05-09/Neurodiversity studies mapping out possibilities of a new critical paradigm.pdf]
+aliases:
+  - Judy Singer
+  - Singer
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - historical
+sources:
+  - 2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md
+  - 2026-07-12/Dekker2023-NeurodiversityOrigin.md
+  - 2026-05-09/Neurodiversity studies  mapping out possibilities of a new critical paradigm.pdf
 created: 2026-05-07
-updated: 2026-07-12
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Judy-Singer]]
 needs-review: true
 ---
 
 # Judy Singer
+
+> [!infobox] Judy Singer
+> **職業**：社會學者
+> **主要領域**：神經多樣性概念的學術使用與傳播
+> **代表著作**：[[Singer2017]]
 
 Judy Singer 是澳大利亞社會學者，因其1998年撰寫的 Honours 論文 *Odd People In: The Birth of Community amongst people on the Autistic Spectrum* 和其中包含的"神經多樣性"（neurodiversity）一詞而知名。她長期以來被主流敘事（尤其是 [[Silberman2015|Steve Silberman 的 NeuroTribes]]）歸功爲該術語的創造者。
 

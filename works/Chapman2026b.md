@@ -1,11 +1,20 @@
 ---
 title: Chapman (2026b) — 階級政治與藍領神經殊異性
 description: Chapman 在 Neurodiversity and Capitalism Substack 發表的短文——論證神經多樣性政治並非中產階級專屬，從馬克思階級分析出發探討藍領勞動中的神經規範性動力
-aliases: ["Chapman(2026)", Class Politics and Blue-Collar Neurodivergence, 藍領神經多樣性, 階級與神經多樣性]
-tags: [work, neurodiversity, capitalism, political]
-sources: [2026-05-09/Class Politics and Blue-Collar Neurodivergence.md]
+aliases:
+  - Chapman(2026)
+  - Class Politics and Blue-Collar Neurodivergence
+  - 藍領神經多樣性
+  - 階級與神經多樣性
+tags:
+  - work
+  - neurodiversity
+  - capitalism
+  - political
+sources:
+  - 2026-05-09/Class Politics and Blue-Collar Neurodivergence.md
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 citation_apa: "Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. https://substack.com/@neurodiversityandcapitalism/p-196997868"
 zh-hans: [[wiki/works/Chapman2026b]]
 needs-review: true
@@ -13,13 +22,14 @@ needs-review: true
 
 # Chapman (2026b) — 階級政治與藍領神經殊異性
 
+> [!infobox] Chapman (2026)
+> **作者**：[[Robert-Chapman]]
+
 引用：Chapman, R. (2026, May 9). Class politics and blue-collar neurodivergence. Substack. [https://substack.com/@neurodiversityandcapitalism/p-196997868](https://substack.com/@neurodiversityandcapitalism/p-196997868)
 
-**作者**：[[Robert-Chapman]]（"Neurodiversity and Capitalism" Substack）
-**發佈**：2026-05-09
-**原文**：[Class Politics and Blue-Collar Neurodivergence](https://substack.com/@neurodiversityandcapitalism/p-196997868)
+Chapman (2026b) 論證神經多樣性政治並非中產階級專屬，從馬克思階級分析出發探討藍領勞動中的神經規範性動力——藍領神經殊異者同樣有資格獲得診斷和殘障權利。
 
-## 核心論點
+## 主要論點
 
 神經多樣性政治常被刻板化爲**中產階級運動**——辦公室白領、HR 部門、大學精英的專屬議題，與"真正的"工人階級生活無關。Chapman 承認這一圖景並非完全偶然（確實存在精英捕獲問題），但論證它**高度誤導**。
 

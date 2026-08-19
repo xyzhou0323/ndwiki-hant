@@ -1,18 +1,31 @@
 ---
 title: Dieuwertje Dyi Huijg
 description: Dieuwertje Dyi Huijg 是曼徹斯特大學社會學博士，主張以批判神經多樣性方法重新概念化能動性（agency），揭示主流社會學能動性理論中的神經規範性預設
-aliases: [Dieuwertje Dyi Huijg, Dyi Huijg]
-tags: [author, neurodiversity, sociology, critique]
-sources: ["2026-05-09/0051276.pdf"]
+aliases:
+  - Dieuwertje Dyi Huijg
+  - Dyi Huijg
+tags:
+  - author
+  - neurodiversity
+  - sociology
+  - critique
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Dieuwertje-Dyi-Huijg]]
 needs-review: true
 ---
 
 # Dieuwertje Dyi Huijg
 
-曼徹斯特大學社會學博士。博士論文探討"交叉性能動性"（intersectional agency）作爲多石機制（polylithic mechanism）的理論建構。當前研究聚焦交叉性、能動性、抵抗與健全中心主義/神經規範性。
+> [!infobox] Dieuwertje Dyi Huijg
+> **職業**：社會學研究者
+> **機構**：曼徹斯特大學（University of Manchester）
+> **主要領域**：交叉性理論、能動性、批判神經多樣性研究、健全中心主義與神經規範性
+> **代表著作**：[[RosqvistEtAl2020]]
+
+Dieuwertje Dyi Huijg 是曼徹斯特大學社會學博士，博士論文探討"交叉性能動性"（intersectional agency）作爲多石機制（polylithic mechanism）的理論建構。當前研究聚焦交叉性、能動性、抵抗與健全中心主義/神經規範性。
 
 ## 相關研究
 

@@ -1,16 +1,29 @@
 ---
 title: Mitzi Waltz
 description: Mitzi Waltz 是阿姆斯特丹自由大學全球健康研究員、荷蘭殘障研究高級研究員，以孤獨譜系社會史與醫學史研究著稱，揭示"正常兒童"範疇僅約 100 年的歷史建構
-aliases: [Mitzi Waltz]
-tags: [author, neurodiversity, autism, history, disability]
-sources: ["2026-05-09/0051276.pdf"]
+aliases:
+  - Mitzi Waltz
+tags:
+  - author
+  - neurodiversity
+  - autism
+  - history
+  - disability
+sources:
+  - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-12
 zh-hans: [[wiki/authors/Mitzi-Waltz]]
 needs-review: true
 ---
 
 # Mitzi Waltz
+
+> [!infobox] Mitzi Waltz
+> **職業**：全球健康研究員、殘障研究高級研究員
+> **機構**：阿姆斯特丹自由大學 Athena 研究所
+> **主要領域**：孤獨譜系社會史與醫學史
+> **代表著作**：[[RosqvistEtAl2020]]
 
 阿姆斯特丹自由大學 Athena 研究所全球健康研究員、荷蘭殘障研究（Disability Studies in Nederland）高級研究員。曾任謝菲爾德哈勒姆大學孤獨譜系研究高級講師、伯明翰大學孤獨譜系研究講師。
 
