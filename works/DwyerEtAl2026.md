@@ -16,7 +16,7 @@ tags:
 sources:
   - 2026-07-12/DwyerEtAl2026.md
 created: 2026-07-12
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: "Dwyer, P., Williams, Z. J., Lawson, W., & Rivera, S. M. (2026). A trans-diagnostic investigation of attention and diverse phenotypes of \"auditory hyperreactivity\" in autism, ADHD, and the general population. Journal of Attention Disorders, 30(1), 57–81. https://doi.org/10.1177/10870547251361226"
 doi: 10.1177/10870547251361226
 zh-hans: [[wiki/works/DwyerEtAl2026]]
@@ -100,9 +100,9 @@ MIST-A 厭聲障礙 T 分數與 CDS-M 分數在所有四組中均顯著正相關
 
 ## 理論關聯
 
-### 單一聚焦理論
+### 單焦點注意理論
 
-作者引用了 [[單一聚焦]]（[[Murray2005|Murray et al., 2005]]）的理論預測：對不愉快刺激的過度專注可能導致感覺困擾和聲音耐受下降；而感覺不適可反映刺激外源性地破壞專注的注意力隧道。
+作者引用了 [[單焦點注意]]（[[Murray2005|Murray et al., 2005]]）的理論預測：對不愉快刺激的過度專注可能導致感覺困擾和聲音耐受下降；而感覺不適可反映刺激外源性地破壞專注的注意力隧道。
 
 ### 惡性循環模型
 
@@ -130,7 +130,7 @@ MIST-A 厭聲障礙 T 分數與 CDS-M 分數在所有四組中均顯著正相關
 ## Related
 
 ### 相關概念
-- [[單一聚焦]] — 本研究引用的核心理論（Murray et al., 2005）
+- [[單焦點注意]] — 本研究引用的核心理論（Murray et al., 2005）
 - [[ADHD]] — 本研究的跨診斷對照羣體
 - [[神經多樣性範式]] — 本研究的理論框架基礎
 

@@ -16,7 +16,7 @@ sources:
   - 2026-05-14/raymaker-et-al-2020-having-all-of-your-internal-resources-exhausted-beyond-measure-and-being-left-with-no-clean-up-crew.pdf
 doi: 10.1089/aut.2019.0079
 created: 2026-05-14
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: 'Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). "Having all of your internal resources exhausted beyond measure and being left with no clean-up crew": Defining autistic burnout. Autism in Adulthood, 2(2), 132-143. https://doi.org/10.1089/aut.2019.0079'
 zh-hans: [[wiki/works/Raymaker2020]]
 needs-review: true
@@ -132,7 +132,7 @@ Raymaker 等以社羣參與式研究（CBPR）方法，基於 19 位孤獨譜系
 - [[孤獨譜系耗竭]] — Wiki 概念頁面
 - [[掩飾與僞裝]] — 耗竭的核心觸發因素
 - [[雙向同理心問題]] — 神經典型環境持續壓力源的理論基礎
-- [[單一聚焦]] — 同爲社羣原創理論概念
+- [[單焦點注意]] — 同爲社羣原創理論概念
 - [[殘障的社會模型]] — 環境改造而非個體正常化的理論依據
 
 ### 相關文獻

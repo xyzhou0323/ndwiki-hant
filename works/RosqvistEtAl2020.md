@@ -15,7 +15,7 @@ tags:
 sources:
   - 2026-05-09/0051276.pdf
 created: 2026-05-09
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: "Bertilsdotter Rosqvist, H., Chown, N., & Stenning, A. (Eds.). (2020). Neurodiversity studies: A new critical paradigm. Routledge."
 doi: 
 isbn: 978-0-367-33831-2
@@ -61,7 +61,7 @@ needs-review: true
 - Barnes 的價值中立模型：區分**局部福祉**（local wellbeing）與**全局福祉**（global wellbeing），殘障本身對全局福祉價值中立——可好可壞取決於與其他內外因素的組合
 - 實證支持：Renty & Roeyers（2006）——孤獨譜系福祉由支持水平而非"嚴重程度"預測；Luhrmann et al.（2014）——幻聽體驗由文化環境決定好壞；Palmer et al.（2014）——精神分裂症者幸福與樂觀等非分裂症特質相關；Skotko et al.（2011）——Down 綜合徵人羣幸福水平驚人地高
 
-**第 5 章 — [[Alan-Jurgens]]**：《神經典型世界中的神經多樣性：研究孤獨譜系與社會制度的生成框架》。將生成主義（enactivism）與[[單一聚焦]]（Murray et al. 2005）和[[雙向同理心問題]]（Milton 2012）整合，論證生成主義天然適合社會模型路徑，批判 De Jaegher 和 Krueger/Maiese 的生成主義工作仍受困於醫學模型。
+**第 5 章 — [[Alan-Jurgens]]**：《神經典型世界中的神經多樣性：研究孤獨譜系與社會制度的生成框架》。將生成主義（enactivism）與[[單焦點注意]]（Murray et al. 2005）和[[雙向同理心問題]]（Milton 2012）整合，論證生成主義天然適合社會模型路徑，批判 De Jaegher 和 Krueger/Maiese 的生成主義工作仍受困於醫學模型。
 
 ### 第三部分：跨神經類型溝通（Cross-Neurotype Communication）
 
@@ -101,7 +101,7 @@ needs-review: true
 
 ### 相關概念
 - [[神經多樣性研究]] — 編輯卷正式提出的學術領域
-- [[單一聚焦]] — 第 5 章整合的核心理論
+- [[單焦點注意]] — 第 5 章整合的核心理論
 - [[雙向同理心問題]] — 第 5 章整合的核心理論
 - [[殘障模型]] — 價值中立模型的系統引入
 - [[殘障的社會模型]] — Chapman 對社會模型的內部批判

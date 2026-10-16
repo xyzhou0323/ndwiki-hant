@@ -17,7 +17,7 @@ sources:
   - 2026-05-07/Dwyer - 2022 - 神經多樣性方法羣 - 腦腦空間.pdf
 doi: 10.1159/000523723
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: "Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development, 66(2), 73-92. https://doi.org/10.1159/000523723"
 zh-hans: [[wiki/works/Dwyer2022]]
 needs-review: true
@@ -170,7 +170,7 @@ Chapman (2021a) 提出醫學干預與政治干預之間應存在結合空間。�
 
 ### 融入神經多樣性理念
 
-- 社羣已發展出獨創理論框架：**單一聚焦**（Monotropism, Murray et al. 2005）、**孤獨譜系慣性**（Autistic Inertia, Buckle et al. 2021）、**孤獨譜系耗竭**（Autistic Burnout, Raymaker et al. 2020）、感官過載/崩潰/宕機、掩飾/僞裝
+- 社羣已發展出獨創理論框架：**單焦點注意**（Monotropism, Murray et al. 2005）、**孤獨譜系慣性**（Autistic Inertia, Buckle et al. 2021）、**孤獨譜系耗竭**（Autistic Burnout, Raymaker et al. 2020）、感官過載/崩潰/宕機、掩飾/僞裝
 - ADHD 領域：拒絕敏感性焦慮（RSD, Dodson 2006）——由臨牀工作者提出，但與 ADHD 成人體驗產生強烈共鳴
 - **警示**：也存在以剝削性/功利性方式挪用神經多樣性概念的風險——即[[庸俗版神經多樣性]]的早期預警
 

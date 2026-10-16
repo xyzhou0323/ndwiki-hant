@@ -16,7 +16,7 @@ citation_apa: "Aiston, J., Koteyko, N., & van Driel, M. (2025). Discourse-based 
 sources:
   - 2026-06-16/Aiston et al. - 2025 - Discourse-based approaches to autistic focussed interests.md
 created: 2026-06-16
-updated: 2026-08-12
+updated: 2026-10-12
 zh-hans: [[wiki/works/AistonEtAl2025]]
 needs-review: true
 ---
@@ -39,7 +39,7 @@ Aiston、Koteyko 與 van Driel (2025) 在 *Applied Linguistics* 發表立場論�
 
 ### 理論基礎
 
-- [[單一聚焦|單一聚焦（Monotropism）]]（[[Dinah-Murray|Murray]], 2018）：孤獨譜系的興趣爲本認知理論——注意力資源傾向於集中至少數通道，排他性地排除其他輸入
+- [[單焦點注意|單焦點注意（Monotropism）]]（[[Dinah-Murray|Murray]], 2018）：孤獨譜系的興趣爲本認知理論——注意力資源傾向於集中至少數通道，排他性地排除其他輸入
 - [[雙向同理心問題|雙向同理心問題（DEP）]]（[[Milton2012|Milton]], 2012）：溝通斷裂源於雙向誤解，而非孤獨譜系單方面的缺陷
 - 孤獨譜系社交性（autistic sociality）（Ochs & Solomon, 2010）：人類社交性包含多種社交協調的可能性，神經典型標準無法充分捕捉孤獨譜系社羣中的社交活動
 - 興趣爲本社交 vs 社交爲本社交（[[Hanna-Bertilsdotter-Rosqvist|Bertilsdotter Rosqvist]], 2019）：孤獨譜系空間偏好前者——互動以對話題的真正興趣爲基礎和驅動
@@ -65,7 +65,7 @@ Aiston、Koteyko 與 van Driel (2025) 在 *Applied Linguistics* 發表立場論�
 
 以交流調適理論（Communication Accommodation Theory, CAT）（Giles et al., 2023）爲框架：
 - 跨神經類型互動中預期存在**過度調適**和**調適不足**——非孤獨譜系者可能基於對孤獨譜系者的刻板印象進行調適，而非調適於互動者個體（Coupland et al., 1988）
-- 親和空間中以興趣爲本的互動**本身就是一項重要的調適策略**——當單一聚焦溝通風格成爲共享規範，非孤獨譜系互動者可能趨同於孤獨譜系溝通風格
+- 親和空間中以興趣爲本的互動**本身就是一項重要的調適策略**——當單焦點注意溝通風格成爲共享規範，非孤獨譜系互動者可能趨同於孤獨譜系溝通風格
 - 研究成果可應用於設計包容性在線環境的**實用資源**
 
 #### 3. 多模態表達（Multimodal Expression）
@@ -94,7 +94,7 @@ Aiston、Koteyko 與 van Driel (2025) 在 *Applied Linguistics* 發表立場論�
 
 ### 相關概念
 - [[信息大放送]] — 本論文系統定位的核心溝通實踐
-- [[單一聚焦]] — 論文的認知理論基礎：注意力隧道與興趣作爲組織原則
+- [[單焦點注意]] — 論文的認知理論基礎：注意力隧道與興趣作爲組織原則
 - [[雙向同理心問題]] — 論文所服務解決的核心問題
 - [[神經多樣性範式]] — 論文的理論框架立場
 - [[參與式行動研究]] — 論文的核心方法論要求

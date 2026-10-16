@@ -15,7 +15,7 @@ tags:
 sources:
   - 2026-05-21/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf
 created: 2026-05-21
-updated: 2026-08-12
+updated: 2026-10-12
 citation_apa: "Heasman, B., & Gillespie, A. (2019). Neurodivergent intersubjectivity: Distinctive features of how autistic people create shared understanding. Autism, 23(4), 910–921. https://doi.org/10.1177/1362361318785172"
 authors:
   - Brett-Heasman
@@ -136,7 +136,7 @@ Cohen's Kappa：連貫性 0.592、情感 0.786、對稱性 0.583（中等至高�
 
 ### 相關概念
 - [[雙向同理心問題]] — 本研究的核心理論框架：DEP 的直接實證證據
-- [[單一聚焦]] — 孤獨譜系認知風格：注意力隧道與共享焦點的可能關聯
+- [[單焦點注意]] — 孤獨譜系認知風格：注意力隧道與共享焦點的可能關聯
 - [[神經多樣性範式]] — 本研究拒絕以單一"正常"標準衡量社交行爲的範式基礎
 
 ### 相關文獻
